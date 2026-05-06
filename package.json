@@ -10,7 +10,6 @@
     "update:discord": "node scripts/update-from-discord.mjs"
   },
   "dependencies": {
-    "@next/mdx": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"

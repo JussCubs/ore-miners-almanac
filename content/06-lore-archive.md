@@ -1,6 +1,14 @@
-# 06. Lore Archive
+# Lore Archive
 
-The mining channel is not just strategy. It is also ORE history.
+The mining channel is not just strategy. It is also ORE history. Every community has its lore — the moments, decisions, and events that shaped its identity. This is the ORE mining community's story, told through the people who lived it.
+
+## The pre-V3 era
+
+Before V3 and the motherlode system redesign, mining ORE was a different world. The mechanics were simpler, the community smaller, and the lessons harder-won.
+
+Madhatt3r was there. Mining in the early days meant figuring things out as you went — no Strategy Library, no community wisdom posts, no Roberto to ask for advice. You mined, you learned, you adapted.
+
+The transition to V3 brought the motherlode system, which changed everything: suddenly there were massive prize pools that could reward (or frustrate) miners in ways the old system never did.
 
 ## The first motherlode story
 
@@ -10,11 +18,37 @@ The story includes a very human detail: he noticed the motherlode hit while putt
 
 That is the kind of story that disappears unless someone writes it down.
 
+## The price journey
+
+ORE has seen significant price movement:
+
+- Orillions started buying at ~$200 — conviction before consensus
+- Mining became popular around ~$150 — the community grew
+- Production cost awareness grew from Fronk's insistence on checking ore.fyi
+
+The relationship between ORE price and production cost became a defining metric for the community. Fronk's simple question — "is it cheaper to mine or buy?" — shaped how an entire generation of miners thinks about strategy.
+
+## The rise of community tools
+
+The ORE mining community didn't just mine — they built.
+
+Orillions turned mining data into analytics tools that the entire community uses. What started as personal tracking became community infrastructure.
+
+ore.fyi became the go-to reference for production cost data — a simple but essential tool that every veteran recommends to newcomers.
+
+refinORE emerged as the mining command center, with Roberto providing AI-assisted strategy management.
+
 ## Lost media problem
 
 Several people noticed that important discussions, links, and old wisdom get buried in chat. Kemosabe, Wiseman, David, Soohoo, Madhatt3r, Fronk, and other names came up as sources of lore worth preserving.
 
 This hub exists because mining culture needs memory.
+
+## The bot command movement
+
+As the mining channel grew, veterans noticed a problem: great advice kept getting buried in Discord scroll. The same questions appeared daily. The same wisdom had to be repeated.
+
+Diggy and Fronk proposed a solution: bot commands that preserve veteran advice in reusable form — !fronk, !thep, !zoo, !lowandslow. This idea — that wisdom should be preserved, not repeated — is the seed that grew into the ORE Miner's Almanac itself.
 
 ## The ORE narrative
 

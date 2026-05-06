@@ -27,6 +27,10 @@ export function getDocs(): Doc[] {
     });
 }
 
+export function getDoc(slug: string): Doc | undefined {
+  return getDocs().find((d) => d.slug === slug);
+}
+
 export function renderMarkdown(md: string) {
   const lines = md.split('\n');
   const html: string[] = [];

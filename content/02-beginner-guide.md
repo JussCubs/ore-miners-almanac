@@ -1,8 +1,21 @@
-# 02. Beginner Guide
+# Beginner Guide
 
 If you are new, keep it boring at first.
 
 The most repeated beginner advice is to start low and slow across the full board, learn how rounds feel, and avoid turning mining into an expensive tile bet before you understand the system.
+
+## First things first: safe defaults
+
+This is critical. Brian's feedback from the community resonates:
+
+> Safe default mining settings are essential because misconfigured miners can blow SOL in one round.
+
+Before you mine a single round:
+
+- Understand your settings — don't just click "start"
+- Set tile count to 25 (all blocks) — this is mining, not gambling
+- Know your SOL budget — calculate how much you're willing to spend per session
+- Check production cost — visit ore.fyi to see if mining is profitable at current prices
 
 ## Beginner rules of thumb
 
@@ -18,10 +31,44 @@ The most repeated beginner advice is to start low and slow across the full board
 
 All-tiles mining reduces tile-selection variance. You are participating in the mining mechanism instead of trying to guess the winning square.
 
-There is nothing wrong with riskier tile selection if you understand it. The problem is when beginners think fewer tiles means “less risk.” In practice, fewer tiles can mean more variance and a higher chance of walking away frustrated.
+There is nothing wrong with riskier tile selection if you understand it. The problem is when beginners think fewer tiles means "less risk." In practice, fewer tiles can mean more variance and a higher chance of walking away frustrated.
 
 ## Safe defaults matter
 
 Brian called out a real product problem: some miners misconfigure settings and can blow a full SOL in one round.
 
-That is why beginner UX should default to sane, low-risk settings and make users deliberately opt into degen mode.
+That is why beginner UX should default to sane, low-risk settings and make users deliberately opt into riskier modes.
+
+## Your first week
+
+- Read the Mining Ethos section — understand the philosophy
+- Set up your miner with 25 tiles
+- Start a small session — maybe 10-20 rounds
+- Watch your uORE accumulate
+- Don't claim — let yield do its work
+- Check ore.fyi for production cost context
+- Ask questions in the mining channel — the community is here to help
+
+## Key numbers to know
+
+- **Recommended tiles:** 25 (all blocks) — consistent mining
+- **uORE APR:** ~70-75% — yield for holding
+- **Claim fee:** 10% — the cost of impatience
+- **Break-even on claim fee:** ~1.5 months — APR offsets fee after this
+
+## Common beginner mistakes
+
+- Mining fewer than 25 tiles — you're gambling, not mining
+- Not checking production cost — you might be spending more SOL than the ORE is worth
+- Claiming too early — the 10% fee eats your gains; patience compounds them
+- No SOL budget — misconfigured miners can drain your wallet in one session
+- Chasing motherlodes — they're exciting but rare; focus on consistent stacking
+- Overdeploying SOL — start small, scale with confidence
+
+## Using refinORE (recommended)
+
+refinORE with Roberto gives you a command center approach:
+
+- Ask Roberto: "build me a low-and-slow 25 tile strategy"
+- Set it to pause when conditions get unfavorable
+- Let it manage sessions without constant babysitting

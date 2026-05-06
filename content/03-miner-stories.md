@@ -1,6 +1,8 @@
-# 03. Miner Stories
+# Miner Stories
 
 Thep asked miners to share first experiences, where they are now, and what made them keep going. These stories are the raw material of ORE culture.
+
+Every miner has a story. The ORE mining community isn't just a protocol — it's people who found their way, made their mistakes, and built their conviction over time.
 
 ## Fronk
 
@@ -8,19 +10,27 @@ Fronk frames mining as uORE accumulation, not immediate profitability. His style
 
 The important part is not the exact size. It is the discipline: mine when conditions make sense, avoid overdeployment, and collect uORE patiently.
 
+> Low and slow. 25 blocks. Check ore.fyi. If the math works, mine. If not, wait.
+
 ## Orillions
 
 Orillions started by buying ORE around $200, then began mining around $150. His first goal was 10 uORE. Then 50. Then 100. Then 150. Now he is approaching 200 uORE.
 
-He has never claimed. That became his “diamond hands” approach.
+He has never claimed. That became his "diamond hands" approach.
 
 He also built tools, a Telegram channel, a bot, and analytics for the community — a perfect example of mining conviction turning into ecosystem contribution.
+
+> From 10 uORE to nearly 200, never claimed, built the tools everyone uses.
 
 ## Madhatt3r
 
 Madhatt3r mined before the current V3 and motherlode system were fully formed. He won around 60 ORE from the first motherlode in ORE history, then claimed and staked early because the refining/staking dynamics were not yet obvious.
 
-His lesson became a piece of ORE lore: early claims can be missed convexity.
+His story includes a very human detail: he noticed the motherlode hit while putting his kid to bed, and the system broke because it had just shipped. Chad had to fix a bug later so everyone got their piece.
+
+His lesson became a piece of ORE lore: early claims can be missed convexity. ORE makes impatience mathematically expensive.
+
+> Won 60 ORE from the first motherlode, claimed early, and learned why the protocol rewards patience.
 
 ## Suckytrader
 
@@ -28,8 +38,18 @@ Suckytrader mined slowly, then more aggressively as conviction grew. His view: i
 
 He also highlighted multiple wallets as a practical tactic: if you need to claim from one wallet, others can keep accumulating yield.
 
+> uORE APR offsets the claim fee after ~1.5 months. Multiple wallets let you claim while preserving yield elsewhere.
+
 ## David
 
-David's ethos, as summarized in the channel, is long-term and almost monastic: mine over time, use 22–25 squares, do not obsess over one motherlode or one price move, and avoid claiming.
+David's ethos, as summarized in the channel, is long-term and almost monastic: mine over time, use 22-25 squares, do not obsess over one motherlode or one price move, and avoid claiming.
 
 The highest-conviction version of this view imagines borrowing against uORE someday instead of selling it.
+
+> Mine, don't claim, don't worry. Someday, borrow against your uORE instead of selling.
+
+## Brian — The Safety Advocate
+
+Brian's contribution to the community is foundational: the insistence on safe defaults. Too many new miners blow their SOL in a single round because of misconfigured settings. Brian pushed for safe default mining settings — because a miner who loses everything on day one never becomes a veteran.
+
+> Safe defaults aren't boring — they're the reason you'll still be here next month.
