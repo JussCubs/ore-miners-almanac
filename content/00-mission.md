@@ -17,4 +17,21 @@ Thep's emerging goal is simple and important: build a structured education and s
 
 ORE mining is not about winning every round. It is about building long-term exposure to uORE with patience, consistency, and information.
 
+> "Mining ORE isn't about winning every round. It's about building a position in the only asset you can't fully buy your way into: uORE. The edge is patience, consistency, and information." — Cubs
+
 The channel is becoming the social layer for that thesis. This Almanac is the organized version.
+
+## What you'll find
+
+- **Mining Ethos** — The philosophy behind long-term ORE mining
+- **Beginner Guide** — Everything a new miner needs to start safely
+- **Miner Stories** — Origin stories from Orillions, Madhatt3r, Fronk, David, and more
+- **Strategy Library** — Proven approaches from low-and-slow to aggressive stacking
+- **uORE & Yield** — Understanding patience as a yield strategy
+- **Lore Archive** — The history and legends of ORE mining
+- **Community Wisdom** — Quick-reference advice and bot-command-style snippets
+- **refinORE + Roberto** — Your AI-powered mining command center
+
+## The rule
+
+Content here is append-only by design. We never delete community wisdom — we organize it, structure it, and make it findable. New conversations get folded in. Old wisdom stays preserved.
