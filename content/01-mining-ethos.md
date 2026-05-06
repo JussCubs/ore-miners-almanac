@@ -55,3 +55,13 @@ New miners often arrive asking, "How do I win?"
 The better question is: "How do I build a position without getting shaken out by variance?"
 
 That shift — from winning rounds to managing a long-term strategy — is the entire game.
+
+---
+
+## FiL — Accessibility Over Adrenaline
+
+FiL's story adds an important beginner-friendly frame: ORE works because the core loop is simple enough for regular people to understand. After years of crypto and memecoin whiplash, he sees mining as a calmer discipline where patience matters more than emotional swings.
+
+> ORE is accessible to every single person in the world. With ORE you don't get the same euphoria-pain loop — patience matters.
+
+His ethos is not anti-risk; it is pro-control. Mine in a way that keeps you present, solvent, and able to continue. If a setup turns into compulsion, scale down until it becomes boring again.

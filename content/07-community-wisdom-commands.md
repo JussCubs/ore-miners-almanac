@@ -52,6 +52,14 @@ Links to the origin stories and early motherlode history so new miners understan
 
 > Mining ORE isn't about winning every round. It's about building a position in the only asset you can't fully buy your way into: uORE. The edge is patience, consistency, and information.
 
+### !fil
+
+Accessible mining thesis: ORE is simple enough for normal people to mine without recreating the memecoin euphoria/pain loop. Start tiny, keep control, check ore.fyi, avoid crowded post-motherlode conditions, and let patience replace adrenaline.
+
+### !diggy
+
+Practical miner checklist: mine if your timeline is months or years, check ore.fyi, use all 25 tiles to stack uORE/refined ORE, consider quieter post-motherlode windows, and remember motherlode chasing is 1/625 variance — fun, not a plan.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.

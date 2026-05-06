@@ -68,3 +68,20 @@ Best only for people who know they are gambling.
 - Ignore production cost — mining at a loss is not a strategy
 - Deploy all your SOL — keep reserves for gas and emergencies
 - Chase motherlodes — they're a bonus, not a strategy
+
+---
+
+## FiL Method — Tiny ladder into 19/25 blocks
+
+Best for miners who want to stay active with a limited SOL budget while avoiding emotional overdeployment.
+
+FiL's shared approach:
+
+- When low on SOL: use very small deploys across 19 blocks.
+- As deploy competition rises: consider nudging tiny deploy size upward rather than abandoning discipline.
+- With more SOL: use 25 blocks and size anywhere from conservative to more aggressive, depending on risk tolerance.
+- If chasing motherlode: recognize it as risky and step size down as SOL falls instead of doubling down emotionally.
+- If seeking solo ORE: consider waiting after a motherlode pops, when high-ballers may crowd early rounds.
+- Always check ore.fyi before deciding whether conditions justify mining.
+
+This is a budget-control strategy, not a promise of better odds. Its strength is keeping the miner alive long enough for patience to matter.

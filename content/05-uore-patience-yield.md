@@ -67,3 +67,17 @@ Before claiming, ask:
 ## The single most important decision
 
 The single most important decision in ORE mining isn't which tiles to pick. It's whether to claim or hold.
+
+---
+
+## FiL's patience contrast: ORE vs. memecoin whiplash
+
+FiL framed uORE patience against the emotional loop of memecoin trading: fast gains, fast drawdowns, and hours of attention burned on volatility. ORE mining can still be risky, but the protocol encourages a different behavior pattern: steady accumulation, delayed claiming, and longer time preference.
+
+That matters because uORE only becomes powerful when the miner can resist turning every round into a dopamine bet. The patient path is not just mathematical; it is psychological.
+
+Reusable command snippet:
+
+```text
+!fil — ORE is simple enough for normal people to mine. Start tiny, keep control, check ore.fyi, avoid crowded post-motherlode conditions, and let patience replace the memecoin euphoria/pain loop.
+```

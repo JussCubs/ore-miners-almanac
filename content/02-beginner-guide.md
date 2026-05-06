@@ -72,3 +72,19 @@ refinORE with Roberto gives you a command center approach:
 - Ask Roberto: "build me a low-and-slow 25 tile strategy"
 - Set it to pause when conditions get unfavorable
 - Let it manage sessions without constant babysitting
+
+---
+
+## FiL's beginner reminder: simple is the feature
+
+FiL's mining thesis is useful for new miners because it starts with accessibility. ORE is easier to reason about than old GPU mining setups or memecoin rotations: choose a strategy, size it sanely, watch production cost, and let patience work.
+
+Practical beginner takeaways from FiL:
+
+- If SOL is tight, start tiny instead of forcing a big session.
+- Scale deployment only after you understand how rounds behave.
+- Avoid mining immediately after a motherlode if competition looks crowded.
+- Watch ore.fyi so you know whether mining is expensive right now.
+- Weekend/evening quiet periods can sometimes feel less crowded, but treat this as an observation, not a guarantee.
+
+The deeper lesson: the best beginner strategy is the one you can repeat without panic.
