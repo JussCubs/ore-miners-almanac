@@ -7,3 +7,6 @@ node_modules
 
 # local Discord exports (never commit raw chat dumps)
 data/discord/*.json
+
+# local Discord updater state
+data/discord/.last-processed-id
