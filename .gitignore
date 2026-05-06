@@ -1,0 +1,9 @@
+node_modules
+.next
+.vercel
+.env*
+*.log
+.DS_Store
+
+# local Discord exports (never commit raw chat dumps)
+data/discord/*.json
