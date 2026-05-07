@@ -80,3 +80,15 @@ Captured 4 new messages from 2026-05-07T04:30:46Z through 2026-05-07T05:29:28Z.
 **Almanac follow-up idea:** add a future FAQ entry clarifying that tools can improve UX, defaults, monitoring, and discipline, but the miner still faces protocol variance. The strongest framing is not “tool = free edge”; it is “tool = fewer avoidable mistakes while you learn the game.”
 
 **Lore note:** the “Ore and Peas” wordplay from the FiL thread continued into “Black OREd Peas” banter. Keep this as color, not strategy.
+
+## 2026-05-07 Discord Update — searchability joke + Yorter lore
+
+Captured 2 new messages from 2026-05-07T08:41:37Z through 2026-05-07T09:07:12Z.
+
+**Most active voices:** willd // minemore.app (1), Cragglebear (1).
+
+**Sentiment read:** very light signal. This batch is mostly lore color rather than strategy: a Yorter-style joke callout and a pun about people searching for mining info under “org” instead of “ORE.”
+
+**Almanac use:** keep this as a reminder that Thep's hub should make ORE mining easy to find and easy to explain in plain language. Searchability matters: beginners may arrive through half-remembered terms, jokes, and Discord breadcrumbs, not polished protocol docs.
+
+**Lore note:** “Yorteresque” remains useful community shorthand for playful mining-channel chaos. Preserve it as color, not doctrine.
