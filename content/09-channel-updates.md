@@ -68,3 +68,15 @@ Captured 2 new messages from 2026-05-06T21:01:56Z through 2026-05-06T21:23:42Z.
 - **willd // minemore.app:** echoed the same feeling and linked his own X post: https://x.com/willdxyz/status/2051990767686619448?s=20
 
 **Curation note:** because these were link-only / short-link messages, do not over-summarize them until the post text is captured directly. Treat them as pointers for future storytelling, not standalone doctrine.
+
+## 2026-05-07 Discord Update — tooling-edge banter
+
+Captured 4 new messages from 2026-05-07T04:30:46Z through 2026-05-07T05:29:28Z.
+
+**Most active voices:** The ZoolandORE/$ORE/$Thep maxi (2), Yorter (1), CrpCurls (1).
+
+**Sentiment read:** light overnight banter, not a new doctrine thread. The useful education signal is that miners are still circling the question beginners will ask: do third-party mining tools create an “edge,” and how should that be explained without promising unfair advantage or guaranteed yield?
+
+**Almanac follow-up idea:** add a future FAQ entry clarifying that tools can improve UX, defaults, monitoring, and discipline, but the miner still faces protocol variance. The strongest framing is not “tool = free edge”; it is “tool = fewer avoidable mistakes while you learn the game.”
+
+**Lore note:** the “Ore and Peas” wordplay from the FiL thread continued into “Black OREd Peas” banter. Keep this as color, not strategy.
