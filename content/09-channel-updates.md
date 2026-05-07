@@ -53,3 +53,18 @@ Key ideas to preserve:
 ```
 
 **Storytelling note:** “Ore and Peas” landed as a good shorthand for the FiL thesis: ORE + peace. The almanac should keep leaning into that contrast — miners come for yield, but the strongest stories are about escaping frantic crypto behavior.
+
+## 2026-05-07 Discord Update — external lore breadcrumbs
+
+Captured 2 new messages from 2026-05-06T21:01:56Z through 2026-05-06T21:23:42Z.
+
+**Most active voices:** Cubs (1), willd // minemore.app (1).
+
+**Sentiment read:** quiet but aligned. Instead of adding a new strategy thread inside Discord, miners pointed outward to public X posts and used the channel as an index for shared conviction. This is useful for Thep's hub because the Almanac can preserve not only long-form Discord theses, but also the external lore that miners bring back into the mineshaft.
+
+**External breadcrumbs to revisit:**
+
+- **Cubs:** shared an X post for the Almanac/story archive: https://x.com/jusscubs/status/2052131563266023739?s=46
+- **willd // minemore.app:** echoed the same feeling and linked his own X post: https://x.com/willdxyz/status/2051990767686619448?s=20
+
+**Curation note:** because these were link-only / short-link messages, do not over-summarize them until the post text is captured directly. Treat them as pointers for future storytelling, not standalone doctrine.
