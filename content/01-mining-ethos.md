@@ -65,3 +65,11 @@ FiL's story adds an important beginner-friendly frame: ORE works because the cor
 > ORE is accessible to every single person in the world. With ORE you don't get the same euphoria-pain loop — patience matters.
 
 His ethos is not anti-risk; it is pro-control. Mine in a way that keeps you present, solvent, and able to continue. If a setup turns into compulsion, scale down until it becomes boring again.
+
+## Phone-First Access
+
+Suckytrader and Fronk added a simple but important accessibility point: a miner can learn and participate from a phone. Almost everyone has one; not everyone has a desktop or old-school mining hardware.
+
+That does not make mining risk-free, and it does not replace the need for safe settings, production-cost checks, and SOL budgeting. But it does change the story. ORE can be taught as a system ordinary people can touch directly, with the device already in their pocket, before they ever become power users.
+
+> The on-ramp matters. If ORE is understandable and mobile-accessible, it can reach people who were never going to run a GPU rig or chase insider rotations.

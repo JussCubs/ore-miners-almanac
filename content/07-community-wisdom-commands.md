@@ -60,6 +60,10 @@ Accessible mining thesis: ORE is simple enough for normal people to mine without
 
 Practical miner checklist: mine if your timeline is months or years, check ore.fyi, use all 25 tiles to stack uORE/refined ORE, consider quieter post-motherlode windows, and remember motherlode chasing is 1/625 variance — fun, not a plan.
 
+### !phone
+
+Mobile-accessible mining reminder: you do not need a desktop rig to start learning ORE. Many miners run from phones. Start tiny, use safe settings, check ore.fyi, respect variance, and treat the phone as an accessible on-ramp to patient uORE stacking.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.

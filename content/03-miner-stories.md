@@ -38,7 +38,9 @@ Suckytrader mined slowly, then more aggressively as conviction grew. His view: i
 
 He also highlighted multiple wallets as a practical tactic: if you need to claim from one wallet, others can keep accumulating yield.
 
-> uORE APR offsets the claim fee after ~1.5 months. Multiple wallets let you claim while preserving yield elsewhere.
+His later phone-mining comment sharpened the accessibility story: almost every ORE he has mined came from a phone. For him, that points beyond convenience. If normal hardware is enough to participate, ORE can reach miners in smaller economies and places where a desktop setup is unrealistic.
+
+> uORE APR offsets the claim fee after ~1.5 months. Multiple wallets let you claim while preserving yield elsewhere. And yes, you can learn the game from your phone.
 
 ## David
 

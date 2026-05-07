@@ -92,3 +92,32 @@ Captured 2 new messages from 2026-05-07T08:41:37Z through 2026-05-07T09:07:12Z.
 **Almanac use:** keep this as a reminder that Thep's hub should make ORE mining easy to find and easy to explain in plain language. Searchability matters: beginners may arrive through half-remembered terms, jokes, and Discord breadcrumbs, not polished protocol docs.
 
 **Lore note:** “Yorteresque” remains useful community shorthand for playful mining-channel chaos. Preserve it as color, not doctrine.
+
+## 2026-05-07 Discord Update — phone mining + global access
+
+Captured 8 new messages from 2026-05-07T14:48:01Z through 2026-05-07T16:01:19Z.
+
+**Most active voices:** suckytrader (5), turdsmcgee (1), Cragglebear (1), starship_fronk⛏️ (1).
+
+**Sentiment read:** high-conviction and mission-oriented. The useful signal was not a new tactic; it was a reminder that ORE mining can be explained as accessible infrastructure. Miners are not only asking “what is optimal?” — they are asking “who can participate?”
+
+**Notable miner story — phone-first mining:**
+
+Suckytrader said almost every ORE he has ever mined came from his phone. Fronk echoed that he does a ton of mining from his phone too. That matters for Thep's education hub: a beginner should not come away thinking ORE mining requires a desktop rig, GPU background, or professional setup before they can learn.
+
+**Almanac insight:** phone mining is part of the accessibility thesis. Nearly everyone has a phone; far fewer people have a dedicated desktop. For smaller economies or underbanked places, the ability to participate from ordinary hardware is not just convenience — it is the story of why ORE feels closer to early Bitcoin ideals than yet another insider game.
+
+**Useful framing for future education:**
+
+- Start with the device people already have.
+- Teach safe settings before advanced optimization.
+- Emphasize that accessibility does not remove variance, fees, or the need for SOL budgeting.
+- Position mobile mining as an onboarding path: learn, watch rounds, stack small uORE, then scale only if the miner understands the game.
+
+**Reusable bot-command snippet:**
+
+```text
+!phone — You do not need a desktop rig to understand ORE mining. Many miners run from their phones. Start tiny, use safe settings, check ore.fyi, respect variance, and treat mobile mining as an accessible on-ramp to stacking uORE patiently.
+```
+
+**Lore note:** the earlier “ORG” searchability joke continued as light channel color. Keep it as a reminder that beginner education should catch messy real-world search terms and Discord breadcrumbs, but the durable update here is mobile-first access.

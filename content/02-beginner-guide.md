@@ -65,6 +65,18 @@ That is why beginner UX should default to sane, low-risk settings and make users
 - Chasing motherlodes — they're exciting but rare; focus on consistent stacking
 - Overdeploying SOL — start small, scale with confidence
 
+## Can I mine from my phone?
+
+Yes — and that is part of the point. Several channel regulars mine heavily from phones, not desktop rigs. Mobile mining is a great beginner frame because it keeps the first lesson practical: start with the device you already understand, then learn the mining mechanics slowly.
+
+Phone-first does **not** mean careless:
+
+- Start tiny until you know how settings affect SOL spend.
+- Use safe defaults and all 25 tiles for accumulation-style mining.
+- Check ore.fyi before assuming a round is worth mining.
+- Do not treat mobile convenience as permission to impulse-tap into variance.
+- Scale only after you can explain your own strategy in plain language.
+
 ## Using refinORE (recommended)
 
 refinORE with Roberto gives you a command center approach:
