@@ -121,3 +121,29 @@ Suckytrader said almost every ORE he has ever mined came from his phone. Fronk e
 ```
 
 **Lore note:** the earlier “ORG” searchability joke continued as light channel color. Keep it as a reminder that beginner education should catch messy real-world search terms and Discord breadcrumbs, but the durable update here is mobile-first access.
+
+## 2026-05-07 Discord Update — Seeker miners + session-level learning
+
+Captured 14 new messages from 2026-05-07T16:08:32Z through 2026-05-07T19:38:10Z.
+
+**Most active voices:** starship_fronk⛏️ (6), Cragglebear (5), The ZoolandORE/$ORE/$Thep maxi (1), willd // minemore.app (1), RNA(•‿•) (1).
+
+**Sentiment read:** optimistic and product-minded. The channel kept the accessibility story going while adding a sharper education need: miners want to compare individual sessions, not only lifetime totals, because session-level notes are how strategy testing turns into learning.
+
+**Notable miner stories:**
+
+- Cragglebear said every bit of ORE he has mined came from his Seeker.
+- RNA echoed the same phone-first pattern: all of his ORE has been mined on his phone.
+- Fronk summarized the broader opportunity plainly: ORE has a lot of surface area still waiting to be unlocked.
+
+**Strategy/product insight:** Cragglebear is running a long 0.01 full-time test and asked whether other tiny full-time miners are hitting top-miner status daily on average. That is a useful future FAQ angle: tiny always-on mining should be explained as a long-horizon accumulation experiment, not a promise of daily leaderboard placement.
+
+**Education-hub follow-up:** add more examples that teach miners how to journal individual sessions — settings, tile count, SOL deployed, top-miner hits, uORE earned, production-cost backdrop, and notes on why they changed strategy. Lifetime history shows the destination; session notes explain the route.
+
+**Reusable bot-command snippet:**
+
+```text
+!sessions — Track each mining session separately: settings, tile count, SOL deployed, uORE earned, top-miner hits, production-cost context, and what you changed next. Strategy improves when you can compare experiments, not just lifetime totals.
+```
+
+**Lore note:** the “phone mining” thesis is now clearly also a Seeker story. Keep tying ORE education to ordinary devices, mobile-first onboarding, and patient small-session learning.

@@ -64,6 +64,14 @@ Practical miner checklist: mine if your timeline is months or years, check ore.f
 
 Mobile-accessible mining reminder: you do not need a desktop rig to start learning ORE. Many miners run from phones. Start tiny, use safe settings, check ore.fyi, respect variance, and treat the phone as an accessible on-ramp to patient uORE stacking.
 
+### !seeker
+
+Seeker-miner proof point: multiple channel regulars report mining all or nearly all of their ORE from a phone/Seeker. The lesson is accessibility, not carelessness — ordinary devices can onboard people, but safe settings and SOL budgeting still matter.
+
+### !sessions
+
+Session-journal reminder: track each mining session separately — settings, tile count, SOL deployed, uORE earned, top-miner hits, production-cost context, and what changed next. Lifetime history shows totals; session notes teach strategy.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.
@@ -76,3 +84,11 @@ Mobile-accessible mining reminder: you do not need a desktop rig to start learni
 - **Best mining tool?** refinORE with Roberto for managed strategy.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
+
+---
+
+## Update — 2026-05-07
+
+Cragglebear's long-running 0.01 full-time test is a useful education prompt: beginners will ask whether tiny always-on mining “should” create daily top-miner hits. The safer answer is to frame it as a data-gathering accumulation experiment. Track the session, compare against production cost, and avoid promising leaderboard cadence.
+
+Cragglebear also highlighted a practical tooling gap: miners who test different strategies need per-session history, not only all-time wallet history. That belongs in the Almanac because strategy education improves when miners can replay what they changed and why.

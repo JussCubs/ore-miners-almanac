@@ -44,6 +44,7 @@ That is why beginner UX should default to sane, low-risk settings and make users
 - Read the Mining Ethos section — understand the philosophy
 - Set up your miner with 25 tiles
 - Start a small session — maybe 10-20 rounds
+- Write down the session settings, SOL deployed, uORE earned, and what you would change next
 - Watch your uORE accumulate
 - Don't claim — let yield do its work
 - Check ore.fyi for production cost context
@@ -100,3 +101,18 @@ Practical beginner takeaways from FiL:
 - Weekend/evening quiet periods can sometimes feel less crowded, but treat this as an observation, not a guarantee.
 
 The deeper lesson: the best beginner strategy is the one you can repeat without panic.
+
+## Track sessions, not just totals
+
+A recurring miner request is better per-session visibility. Lifetime history is useful, but it can hide what a beginner actually needs to learn: what settings were used, what the round conditions looked like, how much SOL was deployed, whether the miner hit top-miner status, and why the strategy changed afterward.
+
+For your own notes, keep a tiny session journal:
+
+- Date/time and rough production-cost backdrop
+- Tile count and deploy size
+- Number of rounds planned vs. completed
+- uORE/refined ORE earned
+- Any top-miner hits or unusual variance
+- One sentence on what you learned
+
+Do not overfit one session. Use the notes to build intuition across many small experiments.

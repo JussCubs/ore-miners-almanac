@@ -40,6 +40,8 @@ He also highlighted multiple wallets as a practical tactic: if you need to claim
 
 His later phone-mining comment sharpened the accessibility story: almost every ORE he has mined came from a phone. For him, that points beyond convenience. If normal hardware is enough to participate, ORE can reach miners in smaller economies and places where a desktop setup is unrealistic.
 
+Cragglebear and RNA later reinforced the same pattern from different angles: Cragglebear said every bit of ORE he has mined came from his Seeker, and RNA said all of his ORE has been mined on his phone. The accessibility thesis is no longer one anecdote — it is recurring channel lore.
+
 > uORE APR offsets the claim fee after ~1.5 months. Multiple wallets let you claim while preserving yield elsewhere. And yes, you can learn the game from your phone.
 
 ## David
