@@ -165,3 +165,23 @@ Captured 1 new message from 2026-05-07T22:26:03Z.
 ```text
 !seeker — Yes, miners are stacking ORE from Seeker phones. Treat it as a mobile-first learning path: start small, watch settings and SOL spend, expect variance, protect battery/heat, and journal sessions so the story becomes strategy instead of luck.
 ```
+
+## 2026-05-08 Discord Update — mobile lineage + motherlode odds
+
+Captured 5 new messages from 2026-05-08T12:34:26.898000+00:00 through 2026-05-08T15:42:58.625000+00:00.
+
+**Most active voices:** MayorofSummit, Diggy, Rubstar, gary, and Suckytrader each added a small piece of reusable beginner context.
+
+**Themes detected:** phone-mining identity, Seeker/Saga lineage, and motherlode probability education.
+
+**Sentiment read:** light but useful. The channel is not only giving strategy; it is turning tiny comments into a shared onboarding language: Seeker miners, old Saga hands, and people asking the classic “wen motherlode?” question all belong in the same public memory.
+
+**Mobile-mining lore:** MayorofSummit called for “Seekers” to stand up, and Diggy answered with an “old tired Saga” hand. That is a good reminder for Thep's hub: mobile mining did not start as a one-device novelty. It has a lineage — Saga, Seeker, phone-first miners — that can make ORE feel approachable to beginners without pretending phone mining removes risk.
+
+**Motherlode explainer:** Rubstar asked when the motherlode drops, gary called it the question on everyone's mind, and Suckytrader gave the clean answer: each round has a **1/625** chance. It can hit early or take hundreds of rounds. That sentence should be reusable anywhere beginners are tempted to plan around the next hit.
+
+**Reusable bot-command snippet:**
+
+```text
+!motherlode — The motherlode has a 1/625 chance every round. It can hit at round 5 or round 1000; nobody knows. Treat it as exciting variance, not a schedule and not the core reason to mine.
+```

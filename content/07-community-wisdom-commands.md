@@ -72,6 +72,10 @@ Seeker-miner proof point: multiple channel regulars report mining all or nearly 
 
 Session-journal reminder: track each mining session separately — settings, tile count, SOL deployed, uORE earned, top-miner hits, production-cost context, and what changed next. Lifetime history shows totals; session notes teach strategy.
 
+### !motherlode
+
+Motherlode probability reminder: the hit chance is 1/625 every round. It can arrive immediately or take hundreds of rounds, so do not build a beginner strategy around predicting it. Mine for accumulation; let motherlode be upside variance.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.
@@ -80,7 +84,7 @@ Session-journal reminder: track each mining session separately — settings, til
 - **What's the claim fee?** 10%.
 - **Is mining profitable?** Check ore.fyi production cost vs. price.
 - **How much SOL do I need?** Start small, scale up as you learn.
-- **What's a motherlode?** A large prize pool. Exciting but not a strategy.
+- **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.
 - **Best mining tool?** refinORE with Roberto for managed strategy.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.

@@ -56,6 +56,7 @@ That is why beginner UX should default to sane, low-risk settings and make users
 - **uORE APR:** ~70-75% — yield for holding
 - **Claim fee:** 10% — the cost of impatience
 - **Break-even on claim fee:** ~1.5 months — APR offsets fee after this
+- **Motherlode chance:** 1/625 per round — random upside, not something you can schedule
 
 ## Common beginner mistakes
 
@@ -63,7 +64,7 @@ That is why beginner UX should default to sane, low-risk settings and make users
 - Not checking production cost — you might be spending more SOL than the ORE is worth
 - Claiming too early — the 10% fee eats your gains; patience compounds them
 - No SOL budget — misconfigured miners can drain your wallet in one session
-- Chasing motherlodes — they're exciting but rare; focus on consistent stacking
+- Chasing motherlodes — each round is 1/625, so focus on consistent stacking instead of predicting the next hit
 - Overdeploying SOL — start small, scale with confidence
 
 ## Can I mine from my phone?
