@@ -147,3 +147,21 @@ Captured 14 new messages from 2026-05-07T16:08:32Z through 2026-05-07T19:38:10Z.
 ```
 
 **Lore note:** the “phone mining” thesis is now clearly also a Seeker story. Keep tying ORE education to ordinary devices, mobile-first onboarding, and patient small-session learning.
+
+## 2026-05-08 Discord Update — another all-Seeker miner
+
+Captured 1 new message from 2026-05-07T22:26:03Z.
+
+**Most active voice:** BREADFAN777⛏️ (1).
+
+**Sentiment read:** quietly bullish on the mobile-mining story. The channel keeps producing first-person proof that Seeker is not just a wallet phone — for some miners, it is their entire ORE mining stack.
+
+**Notable miner story:** BREADFAN777⛏️ added another clean datapoint to the growing Seeker lore: “I’m 100% mined on Seeker.” Paired with the prior Cragglebear and RNA notes, this gives Thep a strong education angle: mobile mining is no longer a novelty sidebar; it is a real onboarding path with multiple miners reporting phone-only accumulation.
+
+**Education-hub follow-up:** when teaching Seeker mining, keep the framing honest and beginner-safe: phones make ORE mining approachable, but miners still need to understand settings, variance, SOL budgeting, heat/battery tradeoffs, and why tiny sessions should be judged over time rather than by one leaderboard hit.
+
+**Reusable bot-command snippet:**
+
+```text
+!seeker — Yes, miners are stacking ORE from Seeker phones. Treat it as a mobile-first learning path: start small, watch settings and SOL spend, expect variance, protect battery/heat, and journal sessions so the story becomes strategy instead of luck.
+```
