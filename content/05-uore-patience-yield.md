@@ -95,3 +95,23 @@ Reusable command snippet:
 ```text
 !fronk — Mining is for collecting uORE, not chasing instant profit. Run tiny across all 25 blocks, think in weeks, check ore.fyi production cost vs. ORE price, and pause when the math is bad.
 ```
+
+---
+
+## Cragglebear's 10,000-round uORE case study
+
+Cragglebear finished a 10,000-round, 24/7 full-grid mining test and framed the result exactly the way patient miners should: the headline is not one lucky round, but a long session that accumulated scarce uORE and stayed disciplined enough to analyze.
+
+Key numbers from the shared guide:
+
+- **10,057 rounds played** across a full 25-tile setup.
+- **0.01 SOL per round** deployment size, with no EV filter.
+- **20.40 uORE mined** across three sessions.
+- **10.5762 SOL net cost**, or about **$992** at $93.80/SOL.
+- **$48.63 cost per ORE**, about **47% below** the referenced spot price of $91.44.
+- **12 top-miner wins**, **13 motherlode hits**, and **6.592 ORE** from split rounds.
+- At the higher spot price, the position showed about **+$873** unrealized net profit; even at the starting ORE price of **$50.62**, it still showed roughly **+$40** positive.
+
+The most important teaching point is the flat-price comparison. Price appreciation made the chart look great, but the experiment still stayed slightly above breakeven even if ORE had not moved. That is the kind of evidence Thep's education hub should preserve: long-running, full-grid mining can be evaluated as a budgeted uORE accumulation program, not just a leaderboard lottery.
+
+Cragglebear's practical sizing advice was simple: treat `0.01 SOL/round` as an example, not a default. Adjust deploy size to your weekly SOL budget, then let the miner run long enough for the data to mean something.

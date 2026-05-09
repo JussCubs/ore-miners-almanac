@@ -76,6 +76,12 @@ Session-journal reminder: track each mining session separately — settings, til
 
 Motherlode probability reminder: the hit chance is 1/625 every round. It can arrive immediately or take hundreds of rounds, so do not build a beginner strategy around predicting it. Mine for accumulation; let motherlode be upside variance.
 
+### !10kminer
+
+Cragglebear's long-session sizing example: 25 tiles, 10,000+ rounds, 0.01 SOL/round, 20.40 uORE mined, and a $48.63 shown cost basis. The beginner lesson is budget first, deploy size second.
+
+> Do not copy 0.01 SOL/round blindly. Pick your weekly SOL budget, scale the miner to survive the full session, and judge the result by uORE accumulated and cost basis after many rounds.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.

@@ -99,3 +99,20 @@ A preserved Fronk command added a useful concrete example to the low-and-slow ar
 - Check ore.fyi before starting. If production cost is much higher than ORE's market price, waiting or buying may be cleaner than mining.
 
 This gives beginners a starter shape without pretending it is universal. The size is less important than the discipline: all tiles, small deployment, production-cost awareness, and enough patience for uORE yield to matter.
+
+---
+
+## Cragglebear 10,000-round budget test
+
+Best for miners who want to understand what a week-long, always-on full-grid session can cost before they copy someone else's settings.
+
+Cragglebear's guide used a concrete example: 25 tiles, `0.01 SOL/round`, roughly 10,000 rounds, and a long enough runtime to judge cost basis instead of vibes. The test mined **20.40 uORE** at a shown **$48.63 cost per ORE**, with the flat-price scenario still slightly above breakeven.
+
+The strategy lesson is not “everyone should deploy 0.01.” The lesson is that deploy size is a weekly-budget dial:
+
+- `0.001 SOL/round` over 10,000 rounds implies about **1 SOL** protocol-fee cost.
+- `0.005 SOL/round` implies about **5 SOL** fee cost.
+- `0.01 SOL/round` implies about **10.5 SOL** fee cost.
+- Bigger sizes scale linearly and should be treated as experienced-miner territory.
+
+Use this method when teaching budget control: choose the maximum weekly SOL cost first, then set deploy size. A small miner that survives 10,000 rounds teaches more than an oversized miner that runs out of SOL during a bad stretch.

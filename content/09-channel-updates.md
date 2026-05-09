@@ -205,3 +205,40 @@ Captured 1 new message from 2026-05-08T23:07:49Z.
 ```text
 !fronk — Mining is for collecting uORE, not chasing instant profit. Run tiny across all 25 blocks, think in weeks, check ore.fyi production cost vs. ORE price, and pause when the math is bad.
 ```
+
+## 2026-05-09 Discord Update — Cragglebear's 10,000-round 24/7 miner guide
+
+Captured 3 new messages from 2026-05-09T08:38:27.207000+00:00 through 2026-05-09T09:40:06.449000+00:00.
+
+**Most active voices:** Cragglebear shared the guide and cost-reference images; BREADFAN777 added appreciation, which is useful sentiment: the channel is hungry for practical long-session evidence.
+
+**Themes detected:** long-running full-grid mining, budgeted deploy sizing, uORE-first analysis, and flat-price profitability checks.
+
+**Sentiment read:** constructive and educational. This was not hype around a single win; it was a miner publishing a rough public guide after a 10,000-round always-on test so others can size their own sessions more safely.
+
+**Miner story worth preserving:** Cragglebear completed a **10,000+ round 24/7 miner** and described the result as a “huge win” because the session still looked slightly above breakeven even under a flat ORE price scenario. He explicitly framed uORE as something miners would value highly — “if someone offered you uORE at a 1/1 ratio of normal ORE,” miners would likely jump at it — which reinforces the recurring uORE scarcity lesson.
+
+**Numbers from the shared guide:**
+
+- Setup shown: **25 tiles**, **0.01 SOL per round**, random selection, no EV filter.
+- Rounds played: **10,057**.
+- Total uORE mined: **20.40** across three sessions.
+- Net SOL cost: **10.5762 SOL**, shown as about **$992** at $93.80/SOL.
+- Cost per ORE: **$48.63**, about **47% below** the referenced $91.44 spot price.
+- Reward mix: **12.000 ORE** from top-miner wins, **6.592 ORE** from split rounds, and **1.812 ORE** from motherlode allocation.
+- Flat-price check: at the starting ORE price of **$50.62**, the 20.40 ORE position still showed about **+$40** net instead of depending entirely on price appreciation.
+
+**Budgeting detail:** the cost-reference image gave a useful seven-day scale for 10,000 rounds at 25 tiles. Because protocol-fee cost scales linearly, a miner can resize the session rather than copying `0.01 SOL/round` blindly:
+
+- `0.001 SOL/round` ≈ **1.00 SOL** fee cost over 10,000 rounds.
+- `0.005 SOL/round` ≈ **5.00 SOL** fee cost.
+- `0.01 SOL/round` ≈ **10.50 SOL** fee cost, around **$985** at the referenced SOL price.
+- `0.10 SOL/round` ≈ **105 SOL** fee cost — not beginner territory.
+
+**Education-hub takeaway:** this is the cleanest way to teach always-on mining: pick the weekly budget first, scale deploy size second, run enough rounds that variance starts to smooth, and judge the result by uORE accumulated plus cost basis — not by whether one round felt good.
+
+**Reusable bot-command snippet:**
+
+```text
+!10kminer — Cragglebear's 10,000-round test used 25 tiles at 0.01 SOL/round and mined 20.40 uORE at a $48.63 cost basis. Do not copy the size blindly: choose your weekly SOL budget, scale deploy size down if needed, and let a long full-grid session produce real data.
+```
