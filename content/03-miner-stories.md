@@ -18,7 +18,7 @@ Orillions started by buying ORE around $200, then began mining around $150. His 
 
 He has never claimed. That became his "diamond hands" approach.
 
-He also built tools, a Telegram channel, a bot, and analytics for the community — a perfect example of mining conviction turning into ecosystem contribution.
+He also built tools, a Telegram channel, a bot, and analytics for the community — a perfect example of mining conviction turning into ecosystem contribution. When miners ask for motherlode-only alerts, Orillions' work is part of the answer: use the existing alert infrastructure and keep the signal focused.
 
 > From 10 uORE to nearly 200, never claimed, built the tools everyone uses.
 

@@ -242,3 +242,23 @@ Captured 3 new messages from 2026-05-09T08:38:27.207000+00:00 through 2026-05-09
 ```text
 !10kminer — Cragglebear's 10,000-round test used 25 tiles at 0.01 SOL/round and mined 20.40 uORE at a $48.63 cost basis. Do not copy the size blindly: choose your weekly SOL budget, scale deploy size down if needed, and let a long full-grid session produce real data.
 ```
+
+## 2026-05-09 Discord Update — motherlode alert tooling
+
+Captured 8 new messages from 2026-05-09T13:44:59.164000+00:00 through 2026-05-09T15:15:34.964000+00:00.
+
+**Most active voices:** TMERC, Fronk, Orillions, Madhatt3r, and Willd.
+
+**Themes detected:** motherlode alert subscriptions, community-built tooling, and preserving useful links so miners do not have to rebuild the same infrastructure.
+
+**Sentiment read:** practical and builder-friendly. TMERC asked whether a dedicated motherlode-hit alert channel already exists or whether he should build one. Instead of letting the question disappear into scroll, Madhatt3r, Fronk, and Orillions pointed back to existing community alert infrastructure.
+
+**Tooling detail worth preserving:** the community already has an alert channel for mining events, and Orillions noted that his bot can notify just motherlode hits if the miner does not add balance-command noise. That is a small but important onboarding lesson: before building another notifier, ask what the community already maintains, then subscribe narrowly enough that the alerts stay useful.
+
+**Education-hub takeaway:** motherlode alerts are helpful for awareness and lore, but they should not become a gambling trigger. Pair alerts with the same Almanac rule used everywhere else: mine for accumulation, treat motherlode as variance, and use notifications to learn the rhythm of the protocol rather than to chase every spike.
+
+**Reusable bot-command snippet:**
+
+```text
+!mlalerts — Want motherlode notifications? Check the community alert channel and Orillions' bot before rebuilding your own. Subscribe narrowly to ML hits if you want signal without balance-command noise, but treat alerts as awareness — not a reason to abandon your mining plan.
+```

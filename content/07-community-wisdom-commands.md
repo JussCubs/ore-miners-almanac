@@ -82,6 +82,12 @@ Cragglebear's long-session sizing example: 25 tiles, 10,000+ rounds, 0.01 SOL/ro
 
 > Do not copy 0.01 SOL/round blindly. Pick your weekly SOL budget, scale the miner to survive the full session, and judge the result by uORE accumulated and cost basis after many rounds.
 
+### !mlalerts
+
+Motherlode alert tooling reminder: use the community alert channel and Orillions' bot before rebuilding another notifier. Subscribe narrowly to motherlode hits if you want clean signal, but do not let alerts turn into impulse mining.
+
+> Alerts are awareness, not strategy. Mine according to your budget and accumulation plan; let motherlode notifications teach protocol rhythm without making you chase variance.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.
@@ -91,6 +97,7 @@ Cragglebear's long-session sizing example: 25 tiles, 10,000+ rounds, 0.01 SOL/ro
 - **Is mining profitable?** Check ore.fyi production cost vs. price.
 - **How much SOL do I need?** Start small, scale up as you learn.
 - **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.
+- **How do I get ML alerts?** Use the community alert channel / Orillions' bot, and keep the subscription focused so it stays useful.
 - **Best mining tool?** refinORE with Roberto for managed strategy.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
