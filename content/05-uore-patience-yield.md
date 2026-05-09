@@ -81,3 +81,17 @@ Reusable command snippet:
 ```text
 !fil — ORE is simple enough for normal people to mine. Start tiny, keep control, check ore.fyi, avoid crowded post-motherlode conditions, and let patience replace the memecoin euphoria/pain loop.
 ```
+
+---
+
+## Fronk's uORE-first framing
+
+A Carl-bot command repost sharpened the uORE lesson: the point of mining is not instant round-level profitability. The point is to collect uORE, which can only be earned through mining and currently carries roughly 70-75% APR.
+
+That frame helps explain why patient miners keep accepting small, boring sessions. A miner may spend SOL across all 25 blocks and still see short-term friction from board conditions, deployment competition, and claim economics. The long-term thesis is that steady uORE accumulation plus yield can matter more than the emotional result of a single board.
+
+Reusable command snippet:
+
+```text
+!fronk — Mining is for collecting uORE, not chasing instant profit. Run tiny across all 25 blocks, think in weeks, check ore.fyi production cost vs. ORE price, and pause when the math is bad.
+```

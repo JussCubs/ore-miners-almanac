@@ -85,3 +85,17 @@ FiL's shared approach:
 - Always check ore.fyi before deciding whether conditions justify mining.
 
 This is a budget-control strategy, not a promise of better odds. Its strength is keeping the miner alive long enough for patience to matter.
+
+---
+
+## Fronk command version — 0.00015 x 25
+
+A preserved Fronk command added a useful concrete example to the low-and-slow archetype:
+
+- Run all 25 blocks.
+- Keep size tiny — Fronk's example was about `0.00015 SOL x 25`.
+- Let the miner run across many rounds instead of judging one board.
+- Treat fewer-block play as advantage-seeking variance, not conservative mining.
+- Check ore.fyi before starting. If production cost is much higher than ORE's market price, waiting or buying may be cleaner than mining.
+
+This gives beginners a starter shape without pretending it is universal. The size is less important than the discipline: all tiles, small deployment, production-cost awareness, and enough patience for uORE yield to matter.

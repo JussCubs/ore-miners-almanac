@@ -73,3 +73,15 @@ Suckytrader and Fronk added a simple but important accessibility point: a miner 
 That does not make mining risk-free, and it does not replace the need for safe settings, production-cost checks, and SOL budgeting. But it does change the story. ORE can be taught as a system ordinary people can touch directly, with the device already in their pocket, before they ever become power users.
 
 > The on-ramp matters. If ORE is understandable and mobile-accessible, it can reach people who were never going to run a GPU rig or chase insider rotations.
+
+---
+
+## Fronk's mining ethos, preserved as a command
+
+A Carl-bot repost preserved Fronk's cleanest version of the low-and-slow thesis: mining is not supposed to feel immediately profitable every round. The purpose is to collect uORE, the mining-only asset that earns roughly 70-75% APR at current rates, and to do it with enough discipline that variance does not knock the miner out of the game.
+
+The important teaching distinction is emotional: a full 25-block run can still show a SOL loss in the short term, especially after claim mechanics and changing board deployment levels. That does not make the strategy broken. It means the miner has to judge the strategy across weeks of uORE accumulation, not one round of PnL.
+
+Fronk's practical version stays simple: tiny 25-block miners, often around 0.00015 SOL per block, left to run slowly while checking ore.fyi before mining. If production cost is far above the ORE market price, the disciplined move may be to pause and buy instead.
+
+> Mine tiny, mine all 25, check production cost, and let uORE accumulation be the product.

@@ -8,9 +8,9 @@ This is the MonkeDAO-style pattern: preserve answers, make them easy to summon, 
 
 ### !fronk
 
-Low-and-slow mining ethos. Mine tiny across 25 blocks, collect uORE, check production cost on ore.fyi, and do not expect immediate profitability.
+Low-and-slow mining ethos. Mine tiny across all 25 blocks, collect uORE, check production cost on ore.fyi, and do not expect immediate round-level profitability.
 
-> I'm a tiny, low-and-slow 25-block miner. I check ore.fyi to compare production cost vs. ORE price. If the math doesn't work, I don't mine. Simple as that. No emotions, just math.
+> Mining is for collecting uORE, not chasing instant profit. Run tiny across all 25 blocks, think in weeks, check ore.fyi production cost vs. ORE price, and pause when the math is bad.
 
 ### !lowandslow
 

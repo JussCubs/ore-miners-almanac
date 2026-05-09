@@ -185,3 +185,23 @@ Captured 5 new messages from 2026-05-08T12:34:26.898000+00:00 through 2026-05-08
 ```text
 !motherlode — The motherlode has a 1/625 chance every round. It can hit at round 5 or round 1000; nobody knows. Treat it as exciting variance, not a schedule and not the core reason to mine.
 ```
+
+## 2026-05-09 Discord Update — Fronk's low-and-slow ethos command
+
+Captured 1 new message from 2026-05-08T23:07:49Z.
+
+**Most active voice:** Carl-bot (1), preserving Fronk's mining ethos as reusable channel lore.
+
+**Themes detected:** uORE-first mining, low-and-slow 25-block strategy, fewer-block variance, and production-cost discipline via ore.fyi.
+
+**Sentiment read:** practical and grounded. The channel is turning veteran advice into repeatable onboarding language: mine for uORE accumulation, not instant emotional payoff; keep size boring; use data before deploying SOL.
+
+**Education-hub takeaway:** Fronk's best teaching frame is that real miners evaluate weeks of uORE accumulation, not one board. Full 25-block mining can still feel costly in the short term, but the point is to collect mining-only uORE while yield compounds. Fewer-block plays may be valid for advantage players, but they should be taught as higher-variance gambling rather than beginner-safe mining.
+
+**Strategy detail worth preserving:** Fronk's example tiny miner is roughly `0.00015 SOL x 25 blocks`, run patiently over many rounds. Before mining, compare production cost on ore.fyi against ORE's market price. If production cost is around $150 while ORE trades near $80, the disciplined move may be to pause mining and buy instead.
+
+**Reusable bot-command snippet:**
+
+```text
+!fronk — Mining is for collecting uORE, not chasing instant profit. Run tiny across all 25 blocks, think in weeks, check ore.fyi production cost vs. ORE price, and pause when the math is bad.
+```
