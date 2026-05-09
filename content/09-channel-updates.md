@@ -262,3 +262,23 @@ Captured 8 new messages from 2026-05-09T13:44:59.164000+00:00 through 2026-05-09
 ```text
 !mlalerts — Want motherlode notifications? Check the community alert channel and Orillions' bot before rebuilding your own. Subscribe narrowly to ML hits if you want signal without balance-command noise, but treat alerts as awareness — not a reason to abandon your mining plan.
 ```
+
+## 2026-05-09 Discord Update — cost breakdown onboarding
+
+Captured 6 new messages from 2026-05-09T18:53:04.504000+00:00 through 2026-05-09T18:57:37.985000+00:00.
+
+**Most active voice:** The ZoolandORE/$ORE/$Thep maxi.
+
+**Themes detected:** beginner dashboard literacy, cost-basis education, session budgeting, and basic scam awareness.
+
+**Sentiment read:** curious and honest. A newer miner was trying to understand profile-style miner data and asked whether SOL/USD cost breakdowns represent mining spend, protocol fees, or fees paid to a tool builder. That confusion is valuable: it shows where the education hub needs plain-language labels before strategy advice can land.
+
+**Education-hub takeaway:** cost panels should be explained as strategy math. SOL cost is the estimated mining/protocol spend for the session shape; USD is that same estimate converted at a reference SOL price; cost basis is what the mined ORE effectively cost. The next beginner step is not “copy the size,” but “resize the session until the total SOL risk is understandable.”
+
+**Scam-safety note:** the same mini-thread included a joke about smarter scam bots. Keep reminding miners that dashboards, bots, and DMs should never ask for seed phrases or private keys. Strategy tools can explain costs; they should not need wallet secrets.
+
+**Reusable bot-command snippet:**
+
+```text
+!costs — Cost panels are strategy math, not a surprise bill. SOL is the mining/protocol spend estimated for the session; USD is that SOL converted at the reference price; cost basis is what your mined ORE effectively cost you. Compare cost basis with ORE market price and scale the miner down until the total session budget feels safe.
+```

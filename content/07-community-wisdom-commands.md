@@ -88,6 +88,12 @@ Motherlode alert tooling reminder: use the community alert channel and Orillions
 
 > Alerts are awareness, not strategy. Mine according to your budget and accumulation plan; let motherlode notifications teach protocol rhythm without making you chase variance.
 
+### !costs
+
+Beginner cost-breakdown explainer: a miner profile/cost panel is not a bill from a community tool. It is an estimate of mining input cost and cost basis so a miner can compare SOL spent, USD value, uORE/refined ORE earned, and market price.
+
+> Read cost breakdowns as strategy math, not mystery fees. SOL cost is the mining/protocol spend for the session; USD is that SOL translated at the reference price; cost basis is what your mined ORE effectively cost you. Compare it to ORE market price before scaling up.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.
@@ -95,6 +101,7 @@ Motherlode alert tooling reminder: use the community alert channel and Orillions
 - **What's the APR?** ~70-75% on uORE.
 - **What's the claim fee?** 10%.
 - **Is mining profitable?** Check ore.fyi production cost vs. price.
+- **What does the cost breakdown mean?** SOL is the mining spend estimate, USD is the same cost translated into dollars, and cost basis tells you what your mined ORE effectively cost.
 - **How much SOL do I need?** Start small, scale up as you learn.
 - **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.
 - **How do I get ML alerts?** Use the community alert channel / Orillions' bot, and keep the subscription focused so it stays useful.
@@ -109,3 +116,15 @@ Motherlode alert tooling reminder: use the community alert channel and Orillions
 Cragglebear's long-running 0.01 full-time test is a useful education prompt: beginners will ask whether tiny always-on mining “should” create daily top-miner hits. The safer answer is to frame it as a data-gathering accumulation experiment. Track the session, compare against production cost, and avoid promising leaderboard cadence.
 
 Cragglebear also highlighted a practical tooling gap: miners who test different strategies need per-session history, not only all-time wallet history. That belongs in the Almanac because strategy education improves when miners can replay what they changed and why.
+
+---
+
+## Update — 2026-05-09
+
+A new miner's cost-breakdown confusion is worth turning into a command because it is exactly where onboarding can fail: the miner sees SOL, USD, cost basis, and profile-style data, then worries it might be an unexplained fee or a payment to the tool builder.
+
+Reusable response:
+
+```text
+!costs — Cost panels are strategy math, not a surprise bill. SOL is the mining/protocol spend estimated for the session; USD is that SOL converted at the reference price; cost basis is what your mined ORE effectively cost you. Compare cost basis with ORE market price and scale the miner down until the total session budget feels safe.
+```

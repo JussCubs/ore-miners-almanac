@@ -79,6 +79,17 @@ Phone-first does **not** mean careless:
 - Do not treat mobile convenience as permission to impulse-tap into variance.
 - Scale only after you can explain your own strategy in plain language.
 
+## Reading cost breakdowns
+
+New miners often get stuck when a dashboard shows a miner profile, SOL cost, USD cost, and cost basis together. Treat that panel as a strategy calculator, not a separate invoice.
+
+- **SOL cost** is the estimated SOL consumed by mining/protocol activity for the session shape.
+- **USD cost** is the same SOL estimate translated into dollars at the reference SOL price.
+- **Cost basis** is the effective price you paid for the ORE/uORE you mined.
+- **Tool fees vs. protocol spend:** unless a tool explicitly says otherwise, do not assume the cost panel is money paid to a dashboard builder. It is usually showing the mining economics you need to compare against ORE's market price.
+
+If the numbers feel confusing, shrink the session until you can explain it in one sentence: “I am risking about X SOL over Y rounds to try to accumulate Z uORE.” If you cannot say that yet, keep learning before scaling.
+
 ## Using refinORE (recommended)
 
 refinORE with Roberto gives you a command center approach:
