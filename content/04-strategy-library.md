@@ -132,3 +132,19 @@ That clarification matters for teaching: treat the screenshots as a community ca
 - then resize the miner before repeating the experiment.
 
 Cragglebear also said he plans to write a longer article on the run. When that lands, fold the article back into this case study without replacing the original channel context.
+
+---
+
+## First-run tiny-budget experiments
+
+OGLilsBTC's first-run report is a useful companion to the low-and-slow strategy because it shows the emotional value of starting small. With only about **$10** available, he kept the session survivable, learned the auto-miner flow, and later reported breaking even in SOL.
+
+Use this as an onboarding story, not as a new default strategy. If the goal is patient accumulation, the Almanac still teaches 25 tiles to reduce selection variance. The reusable strategy lesson is:
+
+- start with a tiny budget while learning the interface;
+- do not resize impulsively mid-confusion;
+- finish or stop the session safely before changing settings;
+- compare the result in SOL and uORE terms;
+- scale only after the miner can explain what happened.
+
+A small first run that teaches the miner how to operate the tool is a win even before it becomes a profit story.

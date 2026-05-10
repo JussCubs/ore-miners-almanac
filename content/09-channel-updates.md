@@ -302,3 +302,23 @@ Captured 3 new messages from 2026-05-09T22:49:24.267000+00:00 through 2026-05-09
 ```
 
 **Follow-up watch:** Cragglebear said he plans to write a longer article this week. When it appears, fold the article into the existing 10,000-round case study instead of replacing the original Discord context.
+
+## 2026-05-10 Discord Update — first-run budget mining and settings changes
+
+Captured 13 new messages from 2026-05-10T00:09:09.006000+00:00 through 2026-05-10T03:41:18.985000+00:00.
+
+**Most active voices:** OGLilsBTC, Fronk, Orillions, and Thep.
+
+**Themes detected:** first-run troubleshooting, auto-miner settings, low-budget experimentation, and the emotional win of breaking even on a small starter session.
+
+**Sentiment read:** supportive and practical. A newer miner was trying to understand why block selection appeared stuck while setting up the auto miner. Fronk asked for a screenshot and clarified that block selection cannot be changed while auto-mining is already running. Orillions added the operational rule: if the strategy needs changing from the main site, stop the run and restart with the updated settings.
+
+**Education-hub takeaway:** make “change settings before the run” explicit for beginners. Auto-mining is not a live slider; a miner should pause/stop, confirm the new tile/block setup, then restart. This is especially important on mobile, where a UI hiccup can look like a strategy bug. Do not panic-size up because a setting seems stuck — finish safely, ask for a screenshot if needed, then restart clean.
+
+**Miner story worth preserving:** OGLilsBTC ran a first tiny session with about **$10** available, described it as “balling out low and slow,” later reported breaking even in SOL, and was happy with the first run. The lesson is not that 7 blocks is the recommended beginner strategy — the standing education still points beginners toward 25 tiles for lower variance. The lesson is that small, survivable experiments help new miners learn the interface without turning the first session into an expensive mistake.
+
+**Reusable bot-command snippet:**
+
+```text
+!changeblocks — If auto-mining is already running, do not expect block/tile selection to update live. Stop or pause the run, change the strategy, confirm the new block setup, then restart. On mobile, refresh or screenshot the settings before assuming it is broken. Start tiny while learning.
+```

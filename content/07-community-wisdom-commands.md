@@ -100,6 +100,12 @@ Beginner cost-breakdown explainer: a miner profile/cost panel is not a bill from
 
 > Read cost breakdowns as strategy math, not mystery fees. SOL cost is the mining/protocol spend for the session; USD is that SOL translated at the reference price; cost basis is what your mined ORE effectively cost you. Compare it to ORE market price before scaling up.
 
+### !changeblocks
+
+Auto-miner settings explainer: block/tile selection may not update live while a run is active. Stop or pause, change the strategy, confirm the new block setup, then restart.
+
+> If auto-mining is already running, do not expect block/tile selection to update live. Stop or pause the run, change the strategy, confirm the new block setup, then restart. On mobile, refresh or screenshot the settings before assuming it is broken. Start tiny while learning.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.
@@ -108,6 +114,7 @@ Beginner cost-breakdown explainer: a miner profile/cost panel is not a bill from
 - **What's the claim fee?** 10%.
 - **Is mining profitable?** Check ore.fyi production cost vs. price.
 - **What does the cost breakdown mean?** SOL is the mining spend estimate, USD is the same cost translated into dollars, and cost basis tells you what your mined ORE effectively cost.
+- **Why can't I change blocks?** If auto-mining is running, stop/pause first, update settings, confirm, then restart. On mobile, refresh or screenshot before assuming the UI is broken.
 - **Was Cragglebear's 10k sheet a tool?** No — it was manually logged session data shared as an education example.
 - **How much SOL do I need?** Start small, scale up as you learn.
 - **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.

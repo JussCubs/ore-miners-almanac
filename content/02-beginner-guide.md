@@ -79,6 +79,21 @@ Phone-first does **not** mean careless:
 - Do not treat mobile convenience as permission to impulse-tap into variance.
 - Scale only after you can explain your own strategy in plain language.
 
+## Changing auto-miner settings
+
+Do not treat auto-miner settings like live sliders. If a run is already active, block/tile selection may not update until you stop or pause, change the strategy, confirm the new setup, and restart clean.
+
+A good beginner troubleshooting loop:
+
+- Start tiny while learning so a UI mistake is not expensive.
+- If block selection looks stuck, do not panic-click bigger settings.
+- Check whether the miner is already running.
+- Stop or pause before changing strategy.
+- On mobile, refresh and screenshot the settings if you need community help.
+- Restart only after you can explain the new tile/block setup.
+
+A small first run that breaks even or simply teaches you the interface is a success. The goal is to build operating confidence before scaling.
+
 ## Reading cost breakdowns
 
 New miners often get stuck when a dashboard shows a miner profile, SOL cost, USD cost, and cost basis together. Treat that panel as a strategy calculator, not a separate invoice.
