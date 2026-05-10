@@ -282,3 +282,23 @@ Captured 6 new messages from 2026-05-09T18:53:04.504000+00:00 through 2026-05-09
 ```text
 !costs — Cost panels are strategy math, not a surprise bill. SOL is the mining/protocol spend estimated for the session; USD is that SOL converted at the reference price; cost basis is what your mined ORE effectively cost you. Compare cost basis with ORE market price and scale the miner down until the total session budget feels safe.
 ```
+
+## 2026-05-10 Discord Update — logged 10,000-round data, not a tool
+
+Captured 3 new messages from 2026-05-09T22:49:24.267000+00:00 through 2026-05-09T22:51:34.835000+00:00.
+
+**Most active voice:** Cragglebear.
+
+**Themes detected:** community-run data logging, 10,000-round cost education, full-grid weekly budgeting, and turning screenshots into a future article.
+
+**Sentiment read:** practical and clarifying. Cragglebear emphasized that his 10,000-round cost breakdown was not a third-party tool; it was his own logged mining-session data shared so other miners would not have to guess what a week of full-grid mining can cost.
+
+**Education-hub takeaway:** preserve the distinction between *data* and *tooling*. A miner screenshot can teach strategy without becoming a promise, calculator, or product recommendation. In this case, the useful lesson is that 10,000 rounds is roughly seven days of 24/7 mining, and `0.01 SOL/round` over 25 tiles is an example size that should be scaled to the miner's budget before copying.
+
+**Reusable bot-command snippet:**
+
+```text
+!10kdata — Cragglebear's 10,000-round screenshots are logged session data, not a third-party tool. Use them as a budgeting example: 10,000 rounds is about 7 days of 24/7 mining, SOL cost is the session spend, USD is the reference conversion, and deploy size should be scaled before you copy the run.
+```
+
+**Follow-up watch:** Cragglebear said he plans to write a longer article this week. When it appears, fold the article into the existing 10,000-round case study instead of replacing the original Discord context.

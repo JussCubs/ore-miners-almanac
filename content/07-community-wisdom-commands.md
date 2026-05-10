@@ -82,6 +82,12 @@ Cragglebear's long-session sizing example: 25 tiles, 10,000+ rounds, 0.01 SOL/ro
 
 > Do not copy 0.01 SOL/round blindly. Pick your weekly SOL budget, scale the miner to survive the full session, and judge the result by uORE accumulated and cost basis after many rounds.
 
+### !10kdata
+
+Clarifies that Cragglebear's 10,000-round screenshots were logged session data, not a third-party tool or a product claim.
+
+> Cragglebear's 10,000-round screenshots are logged session data, not a third-party tool. Use them as a budgeting example: 10,000 rounds is about 7 days of 24/7 mining, SOL cost is the session spend, USD is the reference conversion, and deploy size should be scaled before you copy the run.
+
 ### !mlalerts
 
 Motherlode alert tooling reminder: use the community alert channel and Orillions' bot before rebuilding another notifier. Subscribe narrowly to motherlode hits if you want clean signal, but do not let alerts turn into impulse mining.
@@ -102,6 +108,7 @@ Beginner cost-breakdown explainer: a miner profile/cost panel is not a bill from
 - **What's the claim fee?** 10%.
 - **Is mining profitable?** Check ore.fyi production cost vs. price.
 - **What does the cost breakdown mean?** SOL is the mining spend estimate, USD is the same cost translated into dollars, and cost basis tells you what your mined ORE effectively cost.
+- **Was Cragglebear's 10k sheet a tool?** No — it was manually logged session data shared as an education example.
 - **How much SOL do I need?** Start small, scale up as you learn.
 - **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.
 - **How do I get ML alerts?** Use the community alert channel / Orillions' bot, and keep the subscription focused so it stays useful.

@@ -116,3 +116,19 @@ The strategy lesson is not “everyone should deploy 0.01.” The lesson is that
 - Bigger sizes scale linearly and should be treated as experienced-miner territory.
 
 Use this method when teaching budget control: choose the maximum weekly SOL cost first, then set deploy size. A small miner that survives 10,000 rounds teaches more than an oversized miner that runs out of SOL during a bad stretch.
+
+---
+
+## Cragglebear's logged-data clarification
+
+Cragglebear later clarified that the 10,000-round screenshots were **not a third-party tool** or a product claim. They were manually logged mining-session data shared so other miners could see the rough cost of running a full-grid setup for about a week.
+
+That clarification matters for teaching: treat the screenshots as a community case study, not a calculator. The reusable method is still the same:
+
+- record the settings;
+- record the round count;
+- separate SOL spent from USD reference value;
+- compare cost basis against ORE price;
+- then resize the miner before repeating the experiment.
+
+Cragglebear also said he plans to write a longer article on the run. When that lands, fold the article back into this case study without replacing the original channel context.
