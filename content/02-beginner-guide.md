@@ -113,6 +113,8 @@ refinORE with Roberto gives you a command center approach:
 - Set it to pause when conditions get unfavorable
 - Let it manage sessions without constant babysitting
 
+If another mining front-end changes, shuts down, or feels unfamiliar, do not rush the migration. Verify the refinORE link from trusted community sources, start with a tiny test session, and rebuild your strategy from safe defaults instead of blindly copying old settings.
+
 ---
 
 ## FiL's beginner reminder: simple is the feature

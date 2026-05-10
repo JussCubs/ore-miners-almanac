@@ -322,3 +322,25 @@ Captured 13 new messages from 2026-05-10T00:09:09.006000+00:00 through 2026-05-1
 ```text
 !changeblocks — If auto-mining is already running, do not expect block/tile selection to update live. Stop or pause the run, change the strategy, confirm the new block setup, then restart. On mobile, refresh or screenshot the settings before assuming it is broken. Start tiny while learning.
 ```
+
+## 2026-05-10 Discord Update — MineMore handoff and EV-filtered variance
+
+Captured 6 new messages from 2026-05-10T14:19:28.369000+00:00 through 2026-05-10T15:35:55.558000+00:00.
+
+**Most active voices:** Brian, Ghosted, Orillions⛏️, ΣXTΛSY | Candy Studio, and BREADFAN777⛏️.
+
+**Themes detected:** tool handoffs, strat-builder experimentation, fewer-tile EV filters, and joking about extreme deploys.
+
+**Sentiment read:** curious and transitional. Ghosted asked what miners should use if MineMore shuts down this week, and Orillions answered plainly: **refinORE**. That belongs in the Almanac because tool changes are where newer miners can get disoriented, overclick unfamiliar settings, or fall for fake replacement links.
+
+**Strategy insight worth preserving:** BREADFAN777 reported that a strat-builder setup using **11 tiles** with a simple **+10 EV filter** had been rewarding. Treat this as an advanced variance experiment, not a beginner default. The standing beginner advice is still 25 tiles, tiny size, production-cost awareness, and session notes. Fewer-tile filtered play can be useful for miners who understand expected value, accept higher miss-rate variance, and can stop when the filter no longer justifies the spend.
+
+**Culture note:** Brian joked about “50 SOL deploys on one tile” and immediately added “not financial advice.” Preserve the joke as lore, but not as strategy. One-tile moonshots are the opposite of the Almanac's beginner-safe path.
+
+**Education-hub takeaway:** when a familiar miner front-end changes or shuts down, move slowly: verify the replacement link, start with a tiny test session, use safe defaults, and only experiment with EV-filtered/fewer-tile strategies after you can explain the risk in plain language.
+
+**Reusable bot-command snippet:**
+
+```text
+!minemore — If MineMore is going away or acting unavailable, the community alternative to check is refinORE. Verify links from trusted sources, start with a tiny test session, keep beginner defaults boring, and do not copy advanced EV-filtered/fewer-tile strategies until you understand the variance.
+```

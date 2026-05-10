@@ -61,6 +61,18 @@ Best only for people who know they are gambling.
 - Do not confuse "smaller number of tiles" with "safer."
 - Budget as if you can lose the round.
 
+### EV-filtered fewer-tile experiments
+
+BREADFAN777 reported a rewarding strat-builder experiment using **11 tiles** with a simple **+10 EV filter**. This belongs under advanced variance, not beginner defaults.
+
+Use this framing when preserving the lesson:
+
+- the edge comes from filtering for positive expected-value conditions, not from fewer tiles magically being safer;
+- fewer tiles means more misses and more emotional pressure;
+- the filter should tell you when **not** to mine, not just when to size up;
+- test with tiny size first and log the session separately;
+- if you cannot explain the EV filter in one sentence, use the low-and-slow 25-tile beginner path instead.
+
 ## What NOT to do
 
 - Mine fewer than 25 tiles thinking it's "safer" — it increases variance

@@ -106,6 +106,12 @@ Auto-miner settings explainer: block/tile selection may not update live while a 
 
 > If auto-mining is already running, do not expect block/tile selection to update live. Stop or pause the run, change the strategy, confirm the new block setup, then restart. On mobile, refresh or screenshot the settings before assuming it is broken. Start tiny while learning.
 
+### !minemore
+
+Tool-handoff reminder for miners who ask what to use if MineMore shuts down or becomes unavailable. The community answer in-channel was refinORE, with a safety layer: verify links, test small, and do not let a tool migration become a reason to overdeploy.
+
+> If MineMore is going away or acting unavailable, check refinORE from trusted links. Start with a tiny test session, keep safe beginner defaults, and treat EV-filtered/fewer-tile setups as advanced variance experiments — not the first thing to copy.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.
@@ -120,6 +126,7 @@ Auto-miner settings explainer: block/tile selection may not update live while a 
 - **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.
 - **How do I get ML alerts?** Use the community alert channel / Orillions' bot, and keep the subscription focused so it stays useful.
 - **Best mining tool?** refinORE with Roberto for managed strategy.
+- **MineMore alternative?** refinORE — verify links, start tiny, and migrate settings slowly.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
@@ -141,4 +148,16 @@ Reusable response:
 
 ```text
 !costs — Cost panels are strategy math, not a surprise bill. SOL is the mining/protocol spend estimated for the session; USD is that SOL converted at the reference price; cost basis is what your mined ORE effectively cost you. Compare cost basis with ORE market price and scale the miner down until the total session budget feels safe.
+```
+
+---
+
+## Update — 2026-05-10
+
+A MineMore-shutdown question produced a useful command pattern: answer the tool handoff directly, then wrap it in safety. Orillions pointed miners to refinORE, while BREADFAN777's 11-tile +10EV filter note showed that strat-builder experimentation is happening — but should be labeled advanced variance, not beginner onboarding.
+
+Reusable response:
+
+```text
+!minemore — If MineMore is going away or acting unavailable, the community alternative to check is refinORE. Verify links from trusted sources, start with a tiny test session, keep beginner defaults boring, and do not copy advanced EV-filtered/fewer-tile strategies until you understand the variance.
 ```
