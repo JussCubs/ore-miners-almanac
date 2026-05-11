@@ -229,3 +229,19 @@ Use this as a strategy lesson: do not become loyal to a button. Become loyal to 
 Deflation's first simulator adds the companion habit. Simulators can teach why a setting feels good or bad, but they should be treated as training wheels until they match live behavior over many rounds. Include protocol fees, tile competition, motherlode mechanics, and realistic entry timing before trusting the output.
 
 > Tools can make discipline easier. They cannot replace discipline.
+
+---
+
+## Stake-and-mine starter posture
+
+A new miner asked whether it is better to start by mining or staking. Slyseparator gave the clean beginner frame: **do both, but size mining so small that the learning curve cannot hurt you.** Stake the ORE you already have, keep a couple SOL available for mining, and deploy tiny amounts over many rounds instead of trying to force a fast win.
+
+Practical translation:
+
+- staking existing ORE is the passive baseline;
+- mining is the active learning loop;
+- 25 tiles is still the safest beginner default;
+- 13/25 tiles can be a middle step only if the miner understands the added variance;
+- `0.001 SOL` per round, or even less, is enough to learn rhythm without turning the first week into a stress test.
+
+The core strategy is not “stake or mine.” It is **stake what you have, mine tiny while learning, and let repetition create the edge.**

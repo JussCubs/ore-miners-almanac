@@ -447,3 +447,29 @@ Captured 37 new messages from 2026-05-11T12:17:52.635000+00:00 through 2026-05-1
 ```text
 !drought — Long dry spells and historical averages can inform patience, but they do not schedule the next hit. Use droughts to stay disciplined and watch competition, not to size up emotionally.
 ```
+
+## 2026-05-11 Discord Update — motherlode history and first-miner defaults
+
+Captured 27 new messages from 2026-05-11T16:29:56.619000+00:00 through 2026-05-11T19:17:51.092000+00:00.
+
+**Most active voices:** Madhatt3r (8), starship_fronk⛏️ (4), deflation (3), OREillions⛏️ (2), SLxTnT (2), nftimm (2), Cragglebear (2), xdm ◎ | ⛏️ (1).
+
+**Themes detected:** motherlode-history tooling, CSV/export wishes, lifetime-average math, stake-and-mine onboarding, and the continuing habit of redirecting new miners toward the education channel before they ape into settings.
+
+**Sentiment read:** practical and builder-minded. The strongest thread was not hype; it was infrastructure hygiene — miners want easier historical exports, better reference views, and repeatable answers for first-timers. That fits Thep's hub perfectly: preserve the lore, but package it as safer decision support.
+
+**Motherlode-history note:** Madhatt3r asked whether motherlode numbers can be pulled as a CSV from genesis instead of gathered manually from ore.supply. Fronk pointed to `hawg.win/rounds` as another useful historical view and gave the simple average-spacing formula: total rounds divided by total motherlode events. This belongs in the Almanac as research workflow, not signal bait. Historical average rounds per motherlode help miners understand cadence; they do not predict the next hit.
+
+**Product/storytelling opportunity:** the repeated desire for a “press a button and get CSV” flow is worth saving as a community feature request. Even if it lives outside the Almanac, the education hub can document the manual method now and explain why exportable datasets matter: they let miners test claims, validate simulators, and tell better long-term stories from real round history.
+
+**New-miner guideline:** Sky lambo asked the classic first question: start mining, stake tokens, or both? Slyseparator's answer was the usable default: stake ORE, keep a little SOL for mining, and deploy tiny amounts across all 25 tiles — or at least a broad 13/25-tile setup if the miner understands the extra variance — over many rounds. The safe beginner version remains 25 tiles, tiny size, boring repetition.
+
+**Reusable bot-command snippets:**
+
+```text
+!mlhistory — Motherlode history can be checked manually on ore.supply, and hawg.win/rounds is a useful community view for browsing past hits. To estimate lifetime average spacing, divide total rounds by total motherlode events. Treat the average as context, not a schedule for the next hit.
+```
+
+```text
+!startmining — If you already hold ORE, staking it is the passive baseline. If you want to learn mining, keep a little SOL aside and start tiny: preferably 25 tiles, many rounds, and around 0.001 SOL/round or less until you understand the settings. Mine to learn first; scale only after the process feels boring.
+```

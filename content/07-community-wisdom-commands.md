@@ -241,3 +241,17 @@ The afternoon channel discussion added reusable language for tool migration, sim
 ```text
 !drought — Long dry spells and historical averages can inform patience, but they do not schedule the next hit. Use droughts to stay disciplined and watch competition, not to size up emotionally.
 ```
+
+---
+
+## Update — 2026-05-11
+
+The evening channel added two reusable education snippets: one for motherlode history research, and one for the “mine or stake?” first question. Keep both neutral and beginner-safe. Historical motherlode averages are context, not a countdown. Staking and mining are complementary, not a binary tribe fight.
+
+```text
+!mlhistory — Motherlode history can be checked manually on ore.supply, and hawg.win/rounds is a useful community view for browsing past hits. To estimate lifetime average spacing, divide total rounds by total motherlode events. Treat the average as context, not a schedule for the next hit.
+```
+
+```text
+!startmining — If you already hold ORE, staking it is the passive baseline. If you want to learn mining, keep a little SOL aside and start tiny: preferably 25 tiles, many rounds, and around 0.001 SOL/round or less until you understand the settings. Mine to learn first; scale only after the process feels boring.
+```

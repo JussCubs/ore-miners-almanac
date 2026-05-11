@@ -50,6 +50,20 @@ That is why beginner UX should default to sane, low-risk settings and make users
 - Check ore.fyi for production cost context
 - Ask questions in the mining channel — the community is here to help
 
+## Should I stake or mine first?
+
+Treat staking and mining as complementary jobs. Staking existing ORE is the passive baseline; mining is the active learning loop that requires SOL, settings, and emotional discipline.
+
+A safe first posture:
+
+- stake the ORE you already plan to hold;
+- keep only a small SOL budget for learning;
+- mine all 25 tiles while you are new;
+- use tiny deploy sizes such as `0.001 SOL` per round or less;
+- run many small rounds before changing into narrower tile counts.
+
+The first goal is not to maximize upside. The first goal is to make mining feel boring and understandable.
+
 ## Key numbers to know
 
 - **Recommended tiles:** 25 (all blocks) — consistent mining
