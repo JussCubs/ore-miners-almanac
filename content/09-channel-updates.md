@@ -415,3 +415,35 @@ Captured 33 new messages from 2026-05-11T08:14:55.219000+00:00 through 2026-05-1
 ```text
 !parammine — Parameter-triggered mining can help enforce discipline, but it does not erase competition. Fewer tiles and late-round entries can improve cost basis in some conditions while raising variance. Beginners should stay tiny and broad; advanced miners should log the session and prove the edge.
 ```
+
+## 2026-05-11 Discord Update — miner lore, Minemore sunset, and simulator habits
+
+Captured 37 new messages from 2026-05-11T12:17:52.635000+00:00 through 2026-05-11T15:54:42.633000+00:00.
+
+**Most active voices:** Cragglebear (15), Diggy (14), deflation (4), SpuddyA7X ⛏️ // minemore.app (3), OREillions⛏️ (1).
+
+**Themes detected:** first-motherlode origin stories, top-miner droughts, Minemore-era tooling, low-and-slow 0.01 mining, simulator testing, and the social comedy that keeps variance bearable.
+
+**Sentiment read:** nostalgic but constructive. The channel is processing the coming Minemore shutdown without panic: miners expect EV mining and motherlode hunting to migrate into refinORE, Wild's tooling, or other workflows. The useful educational tone is “tools change, principles remain.”
+
+**Miner stories worth preserving:** Diggy described a first motherlode that hit only a few rounds after joining, back when fewer people were mining — the kind of early win that hooks a miner emotionally. Cragglebear answered with the other side of the lore: he once missed his first Minemore motherlode during a Spud update, and the miss became an inside joke that softened future variance pain. Spuddy added that Minemore sniped four motherlodes across its lifespan, while its commit count ended up beating recent ML count. That is good Almanac storytelling: mining culture is part math, part ritual, part shared jokes.
+
+**Strategy insight:** Diggy's “gut feel” was framed around waiting through a long drought and entering near the historical average-hit range, while Cragglebear noted that the best ROI often comes when fewer miners are chasing. The education version should avoid turning this into a signal service. It is better framed as patience plus competition awareness: a miner can wait for calmer boards or longer dry spells, but the round outcome is still probabilistic.
+
+**Tool-transition note:** the community expects Minemore's ML filters to disappear, but not the behavior they enabled. EV miners will likely migrate to refinORE, Wild's builds, and private/live spreadsheets. The Almanac should keep steering beginners toward verified links and small test sizes while advanced miners compare tools by transparency, logging, and risk controls.
+
+**Simulator habit:** deflation built a first mining simulator and planned to test it over 48 hours. That belongs in the advanced learning track: simulators are useful for understanding variance, but they must be validated against live rounds and not treated as proof of guaranteed profit.
+
+**Reusable bot-command snippets:**
+
+```text
+!toolchange — Mining tools change, but the core checklist stays: verified link, tiny test run, production-cost awareness, clear stop rules, and logs you can review later. Do not assume a new UI preserves the same filters or risk controls you used before.
+```
+
+```text
+!simulator — Simulators are for learning variance, not promising profit. Test assumptions against live rounds, include fees and motherlode mechanics, compare results over many rounds, and keep real deploy size tiny until the model survives contact with reality.
+```
+
+```text
+!drought — Long dry spells and historical averages can inform patience, but they do not schedule the next hit. Use droughts to stay disciplined and watch competition, not to size up emotionally.
+```

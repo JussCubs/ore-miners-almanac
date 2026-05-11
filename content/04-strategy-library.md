@@ -211,3 +211,21 @@ Reusable strategy frame:
 - advanced miners should measure sessions, not vibes.
 
 This belongs in the advanced shelf: parameter mining is a timing and variance-control problem, not a magic “always profitable” recipe.
+
+---
+
+## Tool transitions and simulator discipline
+
+The Minemore sunset conversation is useful because it separates tooling from strategy. Diggy wondered whether the end of Minemore would change where people hunt. Cragglebear's read was calm: specific ML filters may disappear, but EV miners and motherlode hunters will migrate to refinORE, Wild's builds, or whatever tool makes the same logic visible again.
+
+Use this as a strategy lesson: do not become loyal to a button. Become loyal to the checklist.
+
+- verify the domain before connecting or funding anything;
+- start with a tiny test run when moving tools;
+- confirm whether filters, fees, tile selection, stop rules, and account handling match the old workflow;
+- keep session logs so a UI change does not erase your learning;
+- treat motherlode filters as advanced variance tooling, not a beginner requirement.
+
+Deflation's first simulator adds the companion habit. Simulators can teach why a setting feels good or bad, but they should be treated as training wheels until they match live behavior over many rounds. Include protocol fees, tile competition, motherlode mechanics, and realistic entry timing before trusting the output.
+
+> Tools can make discipline easier. They cannot replace discipline.

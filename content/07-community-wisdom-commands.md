@@ -223,3 +223,21 @@ Advanced timing note:
 ```text
 !parammine — Parameter-triggered mining can help enforce discipline, but it does not erase competition. Fewer tiles and late-round entries can improve cost basis in some conditions while raising variance. Beginners should stay tiny and broad; advanced miners should log the session and prove the edge.
 ```
+
+---
+
+## Update — 2026-05-11
+
+The afternoon channel discussion added reusable language for tool migration, simulator testing, and drought psychology. Keep the commands beginner-safe: no “guaranteed signal,” no raw tool shilling, and no overconfidence from backtests.
+
+```text
+!toolchange — Mining tools change, but the core checklist stays: verified link, tiny test run, production-cost awareness, clear stop rules, and logs you can review later. Do not assume a new UI preserves the same filters or risk controls you used before.
+```
+
+```text
+!simulator — Simulators are for learning variance, not promising profit. Test assumptions against live rounds, include fees and motherlode mechanics, compare results over many rounds, and keep real deploy size tiny until the model survives contact with reality.
+```
+
+```text
+!drought — Long dry spells and historical averages can inform patience, but they do not schedule the next hit. Use droughts to stay disciplined and watch competition, not to size up emotionally.
+```
