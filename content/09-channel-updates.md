@@ -344,3 +344,38 @@ Captured 6 new messages from 2026-05-10T14:19:28.369000+00:00 through 2026-05-10
 ```text
 !minemore — If MineMore is going away or acting unavailable, the community alternative to check is refinORE. Verify links from trusted sources, start with a tiny test session, keep beginner defaults boring, and do not copy advanced EV-filtered/fewer-tile strategies until you understand the variance.
 ```
+
+## 2026-05-11 Discord Update — newcomer math, scam safety, and moving-target strategy
+
+Captured 27 new messages from 2026-05-11T00:38:06.993000+00:00 through 2026-05-11T02:13:17.137000+00:00.
+
+**Most active voices:** deflation, starship_fronk⛏️, Carl-bot, Diggy, and Yorter.
+
+**Themes detected:** newcomer onboarding, scam-DM defense, “is mining gambling?”, old PoW vs current ORE mining, optimal-strategy math, low-and-slow 25-tile mining, motherlode mechanics, and verified miner links.
+
+**Sentiment read:** curious and constructive. A new miner came in skeptical but genuinely interested, asked whether mining is gambling, then pushed toward the math behind tile count, SOL per tile, average loss per ORE, and when mining should be avoided. The channel responded with exactly the right education-hub posture: warn about scammers, point to official basics, answer in public, and simplify the strategy without pretending the system has one static optimum.
+
+**Education-hub takeaway:** preserve the “moving variables” answer. ORE mining is not a fixed recipe because ORE price, total deployed SOL, tile crowding, production cost, and motherlode size all change. The beginner-safe path remains tiny size, all 25 tiles, production-cost checks, and patience. Advanced miners may watch least-deployed tiles and quiet rounds, but that should be framed as live discipline — not a magic shortcut.
+
+**Motherlode explainer worth reusing:** Diggy gave the clean version: every round adds **0.2 ORE** to a shared motherlode jackpot; each round has a **1/625** chance to hit; miners on the winning tile split the pot proportional to deployment size. Bigger deployment on the winning tile means a bigger share, but motherlode should remain upside variance, not the core beginner plan.
+
+**Safety note:** Fronk immediately warned the new miner not to DM a scammer who had targeted them. Add this to onboarding: new interest in ORE attracts scam DMs, so public-channel verification and trusted domains matter as much as strategy settings.
+
+**Verified links shared in-channel:**
+
+- Official miner: https://ore.supply/
+- Third-party miners: https://minemore.app/, https://automine.refinore.com/, https://www.smelted.xyz/
+
+**Reusable bot-command snippets:**
+
+```text
+!optimal — There is no fixed best SOL-per-tile. ORE price, board deployment, tile crowding, and motherlode size move every round. Start tiny, use all 25 tiles unless you understand variance, check production cost vs. ORE price, and pause or resize when conditions are bad.
+```
+
+```text
+!motherlode — Every round adds 0.2 ORE to the shared motherlode jackpot. Each round has a 1/625 hit chance. If it hits, miners on the winning tile share the pot proportional to deployment size. Treat it as upside variance, not a schedule or beginner strategy.
+```
+
+```text
+!scams — Do not trust mining links or “help” offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything.
+```

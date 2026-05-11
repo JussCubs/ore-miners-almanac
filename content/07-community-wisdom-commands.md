@@ -112,6 +112,18 @@ Tool-handoff reminder for miners who ask what to use if MineMore shuts down or b
 
 > If MineMore is going away or acting unavailable, check refinORE from trusted links. Start with a tiny test session, keep safe beginner defaults, and treat EV-filtered/fewer-tile setups as advanced variance experiments — not the first thing to copy.
 
+### !optimal
+
+Moving-target mining math explainer: there is no static best SOL-per-tile because ORE price, total board deployment, tile competition, and motherlode size change round by round.
+
+> The closest thing to “optimal” is a discipline loop: use tiny size, prefer all 25 tiles unless you understand variance, check production cost vs. ORE price, watch crowded tiles/rounds, and pause when the math is bad.
+
+### !scams
+
+Newcomer safety reminder after scam DMs targeted fresh miners asking questions.
+
+> Do not trust mining links or help offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything.
+
 ## Rapid-fire wisdom
 
 - **How many tiles?** 25. Always 25.
@@ -127,6 +139,8 @@ Tool-handoff reminder for miners who ask what to use if MineMore shuts down or b
 - **How do I get ML alerts?** Use the community alert channel / Orillions' bot, and keep the subscription focused so it stays useful.
 - **Best mining tool?** refinORE with Roberto for managed strategy.
 - **MineMore alternative?** refinORE — verify links, start tiny, and migrate settings slowly.
+- **Is there an optimal mining setup?** Not fixed forever — price, deployment, tile crowding, and motherlode size move. Use a disciplined decision loop instead.
+- **Random DM offered help?** Treat it as a scam until proven otherwise in public by trusted community links.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
@@ -160,4 +174,28 @@ Reusable response:
 
 ```text
 !minemore — If MineMore is going away or acting unavailable, the community alternative to check is refinORE. Verify links from trusted sources, start with a tiny test session, keep beginner defaults boring, and do not copy advanced EV-filtered/fewer-tile strategies until you understand the variance.
+```
+
+---
+
+## Update — 2026-05-11
+
+A new miner asked for the “math” version of mining: tile count, SOL per tile, average loss per ORE, and when mining is optimal. The reusable answer is that ORE mining has moving inputs, not one permanent recipe. ORE price, board deployment, tile crowding, and motherlode state change constantly.
+
+Reusable response:
+
+```text
+!optimal — There is no fixed best SOL-per-tile. ORE price, board deployment, tile crowding, and motherlode size move every round. Start tiny, use all 25 tiles unless you understand variance, check production cost vs. ORE price, and pause or resize when conditions are bad.
+```
+
+Diggy also gave the clean motherlode definition worth keeping in command form:
+
+```text
+!motherlode — Every round adds 0.2 ORE to the shared motherlode jackpot. Each round has a 1/625 hit chance. If it hits, miners on the winning tile share the pot proportional to deployment size. Treat it as upside variance, not a schedule or beginner strategy.
+```
+
+Newcomer safety note:
+
+```text
+!scams — Do not trust mining links or “help” offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything.
 ```

@@ -160,3 +160,23 @@ Use this as an onboarding story, not as a new default strategy. If the goal is p
 - scale only after the miner can explain what happened.
 
 A small first run that teaches the miner how to operate the tool is a win even before it becomes a profit story.
+
+---
+
+## Optimal-mining questions are moving-target questions
+
+Deflation asked the question every math-minded newcomer eventually asks: has anyone calculated the optimal way to mine — all tiles, SOL per tile, average loss per ORE, and when to mine or not mine?
+
+Fronk's answer is the reusable strategy frame: the variables constantly move. ORE price changes, total deployed SOL changes, tile competition changes, motherlode size changes, and miner behavior changes. That makes “the optimal strategy” less like a fixed recipe and more like a decision loop.
+
+Beginner-safe loop:
+
+- use all 25 tiles to reduce selection variance;
+- keep deployment size low enough to survive many rounds;
+- check production cost and ORE price before running;
+- treat motherlode as upside variance, not the base plan;
+- pause or resize when the board is crowded or production cost looks bad.
+
+Yorter added the sharper tactical version: good miners look for less-deployed tiles and relatively smaller-deployment rounds. That belongs in the advanced context, not as an excuse for beginners to over-optimize. The hard part is not spotting that low competition is better; the hard part is staying disciplined when the board, price, and jackpot keep changing.
+
+> “Optimal” is not a magic tile. It is a repeatable habit: low size, enough coverage, live cost awareness, and the humility to sit out bad conditions.

@@ -115,3 +115,19 @@ Key numbers from the shared guide:
 The most important teaching point is the flat-price comparison. Price appreciation made the chart look great, but the experiment still stayed slightly above breakeven even if ORE had not moved. That is the kind of evidence Thep's education hub should preserve: long-running, full-grid mining can be evaluated as a budgeted uORE accumulation program, not just a leaderboard lottery.
 
 Cragglebear's practical sizing advice was simple: treat `0.01 SOL/round` as an example, not a default. Adjust deploy size to your weekly SOL budget, then let the miner run long enough for the data to mean something.
+
+---
+
+## uORE-first answer to “what is optimal?”
+
+When deflation asked for mining math, Fronk redirected the frame from instant profit to long-run uORE accumulation. That matters because a miner who only optimizes one board can miss the actual product they are building: mining-only uORE that earns while held.
+
+The current reusable explanation:
+
+- mining conditions change constantly, so no static “always mine X SOL” rule survives;
+- low-and-slow miners reduce variance by staying small and consistent;
+- all-25-tile mining is easier to teach because it avoids turning tile choice into the whole strategy;
+- uORE yield is the reason patient miners can accept boring sessions;
+- production-cost checks decide whether to mine now, resize, wait, or buy instead.
+
+Diggy's motherlode explanation also helps clarify what uORE patience is not. The motherlode is a jackpot funded by **0.2 ORE per round** with a **1/625** hit chance; larger winning-tile deploys get a larger share when it hits. That upside can improve a session, but it should not replace the patience thesis. Mine to accumulate uORE; let motherlode be variance on top.

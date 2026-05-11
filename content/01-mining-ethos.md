@@ -85,3 +85,19 @@ The important teaching distinction is emotional: a full 25-block run can still s
 Fronk's practical version stays simple: tiny 25-block miners, often around 0.00015 SOL per block, left to run slowly while checking ore.fyi before mining. If production cost is far above the ORE market price, the disciplined move may be to pause and buy instead.
 
 > Mine tiny, mine all 25, check production cost, and let uORE accumulation be the product.
+
+---
+
+## New-miner onboarding: curiosity, scams, and the gambling question
+
+A new miner, deflation, arrived with the right first question: “is that basically gambling?” Fronk's answer pattern is worth preserving because it is both protective and educational:
+
+- warn newcomers away from scam DMs immediately;
+- point them to the official basics/FAQ before strategy debate;
+- distinguish the old proof-of-work era from the current ORE mining game;
+- answer the gambling concern directly instead of hand-waving it away;
+- invite questions in public where other miners can correct and teach.
+
+The ethos lesson is simple: the channel should make curiosity safe. New miners will ask whether mining is gambling, whether the math has an optimum, why tiny balances appear on every tile, and what changed from older ORE mining. The Almanac should answer those questions calmly, then pull them back to the core path: tiny size, all 25 tiles, production-cost awareness, uORE patience, and public verified links.
+
+> A good mining culture does not just teach settings. It protects newcomers long enough for the settings to make sense.
