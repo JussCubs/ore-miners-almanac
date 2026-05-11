@@ -379,3 +379,39 @@ Captured 27 new messages from 2026-05-11T00:38:06.993000+00:00 through 2026-05-1
 ```text
 !scams — Do not trust mining links or “help” offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything.
 ```
+
+## 2026-05-11 Discord Update — budget tables, uORE patience, and parameter mining
+
+Captured 33 new messages from 2026-05-11T08:14:55.219000+00:00 through 2026-05-11T12:00:09.537000+00:00.
+
+**Most active voices:** deflation (14), Cragglebear (13), Yorter (4), Alpha (1), starship_fronk⛏️ (1).
+
+**Themes detected:** 7-day SOL cost planning, 10,000-round case-study caveats, uORE hold-time logic, partial-withdrawal/account planning, parameter-triggered mining, late-round timing, and ore.fyi production-cost math.
+
+**Sentiment read:** practical and math-hungry. Deflation kept pushing for the edges — below-market production cost, scripts, timing, and whether motherlode is included in cost pages — while Cragglebear and Yorter kept pulling the discussion back toward measured sessions, variance, and realistic expectations.
+
+**Miner story worth preserving:** Cragglebear shared a 7-day cost-reference table for running constant 25-tile mining over roughly **10,000 rounds**. The key teaching move is that cost scales linearly: at a 10% fee, `0.001 SOL/round` costs about **1 SOL/week**, `0.005` costs about **5 SOL/week**, `0.01` costs about **10.5 SOL/week**, and `0.05` costs about **52.5 SOL/week**. This turns “what size should I run?” into a budget question instead of a flex question.
+
+**10,000-round caveat:** Cragglebear reiterated that his `0.01 SOL/round` test is still just one session. Top-miner luck and production cost can vary, so the result is a rough estimate, not a guarantee. The useful behavior is the logging itself: more miners sharing comparable session data makes the community smarter.
+
+**uORE patience insight:** Deflation noticed that the profit chart benefited from ORE rising while the session ran. Cragglebear pointed to the flat-price comparison at the bottom of the screenshot, then gave the reusable thesis: if mining works around breakeven, a patient miner may still be winning because the output is uORE and the hold/refining horizon matters.
+
+**Strategy insight:** parameter-triggered mining can be real but crowded. Removing tiles or waiting for specific conditions may lower cost basis in some windows, but it increases variance and does not remove competition. Late-round placement gives more accurate information, but it is an advanced timing habit, not a beginner recipe.
+
+**Tooling/account note:** when deflation asked about partial withdrawal, Yorter and Cragglebear framed the workaround as planning with multiple wallets/accounts before the session. That belongs in onboarding because miners who want to keep some ORE refining and withdraw some need to plan the split before committing to a long run.
+
+**Production-cost clarification:** deflation asked whether ore.fyi accounts for motherlode when determining production cost. Yorter recalled the page using flat **1.2 ORE per round**, and Fronk confirmed the logic: **1 ORE base + 0.2 ORE into Motherlode** is counted.
+
+**Reusable bot-command snippets:**
+
+```text
+!weeklycost — For a 25-tile miner running ~10,000 rounds/week, protocol cost scales linearly with deploy size. At 10% fee: 0.001 SOL/round costs about 1 SOL/week, 0.005 costs about 5 SOL/week, 0.01 costs about 10.5 SOL/week, and 0.05 costs about 52.5 SOL/week. Pick the weekly SOL cost first, then choose deploy size.
+```
+
+```text
+!breakeven — If you are mining for uORE and can truly hold through the refining period, roughly breakeven mining can still be a win. Do not only compare one round to spot price; compare cost basis, uORE yield, hold time, and whether your settings are boring enough to repeat.
+```
+
+```text
+!parammine — Parameter-triggered mining can help enforce discipline, but it does not erase competition. Fewer tiles and late-round entries can improve cost basis in some conditions while raising variance. Beginners should stay tiny and broad; advanced miners should log the session and prove the edge.
+```

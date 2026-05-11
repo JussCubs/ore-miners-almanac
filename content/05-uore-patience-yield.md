@@ -131,3 +131,19 @@ The current reusable explanation:
 - production-cost checks decide whether to mine now, resize, wait, or buy instead.
 
 Diggy's motherlode explanation also helps clarify what uORE patience is not. The motherlode is a jackpot funded by **0.2 ORE per round** with a **1/625** hit chance; larger winning-tile deploys get a larger share when it hits. That upside can improve a session, but it should not replace the patience thesis. Mine to accumulate uORE; let motherlode be variance on top.
+
+---
+
+## Breakeven mining can still be a uORE win
+
+Cragglebear gave the clearest patient-miner framing: if a miner can make mining work at roughly breakeven, that can still be a win because the output is **uORE**, not immediately liquid ORE. With a minimum one-year hold horizon, he framed uORE as meaningfully more valuable than normal ORE because of the refining yield — with current refining rates discussed around the **70%** area.
+
+That does not mean every breakeven-looking session is good. It means the right comparison is wider than “did this round beat spot price?” A patient miner should ask:
+
+- did the session accumulate uORE at or near market cost basis;
+- did the miner preserve enough SOL to keep learning;
+- did the result still make sense under a flat ORE-price comparison;
+- is the miner willing to hold through the refining period;
+- does the setup remain boring enough to repeat without emotional resizing?
+
+The slogan for the Almanac: **breakeven spot mining can be profitable patience if the miner truly wants uORE and can hold long enough for the refining yield to matter.**

@@ -199,3 +199,27 @@ Newcomer safety note:
 ```text
 !scams — Do not trust mining links or “help” offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything.
 ```
+
+---
+
+## Update — 2026-05-11
+
+Cragglebear's new budget-table screenshot and deflation's follow-up questions turn into three useful bot snippets: one for weekly cost sizing, one for uORE patience, and one for partial-withdrawal/account-splitting confusion.
+
+```text
+!weeklycost — For a 25-tile miner running ~10,000 rounds/week, protocol cost scales linearly with deploy size. At 10% fee: 0.001 SOL/round costs about 1 SOL/week, 0.005 costs about 5 SOL/week, 0.01 costs about 10.5 SOL/week, and 0.05 costs about 52.5 SOL/week. Pick the weekly SOL cost first, then choose deploy size.
+```
+
+```text
+!breakeven — If you are mining for uORE and can truly hold through the refining period, roughly breakeven mining can still be a win. Do not only compare one round to spot price; compare cost basis, uORE yield, hold time, and whether your settings are boring enough to repeat.
+```
+
+```text
+!partial — If you may want to withdraw some mined ORE while keeping some refining, plan wallets/accounts before the session. Current tooling may not give the partial-withdraw flow you expect, so split strategies deliberately instead of discovering the limitation after a long run.
+```
+
+Advanced timing note:
+
+```text
+!parammine — Parameter-triggered mining can help enforce discipline, but it does not erase competition. Fewer tiles and late-round entries can improve cost basis in some conditions while raising variance. Beginners should stay tiny and broad; advanced miners should log the session and prove the edge.
+```

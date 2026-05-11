@@ -180,3 +180,34 @@ Beginner-safe loop:
 Yorter added the sharper tactical version: good miners look for less-deployed tiles and relatively smaller-deployment rounds. That belongs in the advanced context, not as an excuse for beginners to over-optimize. The hard part is not spotting that low competition is better; the hard part is staying disciplined when the board, price, and jackpot keep changing.
 
 > “Optimal” is not a magic tile. It is a repeatable habit: low size, enough coverage, live cost awareness, and the humility to sit out bad conditions.
+
+---
+
+## Seven-day budget table for constant 25-tile mining
+
+Cragglebear shared a cleaner cost-reference screenshot for miners who want to understand what “low and slow” costs before they press start. It assumes roughly **10,000 rounds** over about **7 days**, with **25 tiles**, a **10% protocol fee**, SOL at **$93.80**, and ORE at **$91.44**.
+
+Useful anchor points:
+
+- `0.001 SOL/round` → about **10 SOL deployed**, **1 SOL** protocol cost, roughly **$94** for the week.
+- `0.0025 SOL/round` → about **25 SOL deployed**, **2.5 SOL** cost, roughly **$235**.
+- `0.005 SOL/round` → about **50 SOL deployed**, **5 SOL** cost, roughly **$469**.
+- `0.01 SOL/round` → about **100 SOL deployed**, **10.5 SOL** cost, roughly **$985**.
+- `0.05 SOL/round` → about **500 SOL deployed**, **52.5 SOL** cost, roughly **$4,924**.
+- `0.10 SOL/round` → about **1,000 SOL deployed**, **105 SOL** cost, roughly **$9,849**.
+
+The teaching value is linear scaling. Pick the weekly SOL cost you can emotionally survive first, then choose deploy size. Do not treat `0.01` as “the” setting; treat it as one reference row in a budget table.
+
+### Parameter-triggered mining and late-round timing
+
+Deflation asked whether it is possible to mine around **20% below market production cost** with a script that only fires when parameters match. The channel answer was nuanced: it can happen, but competition is strong and it is not a guaranteed edge. Removing tiles can improve production cost in the right spot, but it also opens the miner to much higher variance and luck factors.
+
+Reusable strategy frame:
+
+- scripts can enforce discipline, but they do not remove competition;
+- fewer tiles can reduce cost basis when correct, but increase miss-rate variance;
+- many miners place near the end of the round because late information is more accurate;
+- the beginner path stays 25 tiles + tiny size until the miner can explain the variance tradeoff;
+- advanced miners should measure sessions, not vibes.
+
+This belongs in the advanced shelf: parameter mining is a timing and variance-control problem, not a magic “always profitable” recipe.
