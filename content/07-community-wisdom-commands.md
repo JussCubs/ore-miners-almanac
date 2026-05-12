@@ -269,3 +269,13 @@ The late-night thread gave the Almanac better shorthand for production-cost disc
 ```text
 !discountmine — A 20% production-cost discount target is a filter, not a promise. Scripts and patience can help you wait for better entries, but competition and variance still matter. If the filter does not fire, sitting out is part of the strategy.
 ```
+
+---
+
+## Update — 2026-05-12
+
+BREADFAN added a useful correction to the “safe default” language: broad, tiny mining is a zone of relative safety only if the miner is willing to put enough rounds in. For smaller bankrolls, increasing share per tile can make tile-mining hits more meaningful, but fewer-tile play is an advanced variance choice and can turn ugly fast if conditions sour.
+
+```text
+!safetyzone — The safer beginner zone is tiny size, broad coverage, and enough rounds for variance to breathe. If you reduce to 10-12 tiles to increase share per tile, treat it as advanced variance: only do it when conditions are clearly favorable, keep size small, and stop fast if the board turns against you.
+```

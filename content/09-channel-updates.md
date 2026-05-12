@@ -499,3 +499,21 @@ Captured 12 new messages from 2026-05-11T22:24:56.724000+00:00 through 2026-05-1
 ```text
 !discountmine — A 20% production-cost discount target is a filter, not a promise. Scripts and patience can help you wait for better entries, but competition and variance still matter. If the filter does not fire, sitting out is part of the strategy.
 ```
+
+## 2026-05-12 Discord Update — relative safety and fewer-tile variance
+
+Captured 1 new message from 2026-05-12T04:03:54.139000+00:00 through 2026-05-12T04:03:54.139000+00:00.
+
+**Most active voice:** BREADFAN777⛏️ (1).
+
+**Themes detected:** low-and-slow staying power, relative safety, smaller-bankroll tile share, and the danger of treating 10-12 tile play as beginner-safe.
+
+**Sentiment read:** practical and cautionary. The channel keeps refining the same education spine: broad/tiny mining is the default because it keeps miners alive, but every shortcut toward bigger per-tile share has to be taught as variance, not safety.
+
+**Strategy insight:** BREADFAN framed the broad-mining zone as “relative safety” only when the miner is willing to put rounds in. Smaller bankroll miners may sometimes use 10, 11, or 12 tiles in very favorable conditions to increase their share per tile and improve the chance that a tile-mining hit matters. The caveat is the lesson: fewer tiles can get wrecked quickly when conditions sour, so the Almanac should keep 25-tile low-and-slow as the beginner default while preserving 10-12 tile play as an experienced, conditions-aware variant.
+
+**Reusable bot-command snippet:**
+
+```text
+!safetyzone — The safer beginner zone is tiny size, broad coverage, and enough rounds for variance to breathe. If you reduce to 10-12 tiles to increase share per tile, treat it as advanced variance: only do it when conditions are clearly favorable, keep size small, and stop fast if the board turns against you.
+```

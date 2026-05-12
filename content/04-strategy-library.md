@@ -13,6 +13,8 @@ Best for beginners and patient stackers.
 - Optimize for staying power, not adrenaline.
 - If production cost exceeds ORE price, pause and wait.
 
+BREADFAN's caution is worth attaching to the default: this is a **zone of relative safety**, not a shield. It only works if the miner stays small enough to put enough rounds in and avoids resizing emotionally after a miss.
+
 > You don't need to win big. You need to win consistently.
 
 ## Long-term stacker (David Method)
@@ -69,6 +71,7 @@ Use this framing when preserving the lesson:
 
 - the edge comes from filtering for positive expected-value conditions, not from fewer tiles magically being safer;
 - fewer tiles means more misses and more emotional pressure;
+- 10-12 tile setups can increase share per tile for smaller bankrolls when conditions are very good, but they can get wrecked quickly when the board turns;
 - the filter should tell you when **not** to mine, not just when to size up;
 - test with tiny size first and log the session separately;
 - if you cannot explain the EV filter in one sentence, use the low-and-slow 25-tile beginner path instead.
