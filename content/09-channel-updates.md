@@ -517,3 +517,29 @@ Captured 1 new message from 2026-05-12T04:03:54.139000+00:00 through 2026-05-12T
 ```text
 !safetyzone — The safer beginner zone is tiny size, broad coverage, and enough rounds for variance to breathe. If you reduce to 10-12 tiles to increase share per tile, treat it as advanced variance: only do it when conditions are clearly favorable, keep size small, and stop fast if the board turns against you.
 ```
+
+## 2026-05-12 Discord Update — motherlode dilution and time-window discipline
+
+Captured 14 new messages from 2026-05-12T09:04:10.643000+00:00 through 2026-05-12T11:04:11.109000+00:00.
+
+**Most active voices:** Cragglebear (8), deflation (5), Yorter (1).
+
+**Themes detected:** motherlode hunter behavior, production-cost timing windows, discount monitors, budget-first strategy selection, and LPing as a possible alternative during crowded jackpots.
+
+**Sentiment read:** practical and analytical. Deflation kept pressing on whether timing patterns can be turned into a monitorable edge, while Cragglebear translated long-running channel experience into a sharper caution: big motherlodes attract waves of hunters, and crowding can dilute the upside until the bigger headline number stops helping.
+
+**Strategy insight:** treat motherlode size as one variable, not the strategy. A jackpot around 150-250 ORE may be more interesting to watch because it is big enough to matter before the crowd gets absurd, but once production cost spikes, later entries can dig a bankroll hole fast. Low production cost still matters for split rounds and top-miner attempts. Weekly/monthly budget still decides whether the miner survives.
+
+**Timing insight:** early Europe mornings have historically looked softer to some miners, likely because regional activity shifts, miners sleep, and autominers run out of funds. The Almanac should teach that as a prompt to check ore.fyi and log data, not as folklore. A time window is useful only if the live board confirms it.
+
+**Storytelling note:** this thread is another example of the channel turning lived miner lore into education. The strongest line for Thep's hub: “even motherlode hunters need a stop rule.”
+
+**Reusable bot-command snippets:**
+
+```text
+!mlsweetspot — Large motherlodes can attract so much competition that the bigger number stops improving your expected share. Some hunters prefer the 150-250 ORE zone before dilution gets silly; if you chase later, size it like variance and be ready to stop if production cost spikes.
+```
+
+```text
+!timeedge — Production cost can have time-of-day patterns because miners sleep, autominers run out of funds, and regional activity shifts. Early Europe mornings have historically looked softer for some miners, but treat it as a clue to verify on ore.fyi — not a schedule to blindly mine.
+```

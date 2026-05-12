@@ -279,3 +279,17 @@ BREADFAN added a useful correction to the “safe default” language: broad, ti
 ```text
 !safetyzone — The safer beginner zone is tiny size, broad coverage, and enough rounds for variance to breathe. If you reduce to 10-12 tiles to increase share per tile, treat it as advanced variance: only do it when conditions are clearly favorable, keep size small, and stop fast if the board turns against you.
 ```
+
+---
+
+## Update — 2026-05-12
+
+Cragglebear sharpened the motherlode-chasing lesson: a bigger jackpot is not automatically a better entry if crowding and dilution eat the edge. Preserve the sweet-spot framing as an advanced tactic, not a beginner command. The default stays budget-first and production-cost-aware.
+
+```text
+!mlsweetspot — Large motherlodes can attract so much competition that the bigger number stops improving your expected share. Some hunters prefer the 150-250 ORE zone before dilution gets silly; if you chase later, size it like variance and be ready to stop if production cost spikes.
+```
+
+```text
+!timeedge — Production cost can have time-of-day patterns because miners sleep, autominers run out of funds, and regional activity shifts. Early Europe mornings have historically looked softer for some miners, but treat it as a clue to verify on ore.fyi — not a schedule to blindly mine.
+```

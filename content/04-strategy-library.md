@@ -251,6 +251,38 @@ The core strategy is not “stake or mine.” It is **stake what you have, mine 
 
 ---
 
+## Motherlode sweet spots and dilution risk
+
+Cragglebear added a cleaner way to teach motherlode chasing: a larger motherlode can become **less attractive per deployed SOL** once too many hunters crowd in. The headline jackpot grows, but each miner's share can get diluted by production-cost spikes, heavy tile competition, and late “big boy” entries.
+
+His practical read was that some motherlode hunters prefer waiting until the jackpot is meaningful — roughly the **150-250 ORE** zone — before the crowd gets silly. Below that, the prize may not justify the chase. Above that, the visible number can pull in enough competition that the result starts resembling a smaller motherlode with more stress.
+
+Reusable framing:
+
+- low production cost is still the first signal for split-round and top-miner attempts;
+- a motherlode size threshold is not a guarantee, just a reason to start watching harder;
+- late, huge motherlodes can create runaway competition and bankroll holes;
+- budget per week/month decides whether the chase is survivable;
+- if LPing or buying looks cleaner during a crowded jackpot, that is a valid non-mining answer.
+
+This belongs in the advanced shelf. Beginners should not hear “150-250 ORE” as permission to overdeploy. They should hear: **even motherlode hunters need a stop rule.**
+
+---
+
+## Time-of-day production-cost patterns
+
+Deflation noticed lower production cost around certain hours, and Cragglebear confirmed an old channel observation: early Europe mornings have often had an edge for top-miner attempts and lower production cost. The likely reasons are behavioral — miners sleeping, regional activity shifting, and autominers in denser time zones running out of funds.
+
+Teach this as a live-data habit, not superstition:
+
+- compare several days of ore.fyi production-cost snapshots before trusting a window;
+- separate normal low-competition periods from motherlode exhaustion dips;
+- do not mine a bad board just because the clock says it “should” be good;
+- log timezone, motherlode size, production cost, and result if testing a time window;
+- use the pattern to decide when to check conditions, not when to blindly deploy.
+
+The useful edge is attention. The dangerous version is turning a time window into a fixed strategy after two lucky days.
+
 ## Production-cost tribes: always-on vs discount filters
 
 Deflation asked the question every cost-aware miner eventually asks: **who keeps mining when ore.fyi production cost is higher than simply buying ORE?** Fronk's answer is a useful map of the room.

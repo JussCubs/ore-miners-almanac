@@ -78,3 +78,13 @@ Keep this section protective. Tool links are useful, but newcomers are also bein
 For refinORE specifically, the message stays consistent with the Command Center thesis: Roberto should help miners manage live variables — production cost, price, tile/deploy competition, budget, and session history — without turning mining into a one-click overdeployment machine.
 
 > Verified links first. Tiny test second. Strategy discipline always.
+
+---
+
+## Time-of-day and regional mining context
+
+The channel keeps circling one product-grade insight: mining conditions are social, not just mathematical. Production cost can soften when large regions are asleep, autominers run out of funds, or motherlode hunters pause before piling back in.
+
+That is exactly the kind of context Roberto should eventually preserve for miners: not private identity data, but observable timing patterns, cost bands, and session outcomes. A good command center can help answer, “Is this actually a softer window, or am I just seeing one lucky round?”
+
+Use this carefully. Time-of-day edges should become prompts to check live data, not folklore that makes miners ignore production cost.
