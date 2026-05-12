@@ -293,3 +293,13 @@ Cragglebear sharpened the motherlode-chasing lesson: a bigger jackpot is not aut
 ```text
 !timeedge — Production cost can have time-of-day patterns because miners sleep, autominers run out of funds, and regional activity shifts. Early Europe mornings have historically looked softer for some miners, but treat it as a clue to verify on ore.fyi — not a schedule to blindly mine.
 ```
+
+---
+
+## Update — 2026-05-12
+
+Navigator's one-hour win report is useful because it shows how the channel talks during a favorable live window without turning it into a guarantee. Preserve the excitement, but keep the command disciplined: live signal first, controlled size second, journal the outcome after.
+
+```text
+!greenwindow — When miners say “mining is good rn,” they usually mean live conditions look playable: production cost, tile competition, and recent rewards are lining up. Treat it as a prompt to check ore.fyi and size a controlled session, not as a guarantee. Log whether the result came from solo wins, splits, or motherlode variance.
+```

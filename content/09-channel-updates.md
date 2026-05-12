@@ -543,3 +543,23 @@ Captured 14 new messages from 2026-05-12T09:04:10.643000+00:00 through 2026-05-1
 ```text
 !timeedge — Production cost can have time-of-day patterns because miners sleep, autominers run out of funds, and regional activity shifts. Early Europe mornings have historically looked softer for some miners, but treat it as a clue to verify on ore.fyi — not a schedule to blindly mine.
 ```
+
+## 2026-05-12 Discord Update — good-window field report
+
+Captured 3 new messages from 2026-05-12T15:22:10.743000+00:00 through 2026-05-12T15:40:08.931000+00:00.
+
+**Most active voices:** Navigator (2), suckytrader (1).
+
+**Themes detected:** favorable mining windows, quick-session storytelling, solo wins plus split rewards, and the emotional pull of getting back in after being SOL-constrained.
+
+**Sentiment read:** upbeat and practical. Navigator's short field report is exactly the kind of miner story Thep's hub should preserve: not a guaranteed recipe, but a concrete example of why miners keep watching the board for good conditions.
+
+**Storytelling note:** Navigator had been out of SOL for a while, then caught a good morning session: **3.4 SOL turned into 4.44 ORE** in about an hour, with three solo wins and the rest from splits. Suckytrader's “Mining is good rn” line works as the channel's real-time color: sometimes the education value is simply showing what miners mean when they say conditions look playable.
+
+**Strategy insight:** keep this in the Almanac as a “green-window” case study, not a promise. The reusable lesson is to combine live production-cost checks with disciplined session sizing. A good window can reward prepared miners quickly, but the same miner still needs a budget, exit point, and notes on whether the win came from solo hits, splits, or motherlode variance.
+
+**Reusable bot-command snippet:**
+
+```text
+!greenwindow — When miners say “mining is good rn,” they usually mean live conditions look playable: production cost, tile competition, and recent rewards are lining up. Treat it as a prompt to check ore.fyi and size a controlled session, not as a guarantee. Log whether the result came from solo wins, splits, or motherlode variance.
+```

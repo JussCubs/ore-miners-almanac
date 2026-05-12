@@ -302,3 +302,21 @@ Reusable checklist:
 - keep deploy size small enough that “no entry” feels acceptable;
 - do not copy always-on behavior with a discount-filter bankroll;
 - log first wins and low-balance failures so the strategy improves from evidence instead of emotion.
+
+---
+
+## Green-window burst sessions
+
+Navigator's May 12 report gives the Almanac a clean “good conditions” story: after being SOL-constrained for a while, he mined for about an hour and turned **3.4 SOL into 4.44 ORE**, with three solo wins and additional split rewards. Suckytrader's quick read — “Mining is good rn” — captures the channel's live-signal language.
+
+Use this as a field report, not a recipe. A green window is when live conditions make mining feel playable: production cost looks favorable, tile competition is manageable, and the miner has enough bankroll to let the session breathe. It still needs a stop rule.
+
+Teaching frame:
+
+- check ore.fyi before starting and during the run;
+- size the session so a cold streak does not wipe the miner out;
+- record whether rewards came from solo wins, splits, or motherlode variance;
+- do not assume a good hour means the next hour stays good;
+- if the board gets crowded or production cost rises, stop with the win instead of feeding it back emotionally.
+
+The strongest lesson is emotional: good windows reward prepared miners, not miners who chase every green candle.
