@@ -473,3 +473,29 @@ Captured 27 new messages from 2026-05-11T16:29:56.619000+00:00 through 2026-05-1
 ```text
 !startmining — If you already hold ORE, staking it is the passive baseline. If you want to learn mining, keep a little SOL aside and start tiny: preferably 25 tiles, many rounds, and around 0.001 SOL/round or less until you understand the settings. Mine to learn first; scale only after the process feels boring.
 ```
+
+## 2026-05-12 Discord Update — production-cost discipline and v4 patience
+
+Captured 12 new messages from 2026-05-11T22:24:56.724000+00:00 through 2026-05-12T00:00:51.016000+00:00.
+
+**Most active voices:** deflation (9), starship_fronk⛏️ (2), Hardhat Chad (1).
+
+**Themes detected:** production-cost awareness, uORE patience, motherlode-chaser behavior, discount-filter mining, and quiet product-cycle anticipation.
+
+**Sentiment read:** calm and inquisitive. The channel was not hyping a new trick; it was clarifying miner intent. Deflation's questions sharpened the “why mine above buy price?” lesson, Fronk named the behavioral groups, and Chad reminded everyone that product announcements should wait until details are ready.
+
+**Strategy insight:** production cost above spot does not mean every miner is irrational, but it does mean their motivation needs to be explicit. Some miners are always-on uORE accumulators. Some are motherlode hunters paying for variance, and their demand can lift displayed production cost. Others, like deflation, are trying to build discount filters that only mine when conditions are materially better than buying. The Almanac should teach all three as separate mental models instead of letting beginners blend them together.
+
+**Storytelling note:** Chad's “announcement when ready” message earned strong positive reactions because it fits the older ORE builder culture: collect feedback from long-time members, avoid premature promises, then ship the clean explanation. Preserve that tone in Thep's hub — education first, hype second.
+
+**First-win note:** deflation later reported a first real-try win at a huge discount, but with low balance. That is a perfect small miner story: the filter can work, but bankroll management still decides whether the lesson compounds.
+
+**Reusable bot-command snippets:**
+
+```text
+!costtribes — Before mining, decide which game you are playing: always-on uORE accumulation, motherlode variance, or discount-filter mining. Check ore.fyi first. If production cost is above spot, only continue if your uORE hold thesis or jackpot budget is explicit; otherwise wait, resize, or buy instead.
+```
+
+```text
+!discountmine — A 20% production-cost discount target is a filter, not a promise. Scripts and patience can help you wait for better entries, but competition and variance still matter. If the filter does not fire, sitting out is part of the strategy.
+```

@@ -255,3 +255,17 @@ The evening channel added two reusable education snippets: one for motherlode hi
 ```text
 !startmining — If you already hold ORE, staking it is the passive baseline. If you want to learn mining, keep a little SOL aside and start tiny: preferably 25 tiles, many rounds, and around 0.001 SOL/round or less until you understand the settings. Mine to learn first; scale only after the process feels boring.
 ```
+
+---
+
+## Update — 2026-05-12
+
+The late-night thread gave the Almanac better shorthand for production-cost discipline. Deflation wanted to understand why anyone mines when production cost is above buy price; Fronk separated the room into always-on miners and motherlode chasers. Keep the command neutral: it should help a miner name their own intent before they press start.
+
+```text
+!costtribes — Before mining, decide which game you are playing: always-on uORE accumulation, motherlode variance, or discount-filter mining. Check ore.fyi first. If production cost is above spot, only continue if your uORE hold thesis or jackpot budget is explicit; otherwise wait, resize, or buy instead.
+```
+
+```text
+!discountmine — A 20% production-cost discount target is a filter, not a promise. Scripts and patience can help you wait for better entries, but competition and variance still matter. If the filter does not fire, sitting out is part of the strategy.
+```

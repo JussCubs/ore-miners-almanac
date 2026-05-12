@@ -245,3 +245,25 @@ Practical translation:
 - `0.001 SOL` per round, or even less, is enough to learn rhythm without turning the first week into a stress test.
 
 The core strategy is not “stake or mine.” It is **stake what you have, mine tiny while learning, and let repetition create the edge.**
+
+---
+
+## Production-cost tribes: always-on vs discount filters
+
+Deflation asked the question every cost-aware miner eventually asks: **who keeps mining when ore.fyi production cost is higher than simply buying ORE?** Fronk's answer is a useful map of the room.
+
+There are at least three different motivations hiding under the same “mining” button:
+
+- **Always-be-mining stackers** keep sessions running because they value habit, uORE accumulation, and staying in the game more than catching a perfect entry.
+- **Motherlode chasers** may accept worse displayed production cost because they are paying for jackpot variance; their demand can push production cost higher for everyone else.
+- **Discount-filter miners** wait for conditions where their modeled production cost is meaningfully below spot price — deflation's target was around a **20% discount**.
+
+The education takeaway is not that one tribe is always right. It is that miners should know which game they are playing before they size up. If the plan is uORE accumulation, be honest about hold time and claim friction. If the plan is motherlode hunting, budget it like variance. If the plan is discount mining, be willing to sit out when the filter does not fire.
+
+Reusable checklist:
+
+- check ore.fyi before each session;
+- decide whether the session is accumulation, jackpot hunting, or discount-only mining;
+- keep deploy size small enough that “no entry” feels acceptable;
+- do not copy always-on behavior with a discount-filter bankroll;
+- log first wins and low-balance failures so the strategy improves from evidence instead of emotion.
