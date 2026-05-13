@@ -597,3 +597,21 @@ Reusable response:
 ```text
 !15kminer — Cragglebear's 15k-round case study is a budgeting and attribution lesson: 25 tiles, ~0.01 SOL/round, 25.57 uORE mined, and about $57 cost/ORE. The run looked profitable at the later ORE price, but near flat at the starting price. Before copying it, ask whether you can survive the weekly SOL cost and whether the edge came from mining execution, ORE price movement, or both.
 ```
+
+## 2026-05-13 Discord Update — official first step for new miners
+
+Captured 5 new messages from 2026-05-13T14:07:13.545000+00:00 through 2026-05-13T14:11:58.062000+00:00.
+
+**Most active voices:** Dr Salt (NFA) (3), Lioracrypto. (1), Alpha (1).
+
+**Newcomer story:** Lioracrypto arrived with the simplest possible onboarding question: “Please how to mine ORE.” Alpha’s answer was short but important: go to **ore.supply** and check the **About** section. Dr Salt kept the moment light, but the teaching pattern is serious — the first answer should point a new miner to official basics before tools, strategies, or DMs.
+
+**Strategy insight:** “How do I mine?” should not immediately become “copy this setup.” The Almanac should answer in layers: official protocol explainer first, public Q&A second, safe tiny 25-tile learning session third, production-cost checks before scaling. That preserves Thep’s education hub as a safe front door instead of a scroll of advanced variance notes.
+
+**What changed in the Almanac:** added an official-first onboarding note to the Beginner Guide and a reusable `!howtomine` command for volunteers answering fresh miners.
+
+Reusable response:
+
+```text
+!howtomine — Start at ore.supply and read the About section before connecting funds or copying anyone’s setup. Then come back with questions, use verified links, start tiny, mine all 25 tiles while learning, check ore.fyi production cost, and ignore random DM “help.”
+```

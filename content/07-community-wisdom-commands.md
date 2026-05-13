@@ -128,8 +128,15 @@ Newcomer safety reminder after scam DMs targeted fresh miners asking questions.
 
 > Do not trust mining links or help offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything.
 
+### !howtomine
+
+First-answer pattern for “how do I mine ORE?” Keep it official-link first, then safe settings.
+
+> Start at ore.supply and read the About section before connecting funds or copying anyone’s setup. Then come back with questions, use verified links, start tiny, mine all 25 tiles while learning, check ore.fyi production cost, and ignore random DM “help.”
+
 ## Rapid-fire wisdom
 
+- **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
 - **How many tiles?** 25. Always 25.
 - **Should I claim?** No. Wait at least 1.5 months if you must.
 - **What's the APR?** ~70-75% on uORE.
@@ -322,4 +329,11 @@ Cragglebear's 15,000-round follow-up adds a second reusable lesson: do not confu
 
 ```text
 !15kminer — Cragglebear's 15k-round case study is a budgeting and attribution lesson: 25 tiles, ~0.01 SOL/round, 25.57 uORE mined, and about $57 cost/ORE. The run looked profitable at the later ORE price, but near flat at the starting price. Before copying it, ask whether you can survive the weekly SOL cost and whether the edge came from mining execution, ORE price movement, or both.
+```
+
+
+A short newcomer moment added a useful command: Lioracrypto asked “Please how to mine ORE,” and Alpha gave the right first pointer — go to `ore.supply` and read the About section. The important pattern is official basics before strategy. Do not turn a beginner’s first question into a DM funnel or an advanced variance debate.
+
+```text
+!howtomine — Start at ore.supply and read the About section before connecting funds or copying anyone’s setup. Then come back with questions, use verified links, start tiny, mine all 25 tiles while learning, check ore.fyi production cost, and ignore random DM “help.”
 ```

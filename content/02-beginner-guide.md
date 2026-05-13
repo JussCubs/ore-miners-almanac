@@ -4,6 +4,17 @@ If you are new, keep it boring at first.
 
 The most repeated beginner advice is to start low and slow across the full board, learn how rounds feel, and avoid turning mining into an expensive tile bet before you understand the system.
 
+## First stop: official basics
+
+When someone asks “how do I mine ORE?”, the clean community answer is not a random DM or a mystery link. Start at **ore.supply**, read the **About** section, then come back to the mining channel with specific questions. That keeps newcomers anchored to the official protocol explainer before they copy strategy screenshots or tool settings.
+
+A safe first path:
+
+- Open `ore.supply` and read the About section.
+- Learn what ORE/uORE, rounds, tiles, claims, and motherlodes mean.
+- Ignore unsolicited DMs; ask questions publicly.
+- Use verified links only, then start with tiny settings.
+
 ## First things first: safe defaults
 
 This is critical. Brian's feedback from the community resonates:
