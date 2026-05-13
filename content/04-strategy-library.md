@@ -282,6 +282,21 @@ Reusable framing:
 
 This belongs in the advanced shelf. Beginners should not hear “150-250 ORE” as permission to overdeploy. They should hear: **even motherlode hunters need a stop rule.**
 
+### Testing motherlode-size filters
+
+Willd's next-test idea gives this section a cleaner research loop: split mining results by motherlode bands, for example **0-75**, **75-150**, **150-250**, and **250+ ORE**, then compare cost basis and reward source by band instead of arguing from memory. Cragglebear's response adds the caution: split rounds may deteriorate above roughly 200 ORE as competition increases, while top-miner outcomes can still look random rather than neatly tied to low-motherlode windows.
+
+Use this as an experiment design, not a shortcut:
+
+- tag each session with the motherlode band at entry;
+- separate top-miner wins, split rewards, and motherlode hits;
+- record total deployed SOL and production cost, not only ORE won;
+- expect high-motherlode bands to attract more hunters and dilute clean split-round economics;
+- do not assume low motherlode automatically means top-miner edge — fewer chasers can help, but randomness still matters;
+- only turn a band into a filter after many logged sessions.
+
+The useful story for Thep's education hub: “ML filters” are a way to ask better questions. They are not a replacement for bankroll limits, tile discipline, and live cost checks.
+
 ---
 
 ## Time-of-day production-cost patterns

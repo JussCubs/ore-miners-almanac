@@ -337,3 +337,13 @@ A short newcomer moment added a useful command: Lioracrypto asked “Please how 
 ```text
 !howtomine — Start at ore.supply and read the About section before connecting funds or copying anyone’s setup. Then come back with questions, use verified links, start tiny, mine all 25 tiles while learning, check ore.fyi production cost, and ignore random DM “help.”
 ```
+
+---
+
+## Update — 2026-05-13
+
+Willd and Cragglebear turned the motherlode-chasing debate into a better testing prompt: instead of saying “large ML good” or “large ML bad,” sort sessions into bands and measure what actually changes. The likely lesson is dilution: split rounds can get worse once the motherlode is large enough to pull in more hunters, while top-miner hits may stay noisy and less tied to a single jackpot-size threshold than people expect.
+
+```text
+!mlfilters — If you test motherlode filters, log sessions by bands like 0-75, 75-150, 150-250, and 250+ ORE. Separate top-miner wins, split rewards, and ML hits. Big ML can invite dilution, especially for splits, so treat the filter as research plus a stop rule — not permission to overdeploy.
+```

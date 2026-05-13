@@ -615,3 +615,21 @@ Reusable response:
 ```text
 !howtomine — Start at ore.supply and read the About section before connecting funds or copying anyone’s setup. Then come back with questions, use verified links, start tiny, mine all 25 tiles while learning, check ore.fyi production cost, and ignore random DM “help.”
 ```
+
+## 2026-05-13 Discord Update — motherlode-filter testing
+
+Captured 3 new messages from 2026-05-13T17:19:14.808000+00:00 through 2026-05-13T17:43:12.985000+00:00.
+
+**Most active voices:** willd // next minemore soon (2), Cragglebear (1).
+
+**Miner story:** Willd proposed the next useful experiment for serious session loggers: add motherlode-size filters and compare results across bands like **0-75**, **75-150**, **150-250**, and **250+ ORE**. Cragglebear added the experienced caution: split rounds probably get worse as the visible motherlode climbs past roughly 200 ORE and pulls more competition, while top-miner outcomes can still arrive randomly rather than neatly at the “obvious” low-motherlode moments.
+
+**Strategy insight:** this is exactly the kind of channel exchange Thep's hub should preserve. It turns a vibes debate into an experiment design. A miner testing ML filters should tag every session by jackpot band, split top-miner rewards from split-round rewards, track total deployed SOL, and compare production cost after the fact. If the 250+ band attracts too many chasers, the headline jackpot can look better while each miner's expected share gets thinner.
+
+**What changed in the Almanac:** added a motherlode-size filter testing note to the Strategy Library and a reusable `!mlfilters` command for advanced miners who are logging sessions.
+
+Reusable response:
+
+```text
+!mlfilters — If you test motherlode filters, log sessions by bands like 0-75, 75-150, 150-250, and 250+ ORE. Separate top-miner wins, split rewards, and ML hits. Big ML can invite dilution, especially for splits, so treat the filter as research plus a stop rule — not permission to overdeploy.
+```
