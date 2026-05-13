@@ -83,6 +83,7 @@ Use this framing when preserving the lesson:
 - Ignore production cost — mining at a loss is not a strategy
 - Deploy all your SOL — keep reserves for gas and emergencies
 - Chase motherlodes — they're a bonus, not a strategy
+- Confuse a bullish ORE price with a good mining window — price-up can attract more deployment and make easy-mode mining harder
 
 ---
 

@@ -44,6 +44,10 @@ Community consensus on claiming:
 
 Points miners to refinORE and Roberto as the command center for managing, monitoring, and maintaining a mining strategy.
 
+### !priceeasy
+
+Explains the holder/miner tension when ORE price rises: price-up can be good for the asset thesis while making easy mining windows less common if attention and deployment crowd the board.
+
 ### !lore
 
 Links to the origin stories and early motherlode history so new miners understand they are joining a living community, not just clicking a mining button.
@@ -302,4 +306,14 @@ Navigator's one-hour win report is useful because it shows how the channel talks
 
 ```text
 !greenwindow — When miners say “mining is good rn,” they usually mean live conditions look playable: production cost, tile competition, and recent rewards are lining up. Treat it as a prompt to check ore.fyi and size a controlled session, not as a guarantee. Log whether the result came from solo wins, splits, or motherlode variance.
+```
+
+---
+
+## Update — 2026-05-13
+
+Cragglebear captured a small but important miner psychology point: everyone likes ORE price going up, but miners also miss the “easy mode” windows where production cost, competition, and deployment pressure are softer. This should become a simple command because it helps newcomers separate their asset thesis from their next mining-session decision.
+
+```text
+!priceeasy — ORE price going up is good for holders, but it can make mining feel less “easy mode” if attention and deployment crowd the board. Separate the asset thesis from the session decision: check ore.fyi, compare production cost to spot, size down or sit out when the board gets crowded, and remember buying/staking can beat forcing a bad mining window.
 ```

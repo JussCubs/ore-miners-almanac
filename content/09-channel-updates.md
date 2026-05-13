@@ -563,3 +563,21 @@ Captured 3 new messages from 2026-05-12T15:22:10.743000+00:00 through 2026-05-12
 ```text
 !greenwindow — When miners say “mining is good rn,” they usually mean live conditions look playable: production cost, tile competition, and recent rewards are lining up. Treat it as a prompt to check ore.fyi and size a controlled session, not as a guarantee. Log whether the result came from solo wins, splits, or motherlode variance.
 ```
+
+## 2026-05-13 Discord Update — price-up vs easy-mode tension
+
+Captured 1 new message from 2026-05-12T22:07:55.281000+00:00 through 2026-05-12T22:07:55.281000+00:00.
+
+**Most active voice:** Cragglebear (1).
+
+**Sentiment read:** light, self-aware, and useful for onboarding. Cragglebear summed up a tension miners feel when the ORE chart improves: holders like price going up, but miners can miss the “easy mode” windows where lower competition or lower production cost made accumulation feel calmer.
+
+**Storytelling note:** preserve the joke because it teaches the emotional rhythm of the protocol. Mining is not only “price up good.” A higher price can pull more attention, more deployment, and more variance into the board. The experienced-miner move is to enjoy the bullish tape while still checking whether the live mining board is actually playable.
+
+**Strategy insight:** separate asset thesis from session decision. Wanting ORE price to rise is a long-term holder impulse; wanting “easy mode” is a miner's production-cost impulse. Before starting a session, decide which lens matters today: stack/hold, mine only when cost is favorable, or sit out and buy/stake instead.
+
+**Reusable bot-command snippet:**
+
+```text
+!priceeasy — ORE price going up is good for holders, but it can make mining feel less “easy mode” if attention and deployment crowd the board. Separate the asset thesis from the session decision: check ore.fyi, compare production cost to spot, size down or sit out when the board gets crowded, and remember buying/staking can beat forcing a bad mining window.
+```
