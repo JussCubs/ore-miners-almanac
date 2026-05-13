@@ -581,3 +581,19 @@ Captured 1 new message from 2026-05-12T22:07:55.281000+00:00 through 2026-05-12T
 ```text
 !priceeasy — ORE price going up is good for holders, but it can make mining feel less “easy mode” if attention and deployment crowd the board. Separate the asset thesis from the session decision: check ore.fyi, compare production cost to spot, size down or sit out when the board gets crowded, and remember buying/staking can beat forcing a bad mining window.
 ```
+
+## 2026-05-13 Discord Update — 15k-round case-study follow-up
+
+Captured 7 new messages from 2026-05-13T08:13:58.309000+00:00 through 2026-05-13T11:37:09.758000+00:00. Most of the chatter was light domain/banter noise; the reusable education update came from Cragglebear's latest always-on mining screenshots.
+
+**Miner story:** Cragglebear's 24/7 full-grid miner is now approaching **15,000 rounds** with no major change in mining cost. The current screenshot showed **14,701 rounds**, **25.57 uORE** mined, **15.4364 SOL** net cost, and a displayed **$57.07 cost per ORE**.
+
+**Strategy insight:** the run is useful because it separates execution from market movement. At the later ORE reference price near **$82.71**, the uORE value was shown around **$2,115** versus about **$1,459** of SOL cost, a roughly **+$656** current-price profit. At the starting ORE price near **$50.62**, the same mined amount would have been slightly negative. That is the honest education frame: long-session discipline can work, but price appreciation can make the scoreboard look cleaner than the mining edge alone.
+
+**What changed in the Almanac:** added a 15,000-round follow-up under Cragglebear's budget-test strategy notes and a reusable `!15kminer` command for attribution/budgeting conversations.
+
+Reusable response:
+
+```text
+!15kminer — Cragglebear's 15k-round case study is a budgeting and attribution lesson: 25 tiles, ~0.01 SOL/round, 25.57 uORE mined, and about $57 cost/ORE. The run looked profitable at the later ORE price, but near flat at the starting price. Before copying it, ask whether you can survive the weekly SOL cost and whether the edge came from mining execution, ORE price movement, or both.
+```

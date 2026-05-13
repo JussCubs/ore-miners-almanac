@@ -149,6 +149,20 @@ That clarification matters for teaching: treat the screenshots as a community ca
 
 Cragglebear also said he plans to write a longer article on the run. When that lands, fold the article back into this case study without replacing the original channel context.
 
+### 15,000-round follow-up: price movement vs mining edge
+
+Cragglebear's May 13 update extends the same always-on case study past **14,700 rounds** and toward the 15,000-round mark. The headline looked strong at the then-current market price: **25.57 uORE** mined, **$57.07 cost per ORE**, about **$1,459** in SOL/protocol cost, and about **$2,115** in current uORE value. But the most useful teaching detail is the comparison row: at the starting ORE price near **$50.62**, the same run would have shown a small loss; at the later ORE price near **$82.71**, it showed roughly **+$656**.
+
+That makes this a better education story than a victory lap:
+
+- the strategy stayed stable — 25 tiles, about `0.01 SOL/round`, and enough rounds for the distribution to breathe;
+- the result benefited from ORE price appreciation, not only from cheaper mining;
+- top-miner wins drove most of the mined ORE, with split rounds second and motherlode as smaller upside;
+- the weekly-cost table still matters because `0.01 SOL/round` implies around **10.5 SOL** of weekly cost at 10,000 rounds;
+- a miner copying the run should first ask whether they can emotionally survive the flat-price scenario.
+
+Use this follow-up to teach attribution. A good miner separates **mining execution** from **market repricing** before deciding to size up.
+
 ---
 
 ## First-run tiny-budget experiments

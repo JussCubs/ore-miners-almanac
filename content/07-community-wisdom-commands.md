@@ -317,3 +317,9 @@ Cragglebear captured a small but important miner psychology point: everyone like
 ```text
 !priceeasy — ORE price going up is good for holders, but it can make mining feel less “easy mode” if attention and deployment crowd the board. Separate the asset thesis from the session decision: check ore.fyi, compare production cost to spot, size down or sit out when the board gets crowded, and remember buying/staking can beat forcing a bad mining window.
 ```
+
+Cragglebear's 15,000-round follow-up adds a second reusable lesson: do not confuse mining execution with market repricing. His long run showed a strong current-price profit, but the flat-start-price scenario was still slightly negative, which is exactly why miners should attribute wins honestly before sizing up.
+
+```text
+!15kminer — Cragglebear's 15k-round case study is a budgeting and attribution lesson: 25 tiles, ~0.01 SOL/round, 25.57 uORE mined, and about $57 cost/ORE. The run looked profitable at the later ORE price, but near flat at the starting price. Before copying it, ask whether you can survive the weekly SOL cost and whether the edge came from mining execution, ORE price movement, or both.
+```
