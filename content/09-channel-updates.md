@@ -699,3 +699,33 @@ Reusable response:
 ```text
 !haulcheck — If you start a dust miner, let it run long enough to judge the setup, then share the haul with context: deploy size, tiles, rounds, total SOL spent, uORE/ORE won, failed txs, and whether a whale/big gambler changed the round. One green screenshot is a story; a logged run is evidence.
 ```
+
+## 2026-05-14 Discord Update — top-miner definitions and tile-count variance
+
+Captured 17 new messages from 2026-05-14T08:07:17.172000+00:00 through 2026-05-14T10:26:58.652000+00:00.
+
+**Most active voices:** Cragglebear (6), Xenos (5), Diggy (2), RNA(•‿•) (1), deflation (1), bb (1), Yorter (1).
+
+**Miner story:** Xenos asked a clean beginner question: does the amount of ORE mined come from SOL price, SOL deployed, or something else? Cragglebear and Yorter gave the durable answer: output depends on a miner's deployed SOL, everyone else's deployed SOL, round crowding, and variance. The ORE amount is not simply pegged to SOL price. This is exactly the kind of thread Thep's hub should keep because it turns protocol confusion into a plain-language onboarding answer.
+
+**Strategy insight:** the thread also clarified “top miner.” Diggy explained it as winning the round's 1 ORE payout instead of splitting with others. That means a miner's log should split rewards into normal split rewards, top-miner wins, motherlode effects, and uORE held for refining. Otherwise one lucky top-miner hit can make a mediocre setup look genius.
+
+**Tile-count lesson:** Xenos then asked whether **20 tiles** or higher was the sweet spot. Cragglebear framed tile count as a variance dial: **25 tiles** is the low-variance learning baseline where the main drag is protocol cost; **20 tiles** means expecting roughly **5 misses per 25 rounds** over time; **21/22 tiles** can slow SOL leakage if 20 feels too sharp; **13 tiles** is a higher-risk personal-preference setup that can work only when the miner accepts bigger variance.
+
+**Sentiment read:** constructive and educational. The channel is doing healthy public tutoring: beginners ask what the terms mean, experienced miners answer with risk language instead of hype, and reusable commands fall naturally out of the conversation.
+
+**What changed in the Almanac:** replaced raw extracts with narrative notes in the Strategy Library and uORE patience page, and added `!oreoutput`, `!topminer`, and `!tiles` snippets to the community command library.
+
+Reusable responses:
+
+```text
+!oreoutput — ORE mined is not pegged directly to the SOL price. Your output depends on how much SOL you deploy, how much everyone else deploys, whether the round is crowded, and whether rewards come from splits, top-miner wins, or motherlode variance. Avoid crowded rounds when possible and judge by production cost, not vibes.
+```
+
+```text
+!topminer — A top-miner win means you won the round's 1 ORE payout for yourself instead of only sharing split rewards. Log top-miner wins separately from split rewards and motherlode hits so one lucky round does not distort the whole strategy.
+```
+
+```text
+!tiles — Tile count is a variance dial. 25 tiles is the low-variance learning baseline. Around 20+ tiles can be a first step down, but at 20 tiles you should expect to miss about 5 of every 25 rounds over time. If SOL leaks too fast, try 21/22 before going riskier; 13 tiles is high-variance and needs a real bankroll/stop rule.
+```

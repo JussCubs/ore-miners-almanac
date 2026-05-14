@@ -396,3 +396,21 @@ The follow-up after Zen started a dust run produced a useful logging command. Cr
 ```text
 !haulcheck — If you start a dust miner, let it run long enough to judge the setup, then share the haul with context: deploy size, tiles, rounds, total SOL spent, uORE/ORE won, failed txs, and whether a whale/big gambler changed the round. One green screenshot is a story; a logged run is evidence.
 ```
+
+---
+
+## Update — 2026-05-14
+
+The latest beginner Q&A produced three reusable snippets: one for explaining what determines ORE output, one for defining top-miner wins, and one for tile-count risk. Keep the answers simple: mining output is driven by deployed SOL and round competition, not a direct SOL/USD peg; top-miner wins are jackpot-like round outcomes; lower tile counts reduce cost but increase miss-rate variance.
+
+```text
+!oreoutput — ORE mined is not pegged directly to the SOL price. Your output depends on how much SOL you deploy, how much everyone else deploys, whether the round is crowded, and whether rewards come from splits, top-miner wins, or motherlode variance. Avoid crowded rounds when possible and judge by production cost, not vibes.
+```
+
+```text
+!topminer — A top-miner win means you won the round's 1 ORE payout for yourself instead of only sharing split rewards. Log top-miner wins separately from split rewards and motherlode hits so one lucky round does not distort the whole strategy.
+```
+
+```text
+!tiles — Tile count is a variance dial. 25 tiles is the low-variance learning baseline. Around 20+ tiles can be a first step down, but at 20 tiles you should expect to miss about 5 of every 25 rounds over time. If SOL leaks too fast, try 21/22 before going riskier; 13 tiles is high-variance and needs a real bankroll/stop rule.
+```

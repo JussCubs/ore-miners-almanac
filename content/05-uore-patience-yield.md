@@ -169,3 +169,18 @@ Reusable command snippet:
 ```text
 !uoregoal — Want 1 uORE fast? Start with budget, not vibes. Pick a daily/weekly SOL cap, mine tiny across all 25 tiles while learning, check ore.fyi production cost, and remember that multiple wallets help with claim/yield isolation — they do not remove the 10% claim fee or make bad windows good.
 ```
+
+---
+
+## Wallet separation and top-miner clarity
+
+Xenos shared a useful beginner-to-patient-miner transition: starting with a small Seeker-era setup, then moving mining to another wallet after learning how uORE works. That is the right instinct when the goal is to separate experiments, claims, and long-hold refining decisions. Multiple wallets do not change protocol math, but they can make accounting and yield discipline much cleaner.
+
+The same thread clarified “top miner,” a term that can confuse new miners. In channel shorthand, a **top-miner win** means the miner wins the round's 1 ORE payout for themselves instead of only receiving split rewards. That is why experienced miners separate their logs into different reward types:
+
+- split-round rewards from normal participation;
+- top-miner wins from landing the round payout;
+- motherlode variance when jackpot conditions matter;
+- uORE held for refining yield instead of immediately claimed.
+
+For uORE patience, this distinction matters because one lucky top-miner hit can make a session look better than the underlying accumulation strategy. Log it, celebrate it, but do not let one top-miner win rewrite the wallet plan.

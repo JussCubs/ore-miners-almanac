@@ -380,3 +380,20 @@ The beginner-safe core has not changed: start tiny, cover all 25 tiles, and trea
 - the miner's weekly SOL budget.
 
 So `0.001` is best taught as a **learning-size anchor**, not a magic setting. If conditions are poor, even dust can be a bad entry. If conditions are favorable, the correct move is still to size from budget first and avoid emotional “I need to win” scaling.
+
+---
+
+## Tile count as the variance dial
+
+Xenos asked the practical version of every beginner's next question after learning the 25-tile dust setup: what is the sweet spot if a miner wants to drop below full coverage? Cragglebear's answer is worth preserving because it explains tile count as a **variance dial**, not a secret setting.
+
+At **25 tiles**, the miner is mostly paying the protocol drag while avoiding tile-selection variance. Once the miner removes tiles, missed winning tiles become part of the expected result. At **20 tiles**, a miner should expect to miss about **5 of every 25 rounds** over enough attempts. That can be acceptable, but only if the miner sized the run expecting those blank rounds.
+
+Practical framing:
+
+- **25 tiles** is the beginner/learning baseline: lower variance, clearer accounting, mostly protocol-fee drag.
+- **20+ tiles** is a reasonable first step down if full coverage is leaking too much SOL.
+- **21-22 tiles** can be a safer adjustment if 20 tiles still feels too leaky.
+- **13 tiles** can work for experienced miners, but it is explicitly higher risk and depends more on lucky runs.
+
+The teaching line: dropping tiles does not make the miner smarter by itself. It trades cost for variance. Use it only with a bankroll, round count, and stop rule that can survive the extra misses.
