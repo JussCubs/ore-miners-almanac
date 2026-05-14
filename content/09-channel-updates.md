@@ -681,3 +681,21 @@ Reusable responses:
 ```text
 !weekcost — To know if auto-reload can mine for a week, multiply deploy size × expected rounds, then add tx/automation costs and failed-tx slack. If the 7-day cost would make you panic, lower deploy size before you start. A rolling 7-day cost chart is guidance, not a guarantee.
 ```
+
+## 2026-05-14 Discord Update — starting the week-long dust run and reading “big gambler” wins
+
+Captured 4 new messages from 2026-05-14T05:15:16.555000+00:00 through 2026-05-14T07:52:04.551000+00:00.
+
+**Most active voices:** Cragglebear (2), Zen (1), deflation (1).
+
+**Miner story:** after the earlier weekly-budget discussion, Zen moved from planning to execution — “running it rn.” Cragglebear’s response is the right community habit to preserve: wish them luck, then ask to see the haul after it has run for a while. That turns an individual dust-mining experiment into shared evidence instead of another one-off vibe check.
+
+**Strategy insight:** Deflation posted a narrow win screenshot — round `261697`, bid won on square `25`, `+564.8%`, `+$6.9857`, selected squares `[24,16,6,4,22,5,2,25,21,20,1,18,12,9,14]`, and `14.8` shown at the end — with the note “thanks to the one that gambled that big.” The reusable lesson is not “copy the screenshot.” It is that a large entrant can change a round’s payout texture for everyone else, especially for miners already positioned on the winning tile. Treat that as variance attribution: note the tailwind, log it, and do not resize from one lucky board.
+
+**What changed in the Almanac:** added a big-gambler tailwind note to the Strategy Library and a reusable `!haulcheck` command for turning live miner wins into useful logs.
+
+Reusable response:
+
+```text
+!haulcheck — If you start a dust miner, let it run long enough to judge the setup, then share the haul with context: deploy size, tiles, rounds, total SOL spent, uORE/ORE won, failed txs, and whether a whale/big gambler changed the round. One green screenshot is a story; a logged run is evidence.
+```

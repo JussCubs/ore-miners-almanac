@@ -386,3 +386,13 @@ The dust-mining budget thread produced two reusable commands: one for goal-setti
 ```text
 !weekcost — To know if auto-reload can mine for a week, multiply deploy size × expected rounds, then add tx/automation costs and failed-tx slack. If the 7-day cost would make you panic, lower deploy size before you start. A rolling 7-day cost chart is guidance, not a guarantee.
 ```
+
+---
+
+## Update — 2026-05-14
+
+The follow-up after Zen started a dust run produced a useful logging command. Cragglebear asked to see the haul once it had run for a while, and Deflation's “thanks to the one that gambled that big” win screenshot was a reminder to attribute green rounds honestly instead of turning them into instant strategy claims.
+
+```text
+!haulcheck — If you start a dust miner, let it run long enough to judge the setup, then share the haul with context: deploy size, tiles, rounds, total SOL spent, uORE/ORE won, failed txs, and whether a whale/big gambler changed the round. One green screenshot is a story; a logged run is evidence.
+```

@@ -76,6 +76,20 @@ Use this framing when preserving the lesson:
 - test with tiny size first and log the session separately;
 - if you cannot explain the EV filter in one sentence, use the low-and-slow 25-tile beginner path instead.
 
+### Big-gambler tailwinds
+
+Deflation's win note — “thanks to the one that gambled that big” — is worth preserving as attribution discipline. Sometimes a miner benefits because a larger entrant changes the payout texture of the round, not because the smaller miner discovered a repeatable edge.
+
+When a screenshot shows a huge percentage win, log the context before copying it:
+
+- which square won;
+- how many tiles the miner covered;
+- whether a whale or “big gambler” inflated the round;
+- total deploy size and transaction failures;
+- whether the result was a one-round spike or part of a longer run.
+
+A green board can be a good story and still be bad evidence.
+
 ## What NOT to do
 
 - Mine fewer than 25 tiles thinking it's "safer" — it increases variance
