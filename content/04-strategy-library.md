@@ -350,3 +350,19 @@ Teaching frame:
 - if the board gets crowded or production cost rises, stop with the win instead of feeding it back emotionally.
 
 The strongest lesson is emotional: good windows reward prepared miners, not miners who chase every green candle.
+
+---
+
+## Dust strategy check-ins
+
+OGLilsBTC asked whether the “dust strat” had changed from **0.001 SOL per round across 25 blocks**. That question is useful because it shows how old shorthand can become dangerous if it turns into a frozen recipe.
+
+The beginner-safe core has not changed: start tiny, cover all 25 tiles, and treat early sessions as education. What does change is the live context around that setting:
+
+- ORE spot price and ore.fyi production cost;
+- tile crowding and total deployed SOL;
+- motherlode size and how many chasers it attracts;
+- whether the miner is trying to learn, accumulate uORE, or force a win;
+- the miner's weekly SOL budget.
+
+So `0.001` is best taught as a **learning-size anchor**, not a magic setting. If conditions are poor, even dust can be a bad entry. If conditions are favorable, the correct move is still to size from budget first and avoid emotional “I need to win” scaling.

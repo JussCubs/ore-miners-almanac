@@ -134,6 +134,14 @@ First-answer pattern for “how do I mine ORE?” Keep it official-link first, t
 
 > Start at ore.supply and read the About section before connecting funds or copying anyone’s setup. Then come back with questions, use verified links, start tiny, mine all 25 tiles while learning, check ore.fyi production cost, and ignore random DM “help.”
 
+### !txfees
+
+Autominer troubleshooting shorthand: separate protocol automated-transaction cost, third-party tool fees, failed transaction rate, and late-slot/intermission timing before deciding a miner is too expensive or broken.
+
+### !duststrat
+
+Keeps the old `0.001 SOL` / 25-tile dust strategy in context: useful as a learning-size anchor, not a magic setting or permission to chase wins emotionally.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -152,6 +160,8 @@ First-answer pattern for “how do I mine ORE?” Keep it official-link first, t
 - **MineMore alternative?** refinORE — verify links, start tiny, and migrate settings slowly.
 - **Is there an optimal mining setup?** Not fixed forever — price, deployment, tile crowding, and motherlode size move. Use a disciplined decision loop instead.
 - **Random DM offered help?** Treat it as a scam until proven otherwise in public by trusted community links.
+- **Autominer txs failing?** Separate protocol cost, tool fees, failed tx rate, and late-slot timing; test tiny until boring.
+- **Is `0.001 SOL` dust strat still good?** It is a learning-size anchor, not a magic setting. Check live production cost and budget.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
@@ -346,4 +356,19 @@ Willd and Cragglebear turned the motherlode-chasing debate into a better testing
 
 ```text
 !mlfilters — If you test motherlode filters, log sessions by bands like 0-75, 75-150, 150-250, and 250+ ORE. Separate top-miner wins, split rewards, and ML hits. Big ML can invite dilution, especially for splits, so treat the filter as research plus a stop rule — not permission to overdeploy.
+```
+
+
+---
+
+## Update — 2026-05-14
+
+The latest autominer troubleshooting thread produced two command-worthy snippets: one for transaction-fee confusion and one for dust-strategy drift. Keep both practical and beginner-safe. The goal is not to make private autominer debugging sound easy; it is to help miners name the moving parts before they overreact.
+
+```text
+!txfees — Separate the costs before blaming the miner: protocol automated-transaction cost, any third-party tool fee, failed transaction count, and late-slot/intermission timing. If txs are failing near intermission, deploy earlier in the slot and keep test size tiny until failure rate is boring.
+```
+
+```text
+!duststrat — `0.001 SOL` across 25 tiles is a learning-size anchor, not a magic win setting. Use all 25 tiles while learning, check ore.fyi production cost, size from weekly SOL budget, and do not scale up just because you feel overdue.
 ```

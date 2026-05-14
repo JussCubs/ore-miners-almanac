@@ -633,3 +633,27 @@ Reusable response:
 ```text
 !mlfilters — If you test motherlode filters, log sessions by bands like 0-75, 75-150, 150-250, and 250+ ORE. Separate top-miner wins, split rewards, and ML hits. Big ML can invite dilution, especially for splits, so treat the filter as research plus a stop rule — not permission to overdeploy.
 ```
+
+## 2026-05-14 Discord Update — autominer costs, failed txs, and dust-strat sanity
+
+Captured 24 new messages from 2026-05-13T20:38:11.796000+00:00 through 2026-05-14T00:02:27.196000+00:00.
+
+**Most active voices:** deflation (11), starship_fronk⛏️ (8), willd // next minemore soon (3), SLxTnT (1), OGLilsBTC (1).
+
+**Miner story:** Deflation was testing a private autominer and running into failed transactions, including the painful kind that miss right before a jackpot/intermission moment. Fronk clarified that the autominer has a protocol-level automated-transaction cost, while third-party tools may add separate fees. SLxTnT put a concrete number on the current floor — around **0.000007 SOL**, about **0.000002 SOL above minimum transaction cost** — and Willd gave the practical fix: deploy earlier in the slot instead of too close to intermission.
+
+**Strategy insight:** failed txs are not just “bad luck.” They are part of execution quality. A miner debugging an autominer should separate protocol cost, tool fee, failed-transaction rate, slot timing, and strategy outcome before deciding the whole approach is too expensive. This is especially important for private or experimental automation where the miner owns more of the execution risk.
+
+**Dust-strat note:** OGLilsBTC asked whether the dust strategy had changed from `0.001 SOL` per round across 25 blocks. The safer answer is that `0.001` remains a useful learning-size anchor, not a permanent magic setting. Keep all 25 tiles while learning, check ore.fyi, and resize from weekly SOL budget plus live production cost — not from the feeling of needing a win.
+
+**What changed in the Almanac:** refined the Strategy Library with a dust-strat sanity check, updated the Roberto Command Center with autominer fee/failed-tx clarity, and added reusable `!txfees` and `!duststrat` snippets.
+
+Reusable responses:
+
+```text
+!txfees — Separate the costs before blaming the miner: protocol automated-transaction cost, any third-party tool fee, failed transaction count, and late-slot/intermission timing. If txs are failing near intermission, deploy earlier in the slot and keep test size tiny until failure rate is boring.
+```
+
+```text
+!duststrat — `0.001 SOL` across 25 tiles is a learning-size anchor, not a magic win setting. Use all 25 tiles while learning, check ore.fyi production cost, size from weekly SOL budget, and do not scale up just because you feel overdue.
+```

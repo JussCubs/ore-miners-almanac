@@ -88,3 +88,23 @@ The channel keeps circling one product-grade insight: mining conditions are soci
 That is exactly the kind of context Roberto should eventually preserve for miners: not private identity data, but observable timing patterns, cost bands, and session outcomes. A good command center can help answer, “Is this actually a softer window, or am I just seeing one lucky round?”
 
 Use this carefully. Time-of-day edges should become prompts to check live data, not folklore that makes miners ignore production cost.
+
+---
+
+## Autominer fee and failed-transaction clarity
+
+A May 14 thread surfaced exactly the kind of confusion a command center should make boring: miners need to know which costs are protocol-level, which costs belong to a third-party tool, and which costs come from their own failed or poorly timed transactions.
+
+Fronk clarified the baseline: **0.000005 SOL is collected by the protocol per automated transaction** when scheduling the autominer, offsetting Solana transaction costs. SLxTnT added a practical fee-floor reference of about **0.000007 SOL**, roughly **0.000002 SOL above minimum transaction cost**. Fronk also reminded miners that third-party autominers may add their own fees on top.
+
+Deflation's private-autominer troubleshooting gives the product lesson: failed transactions near jackpot/intermission windows feel brutal because the miner pays attention cost, opportunity cost, and sometimes fee cost without getting the intended entry. Willd's advice belongs in Roberto's future guardrails: **deploy earlier in the slot instead of too close to intermission**.
+
+A good Roberto view should separate these line items clearly:
+
+- protocol automated-transaction cost;
+- tool or service fee, if any;
+- failed transaction count and reason;
+- late-slot/intermission risk;
+- total session spend versus uORE earned.
+
+That keeps miners from blaming the wrong thing and helps builders debug without turning the public channel into a support ticket maze.
