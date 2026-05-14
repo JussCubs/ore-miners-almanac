@@ -142,6 +142,24 @@ Autominer troubleshooting shorthand: separate protocol automated-transaction cos
 
 Keeps the old `0.001 SOL` / 25-tile dust strategy in context: useful as a learning-size anchor, not a magic setting or permission to chase wins emotionally.
 
+### !lottery
+
+Tiny lottery-account framing: smaller deploys buy more rounds, giving variance more time to work. Use it for patient accumulation, not guaranteed profit.
+
+> Lottery mining works only if the size is small enough to survive. Bigger blocks can win fast but bleed fast; tiny blocks buy time for top-miner luck and motherlode variance. Pick a SOL runway first, then let the setup run long enough to mean something.
+
+### !wallets
+
+Multiple-wallet clarification: extra wallets can help with withdrawals, claim isolation, and accounting, but they do not improve mining odds by themselves.
+
+> Multiple wallets do not change mining odds, tile math, or motherlode share. Use them to separate experiments, withdrawals, and long-hold uORE plans — not because they magically make a bad setup profitable.
+
+### !mlshare
+
+Motherlode-share explainer: jackpot size alone does not tell you what you will earn. Your share depends on how much you deploy on the winning tile compared with everyone else there.
+
+> A 100 ORE motherlode does not have a fixed payout for `0.004 SOL/block`. Your share depends on the total SOL deployed by all miners on the winning tile. Bigger jackpot + crowded tile can pay less than smaller jackpot + quieter tile. Log crowding, not only ML size.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -162,6 +180,9 @@ Keeps the old `0.001 SOL` / 25-tile dust strategy in context: useful as a learni
 - **Random DM offered help?** Treat it as a scam until proven otherwise in public by trusted community links.
 - **Autominer txs failing?** Separate protocol cost, tool fees, failed tx rate, and late-slot timing; test tiny until boring.
 - **Is `0.001 SOL` dust strat still good?** It is a learning-size anchor, not a magic setting. Check live production cost and budget.
+- **Does lottery mining work?** Only if the deploy size is small enough to survive enough rounds for variance to help.
+- **Do multiple wallets improve mining?** No — they help with withdrawals/accounting, not odds.
+- **What would I get from a 100 ORE motherlode?** It depends on total SOL deployed on the winning tile; there is no fixed payout without crowding data.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 

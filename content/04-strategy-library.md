@@ -367,6 +367,24 @@ The strongest lesson is emotional: good windows reward prepared miners, not mine
 
 ---
 
+## Lottery accounts: making variance your friend
+
+nftimm's lottery-account update gives the Almanac a better way to explain tiny always-on mining. He described a ladder of accounts — one larger account around `0.004 SOL` per block, several around `0.001 SOL` per block, and very small bottom accounts around `0.0001 SOL` per block — with the goal of letting several accounts slowly grind toward their first 1 ORE.
+
+The key phrase is worth preserving: **“give maximum time for variance to be your friend.”** Bigger per-block deploys can produce fast green screenshots, but they also bleed SOL faster. Smaller deploys may feel boring, yet they buy time for many rounds, top-miner luck, and occasional motherlode variance to show up without forcing the miner to quit after one bad stretch.
+
+Use this as a patience strategy, not as a guarantee:
+
+- `0.01 SOL` per block across all blocks can win quickly, but it can also drain a bankroll quickly;
+- `0.004 SOL` per block is still meaningful size and should be budgeted as an experienced-miner setting;
+- `0.001 SOL` and `0.0001 SOL` per block are better framed as time-buying lottery/learning sizes;
+- a miner asking “how long until 1 ORE?” needs a round-count and bankroll answer, not a promise;
+- a motherlode share depends on total miner deployment on the winning tile, so no fixed 100-ORE jackpot share exists without knowing the crowd.
+
+Multiple wallets can help separate withdrawal/claim plans, but they do not create a mining edge by themselves. The edge in the story is bankroll survival plus enough attempts for variance to matter.
+
+---
+
 ## Dust strategy check-ins
 
 OGLilsBTC asked whether the “dust strat” had changed from **0.001 SOL per round across 25 blocks**. That question is useful because it shows how old shorthand can become dangerous if it turns into a frozen recipe.

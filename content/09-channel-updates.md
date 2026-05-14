@@ -729,3 +729,35 @@ Reusable responses:
 ```text
 !tiles — Tile count is a variance dial. 25 tiles is the low-variance learning baseline. Around 20+ tiles can be a first step down, but at 20 tiles you should expect to miss about 5 of every 25 rounds over time. If SOL leaks too fast, try 21/22 before going riskier; 13 tiles is high-variance and needs a real bankroll/stop rule.
 ```
+
+## 2026-05-14 Discord Update — lottery accounts and wallet separation
+
+Captured 31 new messages from 2026-05-14T12:34:07.106000+00:00 through 2026-05-14T15:18:45.484000+00:00.
+
+**Most active voices:** Rick (17), nftimm (10), suckytrader (2), willd // next minemore soon (1), RNA(•‿•) (1).
+
+**Miner story:** Rick was testing a larger full-grid setup — `0.01 SOL` per block — and reported a fast green window: about **1 SOL** in for **1.5 ORE** over roughly 40 minutes. nftimm answered with the exact tradeoff the hub should teach: “you'll win lots, but you'll bleed quickly.” That keeps the story honest. Fast size can produce fast screenshots, but the bankroll drain changes the strategy.
+
+**Strategy insight:** nftimm's lottery-account framing is the reusable lesson. His ladder included one bigger account around `0.004 SOL` per block, several around `0.001 SOL`, and bottom accounts around `0.0001 SOL`. The point was not that any number is magic. The point was to “give maximum time for variance to be your friend.” Tiny deploys buy more attempts; more attempts give top-miner luck and motherlode variance time to appear.
+
+**Motherlode/share lesson:** Rick asked what a `0.004 SOL` block might earn if a 100 ORE motherlode hits. nftimm's answer was the durable one: it depends on the amount of miners. Motherlode payout is not determined by jackpot size alone; it depends on total deployment on the winning tile. A crowded 100 ORE ML can disappoint, while a quieter tile can make the same deploy feel huge.
+
+**Wallet lesson:** when multiple wallets came up, nftimm clarified that there is no mining benefit to multiple wallets other than withdrawals. Keep that line in the Almanac because it prevents a common beginner misconception: extra wallets can help with accounting, withdrawal timing, and claim/yield isolation, but they do not improve tile odds or create EV by themselves.
+
+**Sentiment read:** constructive, patient, and practical. The channel was not hyping lottery mining as a cheat code; it was turning real bankroll examples into a cleaner explanation of sizing, runway, and variance.
+
+**What changed in the Almanac:** added a lottery-account strategy note, tightened the uORE wallet-separation language, and added reusable `!lottery`, `!wallets`, and `!mlshare` snippets.
+
+Reusable responses:
+
+```text
+!lottery — Lottery mining works only if the size is small enough to survive. Bigger blocks can win fast but bleed fast; tiny blocks buy time for top-miner luck and motherlode variance. Pick a SOL runway first, then let the setup run long enough to mean something.
+```
+
+```text
+!wallets — Multiple wallets do not change mining odds, tile math, or motherlode share. Use them to separate experiments, withdrawals, and long-hold uORE plans — not because they magically make a bad setup profitable.
+```
+
+```text
+!mlshare — A 100 ORE motherlode does not have a fixed payout for `0.004 SOL/block`. Your share depends on the total SOL deployed by all miners on the winning tile. Bigger jackpot + crowded tile can pay less than smaller jackpot + quieter tile. Log crowding, not only ML size.
+```
