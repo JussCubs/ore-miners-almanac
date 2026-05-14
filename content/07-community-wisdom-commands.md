@@ -435,3 +435,21 @@ The latest beginner Q&A produced three reusable snippets: one for explaining wha
 ```text
 !tiles — Tile count is a variance dial. 25 tiles is the low-variance learning baseline. Around 20+ tiles can be a first step down, but at 20 tiles you should expect to miss about 5 of every 25 rounds over time. If SOL leaks too fast, try 21/22 before going riskier; 13 tiles is high-variance and needs a real bankroll/stop rule.
 ```
+
+---
+
+## Update — 2026-05-14
+
+The auto-reload UX thread produced three reusable commands: one for translating budget into rounds, one for explaining that auto-reload must be pre-funded, and one for daily top-up discipline. The goal is to make miners think in runway instead of vibes.
+
+```text
+!budgetrounds — Set mining runs from budget first: Budget ÷ SOL per round = max authorized rounds before rewards/fees/failures. Example: 10 SOL budget at 0.1 SOL/round authorizes about 100 rounds. Auto-reload can extend runtime by recycling returned SOL, but it is still a runway estimate, not a guarantee.
+```
+
+```text
+!prefund — Auto-reload does not pull unlimited funds from your wallet. You pre-fund/authorize the autominer budget, then returned SOL can be claimed back into the autominer balance if auto-reload is on. Know the total budget before you start.
+```
+
+```text
+!topup — A small daily top-up can keep a low-and-slow miner running without constantly stopping, but treat it like a budget habit: log daily SOL added, uORE earned, failed txs, and current ore.fyi production cost before adding more.
+```

@@ -415,3 +415,23 @@ Practical framing:
 - **13 tiles** can work for experienced miners, but it is explicitly higher risk and depends more on lucky runs.
 
 The teaching line: dropping tiles does not make the miner smarter by itself. It trades cost for variance. Use it only with a bankroll, round count, and stop rule that can survive the extra misses.
+
+---
+
+## Auto-reload budget math: rounds, runway, and full-grid learning
+
+The May 14 auto-reload thread tightened an important strategy lesson: an autominer setup is not just “how much SOL per round?” It is also **how much total budget is authorized, how many rounds that budget can survive, and whether rewards are recycled into more runway.**
+
+Fronk gave the clean example: if a miner sets **1 SOL per round**, uses **25 tiles**, and selects **10 rounds** with auto-reload on, the miner authorizes **10 SOL total**. If the first round returns about **0.9 SOL**, that SOL is claimed back into the autominer balance, leaving about **9.9 SOL** for future rounds. Auto-reload can lengthen the run, but it does not remove the need to choose a budget and understand the authorization.
+
+FiL's point belongs in the strategy library too: miners learn faster when the interface or command response translates budget into an approximate number of rounds. A beginner seeing “100 rounds” can reason about variance, while a beginner staring at only SOL inputs may assume the setup is safer or shorter than it is.
+
+Practical framing:
+
+- teach **budget first**, then SOL-per-round, then estimated rounds;
+- auto-reload recycles returned SOL into runway, but it is not an infinite-wallet pull;
+- full-grid/25-tile mining is still the cleaner beginner baseline;
+- anything below full coverage needs stronger variance warnings and a longer sample;
+- approximate round counts are educational, not guarantees, because rewards, failures, and crowding change the actual runtime.
+
+The reusable line: **a miner should know both the spend rate and the runway before pressing start.**

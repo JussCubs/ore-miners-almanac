@@ -108,3 +108,23 @@ A good Roberto view should separate these line items clearly:
 - total session spend versus uORE earned.
 
 That keeps miners from blaming the wrong thing and helps builders debug without turning the public channel into a support ticket maze.
+
+---
+
+## Auto-reload should display budget, authorization, and runway
+
+The May 14 mining-channel thread turned a support detail into a product requirement for Roberto: auto-reload needs to be explained as a **pre-funded budget with recycled returns**, not as a mysterious “run forever” switch.
+
+Fronk clarified the mechanism: when auto-reload is checked, SOL rewards returned each round can be loaded back into the autominer, elongating the run. The miner still chooses rounds because that determines the total amount of SOL the autominer is authorized to use. Hardhat Chad added the safety line every UI should repeat: **it can't pull funds from your wallet; you have to pre-fund the autominer.**
+
+Roberto's command center should make these fields explicit:
+
+- **Budget authorized** — the maximum SOL the autominer can use from the pre-funded balance;
+- **SOL per round / per tile plan** — the spend rate miners actually feel;
+- **Estimated max rounds** — budget divided by round spend before rewards, fees, and failures;
+- **Auto-reload effect** — returned SOL recycled into the autominer balance, extending runtime;
+- **Top-ups** — manual additions separated from mined returns so accounting stays honest.
+
+The best UX language from the thread was nftimm's framing: show something like **“Auto-reload — Budget: 10 SOL · SOL per round: 0.1 SOL · Tiles: 25.”** That removes the mental math of repeatedly trying round counts until the budget feels right.
+
+This is also a storytelling opportunity: the command center can show miners how a low-and-slow setup survives because it manages runway, not because it found a magic setting.

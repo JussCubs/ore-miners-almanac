@@ -761,3 +761,33 @@ Reusable responses:
 ```text
 !mlshare — A 100 ORE motherlode does not have a fixed payout for `0.004 SOL/block`. Your share depends on the total SOL deployed by all miners on the winning tile. Bigger jackpot + crowded tile can pay less than smaller jackpot + quieter tile. Log crowding, not only ML size.
 ```
+
+## 2026-05-14 Discord Update — auto-reload budgets and miner runway
+
+Captured 60 new messages from 2026-05-14T16:37:28.636000+00:00 through 2026-05-14T19:35:28.204000+00:00.
+
+**Most active voices:** nftimm (17), Rick (12), starship_fronk⛏️ (9), deflation (8), Hardhat Chad (7), willd // next minemore soon (2), FiL ⛏️ (2), RNA(•‿•) (1).
+
+**Miner story:** the channel shifted from lottery-account sizing into the practical UX of running an autominer without confusing the miner. Rick noticed the interface asks for rounds. Hardhat Chad explained that the form is really calculating how much the miner wants to pre-fund. Fronk sharpened the language: **budget** is probably the better mental model, because the selected rounds determine the total SOL authorization.
+
+**Auto-reload lesson:** Fronk gave the example worth preserving. If a miner chooses **1 SOL per round**, **25 tiles**, and **10 rounds** with auto-reload on, the authorization is **10 SOL total**. If the first round returns **0.9 SOL**, that returned SOL is claimed back into the autominer balance, leaving about **9.9 SOL** for the run. Auto-reload can elongate a session, but it does not pull unlimited SOL from the wallet. Hardhat Chad's safety line is the clean one: miners have to pre-fund the autominer.
+
+**Product insight:** nftimm suggested showing the setup as **Auto-reload · Budget: 10 SOL · SOL per round: 0.1 SOL · Tiles: 25** instead of making users hunt for the right round count. FiL added the education angle: approximate round counts help people understand how ORE mining works. A miner who sees the expected number of rounds can reason about variance and runway instead of treating the autominer like a black box.
+
+**Storytelling note:** the support banter was constructive and funny — “people ask dev for support, but who is here to support dev” — but the useful hub takeaway is serious: good miner education reduces support load. The Almanac should keep turning these repeated Discord explanations into commands and product language.
+
+**What changed in the Almanac:** added an auto-reload budget/runway strategy note, expanded the Roberto command-center spec, and added reusable `!budgetrounds`, `!prefund`, and `!topup` snippets.
+
+Reusable responses:
+
+```text
+!budgetrounds — Set mining runs from budget first: Budget ÷ SOL per round = max authorized rounds before rewards/fees/failures. Example: 10 SOL budget at 0.1 SOL/round authorizes about 100 rounds. Auto-reload can extend runtime by recycling returned SOL, but it is still a runway estimate, not a guarantee.
+```
+
+```text
+!prefund — Auto-reload does not pull unlimited funds from your wallet. You pre-fund/authorize the autominer budget, then returned SOL can be claimed back into the autominer balance if auto-reload is on. Know the total budget before you start.
+```
+
+```text
+!topup — A small daily top-up can keep a low-and-slow miner running without constantly stopping, but treat it like a budget habit: log daily SOL added, uORE earned, failed txs, and current ore.fyi production cost before adding more.
+```
