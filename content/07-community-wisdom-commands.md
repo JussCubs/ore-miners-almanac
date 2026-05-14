@@ -372,3 +372,17 @@ The latest autominer troubleshooting thread produced two command-worthy snippets
 ```text
 !duststrat — `0.001 SOL` across 25 tiles is a learning-size anchor, not a magic win setting. Use all 25 tiles while learning, check ore.fyi production cost, size from weekly SOL budget, and do not scale up just because you feel overdue.
 ```
+
+---
+
+## Update — 2026-05-14
+
+The dust-mining budget thread produced two reusable commands: one for goal-setting around **1 uORE**, and one for the common “can this auto-reload setting run for a week?” question. Both should keep miners out of spreadsheet fantasy by forcing the weekly-cost check first.
+
+```text
+!uoregoal — Want 1 uORE fast? Start with budget, not vibes. Pick a daily/weekly SOL cap, mine tiny across all 25 tiles while learning, check ore.fyi production cost, and remember that multiple wallets help with claim/yield isolation — they do not remove the 10% claim fee or make bad windows good.
+```
+
+```text
+!weekcost — To know if auto-reload can mine for a week, multiply deploy size × expected rounds, then add tx/automation costs and failed-tx slack. If the 7-day cost would make you panic, lower deploy size before you start. A rolling 7-day cost chart is guidance, not a guarantee.
+```

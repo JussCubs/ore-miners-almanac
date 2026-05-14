@@ -657,3 +657,27 @@ Reusable responses:
 ```text
 !duststrat — `0.001 SOL` across 25 tiles is a learning-size anchor, not a magic win setting. Use all 25 tiles while learning, check ore.fyi production cost, size from weekly SOL budget, and do not scale up just because you feel overdue.
 ```
+
+## 2026-05-14 Discord Update — 1 uORE goals and weekly dust-miner budgeting
+
+Captured 16 new messages from 2026-05-14T00:04:43.330000+00:00 through 2026-05-14T02:45:54.146000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (7), OGLilsBTC (4), Cragglebear (2), nftimm (1), Zen (1), Diggy (1).
+
+**Miner story:** OGLilsBTC wanted a practical path to **1 uORE** before price momentum makes mining feel harder, with roughly **$60/day** available. nftimm answered from the trenches: dust mining 24/7 at about **$57 per uORE** can be possible. That is the kind of peer proof point the Almanac should preserve, but only with the safety rails attached — production cost changes, variance hurts, and the budget has to survive more than one optimistic screenshot.
+
+**Strategy insight:** this thread turns “mine as fast as possible” into the healthier question: “what weekly cost can I run without panicking?” Multiple wallets can help separate claim decisions and preserve yield elsewhere, but they do not erase the 10% claim fee or turn every market window into a good mining window. For a 1 uORE goal, the durable plan is daily/weekly SOL cap → tiny all-25-tile learning setup → production-cost checks → hold unless there is a real liquidity reason to claim.
+
+**Tooling/lore note:** Cragglebear shared a rolling **7-day mining-cost** chart for dust miners, and OGLilsBTC immediately called it a huge help. The chart is valuable because it teaches miners to price settings over a week, not one round. Zen's follow-up — whether `0.01` per round with auto-reloading could run for a week — is exactly the right question for this tool: deploy size × expected rounds + tx/automation costs + failed-tx slack.
+
+**What changed in the Almanac:** replaced the raw auto-extract in the uORE patience page with a budget-first 1 uORE section, and added reusable `!uoregoal` and `!weekcost` snippets to community commands.
+
+Reusable responses:
+
+```text
+!uoregoal — Want 1 uORE fast? Start with budget, not vibes. Pick a daily/weekly SOL cap, mine tiny across all 25 tiles while learning, check ore.fyi production cost, and remember that multiple wallets help with claim/yield isolation — they do not remove the 10% claim fee or make bad windows good.
+```
+
+```text
+!weekcost — To know if auto-reload can mine for a week, multiply deploy size × expected rounds, then add tx/automation costs and failed-tx slack. If the 7-day cost would make you panic, lower deploy size before you start. A rolling 7-day cost chart is guidance, not a guarantee.
+```

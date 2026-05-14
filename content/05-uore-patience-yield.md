@@ -147,3 +147,25 @@ That does not mean every breakeven-looking session is good. It means the right c
 - does the setup remain boring enough to repeat without emotional resizing?
 
 The slogan for the Almanac: **breakeven spot mining can be profitable patience if the miner truly wants uORE and can hold long enough for the refining yield to matter.**
+
+---
+
+## The 1 uORE sprint: budget first, speed second
+
+OGLilsBTC put words to the instinct many new miners feel: “I want to reach 1 uORE as fast as I can, before this rockets,” with roughly **$60/day** available if budget helps. nftimm answered with a useful proof point from the low-and-slow side: dust mining 24/7 with an average around **$57 per uORE** can be possible.
+
+The lesson is not “spend $60/day.” The lesson is to convert the goal into a budgeted accumulation plan:
+
+- define the target, such as **1 uORE**;
+- decide the maximum daily or weekly SOL you can lose without panic;
+- use ore.fyi / production-cost tracking to decide whether today is a mine day, resize day, or sit-out day;
+- if using multiple wallets, understand why: claim isolation and yield preservation, not magic EV;
+- treat intermittent claiming as a liquidity decision with a 10% cost, not a routine habit.
+
+Cragglebear then shared a practical next step: a rolling **7-day mining-cost chart** to help dust miners estimate whether their settings can actually survive a week. That is the right framing for every “can I mine 24/7?” question. First ask how many rounds the settings imply, what the week costs, and whether the miner can keep running after variance punches back.
+
+Reusable command snippet:
+
+```text
+!uoregoal — Want 1 uORE fast? Start with budget, not vibes. Pick a daily/weekly SOL cap, mine tiny across all 25 tiles while learning, check ore.fyi production cost, and remember that multiple wallets help with claim/yield isolation — they do not remove the 10% claim fee or make bad windows good.
+```
