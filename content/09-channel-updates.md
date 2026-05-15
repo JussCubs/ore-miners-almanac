@@ -839,3 +839,21 @@ Reusable response:
 ```text
 !seekergoal — Turning mining wins into a Seeker/hardware goal is a great motivator, but size the autominer from runway first: budget, SOL per round, tiles, and how many rounds you can survive if ML does not hit. Let the jackpot be upside, not the only plan.
 ```
+
+## 2026-05-15 Discord Update — estimated rounds need a safety buffer
+
+Captured 1 new message from 2026-05-15T09:25:29.586000+00:00 through 2026-05-15T09:25:29.586000+00:00.
+
+**Most active voices:** Cragglebear (1).
+
+**Product insight:** Cragglebear suggested an **estimated rounds** column that appears when auto-reload is enabled, with the displayed count reduced by roughly 10%. That is exactly the right education pattern: give miners a visible runway number, but label it as approximate so fees, failed transactions, late-slot misses, and reward recycling do not turn a planning estimate into a false promise.
+
+**Strategy insight:** this reinforces the Almanac's budget-first framing. Miners should not be left to infer whether “10 SOL at 0.1 SOL/round” means 100 clean rounds. The useful answer is closer to: “about 90-ish planned rounds after a safety buffer, before lucky returns extend the run.”
+
+**What changed in the Almanac:** expanded the Roberto command-center auto-reload spec and added a reusable `!roundestimate` snippet.
+
+Reusable response:
+
+```text
+!roundestimate — Estimated rounds are a planning aid, not a guarantee: show Budget ÷ SOL per round, then haircut it for fees, failed txs, timing misses, and normal variance. A rough “about X rounds after a buffer” is better than forcing miners to guess their runway.
+```

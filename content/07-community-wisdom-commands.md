@@ -471,3 +471,13 @@ The bot-builder thread produced three reusable snippets: one for encouraging com
 ```text
 !orestats — Use ore-stats/API data to enrich strategies: track round crowding, production cost, tile competition, wins, misses, and motherlode context. Data improves decisions, but bankroll limits and variance rules still come first.
 ```
+
+---
+
+## Update — 2026-05-15
+
+Cragglebear sharpened the auto-reload UX into a reusable education snippet: if the app shows estimated rounds, subtract a safety buffer so miners see runway as an approximation instead of a promise.
+
+```text
+!roundestimate — Estimated rounds are a planning aid, not a guarantee: show Budget ÷ SOL per round, then haircut it for fees, failed txs, timing misses, and normal variance. A rough “about X rounds after a buffer” is better than forcing miners to guess their runway.
+```

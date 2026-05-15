@@ -122,9 +122,10 @@ Roberto's command center should make these fields explicit:
 - **Budget authorized** — the maximum SOL the autominer can use from the pre-funded balance;
 - **SOL per round / per tile plan** — the spend rate miners actually feel;
 - **Estimated max rounds** — budget divided by round spend before rewards, fees, and failures;
+- **Buffered round estimate** — show the same runway after a conservative haircut (Cragglebear suggested roughly 10%) so the UI communicates “planning estimate,” not “guaranteed entries”;
 - **Auto-reload effect** — returned SOL recycled into the autominer balance, extending runtime;
 - **Top-ups** — manual additions separated from mined returns so accounting stays honest.
 
-The best UX language from the thread was nftimm's framing: show something like **“Auto-reload — Budget: 10 SOL · SOL per round: 0.1 SOL · Tiles: 25.”** That removes the mental math of repeatedly trying round counts until the budget feels right.
+The best UX language from the thread was nftimm's framing: show something like **“Auto-reload — Budget: 10 SOL · SOL per round: 0.1 SOL · Tiles: 25.”** Cragglebear's follow-up makes it even clearer: add an **Estimated rounds** column when auto-reload is checked, then display a buffered count so miners understand their approximate runway without doing mental math.
 
 This is also a storytelling opportunity: the command center can show miners how a low-and-slow setup survives because it manages runway, not because it found a magic setting.

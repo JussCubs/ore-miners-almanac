@@ -424,7 +424,7 @@ The May 14 auto-reload thread tightened an important strategy lesson: an automin
 
 Fronk gave the clean example: if a miner sets **1 SOL per round**, uses **25 tiles**, and selects **10 rounds** with auto-reload on, the miner authorizes **10 SOL total**. If the first round returns about **0.9 SOL**, that SOL is claimed back into the autominer balance, leaving about **9.9 SOL** for future rounds. Auto-reload can lengthen the run, but it does not remove the need to choose a budget and understand the authorization.
 
-FiL's point belongs in the strategy library too: miners learn faster when the interface or command response translates budget into an approximate number of rounds. A beginner seeing “100 rounds” can reason about variance, while a beginner staring at only SOL inputs may assume the setup is safer or shorter than it is.
+FiL's point belongs in the strategy library too: miners learn faster when the interface or command response translates budget into an approximate number of rounds. Cragglebear later sharpened that into a product detail: show an estimated-rounds column when auto-reload is enabled, but haircut the number by a safety buffer so it reads as practical runway instead of a guarantee. A beginner seeing “about 90 rounds after buffer” can reason about variance, while a beginner staring at only SOL inputs may assume the setup is safer or shorter than it is.
 
 Practical framing:
 
@@ -432,7 +432,7 @@ Practical framing:
 - auto-reload recycles returned SOL into runway, but it is not an infinite-wallet pull;
 - full-grid/25-tile mining is still the cleaner beginner baseline;
 - anything below full coverage needs stronger variance warnings and a longer sample;
-- approximate round counts are educational, not guarantees, because rewards, failures, and crowding change the actual runtime.
+- approximate round counts are educational, not guarantees, because rewards, failures, late-slot misses, fees, and crowding change the actual runtime.
 
 The reusable line: **a miner should know both the spend rate and the runway before pressing start.**
 
