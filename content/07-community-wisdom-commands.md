@@ -481,3 +481,13 @@ Cragglebear sharpened the auto-reload UX into a reusable education snippet: if t
 ```text
 !roundestimate — Estimated rounds are a planning aid, not a guarantee: show Budget ÷ SOL per round, then haircut it for fees, failed txs, timing misses, and normal variance. A rough “about X rounds after a buffer” is better than forcing miners to guess their runway.
 ```
+
+---
+
+## Update — 2026-05-15
+
+A small custom-boot/dashboard thread added one more reusable reminder: custom tooling is valuable when it makes decisions clearer, not when it turns a mining run into chart-watching.
+
+```text
+!customboot — Custom boots/dashboards are great for visibility, but treat them as a journal, not alpha by themselves: log budget, SOL per round, tiles, expected rounds, actual uORE/SOL movement, failed txs, and what decision the data changes next.
+```

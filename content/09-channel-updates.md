@@ -857,3 +857,19 @@ Reusable response:
 ```text
 !roundestimate — Estimated rounds are a planning aid, not a guarantee: show Budget ÷ SOL per round, then haircut it for fees, failed txs, timing misses, and normal variance. A rough “about X rounds after a buffer” is better than forcing miners to guess their runway.
 ```
+
+## 2026-05-15 Discord Update — custom boots and strategy visibility
+
+Captured 3 new messages from 2026-05-15T17:35:59.099000+00:00 through 2026-05-15T17:37:27.476000+00:00.
+
+**Most active voices:** deflation (2), Xenos (1).
+
+**Miner story:** Xenos asked where to see the uORE movement shown in deflation's strategy/task screenshot. deflation's answer — “Custom boot” / “Vibecoded ofc haha” — is lighthearted, but the useful lore is real: builders are creating their own dashboards around strategy tasks, uORE growth, and run results.
+
+**Education hub takeaway:** custom boots and vibecoded dashboards should be framed as visibility layers, not magic edges. If a miner builds one, the Almanac should steer them to log the same fundamentals every time: starting bankroll, SOL per round, tile count, expected runway, actual uORE movement, returned SOL, failed transactions, and whether the experiment changed behavior or just made the chart prettier.
+
+Reusable response:
+
+```text
+!customboot — Custom boots/dashboards are great for visibility, but treat them as a journal, not alpha by themselves: log budget, SOL per round, tiles, expected rounds, actual uORE/SOL movement, failed txs, and what decision the data changes next.
+```

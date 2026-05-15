@@ -450,6 +450,9 @@ Community-built bots fit the same pattern. deflation's first-day bot experiment 
 - name what the bot is testing before scaling it;
 - track SOL returned, uORE/ORE earned, misses, top-miner wins, failures, and fees;
 - enrich the journal with ore-stats/API data when available;
+- use custom boots/dashboards as visibility layers, not as proof of edge;
 - do not call a strategy proven after one lucky day.
+
+If a custom dashboard shows uORE growth, task charts, or strategy PnL, it should answer a practical question: what setting changed, what did it cost, what came back, and what will the miner do differently next run? A pretty chart without a decision loop is entertainment; a chart tied to bankroll, tiles, runtime, failed txs, and returned SOL becomes education.
 
 The reusable line: **tools can automate execution, but the edge still comes from budget control, variance patience, and honest logs.**
