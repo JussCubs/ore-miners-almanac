@@ -821,3 +821,21 @@ Reusable responses:
 ```text
 !orestats — Use ore-stats/API data to enrich strategies: track round crowding, production cost, tile competition, wins, misses, and motherlode context. Data improves decisions, but bankroll limits and variance rules still come first.
 ```
+
+## 2026-05-15 Discord Update — Seeker goals and motherlode runway
+
+Captured 3 new messages from 2026-05-15T00:03:54.379000+00:00 through 2026-05-15T00:08:02.791000+00:00.
+
+**Most active voices:** OGLilsBTC (3).
+
+**Miner story:** after the “I AM SO BACK” win from the previous update, OGLilsBTC immediately translated the green hit into a concrete goal: stack enough wins to buy a Seeker. That is useful community storytelling because it turns mining variance into a relatable personal milestone instead of only a spreadsheet result.
+
+**Strategy insight:** the follow-up — “Praying ML hits before my auto miner runs out” — is the clean lesson. Motherlode upside is real, but the miner still has to size the autominer so runway survives long enough for that variance to arrive. Hype is good; budget/runway rules keep the hype from becoming a forced stop.
+
+**Education hub takeaway:** when miners talk about hardware goals, Seeker goals, or “one more big hit,” answer with both sides: celebrate the target, then translate it into budget, per-round spend, expected runtime, and what happens if the motherlode does not land during the current run.
+
+Reusable response:
+
+```text
+!seekergoal — Turning mining wins into a Seeker/hardware goal is a great motivator, but size the autominer from runway first: budget, SOL per round, tiles, and how many rounds you can survive if ML does not hit. Let the jackpot be upside, not the only plan.
+```
