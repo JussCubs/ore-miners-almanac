@@ -435,3 +435,21 @@ Practical framing:
 - approximate round counts are educational, not guarantees, because rewards, failures, and crowding change the actual runtime.
 
 The reusable line: **a miner should know both the spend rate and the runway before pressing start.**
+
+---
+
+## Time in the mines: inverse TWAP thinking and bot-assisted experiments
+
+A May 14 bot-builder thread added a useful strategy metaphor. willd described the clean autominer flow as a kind of **inverse TWAP**: instead of obsessing over the perfect moment to enter, it anchors the miner on staying active for a planned amount of time with a known budget.
+
+That is the right beginner-safe frame. Timing can matter — round crowding, ORE price, production cost, and motherlode size all move — but most miners learn more from controlled repetition than from trying to snipe perfect conditions. A survivable run creates logs. Logs create better settings. Better settings create discipline.
+
+Community-built bots fit the same pattern. deflation's first-day bot experiment used separate wallets per task and only mined when the SOL side looked fully returned or profitable, treating ORE as upside. That may or may not become a durable edge, but the operating discipline is worth preserving:
+
+- isolate each experiment so results are not mixed together;
+- name what the bot is testing before scaling it;
+- track SOL returned, uORE/ORE earned, misses, top-miner wins, failures, and fees;
+- enrich the journal with ore-stats/API data when available;
+- do not call a strategy proven after one lucky day.
+
+The reusable line: **tools can automate execution, but the edge still comes from budget control, variance patience, and honest logs.**

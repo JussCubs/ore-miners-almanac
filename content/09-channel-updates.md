@@ -791,3 +791,33 @@ Reusable responses:
 ```text
 !topup — A small daily top-up can keep a low-and-slow miner running without constantly stopping, but treat it like a budget habit: log daily SOL added, uORE earned, failed txs, and current ore.fyi production cost before adding more.
 ```
+
+## 2026-05-15 Discord Update — community-built bots and time-in-market mining
+
+Captured 35 new messages from 2026-05-14T21:11:49.535000+00:00 through 2026-05-15T00:00:08.150000+00:00.
+
+**Most active voices:** deflation (17), willd // next minemore soon (8), OREillions⛏️ (5), starship_fronk⛏️ (3), OGLilsBTC (2).
+
+**Miner story:** deflation reported a first-day bot experiment with separate wallets per task and described the current approach as only mining when the SOL side is fully returned or profitable, treating any ORE as low-cost upside. Keep that framed as an experiment, not a finished public strategy. The useful lesson is process: start small, isolate tasks cleanly, log what each wallet is trying to prove, and avoid presenting one green day as durable edge.
+
+**Strategy insight:** willd described the clean autominer UI as “an inverse TWAP” because it anchors miners on **time in the mines** instead of trying to perfectly time the mines. That belongs in the Almanac's strategy language. The beginner-friendly edge is not a secret button; it is a repeatable run plan, enough rounds for variance to breathe, and data that can improve the next run.
+
+**Builder / lore note:** the channel reacted warmly to someone building their own tool to interact with ORE. Fronk's line is the durable culture note: the ecosystem works because anyone can show up, read the repo/tooling, build, and contribute. OREillions added the early-community frame: tech-savvy believers build first, then trenchers arrive later.
+
+**Tooling note:** willd reminded builders that v4 is expected to be open source like prior versions, so agent-assisted updates should be possible when protocol/tooling changes. He also suggested using the **ore-stats API** to enrich strategies. Translate that into commands carefully: APIs can improve logs and filters, but they do not replace bankroll rules or variance discipline.
+
+**What changed in the Almanac:** replaced the raw quote dump with a community-bot-builder summary, added a time-in-market strategy note, and added reusable `!buildbots`, `!timetwaps`, and `!orestats` snippets.
+
+Reusable responses:
+
+```text
+!buildbots — Building your own ORE tool is part of the ecosystem culture: start tiny, isolate each task/wallet, log exactly what the bot is testing, and share lessons without pretending one good day is proven edge.
+```
+
+```text
+!timetwaps — Think of low-and-slow automining like an inverse TWAP: the goal is time in the mines, not magically timing the mines. Pick a budget, pick a survivable per-round size, and give the strategy enough rounds to produce useful data.
+```
+
+```text
+!orestats — Use ore-stats/API data to enrich strategies: track round crowding, production cost, tile competition, wins, misses, and motherlode context. Data improves decisions, but bankroll limits and variance rules still come first.
+```

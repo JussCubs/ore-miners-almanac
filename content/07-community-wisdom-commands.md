@@ -453,3 +453,21 @@ The auto-reload UX thread produced three reusable commands: one for translating 
 ```text
 !topup — A small daily top-up can keep a low-and-slow miner running without constantly stopping, but treat it like a budget habit: log daily SOL added, uORE earned, failed txs, and current ore.fyi production cost before adding more.
 ```
+
+---
+
+## Update — 2026-05-15
+
+The bot-builder thread produced three reusable snippets: one for encouraging community tool builders responsibly, one for the “time in the mines over timing the mines” mental model, and one for using ore-stats/API data without pretending data removes variance.
+
+```text
+!buildbots — Building your own ORE tool is part of the ecosystem culture: start tiny, isolate each task/wallet, log exactly what the bot is testing, and share lessons without pretending one good day is proven edge.
+```
+
+```text
+!timetwaps — Think of low-and-slow automining like an inverse TWAP: the goal is time in the mines, not magically timing the mines. Pick a budget, pick a survivable per-round size, and give the strategy enough rounds to produce useful data.
+```
+
+```text
+!orestats — Use ore-stats/API data to enrich strategies: track round crowding, production cost, tile competition, wins, misses, and motherlode context. Data improves decisions, but bankroll limits and variance rules still come first.
+```
