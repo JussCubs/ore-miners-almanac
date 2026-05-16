@@ -519,3 +519,21 @@ A small custom-boot/dashboard thread added one more reusable reminder: custom to
 ```text
 !customboot — Custom boots/dashboards are great for visibility, but treat them as a journal, not alpha by themselves: log budget, SOL per round, tiles, expected rounds, actual uORE/SOL movement, failed txs, and what decision the data changes next.
 ```
+
+---
+
+## Update — 2026-05-16
+
+A newcomer asked where to learn ORE facts, what production cost means, and where to see live/trend data. The channel answer produced two evergreen onboarding snippets: keep people away from scam links/DMs, then point them to ore.fyi for the quick one-pager and Blockworks for the deeper analytics dashboard.
+
+```text
+!startore — New to ORE? Start with verified public resources, not DMs: read ore.supply for the protocol basics, use ore.fyi for the quick production-cost view, and use https://blockworks.com/analytics/ore for deeper market/history data. Ask questions in public before copying settings.
+```
+
+```text
+!prodcost — Production cost is the live estimated cost to mine ORE under current conditions. If production cost is above the ORE market price, mining can be worse than buying unless you are intentionally paying for uORE yield, data, or motherlode variance. Check ore.fyi before starting, then resize or pause when the board gets expensive.
+```
+
+```text
+!safelinks — Ignore surprise DMs, fake airdrops, and flood links. Use public/verified resources only: ore.supply for basics, ore.fyi for production-cost snapshots, Blockworks ORE analytics for history, and the public mining channel for questions. If a link appears during a scam flood, do not click it.
+```

@@ -933,3 +933,31 @@ Reusable response:
 ```text
 !greenev — A green/positive-EV mining window means live conditions look good enough that returned SOL may extend the run while you stack ORE/uORE. Use it with a plan: log why the filter fired, keep tile/size rules intact, let returns lengthen runway cautiously, and stop when production cost, crowding, or failures turn the window bad.
 ```
+
+## 2026-05-16 Discord Update — newcomer onboarding, production cost, and scam hygiene
+
+Captured 29 new messages from 2026-05-16T09:11:40.634000+00:00 through 2026-05-16T11:34:48.770000+00:00.
+
+**Most active voices:** deflation (7), Zinn (7), alancrean (6), willd (4), The ZoolandORE/$ORE/$Thep maxi (3), gary (1), RNA(•‿•) (1).
+
+**Miner story:** alancrean entered as the ideal newcomer: curious, public, and asking the right beginner questions — where to get the facts, what “production cost” means, where to see live price/trends, and how to avoid guessing. The room answered with the culture Thep is trying to preserve: warn about scam floods first, then route people to simple verified resources instead of private DMs.
+
+**Strategy insight:** deflation asked whether current conditions were EV-positive, and Zinn answered that production cost was too high at that moment. The follow-up is the reusable rule: a miner can be bullish on ORE while still deciding not to mine right now. If ore.fyi shows expensive production cost, buying ORE, waiting for a quieter window, or running a tiny learning session can all be cleaner than forcing a bad board.
+
+**Data/tooling note:** Zinn pointed new miners toward **ore.fyi** for the quick production-cost one-pager and **Blockworks ORE analytics** for deeper history/data now that older Dune views are gone: https://blockworks.com/analytics/ore. This belongs in the onboarding path because it gives newcomers a public source for live context before they copy a strategy screenshot.
+
+**Community safety note:** gary and Zinn both warned the newcomer not to click scam links during a flood, and Thep cleaned it up. Preserve that as part of the education hub: safety is not separate from mining strategy. A new miner who clicks the wrong link never gets to learn EV, tile sizing, or uORE patience.
+
+**Motherlode mood:** the big-ML fatigue continued above 500 ORE, with willd noting the monthly high was 563 and deflation joking that a 600+ ORE jackpot might trigger “misery mining.” That is the same emotional lesson as earlier: giant prizes make the room lively, but they should not override production-cost discipline.
+
+**Education hub takeaway:** the Almanac needs a clear “first ten minutes” path: avoid DMs/scam floods, read the official protocol basics, check ore.fyi, look at Blockworks history, then ask public questions. Newcomer confidence should come from verified context and small settings, not from whoever answers fastest.
+
+Reusable responses:
+
+```text
+!startore — New to ORE? Start with verified public resources, not DMs: read ore.supply for the protocol basics, use ore.fyi for the quick production-cost view, and use https://blockworks.com/analytics/ore for deeper market/history data. Ask questions in public before copying settings.
+
+!prodcost — Production cost is the live estimated cost to mine ORE under current conditions. If production cost is above the ORE market price, mining can be worse than buying unless you are intentionally paying for uORE yield, data, or motherlode variance. Check ore.fyi before starting, then resize or pause when the board gets expensive.
+
+!safelinks — Ignore surprise DMs, fake airdrops, and flood links. Use public/verified resources only: ore.supply for basics, ore.fyi for production-cost snapshots, Blockworks ORE analytics for history, and the public mining channel for questions. If a link appears during a scam flood, do not click it.
+```

@@ -12,7 +12,9 @@ A safe first path:
 
 - Open `ore.supply` and read the About section.
 - Learn what ORE/uORE, rounds, tiles, claims, and motherlodes mean.
-- Ignore unsolicited DMs; ask questions publicly.
+- Ignore unsolicited DMs and scam floods; ask questions publicly.
+- Use `ore.fyi` for the quick production-cost view.
+- Use `https://blockworks.com/analytics/ore` for deeper ORE data and history.
 - Use verified links only, then start with tiny settings.
 
 ## First things first: safe defaults
@@ -82,6 +84,7 @@ The first goal is not to maximize upside. The first goal is to make mining feel 
 - **Claim fee:** 10% — the cost of impatience
 - **Break-even on claim fee:** ~1.5 months — APR offsets fee after this
 - **Motherlode chance:** 1/625 per round — random upside, not something you can schedule
+- **Production cost:** check ore.fyi before each run; if it is above ORE spot price, mining may be worse than buying unless you are deliberately paying for learning, uORE yield, or jackpot variance
 
 ## Common beginner mistakes
 
