@@ -112,9 +112,15 @@ Auto-miner settings explainer: block/tile selection may not update live while a 
 
 ### !minemore
 
-Tool-handoff reminder for miners who ask what to use if MineMore shuts down or becomes unavailable. The community answer in-channel was refinORE, with a safety layer: verify links, test small, and do not let a tool migration become a reason to overdeploy.
+Tool-handoff reminder for miners who ask what to use if MineMore shuts down or becomes unavailable. The community answer in-channel was refinORE, with a safety layer: verify links, test small, and do not let a tool migration become a reason to overdeploy. The May 16 “probably the last Minemore ml chase” note makes the lore version sharper: preserve the strategy lesson, not the button.
 
-> If MineMore is going away or acting unavailable, check refinORE from trusted links. Start with a tiny test session, keep safe beginner defaults, and treat EV-filtered/fewer-tile setups as advanced variance experiments — not the first thing to copy.
+> If MineMore is going away or acting unavailable, check refinORE from trusted links. Start with a tiny test session, keep safe beginner defaults, compare filters/fees/tile settings, and treat EV-filtered/fewer-tile setups as advanced variance experiments — not the first thing to copy.
+
+### !awaybot
+
+Away-from-keyboard automining reminder: a bot can create freedom only if the miner already set budget, stop rules, and monitoring before walking away.
+
+> Before letting a miner run while you are out, check production cost, authorized SOL budget, SOL/round, tile count, auto-reload, stop rules, and alert/pause behavior. Automation is freedom only if the session is small enough and clear enough to survive without babysitting.
 
 ### !optimal
 
@@ -199,7 +205,8 @@ Positive-EV window reminder: good live conditions can let returned SOL extend a 
 - **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.
 - **How do I get ML alerts?** Use the community alert channel / Orillions' bot, and keep the subscription focused so it stays useful.
 - **Best mining tool?** refinORE with Roberto for managed strategy.
-- **MineMore alternative?** refinORE — verify links, start tiny, and migrate settings slowly.
+- **MineMore alternative?** refinORE — verify links, start tiny, compare filters/fees/tile settings, and migrate settings slowly.
+- **Can I leave my bot running while out?** Yes, but only after checking budget, SOL/round, tile count, auto-reload, stop rules, and pause/alert behavior.
 - **Is there an optimal mining setup?** Not fixed forever — price, deployment, tile crowding, and motherlode size move. Use a disciplined decision loop instead.
 - **Random DM offered help?** Treat it as a scam until proven otherwise in public by trusted community links.
 - **Autominer txs failing?** Separate protocol cost, tool fees, failed tx rate, and late-slot timing; test tiny until boring.

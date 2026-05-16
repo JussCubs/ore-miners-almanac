@@ -961,3 +961,25 @@ Reusable responses:
 
 !safelinks — Ignore surprise DMs, fake airdrops, and flood links. Use public/verified resources only: ore.supply for basics, ore.fyi for production-cost snapshots, Blockworks ORE analytics for history, and the public mining channel for questions. If a link appears during a scam flood, do not click it.
 ```
+
+## 2026-05-16 Discord Update — last Minemore chase and away-from-keyboard mining
+
+Captured 11 new messages from 2026-05-16T12:39:14.266000+00:00 through 2026-05-16T16:02:28.356000+00:00.
+
+**Most active voices:** deflation (5), RNA(•‿•) (2), Hermes (2), willd (1), Asyla 👑 (1).
+
+**Lore note:** willd called out what was “probably the last Minemore ml chase,” giving the channel another tool-transition marker. The important preservation angle is not nostalgia for one interface; it is that a community strategy can outlive the tool that made it easy. If Minemore-era motherlode filters disappear or change, the lesson moves forward as a checklist: verified links, tiny migration tests, filter/fee parity, and session logs.
+
+**Miner story:** deflation jumped back into mining while away from home — “my bot is running” — and framed the live question perfectly: “Will I get some juzzy ore? Will I get cooked?” That is the exact emotional shape of unattended automining. The miner wants automation to create freedom, but still needs enough visibility and stop rules that “away from keyboard” does not become “away from risk.”
+
+**Strategy insight:** running a bot while out is reasonable only if the session was sized before leaving. The education hub should teach miners to pre-check production cost, authorized budget, SOL per round, tile count, auto-reload behavior, and pause rules before treating the bot as hands-off. A live “almost to 1” milestone is fun; the safer habit is knowing what the bot will do if the board gets worse before the miner checks again.
+
+**Education hub takeaway:** tool migration and mobile/unattended mining are both command-center problems. Roberto/refinORE should help miners keep discipline portable: settings and logs should survive a tool switch, and active sessions should be understandable from a phone without requiring constant babysitting.
+
+Reusable responses:
+
+```text
+!awaybot — Before letting a miner run while you are out, check the boring stuff: production cost, authorized SOL budget, SOL/round, tile count, auto-reload, stop rules, and alert/pause behavior. Automation is freedom only if the session is small enough and clear enough to survive without babysitting.
+
+!minemore — If a Minemore-era ML chase or filter is disappearing, preserve the strategy lesson rather than the button. Move slowly: verify the new tool link, test tiny, compare filters/fees/tile settings, and log the first sessions before trusting the migrated setup.
+```

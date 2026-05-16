@@ -50,6 +50,12 @@ As the mining channel grew, veterans noticed a problem: great advice kept gettin
 
 Diggy and Fronk proposed a solution: bot commands that preserve veteran advice in reusable form — !fronk, !thep, !zoo, !lowandslow. This idea — that wisdom should be preserved, not repeated — is the seed that grew into the ORE Miner's Almanac itself.
 
+## The last Minemore chase marker
+
+On May 16, willd congratulated the crew on what was “probably the last Minemore ml chase.” Whether or not it literally becomes the final one, the line marks a real community transition: strategies, habits, and lore can outlive the tool where they first became popular.
+
+Preserve this as a builder lesson. A mining community should not lose its memory when an interface changes. Motherlode filters, EV checks, safe defaults, and session logs need to move forward into refinORE, Roberto, Wild's builds, or whatever trusted tool miners use next.
+
 ## The mining playlist
 
 By mid-May 2026, waiting on large motherlodes had become its own social ritual. As the jackpot pushed toward 400 ORE, Fronk called for the community mining playlist — a Suno playlist miners could throw on while everyone joked, refreshed, and argued about whether the hit would land at 420, 420.69, 777+, or some completely unreasonable number.

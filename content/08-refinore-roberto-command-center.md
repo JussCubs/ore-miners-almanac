@@ -147,3 +147,21 @@ Roberto should make this boringly clear in round review screens:
 - a reminder that bigger expected share also means faster bankroll burn.
 
 This pairs naturally with the existing cost/runway work: show miners why a large player wins often, then immediately translate that into budget risk instead of implying “just deploy more.”
+
+---
+
+## Away-from-keyboard mining needs visible guardrails
+
+Deflation's May 16 “my bot is running” moment captures why refinORE needs to feel like a command center from a phone, not only a start button on a desktop. Miners will run sessions while out of the house. That is fine when the session is boring, budgeted, and observable; it is dangerous when the miner cannot tell whether the bot is still following the plan.
+
+Roberto should make the pre-flight and live-state checks obvious:
+
+- current production cost and whether it still matches the strategy filter;
+- authorized budget and remaining runway;
+- SOL per round / per tile;
+- selected tiles and whether the session changed from the intended setup;
+- auto-reload status and how returned SOL is being recycled;
+- pause/stop rule status;
+- simple alerts when the board gets crowded, failed txs spike, or budget gets low.
+
+The education line is simple: automation is freedom only when the miner can walk away without also walking away from risk controls.
