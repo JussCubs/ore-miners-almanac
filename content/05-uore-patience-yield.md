@@ -186,3 +186,23 @@ The same thread clarified “top miner,” a term that can confuse new miners. I
 - uORE held for refining yield instead of immediately claimed.
 
 For uORE patience, this distinction matters because one lucky top-miner hit can make a session look better than the underlying accumulation strategy. Log it, celebrate it, but do not let one top-miner win rewrite the wallet plan.
+
+---
+
+## Staked ORE vs mining more uORE
+
+Hermes hit back-to-back ORE wins, then immediately voiced the temptation many holders feel after a green session: maybe sell or unstake some ORE and send it back into the mines. Suckytrader's answer kept the channel from turning that feeling into a binary argument: staking and mining can both make sense, depending on time frame, yield expectations, and current ore.fyi metrics.
+
+RNA added the safer execution lesson: if rotating staked ORE or stORE into SOL to mine, do it slowly. The risk is not only losing a mining round; it is getting caught after swapping too much holder exposure away during an ORE pump. The patient miner does not have to choose “all staked” or “all mining.” They can keep a core ORE/uORE position, mine with a defined SOL sleeve, and only rotate when the data and budget justify it.
+
+This thread also added a clean protocol-economics reminder. Hermes separated two ideas that beginners often blend together:
+
+- the **SOL price** changes the dollar value of the miner's bankroll and what buybacks can purchase;
+- the **ORE/SOL relationship** changes whether protocol buybacks and burns feel inflationary or deflationary;
+- the **mining yield mechanics** still pay in ORE/uORE terms, so a miner should judge the session by production cost, ORE earned, uORE held, and claim/yield math — not only by today's SOL chart.
+
+Reusable command snippet:
+
+```text
+!stakeormine — Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
+```

@@ -294,6 +294,20 @@ Practical translation:
 
 The core strategy is not “stake or mine.” It is **stake what you have, mine tiny while learning, and let repetition create the edge.**
 
+### Rotating staked ORE into mining SOL
+
+Hermes' back-to-back green hits created the natural temptation to sell or unstake ORE and refill the mining budget. That temptation is understandable: when a miner finally feels the “mines are alive,” every inactive ORE position can start looking like unused ammunition.
+
+The safer strategy is to treat staking, uORE holding, and mining as separate sleeves:
+
+- keep the long-term ORE/uORE core intact unless the thesis changes;
+- fund mining from a pre-defined SOL budget rather than from post-win excitement;
+- if rotating stORE/ORE into SOL, do it gradually so a pump does not leave the miner underexposed;
+- check ore.fyi before increasing deploy size, because a good personal streak can happen on a worsening board;
+- log whether the new mining budget came from fresh SOL, claimed rewards, or reduced holder exposure.
+
+RNA's caution belongs here: do not swap the whole holder position into mining fuel just because the last few rounds felt good. A miner can want more ORE exposure and still decide that the best next action is staking, holding uORE, waiting for production cost to improve, or mining only with a small SOL sleeve.
+
 ---
 
 ## Motherlode sweet spots and dilution risk

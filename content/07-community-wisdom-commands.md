@@ -190,6 +190,12 @@ Positive-EV window reminder: good live conditions can let returned SOL extend a 
 
 > Green EV does not mean free money. It means the board currently looks favorable enough to mine with a plan: know why the filter fired, keep size disciplined, let returned SOL extend runway cautiously, and stop when production cost, crowding, or failures flip the setup.
 
+### !stakeormine
+
+Stake-or-mine answer for miners tempted to sell staked ORE after a green mining run.
+
+> Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -218,6 +224,7 @@ Positive-EV window reminder: good live conditions can let returned SOL extend a 
 - **Why does one wallet keep winning?** Check deployment share before calling it weird; odds are weighted by SOL deployed, not equal per wallet.
 - **Is there a 0.01 SOL/block minimum?** Not as a universal rule. Fees and tooling make extreme dust impractical, but miners should reason from budget, fees, and runway.
 - **Positive EV window?** Good — mine with the plan you already chose, log why the filter fired, and stop if production cost/crowding/failures turn it red.
+- **Sell staked ORE to mine more?** Not all-in. Keep a core holder/uORE position, mine from a separate SOL sleeve, and rotate slowly only when ore.fyi and budget runway justify it.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
@@ -543,4 +550,14 @@ A newcomer asked where to learn ORE facts, what production cost means, and where
 
 ```text
 !safelinks — Ignore surprise DMs, fake airdrops, and flood links. Use public/verified resources only: ore.supply for basics, ore.fyi for production-cost snapshots, Blockworks ORE analytics for history, and the public mining channel for questions. If a link appears during a scam flood, do not click it.
+```
+
+---
+
+## Update — 2026-05-16
+
+Hermes' green hits created a classic “should I sell staked ORE to mine more?” moment. The reusable answer is not yes/no; it is sleeve discipline. Preserve the holder thesis, mine from a separate budget, and rotate slowly if the miner chooses to convert stORE/ORE into SOL.
+
+```text
+!stakeormine — Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
 ```

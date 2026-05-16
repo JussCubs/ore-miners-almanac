@@ -983,3 +983,25 @@ Reusable responses:
 
 !minemore — If a Minemore-era ML chase or filter is disappearing, preserve the strategy lesson rather than the button. Move slowly: verify the new tool link, test tiny, compare filters/fees/tile settings, and log the first sessions before trusting the migrated setup.
 ```
+
+## 2026-05-16 Discord Update — green wins, stake-or-mine temptation, and ORE/SOL context
+
+Captured 24 new messages from 2026-05-16T16:04:00.641000+00:00 through 2026-05-16T17:29:08.563000+00:00.
+
+**Most active voices:** Hermes (10), suckytrader (6), RNA(•‿•) (6), deflation (2).
+
+**Miner story:** Hermes hit ORE, then quickly hit again. The room celebrated it as “the mines are truly alive,” but the more useful education moment came right after: a green streak made Hermes consider selling staked ORE to mine more. That is the exact moment an Almanac should slow the miner down. Wins create conviction, but they also create recency bias.
+
+**Strategy insight:** Suckytrader kept the answer balanced: staking and mining can both be right, depending on time frame, yield expectations, and live metrics. RNA supplied the practical risk control by rotating slowly instead of swapping all stORE/ORE into SOL at once. The reusable lesson is a sleeve-based plan: keep a long-term ORE/uORE core, mine from a separate SOL budget, and only increase the mining sleeve when ore.fyi and bankroll runway agree.
+
+**Motherlode/crowding note:** Hermes also restated the big-jackpot dilution lesson: when motherlode gets high, distribution can be worse because more miners show up. Suckytrader agreed — low deploys/crowding are ideal, while chasing a giant ML is partly gamba. Preserve this as another reason not to fund a mining chase by impulsively liquidating a staking position.
+
+**Protocol-economics note:** the ORE/SOL discussion sharpened the difference between three variables: SOL price affects the miner's bankroll and buyback power, ORE price affects the value of mined output and protocol burn/inflation dynamics, and mining yield is still earned in ORE/uORE terms. A miner should watch all three without pretending one chart answers every decision.
+
+**Education hub takeaway:** green mining wins are excellent storytelling, but the teaching layer is discipline after the win: celebrate, log the settings, check whether the board is still favorable, and avoid turning holder conviction into an all-in mining refill.
+
+Reusable response:
+
+```text
+!stakeormine — Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
+```
