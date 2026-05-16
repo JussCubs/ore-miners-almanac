@@ -385,6 +385,20 @@ Teaching frame:
 
 The strongest lesson is emotional: good windows reward prepared miners, not miners who chase every green candle.
 
+### Positive-EV green windows
+
+Cubs' May 16 line — “the mines are paying me SOL to mine ORE” — is a sticky way to describe a favorable EV-filtered session. Returned SOL can lengthen runway while the miner accumulates ORE/uORE, which is exactly why miners build filters, dashboards, and autominer rules.
+
+Teach it carefully:
+
+- a green EV window rewards preparation, not impulse;
+- the miner should already know tile count, deploy size, stop rules, and total budget before the filter fires;
+- returned SOL can extend runway, but it should not erase accounting for fees, failed txs, and crowding;
+- if production cost rises or the board crowds, the correct move can be to stop while the session is ahead;
+- log why the window was green so the next session improves from evidence instead of vibes.
+
+The reusable line: **green EV is a permission to execute the plan, not a permission to abandon the plan.**
+
 ---
 
 ## Lottery accounts: making variance your friend

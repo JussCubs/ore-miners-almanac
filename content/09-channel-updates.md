@@ -915,3 +915,21 @@ Reusable responses:
 
 !minimum — There is no magic “0.01 SOL per block” rule. But dust-size deployments can become pointless because autominer, transaction, and tool fees create practical floors. Use tiny settings to learn, then judge by total session budget, fees, and runway — not by a rumored minimum.
 ```
+
+## 2026-05-16 Discord Update — positive-EV mining windows
+
+Captured 1 new message from 2026-05-16T04:46:06.912000+00:00.
+
+**Most active voice:** Cubs (1).
+
+**Miner story:** Cubs described a session that started well because EV was high enough that his rounds were deploying and “the mines are paying me SOL to mine ORE.” That phrase is useful storytelling shorthand for the cleanest kind of mining window: the miner is not only accumulating ORE/uORE, but returned SOL is helping extend the runway instead of immediately draining it.
+
+**Strategy insight:** positive-EV windows are where prepared miners get rewarded for having tooling, budgets, and stop rules ready before the board turns green. The education point is not “always size up when EV is high.” It is: know what signal triggered the session, let returned SOL extend the run without pretending it is risk-free, and stop if production cost, tile crowding, or failed transactions turn the window red again.
+
+**Education hub takeaway:** preserve “the mines are paying me SOL to mine ORE” as a sticky phrase for EV-filtered sessions, but pair it with attribution discipline. Returned SOL can make a session feel free; the miner still needs to log deployment, rewards, fees, failed transactions, and whether the result came from repeatable conditions or a lucky burst.
+
+Reusable response:
+
+```text
+!greenev — A green/positive-EV mining window means live conditions look good enough that returned SOL may extend the run while you stack ORE/uORE. Use it with a plan: log why the filter fired, keep tile/size rules intact, let returns lengthen runway cautiously, and stop when production cost, crowding, or failures turn the window bad.
+```

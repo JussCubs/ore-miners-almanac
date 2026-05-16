@@ -178,6 +178,12 @@ Clarifies the difference between protocol minimums, practical dust, and automine
 
 > There is no magic “0.01 SOL per block” rule. But dust-size deployments can become pointless because autominer, transaction, and tool fees create practical floors. Use tiny settings to learn, then judge by total session budget, fees, and runway — not by a rumored minimum.
 
+### !greenev
+
+Positive-EV window reminder: good live conditions can let returned SOL extend a mining run, but the miner still needs budget, logs, and stop rules.
+
+> Green EV does not mean free money. It means the board currently looks favorable enough to mine with a plan: know why the filter fired, keep size disciplined, let returned SOL extend runway cautiously, and stop when production cost, crowding, or failures flip the setup.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -204,6 +210,7 @@ Clarifies the difference between protocol minimums, practical dust, and automine
 - **Huge ML still has not hit — size up?** No. Enjoy the hype, then use production cost, crowding, budget, and runway to decide.
 - **Why does one wallet keep winning?** Check deployment share before calling it weird; odds are weighted by SOL deployed, not equal per wallet.
 - **Is there a 0.01 SOL/block minimum?** Not as a universal rule. Fees and tooling make extreme dust impractical, but miners should reason from budget, fees, and runway.
+- **Positive EV window?** Good — mine with the plan you already chose, log why the filter fired, and stop if production cost/crowding/failures turn it red.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
