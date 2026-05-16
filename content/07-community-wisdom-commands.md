@@ -166,6 +166,18 @@ Big-motherlode patience check: when the jackpot gets huge, excitement and frustr
 
 > Big motherlodes are exciting, but they can also crowd the board and tempt miners into chasing. Enjoy the lore, memes, and playlist, then check ore.fyi, tile crowding, budget, and runway. If the plan only works because ML hits soon, it is not a plan.
 
+### !weightedodds
+
+Explains why a high-deploy wallet can win more often without implying the round is broken.
+
+> ORE mining odds are weighted by deployment, not evenly split by wallet count. If one miner deploys 2 SOL into a 20 SOL round, about a 10% hit/share rate is normal. Bigger deploys buy more expected share but burn runway faster, so size from budget first.
+
+### !minimum
+
+Clarifies the difference between protocol minimums, practical dust, and autominer/tooling fees.
+
+> There is no magic “0.01 SOL per block” rule. But dust-size deployments can become pointless because autominer, transaction, and tool fees create practical floors. Use tiny settings to learn, then judge by total session budget, fees, and runway — not by a rumored minimum.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -190,6 +202,8 @@ Big-motherlode patience check: when the jackpot gets huge, excitement and frustr
 - **Do multiple wallets improve mining?** No — they help with withdrawals/accounting, not odds.
 - **What would I get from a 100 ORE motherlode?** It depends on total SOL deployed on the winning tile; there is no fixed payout without crowding data.
 - **Huge ML still has not hit — size up?** No. Enjoy the hype, then use production cost, crowding, budget, and runway to decide.
+- **Why does one wallet keep winning?** Check deployment share before calling it weird; odds are weighted by SOL deployed, not equal per wallet.
+- **Is there a 0.01 SOL/block minimum?** Not as a universal rule. Fees and tooling make extreme dust impractical, but miners should reason from budget, fees, and runway.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 

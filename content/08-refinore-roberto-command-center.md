@@ -129,3 +129,21 @@ Roberto's command center should make these fields explicit:
 The best UX language from the thread was nftimm's framing: show something like **“Auto-reload — Budget: 10 SOL · SOL per round: 0.1 SOL · Tiles: 25.”** Cragglebear's follow-up makes it even clearer: add an **Estimated rounds** column when auto-reload is checked, then display a buffered count so miners understand their approximate runway without doing mental math.
 
 This is also a storytelling opportunity: the command center can show miners how a low-and-slow setup survives because it manages runway, not because it found a magic setting.
+
+---
+
+## Weighted-odds explanations should be first-class
+
+A May 16 mining-channel exchange showed another Roberto education job: explain “why did that address win so much?” without forcing miners to reverse-engineer weighted odds from Discord scroll.
+
+The answer is simple but important: mining outcomes are weighted by deployment size, not distributed equally across every visible wallet. If a miner deploys **2 SOL** into a round with about **20 SOL** total deployment, a roughly **10%** hit/share rate is within expectation. That can look suspicious to a newcomer who is counting participants instead of deployment share.
+
+Roberto should make this boringly clear in round review screens:
+
+- wallet deploy share versus total round deploy;
+- tile-level crowding where relevant;
+- expected share / expected hit-rate language in plain English;
+- fee drag for very tiny autominer deployments;
+- a reminder that bigger expected share also means faster bankroll burn.
+
+This pairs naturally with the existing cost/runway work: show miners why a large player wins often, then immediately translate that into budget risk instead of implying “just deploy more.”

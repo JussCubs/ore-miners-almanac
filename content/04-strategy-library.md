@@ -213,6 +213,22 @@ Yorter added the sharper tactical version: good miners look for less-deployed ti
 
 > “Optimal” is not a magic tile. It is a repeatable habit: low size, enough coverage, live cost awareness, and the humility to sit out bad conditions.
 
+### Weighted odds are not suspicious by themselves
+
+A May 16 channel question produced a clean beginner math lesson: if one address wins “too often,” first check how much that address is deploying relative to the round. ORE mining rewards are weighted by deployment size on the relevant competition, not equally distributed across all visible wallets.
+
+Fronk's concrete shorthand is useful: if a miner deploys **2 SOL** in a round where total deployment is about **20 SOL**, a roughly **10%** hit/share rate is not strange — it is the expected shape of weighted odds.
+
+Teach it this way:
+
+- do not judge fairness from wallet count alone; compare deploy size against total deploy;
+- repeated wins can be normal when one miner contributes a large share of the round;
+- bigger deploys buy more expected share, but they also burn runway faster;
+- tiny deploys can survive longer, but fees and tooling overhead create practical dust limits;
+- “weighted odds” explains why size matters, not why beginners should oversize.
+
+The beginner-safe takeaway stays the same: pick the bankroll and runway first, then size the miner so the expected share does not bankrupt the session before variance has time to work.
+
 ---
 
 ## Seven-day budget table for constant 25-tile mining

@@ -893,3 +893,25 @@ Reusable response:
 ```text
 !mlfatigue — Big motherlodes are exciting, but they can also crowd the board and tempt miners into emotional sizing. Enjoy the lore and the playlist, then check ore.fyi, tile crowding, budget, and runway. If the setup only works because ML hits soon, it is not a plan.
 ```
+
+## 2026-05-16 Discord Update — weighted odds and practical minimums
+
+Captured 17 new messages from 2026-05-16T00:10:04.825000+00:00 through 2026-05-16T02:33:31.452000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (11), Hermes (5), OreBro (1).
+
+**Miner question:** Hermes noticed one address winning what looked like an improbable number of single-ORE rounds — roughly 10+ wins within about 100 rounds — and asked whether every participant on the block had an equal chance.
+
+**Strategy insight:** Fronk gave the clean education answer: ORE mining is weighted by amount deployed. A miner deploying **2 SOL** into a round with about **20 SOL** total deployment should expect roughly a **10%** share/hit-rate shape. The address winning often is not automatically suspicious; first compare its deployment share against total deployment instead of counting wallets.
+
+**Practical-minimum clarification:** Hermes also thought there might be a `0.01 SOL` minimum per block. Fronk clarified there is no protocol-style minimum per block in that sense, but autominer and transaction fees make absurdly tiny deploys cost-prohibitive in practice. That distinction matters: “no hard minimum” does not mean “dust size is free.”
+
+**Education hub takeaway:** this is a perfect Roberto/almanac explainer because newcomers often read streaks emotionally. The reusable lesson is: weighted odds explain why size changes expected share; runway math explains why bigger size can still be a bad beginner move.
+
+Reusable responses:
+
+```text
+!weightedodds — ORE mining odds are weighted by deployment, not evenly split by wallet count. If one miner deploys 2 SOL into a 20 SOL round, about a 10% hit/share rate is normal. Bigger deploys buy more expected share but burn runway faster, so size from budget first.
+
+!minimum — There is no magic “0.01 SOL per block” rule. But dust-size deployments can become pointless because autominer, transaction, and tool fees create practical floors. Use tiny settings to learn, then judge by total session budget, fees, and runway — not by a rumored minimum.
+```
