@@ -873,3 +873,23 @@ Reusable response:
 ```text
 !customboot — Custom boots/dashboards are great for visibility, but treat them as a journal, not alpha by themselves: log budget, SOL per round, tiles, expected rounds, actual uORE/SOL movement, failed txs, and what decision the data changes next.
 ```
+
+## 2026-05-16 Discord Update — big-motherlode fatigue and playlist lore
+
+Captured 25 new messages from 2026-05-15T21:15:42.646000+00:00 through 2026-05-15T23:56:50.250000+00:00.
+
+**Most active voices:** nftimm (6), starship_fronk⛏️ (4), deflation (3), Ni | triad (3), OREillions⛏️ (2), willd (2), Brian (2), Navigator (1).
+
+**Miner story:** the channel hit the familiar “please let this motherlode pop” mood. nftimm went from “CAN THIS MOTHERLODE HIT ALREADY” to “I literally hate big motherlodes 😂,” while Navigator wanted the jackpot to reach 1000 first and willd joked that beating the old 777 ORE mark would be hilarious. That tension is a useful storytelling hook: a growing jackpot creates attention, but it also delays normal miners who just want cleaner, calmer ORE accumulation.
+
+**Strategy insight:** giant motherlodes are not automatically better mining conditions. They can pull in more claims, more hunters, higher production cost, and more emotional sizing. Orillions' “toooooo much claims” line catches the hidden risk: a giant headline prize can make everyone feel bullish while also making the live board more crowded and expensive. The education answer is to name the feeling, then send miners back to production cost, tile crowding, budget, and stop rules.
+
+**Lore note:** Fronk called for the mining playlist as the jackpot pushed toward 400 ORE and linked the community Suno playlist: https://suno.com/playlist/672f2e39-ffcb-425b-952a-12321bac7066. Keep that as culture, not strategy — when the room is waiting on a huge ML, music and jokes help the community hold the tension without turning every round into a tilt decision.
+
+**Education hub takeaway:** teach “big ML fatigue” as a normal miner emotion. The correct response is not to shame the hype; it is to separate entertainment from execution. Celebrate the lore, keep the playlist, then size the miner like the jackpot might not hit during the current runway.
+
+Reusable response:
+
+```text
+!mlfatigue — Big motherlodes are exciting, but they can also crowd the board and tempt miners into emotional sizing. Enjoy the lore and the playlist, then check ore.fyi, tile crowding, budget, and runway. If the setup only works because ML hits soon, it is not a plan.
+```

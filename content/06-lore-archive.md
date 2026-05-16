@@ -50,6 +50,14 @@ As the mining channel grew, veterans noticed a problem: great advice kept gettin
 
 Diggy and Fronk proposed a solution: bot commands that preserve veteran advice in reusable form — !fronk, !thep, !zoo, !lowandslow. This idea — that wisdom should be preserved, not repeated — is the seed that grew into the ORE Miner's Almanac itself.
 
+## The mining playlist
+
+By mid-May 2026, waiting on large motherlodes had become its own social ritual. As the jackpot pushed toward 400 ORE, Fronk called for the community mining playlist — a Suno playlist miners could throw on while everyone joked, refreshed, and argued about whether the hit would land at 420, 420.69, 777+, or some completely unreasonable number.
+
+That playlist belongs in the lore archive because it captures the human side of ORE mining. The strategy library can say “do not emotionally size around a giant motherlode,” but the channel still needs a way to enjoy the suspense together. Music, memes, and impossible predictions turn waiting into culture instead of pure tilt.
+
+Playlist: https://suno.com/playlist/672f2e39-ffcb-425b-952a-12321bac7066
+
 ## The ORE narrative
 
 Community members repeatedly describe ORE as:

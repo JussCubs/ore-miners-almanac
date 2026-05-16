@@ -296,6 +296,10 @@ Reusable framing:
 
 This belongs in the advanced shelf. Beginners should not hear “150-250 ORE” as permission to overdeploy. They should hear: **even motherlode hunters need a stop rule.**
 
+The May 15 “big motherlode fatigue” thread adds the emotional version of the same lesson. When a jackpot pushes toward 400 ORE, the room can get loud: some miners want it to hit now so they can mine normally again, others want a larger headline, and jokes about exact numbers like 420.69 become part of the ritual. That is fun community lore, but it is also a warning sign for strategy. A giant visible prize can increase claims, crowd tiles, lift production cost, and make miners size from impatience instead of budget.
+
+Teach the filter this way: **bigger ML means more attention, not automatically better EV.** If a miner is already tired of waiting, their next action should be smaller and more rules-based, not larger and more emotional.
+
 ### Testing motherlode-size filters
 
 Willd's next-test idea gives this section a cleaner research loop: split mining results by motherlode bands, for example **0-75**, **75-150**, **150-250**, and **250+ ORE**, then compare cost basis and reward source by band instead of arguing from memory. Cragglebear's response adds the caution: split rounds may deteriorate above roughly 200 ORE as competition increases, while top-miner outcomes can still look random rather than neatly tied to low-motherlode windows.

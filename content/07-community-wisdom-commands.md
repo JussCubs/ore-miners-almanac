@@ -160,6 +160,12 @@ Motherlode-share explainer: jackpot size alone does not tell you what you will e
 
 > A 100 ORE motherlode does not have a fixed payout for `0.004 SOL/block`. Your share depends on the total SOL deployed by all miners on the winning tile. Bigger jackpot + crowded tile can pay less than smaller jackpot + quieter tile. Log crowding, not only ML size.
 
+### !mlfatigue
+
+Big-motherlode patience check: when the jackpot gets huge, excitement and frustration both rise. Do not let the waiting room turn into emotional sizing.
+
+> Big motherlodes are exciting, but they can also crowd the board and tempt miners into chasing. Enjoy the lore, memes, and playlist, then check ore.fyi, tile crowding, budget, and runway. If the plan only works because ML hits soon, it is not a plan.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -183,6 +189,7 @@ Motherlode-share explainer: jackpot size alone does not tell you what you will e
 - **Does lottery mining work?** Only if the deploy size is small enough to survive enough rounds for variance to help.
 - **Do multiple wallets improve mining?** No — they help with withdrawals/accounting, not odds.
 - **What would I get from a 100 ORE motherlode?** It depends on total SOL deployed on the winning tile; there is no fixed payout without crowding data.
+- **Huge ML still has not hit — size up?** No. Enjoy the hype, then use production cost, crowding, budget, and runway to decide.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
