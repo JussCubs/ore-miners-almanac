@@ -575,3 +575,13 @@ Hermes' green hits created a classic “should I sell staked ORE to mine more?�
 ```text
 !stakeormine — Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
 ```
+
+---
+
+## Update — 2026-05-17
+
+RektAlotCrypto asked the honest beginner post-mortem: 10 SOL deployed across two full-grid auto-reload runs at 0.002 SOL per block, one motherlode caught, and only 6.91 unrefined ORE at the end. Deflation pointed to the durable answer: recent production cost was high enough that the result made sense before blaming variance.
+
+```text
+!postrun — Judge a mining run against live production cost, not vibes. Log SOL spent, ORE/uORE returned, tiles, SOL per block, auto-reload settings, ML/top-miner hits, and ore.fyi production cost during the run. A full-grid run can still look weak when the board was expensive; decide if you were mining for learning, uORE yield, ML variance, or spot exposure.
+```

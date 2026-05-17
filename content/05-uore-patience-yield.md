@@ -209,3 +209,24 @@ Reusable command snippet:
 ```text
 !stakeormine — Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
 ```
+
+---
+
+## Post-run uORE expectations: high production cost can make “normal” feel bad
+
+RektAlotCrypto brought the useful beginner version of the post-session question: after deploying 10 SOL over two runs, mining all blocks at 0.002 SOL per block with auto-reload, catching one motherlode, and ending with 6.91 unrefined ORE, was that normal or a bad round? Deflation's answer supplied the missing context: the last couple days had **very high production cost**, with one peak around **$140 per ORE**, so the uORE result can be explained before even adding variance.
+
+That belongs in the patience chapter because uORE balances are not self-explanatory. A miner can do the “right” mechanical things — 25 tiles, auto-reload, enough budget to stay active, even one ML touch — and still feel underwhelmed if the board was expensive. The post-run review should separate four questions:
+
+- what did the run cost in SOL and dollars?
+- what was ore.fyi production cost during the run?
+- how much ORE/uORE came back before claim fees and refining yield?
+- was the miner buying learning data, long-term uORE patience, motherlode variance, or immediate spot exposure?
+
+If the honest answer is “I wanted immediate spot exposure while production cost was high,” then buying and staking may have been cleaner. If the goal was education, uORE accumulation, and learning how a full-grid auto-reload run behaves, then the result becomes a log entry instead of a verdict.
+
+Reusable command snippet:
+
+```text
+!postrun — Judge a mining run against live production cost, not vibes. Log SOL spent, ORE/uORE returned, tiles, SOL per block, auto-reload settings, ML/top-miner hits, and ore.fyi production cost during the run. A full-grid run can still look weak when the board was expensive; decide if you were mining for learning, uORE yield, ML variance, or spot exposure.
+```

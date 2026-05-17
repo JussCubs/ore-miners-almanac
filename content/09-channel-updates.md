@@ -1041,3 +1041,21 @@ Reusable response:
 ```text
 !wallets — Multiple wallets do not change mining odds, tile math, or motherlode share. Use them to separate experiments, withdrawals, and long-hold uORE plans — for example, claim from one wallet if you need cash while the others keep compounding — not because they magically make a bad setup profitable.
 ```
+
+## 2026-05-17 Discord Update — post-run expectations when production cost is high
+
+Captured 10 new messages from 2026-05-17T10:56:29.460000+00:00 through 2026-05-17T12:02:19.836000+00:00.
+
+**Most active voices:** deflation (5), RektAlotCrypto (2), OREillions⛏️ (2), ΣXTΛSY | Candy Studio (1).
+
+**Miner story:** RektAlotCrypto gave the exact kind of beginner post-run report the Almanac should teach from: 10 SOL deployed across two runs, all blocks covered, 0.002 SOL per block, auto-reload on, one motherlode caught, and 6.91 unrefined ORE at the end. The question was not “number go up?” but “was this normal, bad luck, or would buying/staking have been better?”
+
+**Strategy insight:** ΣXTΛSY asked the right first diagnostic — how many tiles were mined? — because tile count changes variance. Once the setup was clear, deflation pointed to the more important context: the last couple days had very high production cost, with one peak around $140/ORE. That means the result can be explained by expensive board conditions before reaching for exotic variance explanations.
+
+**Education hub takeaway:** teach miners to review runs against **production cost at the time of mining**, not the emotional memory of the session. Full-grid/25-tile coverage reduces tile-selection variance, but it does not make an expensive board cheap. Auto-reload creates runway, but it does not guarantee efficient accumulation. Even an ML touch can feel disappointing if the miner was effectively producing ORE far above spot price.
+
+**Reusable response:**
+
+```text
+!postrun — Judge a mining run against live production cost, not vibes. Log SOL spent, ORE/uORE returned, tiles, SOL per block, auto-reload settings, ML/top-miner hits, and ore.fyi production cost during the run. A full-grid run can still look weak when the board was expensive; decide if you were mining for learning, uORE yield, ML variance, or spot exposure.
+```

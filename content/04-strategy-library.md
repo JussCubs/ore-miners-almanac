@@ -466,6 +466,22 @@ The teaching line: dropping tiles does not make the miner smarter by itself. It 
 
 ---
 
+## Post-run diagnostics: production cost before variance blame
+
+RektAlotCrypto's May 17 report is the clean post-run checklist in story form: 10 SOL deployed over two runs, full-grid coverage, 0.002 SOL per block, auto-reload on, one motherlode caught, and 6.91 unrefined ORE returned. The useful answer was not just “good” or “bad.” Deflation pointed back to the environment: the prior couple days had high production cost, with one peak around $140/ORE, so the result made sense before blaming unlucky variance.
+
+Use this order when reviewing a completed session:
+
+- confirm tile count first, because fewer tiles add missed-round variance;
+- compare the run window to ore.fyi production cost, not only current spot price after the fact;
+- separate SOL returned, uORE earned, top-miner hits, and motherlode exposure;
+- decide whether the miner was trying to learn, accumulate uORE patiently, chase ML variance, or simply get spot ORE exposure;
+- if production cost was far above ORE spot price, buying/staking may have been the cleaner exposure even if the mechanics were executed correctly.
+
+The reusable line: **a mechanically clean run can still be economically expensive if the board was expensive.**
+
+---
+
 ## Auto-reload budget math: rounds, runway, and full-grid learning
 
 The May 14 auto-reload thread tightened an important strategy lesson: an autominer setup is not just “how much SOL per round?” It is also **how much total budget is authorized, how many rounds that budget can survive, and whether rewards are recycled into more runway.**
