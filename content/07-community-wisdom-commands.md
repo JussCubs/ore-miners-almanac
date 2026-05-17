@@ -168,9 +168,9 @@ Tiny lottery-account framing: smaller deploys buy more rounds, giving variance m
 
 ### !wallets
 
-Multiple-wallet clarification: extra wallets can help with withdrawals, claim isolation, and accounting, but they do not improve mining odds by themselves.
+Multiple-wallet clarification: extra wallets can help with withdrawals, claim isolation, cash-flow planning, and accounting, but they do not improve mining odds by themselves.
 
-> Multiple wallets do not change mining odds, tile math, or motherlode share. Use them to separate experiments, withdrawals, and long-hold uORE plans — not because they magically make a bad setup profitable.
+> Multiple wallets do not change mining odds, tile math, or motherlode share. Use them to separate experiments, withdrawals, and long-hold uORE plans — for example, claim from one wallet if you need cash while the others keep compounding — not because they magically make a bad setup profitable.
 
 ### !mlshare
 
@@ -232,7 +232,7 @@ Stake-or-mine answer for miners tempted to sell staked ORE after a green mining 
 - **Autominer txs failing?** Separate protocol cost, tool fees, failed tx rate, and late-slot timing; test tiny until boring.
 - **Is `0.001 SOL` dust strat still good?** It is a learning-size anchor, not a magic setting. Check live production cost and budget.
 - **Does lottery mining work?** Only if the deploy size is small enough to survive enough rounds for variance to help.
-- **Do multiple wallets improve mining?** No — they help with withdrawals/accounting, not odds.
+- **Do multiple wallets improve mining?** No — they help with withdrawals, cash-flow planning, and accounting, not odds.
 - **What would I get from a 100 ORE motherlode?** It depends on total SOL deployed on the winning tile; there is no fixed payout without crowding data.
 - **Huge ML still has not hit — size up?** No. Enjoy the hype, then use production cost, crowding, budget, and runway to decide.
 - **Why does one wallet keep winning?** Check deployment share before calling it weird; odds are weighted by SOL deployed, not equal per wallet.

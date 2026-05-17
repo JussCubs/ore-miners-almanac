@@ -179,7 +179,7 @@ Reusable command snippet:
 
 Xenos shared a useful beginner-to-patient-miner transition: starting with a small Seeker-era setup, then moving mining to another wallet after learning how uORE works. Rick later asked whether multiple wallets help a lottery setup, and nftimm gave the durable answer: **there is no mining benefit to multiple wallets other than withdrawals.**
 
-That distinction is important. Multiple wallets do not change protocol math, tile odds, or motherlode share by themselves. They can still be useful when the goal is to separate experiments, claims, and long-hold refining decisions. Use extra wallets for accounting and withdrawal/yield isolation, not as a magic EV boost.
+That distinction is important. Multiple wallets do not change protocol math, tile odds, or motherlode share by themselves. They can still be useful when the goal is to separate experiments, claims, and long-hold refining decisions. RNA later phrased the cash-flow version cleanly: mine with several wallets so one wallet can be claimed or sold from if the miner needs liquidity, while the rest keep compounding. Use extra wallets for accounting and withdrawal/yield isolation, not as a magic EV boost.
 
 The same thread clarified “top miner,” a term that can confuse new miners. In channel shorthand, a **top-miner win** means the miner wins the round's 1 ORE payout for themselves instead of only receiving split rewards. That is why experienced miners separate their logs into different reward types:
 

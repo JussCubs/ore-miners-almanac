@@ -1025,3 +1025,19 @@ Reusable responses:
 
 !impersonator — Same name and same profile picture does not mean same person. Ignore surprise DMs/links, verify in the public channel, use official domains only, and ping mods if an account deletes messages or rushes you toward wallet actions.
 ```
+
+## 2026-05-17 Discord Update — wallet sleeves for real-life liquidity
+
+Captured 1 new message from 2026-05-17T05:49:31.129000+00:00.
+
+**Most active voices:** RNA(•‿•) (1).
+
+**Strategy insight:** RNA compressed the practical reason for multi-wallet mining into one line: mine with several wallets so you do not have to withdraw everything when you need cash. This is the healthy version of wallet splitting. It is not a claim that more wallets improve odds; it is a liquidity sleeve. One wallet can become the “cash if needed” account while the rest preserve uORE patience and compounding.
+
+**Education hub takeaway:** teach wallet separation as planning, not superstition. A miner should decide before the session which wallet is for experiments, which wallet is for long-hold refining, and which wallet is allowed to be claimed if real-life liquidity matters. That keeps an emergency cash need from turning into an all-position claim or an emotional sell.
+
+Reusable response:
+
+```text
+!wallets — Multiple wallets do not change mining odds, tile math, or motherlode share. Use them to separate experiments, withdrawals, and long-hold uORE plans — for example, claim from one wallet if you need cash while the others keep compounding — not because they magically make a bad setup profitable.
+```
