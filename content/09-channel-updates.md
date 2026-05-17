@@ -1087,3 +1087,27 @@ Reusable responses:
 
 !costhistory — For live mining cost, start with ore.fyi. For deeper review, use ore-stats/history views when available and compare the session against production cost at the time you mined, not just today’s price or the feeling of the run.
 ```
+
+## 2026-05-17 Discord Update — dust fallback, ML heat, and never-claimed conviction
+
+Captured 100 new messages from 2026-05-17T19:01:09.333000+00:00 through 2026-05-17T19:49:31.195000+00:00.
+
+**Most active voices:** OREillions⛏️ (47), deflation (31), Ni | triad (11), firebladeXT3 (7), Yorter (4).
+
+**Miner story:** firebladeXT3 gave the live beginner sizing question: after starting that day with about `0.01 SOL` per block and seeing an average near market price, should the miner go lower? OREillions answered with the recurring runway frame: `0.01` can be aggressive for a smaller SOL balance, especially if the miner is forced to reclaim/reload every 30-40 rounds. Use auto-reload/auto-claim mechanics correctly, but do not confuse mechanical convenience with safe sizing.
+
+**Strategy insight:** deflation and OREillions sharpened the “dust fallback” pattern. When stricter positive-EV or “100% discount” filters are not firing, a miner can run a tiny all-grid fallback such as `0.00005` per tile as fire-and-forget accumulation. The expectation is not a solo hit in 1,000 tries; veterans were talking in the **3,000-5,000+** and **10,000-round** language. The reusable lesson is patience: tiny settings buy enough attempts for variance and uORE yield to matter.
+
+**Motherlode heat warning:** the channel also explained “chasing ML” in plain language. When the motherlode is large — the example was around **202 ORE** — production cost and deployment can climb because gamblers crowd the board. A larger miner might catch a big chunk if the jackpot pops, but they must be willing to absorb higher average cost and SOL burn if it does not. That makes ML chasing an advanced budget decision, not a beginner default.
+
+**Lore / conviction note:** OREillions added a useful long-horizon story: he started mining slowly during declining price conditions, increased conviction over time, crossed goal after goal, moved from staking into uORE, and has never claimed from any wallet. That does not mean “never sell” is universal advice. It means the Almanac should preserve the identity of the patient miner: build during tough times, let goals compound, and avoid turning every session into a liquidity event.
+
+Reusable responses:
+
+```text
+!dustfallback — If your strict EV filter is not firing, a tiny all-grid fallback can keep you learning and slowly stacking. Think 3,000-10,000+ rounds, not instant solo hits. Use dust size, auto-reload carefully, and pause if production cost/crowding makes even the fallback feel forced.
+
+!mlheat — A big motherlode can crowd the board and push production cost up. Chasing it can work if the jackpot pops, but the miner pays with higher burn and worse averages if it does not. Beginners should treat high-ML windows as a reason to shrink, not automatically size up.
+
+!convictionstack — Patient miners often start small, survive bad price periods, and increase conviction only after they understand their logs. Crossing uORE goals without claiming is a long-horizon strategy, not a reason to overdeploy today.
+```

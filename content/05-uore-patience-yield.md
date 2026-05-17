@@ -50,7 +50,7 @@ The phrase "ORE makes impatience mathematically expensive" captures the vibe: th
 
 - **David:** Mine, never claim, someday borrow against it.
 - **Suckytrader:** If you must claim, wait at least 1.5 months. Use multiple wallets — claim from one while preserving yield in others.
-- **Orillions:** Started with a goal of 10 uORE, grew to nearly 200. Never claimed once.
+- **Orillions:** Started with a goal of 10 uORE, grew to nearly 200. Later framed the journey as starting slowly during declining price conditions, building conviction over time, crossing goals repeatedly, converting staked ORE into uORE, and never claiming from any wallet.
 - **Madhatt3r:** Won 60 ORE from the first motherlode, claimed and staked early. ORE makes impatience mathematically expensive.
 
 ## The claim decision
@@ -70,6 +70,21 @@ A May 17 channel question sharpened this point: when a miner asked whether they 
 ## The single most important decision
 
 The single most important decision in ORE mining isn't which tiles to pick. It's whether to claim or hold.
+
+## Conviction grows after logs, not before them
+
+OREillions' May 17 reflection is a clean patient-miner story: he did not begin by going maximum size. He started slowly while price was declining, learned the rhythm, watched his average improve over time, and only then grew more aggressive as conviction increased. The important detail is sequencing.
+
+For the Almanac, this is the difference between conviction and impulse:
+
+- impulse says “price might pump, so I should go hard now”;
+- conviction says “my logs show I can survive this size and hold the uORE”;
+- impulse claims or rotates after every emotional session;
+- conviction sets goals, crosses them, and avoids forced liquidity events;
+- impulse treats uORE like a short-term receipt;
+- conviction treats uORE as the position being built.
+
+The quote-level takeaway is simple: “never claimed” is not a commandment for every miner. It is evidence that a long-horizon plan only works when the miner sized small enough to not need the claim button.
 
 ---
 

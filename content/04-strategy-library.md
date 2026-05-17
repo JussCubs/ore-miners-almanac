@@ -31,6 +31,20 @@ Use this as the beginner sizing rule:
 
 The best low-and-slow setup is boring enough to repeat after a bad stretch. If a missed top-miner run would make the miner rage-claim, the size is too big.
 
+### Dust fallback when stricter filters are quiet
+
+A later May 17 thread clarified a useful advanced-but-beginner-readable pattern: some miners keep a tiny full-grid fallback running when their stricter positive-EV or “discount” strategy is not firing. The example discussed was around `0.00005` per tile — not because that number is magic, but because it is small enough to buy time.
+
+Teach it as a fallback, not a hack:
+
+- keep all-grid coverage if the goal is patient accumulation and learning;
+- expect thousands of rounds before judging the setup, not 1,000 tries and a verdict;
+- auto-reload can reduce manual friction, but the SOL budget still needs a cap;
+- if the motherlode is large and production cost spikes, dust may be the only size that keeps the miner from emotional chasing;
+- when stricter EV filters resume firing, keep the logs separate so fallback performance does not get confused with the main strategy.
+
+The rule of thumb: dust fallback is for staying in the game and collecting data while waiting for better windows. It is not permission to leave an uncapped miner running blindly.
+
 ## Long-term stacker (David Method)
 
 Best for high-conviction miners who care about uORE exposure.

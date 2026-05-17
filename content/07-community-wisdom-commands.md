@@ -208,6 +208,24 @@ Stake-or-mine answer for miners tempted to sell staked ORE after a green mining 
 
 > Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
 
+### !dustfallback
+
+Tiny full-grid fallback for miners whose stricter EV/discount filters are quiet but who still want to keep learning and slowly stacking.
+
+> If your strict EV filter is not firing, a tiny all-grid fallback can keep you learning and slowly stacking. Think 3,000-10,000+ rounds, not instant solo hits. Use dust size, auto-reload carefully, and pause if production cost/crowding makes even the fallback feel forced.
+
+### !mlheat
+
+High-motherlode caution for miners tempted to size up because the jackpot is large.
+
+> A big motherlode can crowd the board and push production cost up. Chasing it can work if the jackpot pops, but the miner pays with higher burn and worse averages if it does not. Beginners should treat high-ML windows as a reason to shrink, not automatically size up.
+
+### !convictionstack
+
+Patient-miner story pattern: start small, build logs, increase conviction only after surviving enough rounds, and avoid unnecessary claims.
+
+> Patient miners often start small, survive bad price periods, and increase conviction only after they understand their logs. Crossing uORE goals without claiming is a long-horizon strategy, not a reason to overdeploy today.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -239,6 +257,9 @@ Stake-or-mine answer for miners tempted to sell staked ORE after a green mining 
 - **Is there a 0.01 SOL/block minimum?** Not as a universal rule. Fees and tooling make extreme dust impractical, but miners should reason from budget, fees, and runway.
 - **Positive EV window?** Good — mine with the plan you already chose, log why the filter fired, and stop if production cost/crowding/failures turn it red.
 - **Sell staked ORE to mine more?** Not all-in. Keep a core holder/uORE position, mine from a separate SOL sleeve, and rotate slowly only when ore.fyi and budget runway justify it.
+- **Strict EV filter is quiet — can I still mine?** Maybe, but only as a tiny fallback with a SOL cap. Think thousands of rounds, not instant solo hits.
+- **Big ML is building — should I size up?** Usually shrink first. High ML can mean high production cost and crowded tiles; chasing is advanced variance.
+- **How do patient miners build conviction?** Start small, log sessions, cross goals over time, and only increase size after the plan survives bad stretches.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
