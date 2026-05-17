@@ -17,6 +17,20 @@ BREADFAN's caution is worth attaching to the default: this is a **zone of relati
 
 > You don't need to win big. You need to win consistently.
 
+### Time in the mines beats oversized sprints
+
+A May 17 sizing thread gave the low-and-slow method one of its clearest explanations. When a new miner asked whether larger all-block deployments could still lose money, OREillions pointed at variance and runway: a small miner who goes hard may finish in **100 rounds** and miss the solo/top-miner outcomes, while a smaller setup that survives **10,000 rounds** creates better learning data and gives uORE patience time to matter.
+
+Use this as the beginner sizing rule:
+
+- all 25 tiles reduces tile-picking variance, but it does not remove variance;
+- the **10% protocol fee plus 1% admin fee** hits deployment regardless of size;
+- larger size is only safer if the bankroll is genuinely whale-sized;
+- if the balance is small, reduce per-round size first — examples discussed included stepping down toward `0.0005` or even `0.00005` where appropriate;
+- judge the plan by expected runway and production cost, not by how impressive the deployment looks.
+
+The best low-and-slow setup is boring enough to repeat after a bad stretch. If a missed top-miner run would make the miner rage-claim, the size is too big.
+
 ## Long-term stacker (David Method)
 
 Best for high-conviction miners who care about uORE exposure.

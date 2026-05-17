@@ -230,3 +230,25 @@ Reusable command snippet:
 ```text
 !postrun — Judge a mining run against live production cost, not vibes. Log SOL spent, ORE/uORE returned, tiles, SOL per block, auto-reload settings, ML/top-miner hits, and ore.fyi production cost during the run. A full-grid run can still look weak when the board was expensive; decide if you were mining for learning, uORE yield, ML variance, or spot exposure.
 ```
+
+---
+
+## Yield comparison: staking is simpler, uORE is the patient-miner bet
+
+A May 17 beginner thread compared staking ORE with mining and holding uORE. The useful education point was not “one number beats all others.” It was time preference. OREillions gave rough live-channel anchors of about **15-20%** for staked ORE and **60-70%** for mining/uORE, with ore.fyi as the place to check current figures. Madhatt3r summarized the decision cleanly: uORE yield can be much higher, but it depends on how long the miner can wait.
+
+That is why miners say uORE can “catch up” after an ugly first session. If the miner claims immediately, the fee and bad variance lock in the pain. If the miner can hold unrefined ORE long enough, refining yield can help cover early losses. The important word is **can**: this only helps if the miner sized the run small enough to avoid forced selling or panic-claiming before patience has time to work.
+
+Practical frame for newcomers:
+
+- staking ORE is the simpler holder route;
+- mining can produce higher-yielding uORE exposure, but adds variance, production-cost timing, and claim-fee decisions;
+- ore.fyi should be checked before quoting APY/yield numbers because conditions move;
+- “catch up later” is not permission to oversize today;
+- if the miner needs liquidity soon, split wallets or reduce size instead of relying on future yield to rescue an oversized run.
+
+Reusable command snippet:
+
+```text
+!catchup — uORE yield can help patient miners recover early mining friction, but only if they can actually hold. Check ore.fyi for current staking/mining yield, size small enough to avoid forced claims, and remember that “60-70% mining yield” does not make a bad high-cost session risk-free.
+```

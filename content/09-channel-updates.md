@@ -1059,3 +1059,31 @@ Captured 10 new messages from 2026-05-17T10:56:29.460000+00:00 through 2026-05-1
 ```text
 !postrun — Judge a mining run against live production cost, not vibes. Log SOL spent, ORE/uORE returned, tiles, SOL per block, auto-reload settings, ML/top-miner hits, and ore.fyi production cost during the run. A full-grid run can still look weak when the board was expensive; decide if you were mining for learning, uORE yield, ML variance, or spot exposure.
 ```
+
+## 2026-05-17 Discord Update — runway beats oversized sprints
+
+Captured 53 new messages from 2026-05-17T12:02:29.306000+00:00 through 2026-05-17T15:42:30.201000+00:00.
+
+**Most active voices:** OREillions⛏️ (19), deflation (10), firebladeXT3 (8), RektAlotCrypto ⛏️ (4), OGLilsBTC (3), RNA(•‿•) (2), jamy (2), ΣXTΛSY | Candy Studio (2).
+
+**Miner story:** firebladeXT3 walked through the exact trap beginners hit after learning the mechanics: “what if I put larger amounts into all blocks, withdraw unused SOL, and repeat — can I still end up at a net loss?” OREillions answered by moving the discussion away from block count and toward runway. Covering all 25 blocks reduces tile-selection variance, but it does not remove variance, fees, or bad timing. A small balance that goes hard for 100 rounds can still miss solo/top-miner outcomes and run out before the long-term uORE thesis has time to work.
+
+**Strategy insight:** the channel sharpened three related rules:
+
+- size for **many rounds**, not one aggressive sprint — “10k rounds instead of 100” was the memorable line;
+- remember the deployment drag: **10% protocol fee plus 1% admin fee** regardless of deployment size;
+- use live production-cost tools before mining. Deflation pointed miners back to ore.fyi and noted that ore-stats can help review cost of production/history.
+
+**Yield education:** the thread also compared staking ORE with mining/uORE. OREillions quoted rough live anchors of **15-20%** for staking and **60-70%** for mining/uORE, then pointed back to ore.fyi. Madhatt3r framed it as time preference: uORE yield can be higher, but only useful to miners who can actually wait. RektAlotCrypto translated “catch up” for a new miner: holding unrefined ORE can help cover early losses over time.
+
+**Sentiment read:** patient-miner culture is doing its job. New miners are asking basic but high-value questions, veterans are turning the answer into reusable language, and the education hub keeps converging on the same north star: small size, long runway, cost checks, and patience before claims.
+
+Reusable responses:
+
+```text
+!roundrunway — Size for rounds, not ego. A 25-tile setup still has variance: going hard for 100 rounds can lose even if the strategy is reasonable, especially after the 10% protocol fee plus 1% admin fee on deployment. Beginners should shrink size, extend runway, and let thousands of rounds create useful data.
+
+!yieldcompare — Staking ORE is simpler and lower-maintenance; mining for uORE can show higher yield but adds variance, production-cost timing, and claim-fee risk. Check ore.fyi for current numbers, then decide by time horizon: if you cannot hold long enough for uORE to compound, mine smaller or stake instead.
+
+!costhistory — For live mining cost, start with ore.fyi. For deeper review, use ore-stats/history views when available and compare the session against production cost at the time you mined, not just today’s price or the feeling of the run.
+```

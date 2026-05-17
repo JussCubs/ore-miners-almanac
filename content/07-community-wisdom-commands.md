@@ -585,3 +585,25 @@ RektAlotCrypto asked the honest beginner post-mortem: 10 SOL deployed across two
 ```text
 !postrun — Judge a mining run against live production cost, not vibes. Log SOL spent, ORE/uORE returned, tiles, SOL per block, auto-reload settings, ML/top-miner hits, and ore.fyi production cost during the run. A full-grid run can still look weak when the board was expensive; decide if you were mining for learning, uORE yield, ML variance, or spot exposure.
 ```
+
+---
+
+## Update — 2026-05-17
+
+firebladeXT3 asked the beginner sizing question directly: if you deploy larger amounts across all blocks, withdraw only unused SOL, and repeat, can you still end up at a net loss? OREillions answered with the durable warning: variation can kill you if the balance is too small, and a whale-sized sprint is not the same as a beginner strategy. Better to spend time in the mines across many rounds than blast through the bankroll in 100 rounds and miss the solo/top-miner outcomes.
+
+```text
+!roundrunway — Size for rounds, not ego. A 25-tile setup still has variance: going hard for 100 rounds can lose even if the strategy is reasonable, especially after the 10% protocol fee plus 1% admin fee on deployment. Beginners should shrink size, extend runway, and let thousands of rounds create useful data.
+```
+
+The same thread produced a clean staking-vs-mining answer. OREillions quoted rough live anchors of **15-20%** for staking and **60-70%** for mining/uORE, pointed people back to ore.fyi, and RektAlotCrypto translated the patient-miner idea: holding unrefined ORE can help cover initial losses over time.
+
+```text
+!yieldcompare — Staking ORE is simpler and lower-maintenance; mining for uORE can show higher yield but adds variance, production-cost timing, and claim-fee risk. Check ore.fyi for current numbers, then decide by time horizon: if you cannot hold long enough for uORE to compound, mine smaller or stake instead.
+```
+
+A separate mini-thread reinforced the production-cost habit: ore.fyi is the quick check, and ore-stats can show cost of production/history for deeper review.
+
+```text
+!costhistory — For live mining cost, start with ore.fyi. For deeper review, use ore-stats/history views when available and compare the session against production cost at the time you mined, not just today’s price or the feeling of the run.
+```
