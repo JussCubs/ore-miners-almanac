@@ -1005,3 +1005,23 @@ Reusable response:
 ```text
 !stakeormine — Do not make staking vs mining an all-in decision. Keep a core ORE/uORE position if your thesis is long term, mine from a separate SOL budget, check ore.fyi before rotating more, and move slowly if swapping stORE/ORE into SOL so a pump or bad board does not trap you.
 ```
+
+## 2026-05-17 Discord Update — claim expectations and impersonator safety
+
+Captured 17 new messages from 2026-05-17T00:32:15.431000+00:00 through 2026-05-17T00:43:38.988000+00:00.
+
+**Most active voices:** Rick (11), OREillions⛏️ (5), David (1).
+
+**Claiming note:** Rick asked whether miners can claim only refined ORE instead of both refined and unrefined. OREillions answered simply: no. Preserve that as a beginner expectation-setting point: claiming is not a casual partial-withdrawal habit, and the miner should understand the basket, fee, and patience tradeoff before touching the claim button.
+
+**Security story:** the rest of the thread turned into a fast impersonator/scam response. Rick called out a suspicious account using the same name/profile image, OREillions told him to ignore it and pinged moderators, and David banned the account. The useful education layer is bigger than one fake link: scammers target miners at the exact moment they are asking wallet/claim questions, so verified public links and public-channel confirmation matter most when a beginner feels rushed.
+
+**Education hub takeaway:** claim mechanics and scam hygiene belong together in onboarding. A newcomer asking “can I claim only X?” is revealing both uncertainty and likely wallet interaction intent. That is when the community should answer the protocol question plainly, then redirect to verified links, tiny test actions, and public help — never DMs or lookalike accounts.
+
+Reusable responses:
+
+```text
+!claimbasket — Do not treat claiming like a casual partial-withdrawal button. If the current flow claims both refined and unrefined balances, plan around that basket, the 10% uORE fee, and your hold horizon before clicking. When unsure, ask publicly first.
+
+!impersonator — Same name and same profile picture does not mean same person. Ignore surprise DMs/links, verify in the public channel, use official domains only, and ping mods if an account deletes messages or rushes you toward wallet actions.
+```

@@ -130,9 +130,21 @@ Moving-target mining math explainer: there is no static best SOL-per-tile becaus
 
 ### !scams
 
-Newcomer safety reminder after scam DMs targeted fresh miners asking questions.
+Newcomer safety reminder after scam DMs targeted fresh miners asking questions. The May 17 impersonator thread made the warning more concrete: a fake/lookalike account can use the same name and profile picture, delete messages, and try to move a miner toward wallet actions while they are asking claim questions.
 
-> Do not trust mining links or help offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything.
+> Do not trust mining links or help offers sent by random DMs. Ask in the public channel, use verified domains, and start with tiny test settings before connecting or funding anything. Same name and same profile picture is not proof — verify publicly and ping mods if something feels off.
+
+### !impersonator
+
+Lookalike-account warning for miners who see a familiar name/profile picture sending links, tickets, or wallet instructions.
+
+> Same name and same profile picture does not mean same person. Ignore surprise DMs/links, verify in the public channel, use official domains only, and ping mods if an account deletes messages or rushes you toward wallet actions.
+
+### !claimbasket
+
+Claim-flow expectation setting for miners who ask whether they can claim only one part of their ORE/uORE balance.
+
+> Do not treat claiming like a casual partial-withdrawal button. If the current flow claims both refined and unrefined balances, plan around that basket, the 10% uORE fee, and your hold horizon before clicking. When unsure, ask publicly first.
 
 ### !howtomine
 
@@ -215,6 +227,8 @@ Stake-or-mine answer for miners tempted to sell staked ORE after a green mining 
 - **Can I leave my bot running while out?** Yes, but only after checking budget, SOL/round, tile count, auto-reload, stop rules, and pause/alert behavior.
 - **Is there an optimal mining setup?** Not fixed forever — price, deployment, tile crowding, and motherlode size move. Use a disciplined decision loop instead.
 - **Random DM offered help?** Treat it as a scam until proven otherwise in public by trusted community links.
+- **Same name/pfp as a real miner?** Still verify publicly; impersonators can clone names and avatars.
+- **Can I claim only refined ORE?** Do not assume partial claiming is available. Understand the full claim flow, fee, and hold-horizon tradeoff before clicking.
 - **Autominer txs failing?** Separate protocol cost, tool fees, failed tx rate, and late-slot timing; test tiny until boring.
 - **Is `0.001 SOL` dust strat still good?** It is a learning-size anchor, not a magic setting. Check live production cost and budget.
 - **Does lottery mining work?** Only if the deploy size is small enough to survive enough rounds for variance to help.

@@ -63,6 +63,9 @@ Before claiming, ask:
 - Do I need liquidity or am I reacting emotionally?
 - How long would holding need to offset the claim fee?
 - Could I claim from one wallet while keeping another wallet accumulating?
+- Does the current claim flow touch both refined and unrefined balances, or only the balance I expected?
+
+A May 17 channel question sharpened this point: when a miner asked whether they could claim only refined ORE instead of both refined and unrefined, the answer in-channel was “No.” Treat that as a planning warning, not just a UI note. If claiming will move more of your position than you intended, wait, ask publicly, and understand the fee/yield tradeoff first.
 
 ## The single most important decision
 
