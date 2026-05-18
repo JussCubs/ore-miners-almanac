@@ -1137,3 +1137,25 @@ Reusable responses:
 
 !pausecheck — A strong uORE day can still be expensive if the board is crowded or production cost is high. Before continuing, compare uORE gained, SOL spent, fees, ML/top-miner hits, and current ore.fyi conditions. Pausing is a strategy, not a failure.
 ```
+
+## 2026-05-18 Discord Update — personal cost basis and top-miner runway
+
+Captured 10 new messages from 2026-05-18T01:36:23.992000+00:00 through 2026-05-18T03:18:42.789000+00:00.
+
+**Most active voices:** OGLilsBTC (3), Hermes (2), Rick (2), Yorter (2), Alpha (1).
+
+**Miner story:** Hermes gave the classic one-day variance reminder: one session was brutal — about **1 SOL lost** for roughly **0.2 ORE** — after the prior day had produced around **6 ORE** for about **1.5 SOL**. The Almanac should keep both days attached. A green yesterday does not make today safe, and a red today does not prove the strategy is broken without longer logs.
+
+**Strategy insight:** OGLilsBTC framed the beginner math in the simplest possible way: spending about **0.2 SOL** to receive about **0.2 ORE** feels like a personal production cost near **1 ORE/SOL**. That is a useful first-pass journal entry, but it still needs reward-type context. Was the output split rewards, top-miner, motherlode, or uORE held for refining? Personal cost basis teaches more when the miner tags the reward source.
+
+**Top-miner runway warning:** Yorter sharpened the top-miner expectation: if the going mining price is roughly **1 ORE per SOL**, a miner should not be shocked if it takes around **2 SOL on average** to catch a top-miner-style result — and bad stretches can still run **3-4 SOL** without one. That makes top-miner mining a runway problem, not a confidence problem. A miner with less than **0.5 SOL** should size so blank stretches are survivable, not size as if the next top-miner hit is owed.
+
+**Sentiment read:** the channel tone stayed constructive and lore-heavy — “the mines decide fate” jokes, small-wallet honesty, and direct variance math. This is the education hub doing its job: turn pain, jokes, and quick replies into durable beginner expectations.
+
+Reusable responses:
+
+```text
+!personalcost — A quick session ratio like “0.2 SOL spent for 0.2 ORE” is useful, but tag the reward source before judging it: split rewards, top-miner wins, motherlode, uORE held, fees, and live production cost all change the lesson. One day is a note, not a verdict.
+
+!tmrunway — Top-miner attempts need runway. Even if the board feels near 1 ORE/SOL, catching a top-miner-style outcome can average multiple SOL and still run 3-4 SOL cold. If your wallet cannot survive that blank stretch, lower size or stay in low-and-slow accumulation mode.
+```

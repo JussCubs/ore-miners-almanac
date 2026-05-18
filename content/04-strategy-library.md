@@ -570,3 +570,23 @@ Reusable command snippet:
 ```text
 !dust25 — A tiny 25-tile setup is for runway and solo/top-miner optionality, not guaranteed profit. Example community settings can be around 0.00015 SOL per tile, but size from your own wallet: keep all tiles if learning, shrink per-tile spend until you can survive many rounds, and expect long blank stretches.
 ```
+
+### Personal cost basis and top-miner runway
+
+A May 18 follow-up added a beginner-friendly way to journal small-wallet sessions. OGLilsBTC described spending about **0.2 SOL** for about **0.2 ORE** and called it a personal production cost near **1:1**. That is exactly the kind of rough log a new miner should write down — as long as they do not stop there.
+
+The better log includes:
+
+- SOL spent and ORE/uORE received;
+- whether rewards came from split rewards, top-miner wins, motherlode, or uORE held;
+- live ore.fyi production cost and board crowding;
+- fees and failed/late transactions;
+- whether the session was meant for learning, uORE accumulation, or top-miner variance.
+
+Yorter added the hard expectation reset: even when the apparent mining price is around **1 ORE/SOL**, a miner may need around **2 SOL on average** to catch a top-miner-style result, and can still go **3-4 SOL** cold. For small wallets, the conclusion is simple: top-miner optionality is only useful if the deploy size leaves enough runway to survive the miss streak.
+
+Reusable command snippet:
+
+```text
+!tmrunway — Top-miner attempts need runway. Even if the board feels near 1 ORE/SOL, catching a top-miner-style outcome can average multiple SOL and still run 3-4 SOL cold. If your wallet cannot survive that blank stretch, lower size or stay in low-and-slow accumulation mode.
+```

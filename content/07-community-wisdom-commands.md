@@ -226,6 +226,18 @@ Patient-miner story pattern: start small, build logs, increase conviction only a
 
 > Patient miners often start small, survive bad price periods, and increase conviction only after they understand their logs. Crossing uORE goals without claiming is a long-horizon strategy, not a reason to overdeploy today.
 
+### !personalcost
+
+Session-cost shorthand for miners turning one run into a learning note instead of a verdict.
+
+> A quick session ratio like “0.2 SOL spent for 0.2 ORE” is useful, but tag the reward source before judging it: split rewards, top-miner wins, motherlode, uORE held, fees, and live production cost all change the lesson. One day is a note, not a verdict.
+
+### !tmrunway
+
+Top-miner expectation reset for small-wallet miners tempted to size as if the next win is owed.
+
+> Top-miner attempts need runway. Even if the board feels near 1 ORE/SOL, catching a top-miner-style outcome can average multiple SOL and still run 3-4 SOL cold. If your wallet cannot survive that blank stretch, lower size or stay in low-and-slow accumulation mode.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -260,6 +272,8 @@ Patient-miner story pattern: start small, build logs, increase conviction only a
 - **Strict EV filter is quiet — can I still mine?** Maybe, but only as a tiny fallback with a SOL cap. Think thousands of rounds, not instant solo hits.
 - **Big ML is building — should I size up?** Usually shrink first. High ML can mean high production cost and crowded tiles; chasing is advanced variance.
 - **How do patient miners build conviction?** Start small, log sessions, cross goals over time, and only increase size after the plan survives bad stretches.
+- **My session was around 1:1 SOL to ORE — good or bad?** Useful note, not a verdict. Tag reward sources, fees, production cost, and whether you were mining for learning, uORE, ML, or top-miner variance.
+- **How much runway do I need for top-miner attempts?** More than your emotions expect. Even decent-looking conditions can take multiple SOL and still go cold, so size small enough to survive misses.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 
