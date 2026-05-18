@@ -187,3 +187,17 @@ Reusable UI copy:
 ```text
 No hard minimum, but fixed fees create a minimum effective size. At very small deployments, the 0.000007 SOL autominer fee per round can become a large part of the spend. Shrink for runway, but check fee drag before calling a dust setup efficient.
 ```
+---
+
+## Round history as education data
+
+The mining channel keeps asking for more persistent round detail because the two-second result screen is not enough for serious learning. Navigator's May 18 request is the product lesson: miners want to review wallet deploys, tile choices, winning-tile share, SOL returned, and ORE/uORE received after the round is over.
+
+For Roberto/refinORE, that means round history should not be treated as decorative analytics. It is how a miner answers:
+
+- did my setting compete on the winning tile or just cover the board?
+- was my return explained by deploy share, production cost, or variance?
+- who was betting big, and did their sizing change the lane I was in?
+- should I keep this strategy, shrink it, pause it, or buy ORE instead?
+
+When public tools such as Explore or hawg.win expose round history, Roberto should use that same habit: preserve the numbers, translate them into plain English, and connect the result back to budget, production cost, and time horizon.

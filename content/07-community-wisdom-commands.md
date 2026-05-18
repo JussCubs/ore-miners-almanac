@@ -682,3 +682,15 @@ The afternoon thread added two reusable beginner translations: uORE claim timing
 
 !tmcrowd — If TM hits feel drier as more miners join, do not assume the setting is broken or that bigger is automatically better. More competition can lengthen cold streaks. Increase size only if your wallet still has runway; otherwise stay low-and-slow and log the miss streak.
 ```
+
+---
+
+## Update — 2026-05-18
+
+The evening thread produced two reusable newcomer commands: one for the ore.fyi production-cost decision, and one for preserving round-detail literacy. alancrean translated the basic rule of thumb cleanly — if production cost is at or above ORE price, pausing can beat mining — while Fronk added the conviction caveat: a bullish miner may knowingly accept a higher cost to accumulate faster. Navigator's round-detail request added the data habit: miners need persistent deploy/return history so they can study tile share instead of relying on a two-second result screen.
+
+```text
+!prodcheck — Before starting, compare ore.fyi production cost with live ORE price. If production cost is at or above spot, mining may be worse than buying unless you are deliberately paying for uORE yield, learning, or jackpot variance. If you still mine from conviction, size it as a thesis, not a reflex.
+
+!rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available and hawg.win to navigate past rounds. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
+```

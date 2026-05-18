@@ -1227,3 +1227,29 @@ Reusable responses:
 
 !tmcrowd — If TM hits feel drier as more miners join, do not assume the setting is broken or that bigger is automatically better. More competition can lengthen cold streaks. Increase size only if your wallet still has runway; otherwise stay low-and-slow and log the miss streak.
 ```
+
+## 2026-05-18 Discord Update — production-cost rule and round-detail literacy
+
+Captured 35 new messages from 2026-05-18T16:15:38.557000+00:00 through 2026-05-18T19:53:31.351000+00:00.
+
+**Most active voices:** alancrean (12), Navigator (10), starship_fronk⛏️ (7), Madhatt3r (4), RNA(•‿•) (1), Ni | triad (1).
+
+**Beginner setup story:** alancrean asked how many rounds to run on a low-and-slow setting. Fronk's answer was simple and useful: if the wallet can afford **1,000 rounds**, that is his own reference point. alancrean chose **500 rounds**, which is a good teachable compromise: pick a number the wallet can survive, then watch conditions instead of treating the round count as magic.
+
+**Production-cost rule:** the same thread turned into the clearest possible beginner translation of ore.fyi. Fronk told miners to watch production cost: if it pushes much higher than ORE spot price, mining may be worse than buying. alancrean restated the rule correctly — if production cost is level with or higher than ORE price, leaving the miner off can be the disciplined move. RNA added the missing time-horizon caveat: the “lowest” production cost changes with ORE price, SOL price, and round-to-round competition, so judge it across days and weeks, not one lucky snapshot.
+
+**Conviction caveat:** Fronk also preserved the bullish-miner exception: a miner who strongly believes ORE will appreciate soon might knowingly swallow a higher production cost to accumulate faster. That belongs in the Almanac as a conscious thesis, not an excuse. The miner should name the thesis, size smaller, and accept that buying ORE directly may still be cleaner if the only goal is spot exposure.
+
+**Round-detail visibility request:** Navigator asked for round results to remain visible longer, especially wallet-level deploys, winning-tile returns, SOL returned, and ORE received. Madhatt3r noted that some data lives in Explore; Fronk pointed to **hawg.win** for navigable rounds, deploys, tile choices, and returns. The education value is bigger than the UI request: serious miners want persistent round detail because it lets them study who is deploying size, how winning-tile share works, and whether their own settings are competing in the right lane.
+
+**Lore note:** alancrean also tied the discussion back to the “wisemen” ORE movie and Fronk's origin-story role. Keep that color. The channel is not only optimizing settings; it is turning repeated miner lessons into culture that newcomers can remember.
+
+**Sentiment read:** constructive and excited. Newer miners are asking better questions — how long should I run, where do I see cost, when should I sit out, and where do I study the last round — while regulars are turning answers into simple rules without killing the lore.
+
+Reusable responses:
+
+```text
+!prodcheck — Before starting, compare ore.fyi production cost with live ORE price. If production cost is at or above spot, mining may be worse than buying unless you are deliberately paying for uORE yield, learning, or jackpot variance. If you still mine from conviction, size it as a thesis, not a reflex.
+
+!rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available and hawg.win to navigate past rounds. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
+```

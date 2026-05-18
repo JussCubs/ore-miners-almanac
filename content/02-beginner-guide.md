@@ -15,6 +15,7 @@ A safe first path:
 - Ignore unsolicited DMs and scam floods; ask questions publicly.
 - Use `ore.fyi` for the quick production-cost view.
 - Use `https://blockworks.com/analytics/ore` for deeper ORE data and history.
+- Use `https://hawg.win` when you need to review past round deploys, tiles, and returns instead of relying on the brief result screen.
 - Use verified links only, then start with tiny settings.
 
 ## First things first: safe defaults
@@ -90,6 +91,7 @@ The first goal is not to maximize upside. The first goal is to make mining feel 
 
 - Mining fewer than 25 tiles — you're gambling, not mining
 - Not checking production cost — you might be spending more SOL than the ORE is worth
+- Not reviewing round details — study deploys, winning-tile share, returned SOL, and ORE/uORE received before changing settings
 - Claiming too early — the 10% fee eats your gains; patience compounds them
 - No SOL budget — misconfigured miners can drain your wallet in one session
 - Chasing motherlodes — each round is 1/625, so focus on consistent stacking instead of predicting the next hit

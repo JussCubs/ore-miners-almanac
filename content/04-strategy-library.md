@@ -17,6 +17,23 @@ BREADFAN's caution is worth attaching to the default: this is a **zone of relati
 
 > You don't need to win big. You need to win consistently.
 
+### Production-cost gate before round count
+
+A May 18 newcomer thread turned the low-and-slow checklist into a practical pre-run gate. alancrean asked how many rounds to run, Fronk said **1,000 rounds** is his own reference if the wallet can afford it, and alancrean chose **500 rounds**. The durable lesson is not the exact number. It is the order of operations:
+
+1. decide how much SOL the session may risk;
+2. translate that into expected rounds at the chosen per-tile size;
+3. check ore.fyi production cost against ORE spot price;
+4. keep watching because production cost moves with ORE price, SOL price, miner count, and tile competition.
+
+If production cost is at or above ORE spot, the default beginner answer is to pause, buy ORE directly, or wait for a cleaner window. Fronk's caveat matters too: a miner with a strong near-term ORE thesis may accept a higher production cost to accumulate faster. That is not automatically wrong, but it should be labeled as conviction-based accumulation rather than “good EV mining.”
+
+Reusable command snippet:
+
+```text
+!prodcheck — Before starting, compare ore.fyi production cost with live ORE price. If production cost is at or above spot, mining may be worse than buying unless you are deliberately paying for uORE yield, learning, or jackpot variance. If you still mine from conviction, size it as a thesis, not a reflex.
+```
+
 ### Time in the mines beats oversized sprints
 
 A May 17 sizing thread gave the low-and-slow method one of its clearest explanations. When a new miner asked whether larger all-block deployments could still lose money, OREillions pointed at variance and runway: a small miner who goes hard may finish in **100 rounds** and miss the solo/top-miner outcomes, while a smaller setup that survives **10,000 rounds** creates better learning data and gives uORE patience time to matter.
