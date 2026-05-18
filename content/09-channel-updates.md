@@ -1111,3 +1111,29 @@ Reusable responses:
 
 !convictionstack — Patient miners often start small, survive bad price periods, and increase conviction only after they understand their logs. Crossing uORE goals without claiming is a long-horizon strategy, not a reason to overdeploy today.
 ```
+
+## 2026-05-18 Discord Update — micro-deploys, fee floors, and uORE urgency
+
+Captured 55 new messages from 2026-05-17T20:04:27.957000+00:00 through 2026-05-17T23:38:14.751000+00:00.
+
+**Most active voices:** OREillions⛏️ (12), deflation (9), nftimm (8), Ni | triad (6), OGLilsBTC (6), Rick (5), starship_fronk⛏️ (4), RNA(•‿•) (2).
+
+**Miner story:** the channel moved from “is now a good time to mine?” into the practical reality of a crowded/hot board. Some miners were wary because low motherlode and heavier deploys can make the board feel bad. nftimm took the opposite but disciplined stance: run EV settings he is comfortable with, keep many miners very small, use only a handful of larger ones, and prioritize uORE accumulation before the market potentially gets wilder again. That is conviction, but it is still conviction expressed through sizing.
+
+**Strategy insight:** deflation asked for the minimum deploy size and Fronk gave the answer the Almanac should preserve: the useful floor is not only a hard protocol minimum, it is the **minimum effective deploy** after fixed autominer fees. The current autominer fee called out in the thread was **0.000007 SOL per round**, separate from protocol fees. At tiny settings, that fixed round fee matters.
+
+**Beginner sizing:** OGLilsBTC asked for a low 25-block setup with only about **0.5 SOL** available. Fronk shared his own reference setting of **0.00015 SOL x 25 tiles**, while keeping it framed as one community example rather than universal advice. When OGLilsBTC asked if dust mining is mainly trying to hit solo, the answer was yes — but the hidden lesson is runway. Dust setups trade speed for enough attempts to make the solo/top-miner lottery and uORE patience thesis survivable.
+
+**Run-review note:** Rick reported mining **28 uORE in a day** at about **21 SOL** cost, then chose to pause because crowding made the chance of losing feel higher. That is exactly the kind of self-audit the hub should normalize: a good-looking uORE number still needs cost, crowding, and current production conditions attached before deciding whether to keep going.
+
+**Sentiment read:** the channel is not bearish on mining; it is getting more precise. The recurring advice is now converging around micro-size, fee awareness, EV filters, and knowing when to pause.
+
+Reusable responses:
+
+```text
+!dust25 — A tiny 25-tile setup is for runway and solo/top-miner optionality, not guaranteed profit. Example community settings can be around 0.00015 SOL per tile, but size from your own wallet: keep all tiles if learning, shrink per-tile spend until you can survive many rounds, and expect long blank stretches.
+
+!feefloor — There may be no simple hard minimum, but there is a minimum effective deploy. Fixed autominer fees, currently discussed as 0.000007 SOL per round, become more important at dust size. Check fee drag before assuming the smallest possible setting is efficient.
+
+!pausecheck — A strong uORE day can still be expensive if the board is crowded or production cost is high. Before continuing, compare uORE gained, SOL spent, fees, ML/top-miner hits, and current ore.fyi conditions. Pausing is a strategy, not a failure.
+```

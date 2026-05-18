@@ -548,3 +548,25 @@ Community-built bots fit the same pattern. deflation's first-day bot experiment 
 If a custom dashboard shows uORE growth, task charts, or strategy PnL, it should answer a practical question: what setting changed, what did it cost, what came back, and what will the miner do differently next run? A pretty chart without a decision loop is entertainment; a chart tied to bankroll, tiles, runtime, failed txs, and returned SOL becomes education.
 
 The reusable line: **tools can automate execution, but the edge still comes from budget control, variance patience, and honest logs.**
+
+---
+
+## Micro-deploy 25-tile mining: dust buys runway, not certainty
+
+A May 17 late-session exchange put numbers on the low-and-slow fallback newer miners keep asking about. OGLilsBTC had only about **0.5 SOL** and asked whether a “super duper low” 25-block autominer setup made sense. Fronk gave his own reference point — **0.00015 SOL x 25 tiles** — while making room for other miners to prefer different lotto-style settings.
+
+The important lesson is not that `0.00015` is a magic number. It is a sizing philosophy:
+
+- keep **25 tiles** when the goal is to remove tile-selection misses from the beginner equation;
+- lower SOL per tile until the wallet can survive many attempts;
+- accept that the dust setup is mostly a **solo/top-miner lottery plus uORE accumulation** strategy;
+- do not scale a tiny-wallet setting upward just because someone else runs more miners or has a larger bankroll;
+- ask “how many rounds can I survive after fees?” before asking “can I optimize this?”
+
+When OGLilsBTC asked whether the goal of dust mining is to hit solo, the answer was simply yes. That should be paired with patience: a solo/top-miner hit is the upside event, but the strategy only makes sense when the miner can afford the long blank stretches between hits.
+
+Reusable command snippet:
+
+```text
+!dust25 — A tiny 25-tile setup is for runway and solo/top-miner optionality, not guaranteed profit. Example community settings can be around 0.00015 SOL per tile, but size from your own wallet: keep all tiles if learning, shrink per-tile spend until you can survive many rounds, and expect long blank stretches.
+```

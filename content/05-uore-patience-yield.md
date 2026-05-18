@@ -267,3 +267,23 @@ Reusable command snippet:
 ```text
 !catchup — uORE yield can help patient miners recover early mining friction, but only if they can actually hold. Check ore.fyi for current staking/mining yield, size small enough to avoid forced claims, and remember that “60-70% mining yield” does not make a bad high-cost session risk-free.
 ```
+
+---
+
+## EV settings plus uORE urgency: automate the plan, not the emotion
+
+nftimm gave a useful snapshot of an experienced miner's posture during a hotter board: set EV settings that feel acceptable, let the system work 24/7, and focus on collecting as much uORE as possible before conditions get “silly” again. The follow-up matters too: he was running many miners, most very small, with only a handful of larger ones, and said he would rather mine this cycle than repeat the prior mistake of buying too much spot ORE and mining too little.
+
+For the patience chapter, the teaching point is balance. Wanting uORE soon can be rational if the miner understands yield, production cost, and the current market window. But urgency can also make people oversize. The safer pattern is:
+
+- define EV/cost filters before the run starts;
+- separate tiny always-on miners from larger discretionary miners;
+- keep the larger miners rare enough that a hot board does not drain the whole bankroll;
+- compare mining against buying/staking, especially when ORE is moving fast;
+- remember that “I want uORE soon” still needs a wallet-sized runway.
+
+Reusable command snippet:
+
+```text
+!evuore — If you are mining for uORE, set EV/cost filters first and let size follow the wallet. Tiny always-on miners can build exposure, but bigger miners should be deliberate. Wanting uORE before the market gets hot is not a reason to ignore production cost, fees, or runway.
+```

@@ -165,3 +165,25 @@ Roberto should make the pre-flight and live-state checks obvious:
 - simple alerts when the board gets crowded, failed txs spike, or budget gets low.
 
 The education line is simple: automation is freedom only when the miner can walk away without also walking away from risk controls.
+
+---
+
+## Show the minimum effective deploy, not just the protocol minimum
+
+A May 17 fee-floor question should become a Roberto product requirement. Deflation asked whether there is a minimum deploy size. Fronk clarified the better answer: there may not be a hard minimum in the way miners expect, but there is a **minimum effective limit** because the autominer fee is currently **0.000007 SOL per round**, separate from the protocol fees collected.
+
+That distinction is exactly where a command center can prevent bad tiny-wallet decisions. A miner entering dust settings needs to see more than “valid input.” They need to see whether fixed per-round fees are becoming a meaningful percentage of the intended deployment.
+
+Roberto should surface:
+
+- autominer fee per round, separate from protocol/admin deployment fees;
+- fee drag as a percentage of planned SOL per round;
+- warnings when a setting is technically valid but economically silly;
+- estimated rounds after fixed fees, not only before fees;
+- a plain-language note that lowering deployment size increases runway but makes fixed fees more visible.
+
+Reusable UI copy:
+
+```text
+No hard minimum, but fixed fees create a minimum effective size. At very small deployments, the 0.000007 SOL autominer fee per round can become a large part of the spend. Shrink for runway, but check fee drag before calling a dust setup efficient.
+```
