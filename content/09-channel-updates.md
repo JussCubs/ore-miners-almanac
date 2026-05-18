@@ -1201,3 +1201,29 @@ Reusable responses:
 
 !aprflow — uORE APR starts accruing right away, but rewards become visible as other miners claim. Claim waves often pick up after motherlode hits, so do not expect a clean weekly/monthly drip. Track cost basis and hold horizon, check ore.fyi, and avoid forcing a claim just because the reward timing feels lumpy.
 ```
+
+## 2026-05-18 Discord Update — claim timing and motherlode share math
+
+Captured 32 new messages from 2026-05-18T12:08:06.632000+00:00 through 2026-05-18T15:15:43.276000+00:00.
+
+**Most active voices:** Madhatt3r (7), firebladeXT3 (6), BREADFAN777⛏️ (5), FiL ⛏️ (3), Hermes (3), PoloXBT (2), Diggy (2), Asyla 👑 (1).
+
+**uORE patience lesson:** the thread clarified why uORE is not a daily claim-and-restake loop. FiL framed the product split as uORE accumulating rORE over time while stORE auto-compounds. Yorter gave the blunt warning that claiming and restaking too soon can surrender unrefined APR exposure. Fronk added the balancing mechanism: if uORE APR falls, more natural claims can push it back up, while staked ORE rewards still depend on buybacks, deployment, and ORE price.
+
+**Miner story:** Madhatt3r turned that abstract yield model into a concrete account note: about **20 uORE** had accumulated **more than 7 rORE**, and claiming would send roughly **2 ORE** to other miners. That is a useful story for Thep's education hub because it shows both sides of patience — the rewards can become meaningful, but only for a miner who can wait and tolerate price risk.
+
+**Motherlode math lesson:** firebladeXT3 asked how to estimate payout from **0.01 SOL** on a block with a **150 ORE** motherlode. Madhatt3r and Hermes pointed to the missing variable: total SOL deployed on the winning tile. Hermes also corrected a common beginner mix-up: spread across tiles affects whether you are on the winning tile, but once the tile wins, payout share depends only on your percentage of that winning tile.
+
+**Top-miner/crowding note:** BREADFAN777 observed that TM hits feel drier as more miners come aboard, which may tempt people to increase size. Keep the warning attached: more competition can lengthen cold streaks, so larger deploys need more runway, not just more confidence.
+
+**Sentiment read:** constructive and beginner-friendly. The channel is converting confusion into glossary entries, formulas, and patient-miner stories instead of just arguing about settings. This is exactly the Almanac lane: preserve the lore, but turn it into repeatable expectations.
+
+Reusable responses:
+
+```text
+!claimtiming — uORE is the patient-miner lane: it earns rORE as other miners claim, but visible rewards are lumpy and claiming too often can give up the unrefined APR you were waiting for. stORE auto-compounds in the staking lane. Pick by time horizon, liquidity need, and whether you can hold through price swings.
+
+!mlshare — Motherlode payout depends on your share of deploy on the winning tile. You need the ML size and total SOL deployed on that tile to estimate your cut. Covering more tiles changes the chance you are on the winning tile; it does not increase your percentage once a specific tile wins.
+
+!tmcrowd — If TM hits feel drier as more miners join, do not assume the setting is broken or that bigger is automatically better. More competition can lengthen cold streaks. Increase size only if your wallet still has runway; otherwise stay low-and-slow and log the miss streak.
+```

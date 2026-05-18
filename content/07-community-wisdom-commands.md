@@ -668,3 +668,17 @@ firebladeXT3 paired two beginner-useful notes: his average cost had improved fro
 
 !aprflow — uORE APR starts accruing right away, but rewards become visible as other miners claim. Claim waves often pick up after motherlode hits, so do not expect a clean weekly/monthly drip. Track cost basis and hold horizon, check ore.fyi, and avoid forcing a claim just because the reward timing feels lumpy.
 ```
+
+---
+
+## Update — 2026-05-18
+
+The afternoon thread added two reusable beginner translations: uORE claim timing and motherlode share math. Madhatt3r's account example made the claim-timing tradeoff concrete, while Hermes clarified that motherlode payout is based on your share of SOL on the winning tile — not how many total tiles you covered.
+
+```text
+!claimtiming — uORE is the patient-miner lane: it earns rORE as other miners claim, but visible rewards are lumpy and claiming too often can give up the unrefined APR you were waiting for. stORE auto-compounds in the staking lane. Pick by time horizon, liquidity need, and whether you can hold through price swings.
+
+!mlshare — Motherlode payout depends on your share of deploy on the winning tile. You need the ML size and total SOL deployed on that tile to estimate your cut. Covering more tiles changes the chance you are on the winning tile; it does not increase your percentage once a specific tile wins.
+
+!tmcrowd — If TM hits feel drier as more miners join, do not assume the setting is broken or that bigger is automatically better. More competition can lengthen cold streaks. Increase size only if your wallet still has runway; otherwise stay low-and-slow and log the miss streak.
+```

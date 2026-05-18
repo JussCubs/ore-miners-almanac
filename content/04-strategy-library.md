@@ -459,6 +459,24 @@ Use this as a patience strategy, not as a guarantee:
 
 Multiple wallets can help separate withdrawal/claim plans, but they do not create a mining edge by themselves. The edge in the story is bankroll survival plus enough attempts for variance to matter.
 
+### Motherlode share math: winning-tile percentage beats total spread
+
+A May 18 beginner asked the right simple-math question: if a miner has **0.01 SOL** on a block and the motherlode is **150 ORE**, what do they receive? Madhatt3r and Hermes turned it into the reusable formula lesson. The missing variables are the motherlode size and the **total SOL deployed on the winning tile**. Your payout is your percentage of that winning-tile deploy.
+
+That means tile spread and payout share answer different questions:
+
+- covering more tiles increases the chance you are present on the winning tile;
+- once a specific tile wins, your share is based on how much you had on that tile versus everyone else on that tile;
+- “all tiles with 0.001” is easier to reason about as a beginner, but it does not make the winning tile pay you for the other 24 tiles;
+- late-crowded motherlodes can dilute a correct setup if the winning tile is packed;
+- if the miner wants a payout estimate, ask for ML size, their SOL on the winning tile, and total SOL on that winning tile before giving a number.
+
+Reusable command snippet:
+
+```text
+!mlshare — Motherlode payout depends on your share of deploy on the winning tile. You need the ML size and total SOL deployed on that tile to estimate your cut. Covering more tiles changes the chance you are on the winning tile; it does not increase your percentage once a specific tile wins.
+```
+
 ---
 
 ## Dust strategy check-ins

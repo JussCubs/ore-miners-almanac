@@ -315,3 +315,25 @@ Reusable command snippet:
 ```text
 !aprflow — uORE APR starts accruing right away, but rewards become visible as other miners claim. Claim waves often pick up after motherlode hits, so do not expect a clean weekly/monthly drip. Track cost basis and hold horizon, check ore.fyi, and avoid forcing a claim just because the reward timing feels lumpy.
 ```
+
+---
+
+## Claim timing: uORE pays the patient miner, not the impatient clock-watcher
+
+A May 18 thread cleaned up two beginner confusions at once: what uORE/rORE means in practice, and why claiming too often can break the patient-miner thesis. FiL gave the simple contrast: **uORE accumulates refined ORE over time**, while **stORE auto-compounds** in the staking lane. Madhatt3r then made the incentive visible with a real account example: a wallet with about **20 uORE** had accumulated **more than 7 rORE**, while claiming would send roughly **2 ORE** back to the unrefined reward pool for other miners.
+
+That is the patience loop the Almanac should teach:
+
+- more uORE means a larger share of future rORE created when other miners claim;
+- visible rewards can feel lumpy because they depend on claim activity, not a clean payday schedule;
+- claiming and restaking too frequently can forfeit the unrefined APR exposure a miner was waiting for;
+- staked ORE is simpler, but it is a different product than holding uORE for claim-flow upside;
+- the longer-hold math only works if the miner sized small enough to avoid forced claims and understands ORE price risk.
+
+Fronk added the macro balancing mechanism: if uORE APR falls, more people may naturally claim, which can push APR back up for remaining uORE holders. Meanwhile stORE APR is paid in ORE, so higher deployment and buybacks can support the value of those ORE-denominated rewards. Neither side is “free yield”; both depend on miner behavior, buybacks, price, and time horizon.
+
+Reusable command snippet:
+
+```text
+!claimtiming — uORE is the patient-miner lane: it earns rORE as other miners claim, but visible rewards are lumpy and claiming too often can give up the unrefined APR you were waiting for. stORE auto-compounds in the staking lane. Pick by time horizon, liquidity need, and whether you can hold through price swings.
+```
