@@ -287,3 +287,17 @@ Reusable command snippet:
 ```text
 !evuore — If you are mining for uORE, set EV/cost filters first and let size follow the wallet. Tiny always-on miners can build exposure, but bigger miners should be deliberate. Wanting uORE before the market gets hot is not a reason to ignore production cost, fees, or runway.
 ```
+
+---
+
+## Solo wins are the reward story, not the whole plan
+
+OGLilsBTC gave the channel a clean little payoff beat after the small-wallet/dust-setting discussion: after working with less than half a SOL and framing the session around uORE, he reported a solo ORE win and said one more would put him up big on the night. The fire reactions are part of the lore — miners remember the wins because the dry stretches are boring and painful.
+
+For the patience chapter, the lesson is not “copy the setting because it won once.” The lesson is that tiny, survivable mining keeps a wallet in the game long enough for solo/top-miner variance to occasionally show up. If the miner sizes too large, the same variance becomes a liquidation of patience: they run out of SOL before the story has time to develop.
+
+Reusable command snippet:
+
+```text
+!solowin — A solo/top-miner win is the fun payoff story, not proof that the exact setting is magic. Log the setup, SOL spent, tile count, fees, and how many blank rounds it survived. If your size cannot survive the blank stretch, lower it before chasing the next win.
+```

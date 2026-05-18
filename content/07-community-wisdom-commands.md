@@ -238,6 +238,18 @@ Top-miner expectation reset for small-wallet miners tempted to size as if the ne
 
 > Top-miner attempts need runway. Even if the board feels near 1 ORE/SOL, catching a top-miner-style outcome can average multiple SOL and still run 3-4 SOL cold. If your wallet cannot survive that blank stretch, lower size or stay in low-and-slow accumulation mode.
 
+### !tm
+
+Beginner glossary answer for channel shorthand.
+
+> TM/top-miner reward means the solo ORE win for a round: the miner whose deploy wins that round's top-miner reward. Treat it as variance upside. Log your cost and runway instead of assuming the next TM hit is owed.
+
+### !solowin
+
+Celebrates solo-win lore while keeping the sizing lesson attached.
+
+> A solo/top-miner win is the fun payoff story, not proof that the exact setting is magic. Log the setup, SOL spent, tile count, fees, and how many blank rounds it survived. If your size cannot survive the blank stretch, lower it before chasing the next win.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -274,6 +286,8 @@ Top-miner expectation reset for small-wallet miners tempted to size as if the ne
 - **How do patient miners build conviction?** Start small, log sessions, cross goals over time, and only increase size after the plan survives bad stretches.
 - **My session was around 1:1 SOL to ORE — good or bad?** Useful note, not a verdict. Tag reward sources, fees, production cost, and whether you were mining for learning, uORE, ML, or top-miner variance.
 - **How much runway do I need for top-miner attempts?** More than your emotions expect. Even decent-looking conditions can take multiple SOL and still go cold, so size small enough to survive misses.
+- **What does TM mean?** Top miner / solo ORE win for a round. It is variance upside, not something a small wallet should size as if it is owed next.
+- **I hit a solo win — now what?** Celebrate, then log the setup, total SOL spent, tile count, fees, and blank-round runway before increasing size.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 

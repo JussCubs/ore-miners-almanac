@@ -1159,3 +1159,23 @@ Reusable responses:
 
 !tmrunway — Top-miner attempts need runway. Even if the board feels near 1 ORE/SOL, catching a top-miner-style outcome can average multiple SOL and still run 3-4 SOL cold. If your wallet cannot survive that blank stretch, lower size or stay in low-and-slow accumulation mode.
 ```
+
+## 2026-05-18 Discord Update — solo-win lore and TM shorthand
+
+Captured 3 new messages from 2026-05-18T05:45:27.410000+00:00 through 2026-05-18T07:03:11.028000+00:00.
+
+**Most active voices:** OGLilsBTC (1), firebladeXT3 (1), Yorter (1).
+
+**Miner story:** OGLilsBTC reported hitting a solo ORE win after the earlier small-wallet/dust-mining conversation and framed it as “uORE for the win.” That is exactly the kind of story Thep's hub should preserve: the fun payoff moment only makes sense when attached to the prior sizing/runway lesson. Dust and low-and-slow mining are not glamorous every round, but they keep a miner present for the occasional solo/top-miner hit without needing to bet the whole wallet at once.
+
+**Vocabulary note:** firebladeXT3 asked what “TM reward” means, and Yorter answered plainly: **solo ORE win**. Keep that definition in beginner language. In-channel shorthand like TM/top miner is useful for regulars, but new miners need the first translation before the strategy math lands.
+
+**Sentiment read:** upbeat but still educational. The channel celebrated the win with fire reactions while immediately producing a reusable glossary answer for the next newcomer. That combination — lore plus translation — is the Almanac's sweet spot.
+
+Reusable responses:
+
+```text
+!tm — TM/top-miner reward means the solo ORE win for a round: the miner whose deploy wins that round's top-miner reward. Treat it as variance upside. Log your cost and runway instead of assuming the next TM hit is owed.
+
+!solowin — A solo/top-miner win is the fun payoff story, not proof that the exact setting is magic. Log the setup, SOL spent, tile count, fees, and how many blank rounds it survived. If your size cannot survive the blank stretch, lower it before chasing the next win.
+```
