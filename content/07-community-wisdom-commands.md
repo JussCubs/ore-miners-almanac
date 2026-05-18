@@ -656,3 +656,15 @@ A separate mini-thread reinforced the production-cost habit: ore.fyi is the quic
 ```text
 !costhistory — For live mining cost, start with ore.fyi. For deeper review, use ore-stats/history views when available and compare the session against production cost at the time you mined, not just today’s price or the feeling of the run.
 ```
+
+---
+
+## Update — 2026-05-18
+
+firebladeXT3 paired two beginner-useful notes: his average cost had improved from about **1.24 SOL/ORE** to **1.09 SOL/ORE**, then he asked how uORE APY actually arrives. FiL explained that APR starts immediately, but visible rewards depend on claim activity and can become more noticeable after motherlode-driven claim waves.
+
+```text
+!costbasis — Track your average cost per ORE/uORE over time, not only one round's emotion. Moving from 1.24 SOL/ORE toward 1.09 SOL/ORE is useful progress data, but still compare it with live production cost, fees, reward type, and whether you can hold long enough for uORE yield.
+
+!aprflow — uORE APR starts accruing right away, but rewards become visible as other miners claim. Claim waves often pick up after motherlode hits, so do not expect a clean weekly/monthly drip. Track cost basis and hold horizon, check ore.fyi, and avoid forcing a claim just because the reward timing feels lumpy.
+```

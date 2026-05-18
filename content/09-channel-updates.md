@@ -1179,3 +1179,25 @@ Reusable responses:
 
 !solowin — A solo/top-miner win is the fun payoff story, not proof that the exact setting is magic. Log the setup, SOL spent, tile count, fees, and how many blank rounds it survived. If your size cannot survive the blank stretch, lower it before chasing the next win.
 ```
+
+## 2026-05-18 Discord Update — cost-basis patience and uORE reward timing
+
+Captured 6 new messages from 2026-05-18T09:31:42.608000+00:00 through 2026-05-18T12:01:22.509000+00:00.
+
+**Most active voices:** firebladeXT3 (3), FiL ⛏️ (2), ΣXTΛSY | Candy Studio (1).
+
+**Miner story:** firebladeXT3 gave a small but useful progress marker: average cost moved from about **1.24 SOL per ORE** down to **1.09 SOL per ORE**, with the hope of pushing under 1. That is the kind of diary entry the Almanac should encourage. Cost basis improvement is not only a win/loss scoreboard; it is feedback that the miner's sizing, timing, and patience may be moving in the right direction.
+
+**Beginner question:** firebladeXT3 then asked how long it takes to get APY on unrefined ORE — weekly, monthly, or longer. FiL answered with the practical uORE model: APR starts coming in immediately, but rewards become visible as people claim, and claim activity often increases after motherlode hits. The right expectation is lumpy claim-driven reward flow, not a neat paycheck schedule.
+
+**Storytelling/lore note:** ΣXTΛSY's “Top Miner” reply fits the thread's running shorthand from earlier in the day. Keep translating these short phrases for newcomers: top-miner/TM/solo win is the lore beat, while cost basis and uORE APR flow are the accounting layer that makes the lore sustainable.
+
+**Sentiment read:** optimistic and educational. The channel is moving from “did I win?” toward “how do I measure whether this is improving?” — exactly the bridge Thep's hub is meant to preserve.
+
+Reusable responses:
+
+```text
+!costbasis — Track your average cost per ORE/uORE over time, not only one round's emotion. Moving from 1.24 SOL/ORE toward 1.09 SOL/ORE is useful progress data, but still compare it with live production cost, fees, reward type, and whether you can hold long enough for uORE yield.
+
+!aprflow — uORE APR starts accruing right away, but rewards become visible as other miners claim. Claim waves often pick up after motherlode hits, so do not expect a clean weekly/monthly drip. Track cost basis and hold horizon, check ore.fyi, and avoid forcing a claim just because the reward timing feels lumpy.
+```

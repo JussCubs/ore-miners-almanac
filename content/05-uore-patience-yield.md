@@ -301,3 +301,17 @@ Reusable command snippet:
 ```text
 !solowin — A solo/top-miner win is the fun payoff story, not proof that the exact setting is magic. Log the setup, SOL spent, tile count, fees, and how many blank rounds it survived. If your size cannot survive the blank stretch, lower it before chasing the next win.
 ```
+
+---
+
+## uORE APR starts immediately, but visible rewards arrive in claim waves
+
+firebladeXT3 asked a beginner question that every uORE holder eventually asks: does unrefined ORE APY show up weekly, monthly, or on some longer schedule? FiL's answer is the useful mental model: **APR starts accruing immediately**, but rewards are tied to people claiming. That means the wallet may not feel like it is updating on a neat calendar. After a motherlode pops, more miners often claim, so more rewards can become visible around those moments.
+
+For patient miners, this matters because “instant APR” does not mean “instant emotional relief.” A miner can lower their average cost basis from **1.24 SOL/ORE** to **1.09 SOL/ORE** and still need time for uORE rewards, claims, and motherlode-driven activity to make the longer-term thesis visible. The correct habit is to keep checking live yield sources and logs without forcing a premature claim just because the reward stream feels uneven.
+
+Reusable command snippet:
+
+```text
+!aprflow — uORE APR starts accruing right away, but rewards become visible as other miners claim. Claim waves often pick up after motherlode hits, so do not expect a clean weekly/monthly drip. Track cost basis and hold horizon, check ore.fyi, and avoid forcing a claim just because the reward timing feels lumpy.
+```
