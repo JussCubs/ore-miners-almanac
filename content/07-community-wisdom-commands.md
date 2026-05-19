@@ -692,5 +692,5 @@ The evening thread produced two reusable newcomer commands: one for the ore.fyi 
 ```text
 !prodcheck — Before starting, compare ore.fyi production cost with live ORE price. If production cost is at or above spot, mining may be worse than buying unless you are deliberately paying for uORE yield, learning, or jackpot variance. If you still mine from conviction, size it as a thesis, not a reflex.
 
-!rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available and hawg.win to navigate past rounds. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
+!rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available, hawg.win for navigable past rounds, and ore-stats for historical round/cost context. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
 ```

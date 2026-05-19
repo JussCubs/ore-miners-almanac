@@ -1251,5 +1251,23 @@ Reusable responses:
 ```text
 !prodcheck — Before starting, compare ore.fyi production cost with live ORE price. If production cost is at or above spot, mining may be worse than buying unless you are deliberately paying for uORE yield, learning, or jackpot variance. If you still mine from conviction, size it as a thesis, not a reflex.
 
-!rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available and hawg.win to navigate past rounds. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
+!rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available, hawg.win for navigable past rounds, and ore-stats for historical round/cost context. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
+```
+
+## 2026-05-19 Discord Update — round-history sources and community lore
+
+Captured 4 new messages from 2026-05-18T20:50:23.760000+00:00 through 2026-05-18T21:42:36.622000+00:00.
+
+**Most active voices:** Kriptikz (1), starship_fronk⛏️ (1), suckytrader (1), alancrean (1).
+
+**Round-history source follow-up:** Kriptikz tightened the prior round-detail lesson: miners can use **both hawg.win and ore-stats** for historical round data. That matters because the useful habit is not “stare harder at the two-second result screen”; it is to build a repeatable review loop after the round: where did SOL deploy, which tile won, who got returned SOL/ORE, what was production cost, and did your settings match the lane you meant to play?
+
+**Lore note:** Fronk deflected “legend” status to HHC while alancrean praised the ecosystem and community. Keep that color in the hub. The education layer works because strategy advice is attached to names, stories, jokes, and shared memory — not just sterile settings.
+
+**Sentiment read:** warm and constructive. The channel is still doing the thing Thep wanted: preserving miner lore while turning repeated tactical answers into searchable onboarding material.
+
+Reusable responses:
+
+```text
+!rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available, hawg.win for navigable past rounds, and ore-stats for historical round/cost context. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
 ```

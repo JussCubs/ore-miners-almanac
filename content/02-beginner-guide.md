@@ -15,7 +15,7 @@ A safe first path:
 - Ignore unsolicited DMs and scam floods; ask questions publicly.
 - Use `ore.fyi` for the quick production-cost view.
 - Use `https://blockworks.com/analytics/ore` for deeper ORE data and history.
-- Use `https://hawg.win` when you need to review past round deploys, tiles, and returns instead of relying on the brief result screen.
+- Use `https://hawg.win` and ore-stats when you need to review past round deploys, tiles, returns, and cost context instead of relying on the brief result screen.
 - Use verified links only, then start with tiny settings.
 
 ## First things first: safe defaults
