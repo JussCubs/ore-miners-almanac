@@ -625,3 +625,22 @@ Reusable command snippet:
 ```text
 !tmrunway — Top-miner attempts need runway. Even if the board feels near 1 ORE/SOL, catching a top-miner-style outcome can average multiple SOL and still run 3-4 SOL cold. If your wallet cannot survive that blank stretch, lower size or stay in low-and-slow accumulation mode.
 ```
+
+---
+
+## Heat checks: when the mines get crowded again
+
+RNA's May 19 field note — “Been mining all day. Now stopping. Mines are heating up, again.” — is a clean strategy reminder: a good session can end because conditions changed, not because conviction disappeared. “Low and slow” does not mean always-on at any cost. It means the miner checks the board, production cost, crowding, and wallet runway, then lets the plan breathe.
+
+The beginner-safe pattern:
+
+- mine tiny and broad while conditions are playable;
+- watch ore.fyi / production-cost context instead of vibes alone;
+- if the board heats up, pause or reduce size before the session turns emotional;
+- restart when the numbers fit the budget again.
+
+Reusable command snippet:
+
+```text
+!heatcheck — If the mines are heating up, do not force the same size just because you were mining earlier. Check ore.fyi, production cost, tile crowding, and wallet runway. Pausing or shrinking during hot/crowded windows is discipline, not quitting.
+```

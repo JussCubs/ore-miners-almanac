@@ -262,6 +262,24 @@ Celebrates solo-win lore while keeping the sizing lesson attached.
 
 > A solo/top-miner win is the fun payoff story, not proof that the exact setting is magic. Log the setup, SOL spent, tile count, fees, and how many blank rounds it survived. If your size cannot survive the blank stretch, lower it before chasing the next win.
 
+### !top3
+
+First answer for a brand-new miner asking for the most important tips.
+
+> New miner top 3: use all 25 tiles while learning, mine tiny enough to survive many rounds, and do not claim early. Check ore.fyi before deploying; uORE/refinement is the long-game product, not one round's instant feeling.
+
+### !heatcheck
+
+Crowded-board pause reminder for miners who were active earlier but see conditions getting hot.
+
+> If the mines are heating up, do not force the same size just because you were mining earlier. Check ore.fyi, production cost, tile crowding, and wallet runway. Pausing or shrinking during hot/crowded windows is discipline, not quitting.
+
+### !tracker
+
+Notification/tooling reminder after deflation shared a simple ORE tracker bot.
+
+> Trackers and alerts are useful awareness tools, not strategy by themselves. Use them to log sessions, notice motherlodes/conditions, and protect stop rules; do not let notification dopamine turn into impulse mining.
+
 ## Rapid-fire wisdom
 
 - **How do I mine ORE?** Start at ore.supply → About, then ask follow-up questions publicly, use verified links, start tiny, and mine all 25 tiles while learning.
@@ -300,6 +318,9 @@ Celebrates solo-win lore while keeping the sizing lesson attached.
 - **How much runway do I need for top-miner attempts?** More than your emotions expect. Even decent-looking conditions can take multiple SOL and still go cold, so size small enough to survive misses.
 - **What does TM mean?** Top miner / solo ORE win for a round. It is variance upside, not something a small wallet should size as if it is owed next.
 - **I hit a solo win — now what?** Celebrate, then log the setup, total SOL spent, tile count, fees, and blank-round runway before increasing size.
+- **Brand new — top three tips?** All 25 tiles, tiny enough to survive, and do not claim early; check ore.fyi before starting.
+- **Mines are heating up — keep running?** Only if the numbers still fit. Otherwise pause or shrink; that is discipline.
+- **Should I use tracker/alert bots?** Yes for awareness and logs, no for impulse entries. Alerts are not a strategy.
 - **Should I worry about price?** No. Mine over time. Let it compound.
 - **When should I start?** Now. Time in beats timing.
 

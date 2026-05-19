@@ -337,3 +337,17 @@ Reusable command snippet:
 ```text
 !claimtiming — uORE is the patient-miner lane: it earns rORE as other miners claim, but visible rewards are lumpy and claiming too often can give up the unrefined APR you were waiting for. stORE auto-compounds in the staking lane. Pick by time horizon, liquidity need, and whether you can hold through price swings.
 ```
+
+---
+
+## Newcomer answer: don't claim, let refinement stack
+
+When Cryo Palmar asked for the top tips for a brand-new miner on May 19, the channel immediately returned to the uORE patience lesson. Fronk's preserved ethos framed mining as a way to collect uORE over weeks, not to demand instant profitability. Madhatt3r's preserved ethos sharpened the incentive: early claims pay the 10% fee into the pool that patient miners absorb. MikkelHax summarized it in one beginner-safe line: **do not claim; let refined ORE stack.**
+
+This belongs in the patience chapter because it is the exact moment where new miners can choose the wrong emotional loop. If they mine, immediately claim, and judge the day by a single PnL snapshot, they pay away the mechanism they came to earn. If they mine tiny enough to wait, the system has time to teach them.
+
+Reusable command snippet:
+
+```text
+!top3 — New miner top 3: use all 25 tiles while learning, mine tiny enough to survive many rounds, and do not claim early. Check ore.fyi before deploying; uORE/refinement is the long-game product, not one round's instant feeling.
+```

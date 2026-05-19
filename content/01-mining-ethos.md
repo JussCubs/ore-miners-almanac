@@ -101,3 +101,19 @@ A new miner, deflation, arrived with the right first question: “is that basica
 The ethos lesson is simple: the channel should make curiosity safe. New miners will ask whether mining is gambling, whether the math has an optimum, why tiny balances appear on every tile, and what changed from older ORE mining. The Almanac should answer those questions calmly, then pull them back to the core path: tiny size, all 25 tiles, production-cost awareness, uORE patience, and public verified links.
 
 > A good mining culture does not just teach settings. It protects newcomers long enough for the settings to make sense.
+
+---
+
+## Ethos as reusable onboarding
+
+A May 19 newcomer asked for the “top 3 tips and tricks” after just getting started. The channel's answer was not a hack; it was the core ethos repeated in command form. Carl-bot resurfaced Fronk's low-and-slow thesis, then Madhatt3r's patience thesis, and regulars reinforced the simple behavior: **do not claim early, let refined ORE stack, and spend more time in the mines than trying to perfectly time the mines.**
+
+That exchange is useful because it shows what the education hub should do for every new miner:
+
+- teach the why before the setting;
+- make 25-tile, tiny-size mining the beginner default;
+- explain that uORE and refinement are the durable product, not one round's feeling;
+- make production-cost checks normal before deploying SOL;
+- treat heating/crowded mines as a reason to pause or shrink, not to chase.
+
+> Time in the mines > timing the mines.

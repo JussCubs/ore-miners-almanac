@@ -1315,3 +1315,27 @@ Captured 3 new messages from 2026-05-19T09:31:15.122000+00:00 through 2026-05-19
 **Education-hub takeaway:** keep this as a light-touch continuity marker rather than a strategy lesson. Not every update needs a new command; sometimes the durable value is preserving the human tone that makes onboarding feel like joining a living mining camp instead of reading a dry manual.
 
 **Sentiment read:** warm and playful; low technical signal, but positive community cohesion.
+
+## 2026-05-19 Discord Update — newcomer top-three, hot mines, and tracker dopamine
+
+Captured 20 new messages from 2026-05-19T13:52:56.801000+00:00 through 2026-05-19T16:00:05.074000+00:00.
+
+**Most active voices:** RNA(•‿•) (5), deflation (4), Cryo Palmar (3), Carl-bot (2), MikkelHax (2), alancrean (2), Alpha (1), OREillions⛏️ (1).
+
+**Education signal:** a brand-new miner asked for the “top 3 tips and tricks,” and the channel answered with preserved ethos instead of secret sauce: mine tiny across all 25, think in weeks of uORE/refinement, check production cost before deploying, and avoid early claims. MikkelHax reduced the claim lesson to the line beginners need first: **do not claim; let refined ORE stack.**
+
+**Strategy signal:** RNA reported mining all day, then stopping because the mines were heating up. That is the right story to preserve: disciplined miners can pause when board conditions change. “Time in the mines > timing the mines” is not permission to ignore hot/crowded windows; it means the edge comes from many controlled sessions, not one emotional entry.
+
+**Tooling signal:** deflation shared `@orelodebot`, a simple Telegram tracker/notification experiment. Treat this as a watchlist item for the hub: alerts and dopamine pings can help miners stay aware, but the education should keep them attached to budget, production cost, and logs rather than impulse entries.
+
+**Reusable responses added/refined:**
+
+```text
+!top3 — New miner top 3: use all 25 tiles while learning, mine tiny enough to survive many rounds, and do not claim early. Check ore.fyi before deploying; uORE/refinement is the long-game product, not one round's instant feeling.
+
+!heatcheck — If the mines are heating up, do not force the same size just because you were mining earlier. Check ore.fyi, production cost, tile crowding, and wallet runway. Pausing or shrinking during hot/crowded windows is discipline, not quitting.
+
+!tracker — Trackers and alerts are useful awareness tools, not strategy by themselves. Use them to log sessions, notice motherlodes/conditions, and protect stop rules; do not let notification dopamine turn into impulse mining.
+```
+
+**Sentiment read:** helpful and education-forward. The channel is turning repeated advice into reusable onboarding language while keeping the human “mining camp” feel alive.
