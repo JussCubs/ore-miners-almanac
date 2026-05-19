@@ -644,3 +644,26 @@ Reusable command snippet:
 ```text
 !heatcheck — If the mines are heating up, do not force the same size just because you were mining earlier. Check ore.fyi, production cost, tile crowding, and wallet runway. Pausing or shrinking during hot/crowded windows is discipline, not quitting.
 ```
+
+---
+
+## Two-wallet strategy experiments: compare carefully, then ask publicly
+
+A May 19 newcomer thread turned a simple idea into a good testing habit: using two wallets to compare strategies can be useful, but only if the miner keeps the experiment honest. Two wallets do not remove variance. They just make it easier to separate logs.
+
+If you test two approaches side by side:
+
+- fund each wallet with a budget you can afford to lose;
+- label the purpose before starting, such as low-and-slow 25 tiles vs. a tighter thesis;
+- run long enough that one lucky or unlucky round does not decide the verdict;
+- track production cost, tile crowding, SOL deployed, SOL returned, uORE/ORE earned, fees, failed transactions, and motherlode context;
+- keep both tests small until the logs show a repeatable lesson;
+- bring the data back to the mining channel and ask for critique before scaling.
+
+Fronk's answer is the culture in one line: share your strategy thoughts in public and let experienced miners sanity-check them. The channel is not only for flexes; it is a peer-review desk.
+
+Reusable command snippet:
+
+```text
+!wallettest — Two wallets can help compare strategies, but variance is still huge. Label each test, keep both budgets tiny, log production cost/SOL returned/uORE earned/fees/fails, and run enough rounds before judging. Share the results in-channel for sanity checks before scaling.
+```

@@ -737,3 +737,17 @@ The overnight thread was mostly lore rather than tactics: Cragglebear, alancrean
 ```text
 !orestory — Start with the official ORE basics, then read the lore: early motherlode stories, builder interviews, and miner field notes. Settings teach you how to mine; the story teaches why people stayed.
 ```
+
+---
+
+## Update — 2026-05-19
+
+A newcomer asked whether auto mining requires leaving a PC running, then realized the key convenience: the miner is not a classic local-rig process. Once the autominer is funded and scheduled, the point is that the miner can close games/browser and stop babysitting every round.
+
+That convenience needs one safety sentence attached: unattended does not mean unlimited. The miner still chooses the budget, tile plan, and stop conditions. Treat the autominer like a pre-funded plan, not a magic background income switch.
+
+```text
+!autocloud — Auto mining does not require your PC/browser to stay open like classic local mining. Once funded/scheduled, the service can keep running the plan. But it only works safely if you understand the budget, tiles, rounds, reload behavior, fees, and stop rules before walking away.
+
+!wallettest — Two wallets can help compare strategies, but variance is still huge. Label each test, keep both budgets tiny, log production cost/SOL returned/uORE earned/fees/fails, and run enough rounds before judging. Share the results in-channel for sanity checks before scaling.
+```

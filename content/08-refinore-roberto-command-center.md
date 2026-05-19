@@ -128,6 +128,8 @@ Roberto's command center should make these fields explicit:
 
 The best UX language from the thread was nftimm's framing: show something like **“Auto-reload — Budget: 10 SOL · SOL per round: 0.1 SOL · Tiles: 25.”** Cragglebear's follow-up makes it even clearer: add an **Estimated rounds** column when auto-reload is checked, then display a buffered count so miners understand their approximate runway without doing mental math.
 
+A May 19 newcomer question made the same requirement even plainer: if the miner can close the browser or PC, the UI must still explain what keeps running and what cannot happen. “Cloud/scheduled autominer” should be paired with “pre-funded budget only,” visible stop rules, and a clear statement that convenience does not mean unlimited wallet access.
+
 This is also a storytelling opportunity: the command center can show miners how a low-and-slow setup survives because it manages runway, not because it found a magic setting.
 
 ---

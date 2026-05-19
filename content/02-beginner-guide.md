@@ -64,6 +64,8 @@ That is why beginner UX should default to sane, low-risk settings and make users
 - Check ore.fyi for production cost context
 - Ask questions in the mining channel — the community is here to help
 
+If you use an autominer, you do **not** need to treat it like a classic local mining rig that stops when your PC or browser closes. Think of it as a scheduled, pre-funded plan. The important beginner job is not leaving a computer awake; it is understanding the budget, tile count, per-round spend, auto-reload behavior, fees, and stop rules before you walk away.
+
 ## Should I stake or mine first?
 
 Treat staking and mining as complementary jobs. Staking existing ORE is the passive baseline; mining is the active learning loop that requires SOL, settings, and emotional discipline.
@@ -174,4 +176,6 @@ For your own notes, keep a tiny session journal:
 - Any top-miner hits or unusual variance
 - One sentence on what you learned
 
-Do not overfit one session. Use the notes to build intuition across many small experiments.
+If you compare strategies with separate wallets, keep the same journal for each wallet and write the hypothesis before starting. “Wallet A is low-and-slow 25 tiles; Wallet B is testing a narrower thesis” is useful. “Wallet B got lucky once” is not proof.
+
+Do not overfit one session. Use the notes to build intuition across many small experiments, then bring the results back to the mining channel for sanity checks before scaling.

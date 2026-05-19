@@ -1339,3 +1339,25 @@ Captured 20 new messages from 2026-05-19T13:52:56.801000+00:00 through 2026-05-1
 ```
 
 **Sentiment read:** helpful and education-forward. The channel is turning repeated advice into reusable onboarding language while keeping the human “mining camp” feel alive.
+
+## 2026-05-19 Discord Update — autominer convenience and strategy peer review
+
+Captured 9 new messages from 2026-05-19T17:06:11.071000+00:00 through 2026-05-19T17:55:41.009000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (4), JessieBlackMan (3), alancrean (1), Brabus (1).
+
+**Newcomer education signal:** JessieBlackMan asked the exact question many classic-mining-brained users will ask first: if I use auto mining, does my PC need to stay on? The useful translation is that automining behaves more like a pre-funded scheduled service than a local GPU rig. Once the miner is funded and configured, the user should be able to close the browser/PC and let the plan run — but the safety lesson is budget first, not convenience first.
+
+**Strategy signal:** the same newcomer asked about using two Phantom wallets to compare strategies. That is a strong education pattern if framed correctly: split experiments can keep logs clean, but they do not make short samples reliable. The Almanac should encourage tiny budgets, labeled hypotheses, enough rounds to smooth variance, and public sanity checks before anyone scales.
+
+**Community process signal:** Fronk pointed the miner back to the channel as a place to share strategy thoughts and ask whether others have experience. That is the tone Thep's hub should preserve: not a secret-alpha room, but a public peer-review bench where strategy claims become teachable field notes.
+
+**Reusable responses added/refined:**
+
+```text
+!autocloud — Auto mining does not require your PC/browser to stay open like classic local mining. Once funded/scheduled, the service can keep running the plan. But it only works safely if you understand the budget, tiles, rounds, reload behavior, fees, and stop rules before walking away.
+
+!wallettest — Two wallets can help compare strategies, but variance is still huge. Label each test, keep both budgets tiny, log production cost/SOL returned/uORE earned/fees/fails, and run enough rounds before judging. Share the results in-channel for sanity checks before scaling.
+```
+
+**Sentiment read:** beginner-friendly and constructive. The slice has low drama but high onboarding value: it turns “do I leave my PC on?” into product education, and “can I test two wallets?” into disciplined strategy journaling.
