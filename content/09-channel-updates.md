@@ -1271,3 +1271,23 @@ Reusable responses:
 ```text
 !rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available, hawg.win for navigable past rounds, and ore-stats for historical round/cost context. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
 ```
+
+## 2026-05-19 Discord Update — Story of ORE teaser and rollout timing
+
+Captured 7 new messages from 2026-05-19T00:43:41.197000+00:00 through 2026-05-19T02:44:36.462000+00:00.
+
+**Most active voices:** Diggy (4), Hardhat Chad (1), Madhatt3r (1), Thep ⛏️ (1).
+
+**Storytelling signal:** Hardhat Chad said an interview had just been recorded, and Thep shared the teaser for **The Story of ORE** from Wisemen Mentors. The embedded teaser framed Chad as “a payments engineer who understood how money actually works at scale” and pointed to an interesting couple of weeks ahead for ORE. This is exactly the kind of source material the Almanac should preserve: not a settings tip, but the narrative layer that explains why people care enough to keep mining, building, and teaching.
+
+**Rollout timing note:** Diggy immediately asked whether the teaser connected to V4 or other initiatives, then added that it would be good to have something ready to roll out when changes happen. That is a useful product-education reminder for Thep's hub: when the protocol/tooling narrative shifts, ship beginner-safe explanations at the same time, so excitement has a clear learning path instead of turning into confused speculation.
+
+**Sentiment read:** curious and anticipatory. The channel was not debating settings in this slice; it was preparing for a broader ORE story moment and asking how education should meet the announcement cycle.
+
+Reusable responses:
+
+```text
+!orestory — Start with the official ORE basics, then read the lore: early motherlode stories, builder interviews, and miner field notes. Settings teach you how to mine; the story teaches why people stayed.
+
+!rolloutnotes — When ORE tooling or protocol messaging changes, pair the announcement with simple miner education: what changed, what did not change, what beginners should avoid doing impulsively, and which links are safe to read first.
+```

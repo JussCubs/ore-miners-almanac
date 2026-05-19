@@ -50,7 +50,19 @@ Explains the holder/miner tension when ORE price rises: price-up can be good for
 
 ### !lore
 
-Links to the origin stories and early motherlode history so new miners understand they are joining a living community, not just clicking a mining button.
+Links to the origin stories, early motherlode history, and builder interviews so new miners understand they are joining a living community, not just clicking a mining button.
+
+### !orestory
+
+Points miners toward the human story behind ORE: builder interviews, early lore, and why the protocol exists. Use this when a newcomer asks why ORE matters beyond the current round.
+
+> Start with the official ORE basics, then read the lore: early motherlode stories, builder interviews, and miner field notes. Settings teach you how to mine; the story teaches why people stayed.
+
+### !rolloutnotes
+
+Announcement-cycle checklist for product/protocol changes: pair the hype with beginner-safe education so miners know what changed, what did not, and where to learn before changing settings.
+
+> When ORE tooling or protocol messaging changes, pair the announcement with simple miner education: what changed, what did not change, what beginners should avoid doing impulsively, and which links are safe to read first.
 
 ### !whymine
 

@@ -44,6 +44,14 @@ Several people noticed that important discussions, links, and old wisdom get bur
 
 This hub exists because mining culture needs memory.
 
+## The Story of ORE interview thread
+
+On May 19, 2026, Hardhat Chad noted that an interview had just been recorded, and Thep shared the teaser for **The Story of ORE** from Wisemen Mentors. The teaser framed Chad as “a payments engineer who understood how money actually works at scale” and hinted at an important couple of weeks for ORE.
+
+That belongs in the lore archive for the same reason old motherlode stories belong here: protocol education lands better when it has human origin stories attached. New miners should learn settings and safety, but they should also understand why builders cared enough to make ORE in the first place.
+
+Teaser: https://x.com/wisemenmentors/status/2056546077369585676?s=46&t=jJNygwcqcsovSg-KwrnVHw
+
 ## The bot command movement
 
 As the mining channel grew, veterans noticed a problem: great advice kept getting buried in Discord scroll. The same questions appeared daily. The same wisdom had to be repeated.
