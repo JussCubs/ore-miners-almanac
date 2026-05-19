@@ -706,3 +706,13 @@ The evening thread produced two reusable newcomer commands: one for the ore.fyi 
 
 !rounddetail — Round results are education data: wallet deploys, tiles, winning-tile share, SOL returned, and ORE/uORE received. Use Explore when available, hawg.win for navigable past rounds, and ore-stats for historical round/cost context. If you cannot review the round after it flashes by, write down the key numbers before changing settings.
 ```
+
+---
+
+## Update — 2026-05-19
+
+The overnight thread was mostly lore rather than tactics: Cragglebear, alancrean, and Diggy kept building the “legend/Fronk in the ORE video” story around the Wisemen Mentors teaser. No new bot command was added from this slice; the useful takeaway is editorial. Keep attaching repeated miner education to recognizable people, jokes, and source links so the Almanac feels like field notes from the channel rather than a sterile FAQ.
+
+```text
+!orestory — Start with the official ORE basics, then read the lore: early motherlode stories, builder interviews, and miner field notes. Settings teach you how to mine; the story teaches why people stayed.
+```

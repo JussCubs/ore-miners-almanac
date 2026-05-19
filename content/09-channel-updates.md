@@ -1291,3 +1291,15 @@ Reusable responses:
 
 !rolloutnotes — When ORE tooling or protocol messaging changes, pair the announcement with simple miner education: what changed, what did not change, what beginners should avoid doing impulsively, and which links are safe to read first.
 ```
+
+## 2026-05-19 Discord Update — Fronk legend status and ORE video lore
+
+Captured 3 new messages from 2026-05-19T06:49:35.966000+00:00 through 2026-05-19T07:52:32.520000+00:00.
+
+**Most active voices:** Cragglebear (1), alancrean (1), Diggy (1).
+
+**Lore continuation:** Cragglebear gave Fronk “legend status,” while alancrean and Diggy riffed on whether Fronk's profile picture resembles the figure in the ORE video. This was not a settings-heavy slice, but it does strengthen the Almanac's storytelling layer around the Wisemen Mentors teaser and the community's living memory of who helped shape the mining culture.
+
+**Education-hub takeaway:** Keep the previous **!orestory** framing. The channel is reminding us that onboarding is not only production cost, uORE yield, and round history; it is also names, origin stories, interviews, and shared jokes that make the technical lessons memorable for new miners.
+
+**Sentiment read:** warm, playful, and anticipatory. The community is waiting for the broader Story of ORE moment while keeping the thread human.
