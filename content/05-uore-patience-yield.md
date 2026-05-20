@@ -365,3 +365,24 @@ Reusable command snippet:
 ```text
 !smallsize — Tiny mining is a runway strategy, not an instant PnL strategy. If you deploy 0.0005 SOL into a 0.3 SOL round, you are roughly 1/600 of the weight for a single uORE hit; you need many rounds before variance has room to turn. Size small enough to survive the wait, or do not scale the plan.
 ```
+
+
+---
+
+## uORE yield becomes refined ORE, not more uORE
+
+firebladeXT3 asked the plain-language question that should live in the patience chapter: when the app shows roughly **60% APY/APR** for holding unrefined ORE, does the unrefined balance itself compound upward, or does the miner receive refined ORE? oduen's answer was clean: **it becomes refined ORE; unrefined does not change.**
+
+That makes the beginner explanation easier:
+
+- uORE is the base position the miner holds;
+- the yield shows up as refined ORE/rORE over time;
+- if the rate stayed around **60%** for a full year, a miner would earn about **60% of their uORE amount** as refined ORE during that year;
+- the live rate can change, and rewards still depend on protocol behavior, claim flows, and time;
+- do not read a high APR as permission to overmine or claim casually.
+
+Reusable command snippet:
+
+```text
+!uoreyield — uORE yield does not make your unrefined balance itself tick up. It accrues as refined ORE. If APR stayed near 60% for a full year, a miner would earn roughly 60% of their uORE amount as refined ORE over that year, before considering rate changes, claims, and market risk.
+```

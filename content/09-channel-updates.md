@@ -1421,3 +1421,31 @@ Captured 6 new messages from 2026-05-20T06:57:15.922000+00:00 through 2026-05-20
 **Reusable lesson:** preserve these little field notes beside the formulas. “0.0005 SOL into a 0.3 SOL round is roughly 1/600 weight” teaches patience; “1 SOL returned 2 ORE from solo + motherlode” teaches that rewards need source labels before anyone judges whether the session was skill, variance, or environment.
 
 **Sentiment read:** constructive and communal. The channel is pairing bankroll-first math with miner-camp morale, which is exactly the mix an education/storytelling hub should keep surfacing.
+
+## 2026-05-20 Discord Update — goal-first mining and uORE yield clarity
+
+Captured 29 new messages from 2026-05-20T08:08:08.549000+00:00 through 2026-05-20T12:00:36.867000+00:00.
+
+**Most active voices:** firebladeXT3 (6), deflation (5), ΣXTΛSY | Rubypool.io (4), RNA(•‿•) (4), Navigator (3), JessieBlackMan (3), oduen⛏️ (2), FiL ⛏️ (1).
+
+**Themes detected:** hot-board discipline, production cost / ore.fyi, motherlode odds, scam-awareness continuity, and uORE yield mechanics.
+
+**Education signal:** the morning thread turned motherlode FOMO into a cleaner decision rule. firebladeXT3 noticed production cost getting high while trying not to miss another motherlode. Navigator gave the Almanac-worthy answer: the miner's goal should decide whether to mine. Small and medium autominer users do not need to stay in a hot board with **15-20 SOL** deployments just because big gamblers are playing. If the goal is patient uORE accumulation, pausing or shrinking during crowded windows can be the correct strategy.
+
+**Beginner-cost note:** JessieBlackMan asked whether mining is cheaper when SOL deployment is small. RNA kept the answer anchored to **ore.fyi**: lower deployment can mean lower production cost, and production cost can be below market price, but rising ORE price can also attract more SOL deployment. The reusable lesson is to check the live board instead of assuming a motherlode size or price candle tells the whole story.
+
+**Protocol-odds note:** firebladeXT3 also asked whether a larger motherlode has a higher chance to drop. FiL and Yorter answered no: the motherlode remains **1/625 each round**. Bigger pots change miner behavior and crowding; they do not make the hit more “due.”
+
+**uORE yield note:** firebladeXT3 asked whether roughly **60% APY/APR** adds to unrefined ORE itself or pays as refined ORE. oduen clarified that the unrefined balance does not change; yield becomes refined ORE. If the rate stayed around 60% for a year, the refined ORE earned would be roughly 60% of the uORE base, subject to rate changes and protocol dynamics.
+
+**Reusable responses added/refined:**
+
+```text
+!goalfirst — Before chasing a motherlode, name the goal: uORE accumulation, learning, top-miner variance, or jackpot hunting. If production cost/deploys are hot, small and medium miners can pause or shrink instead of copying big gamblers. Check ore.fyi first; FOMO is not a strategy.
+
+!mlodds — Motherlode hit chance does not improve because the pot is larger. It is still 1/625 each round; a bigger pot usually changes miner behavior and crowding, not the protocol odds.
+
+!uoreyield — uORE yield does not make your unrefined balance itself tick up. It accrues as refined ORE. If APR stayed near 60% for a full year, a miner would earn roughly 60% of their uORE amount as refined ORE over that year, before considering rate changes, claims, and market risk.
+```
+
+**Sentiment read:** practical, protective, and still playful. The channel kept the mine-gods memes and solo-block prayer energy, but the actual advice was sober: check production cost, respect fixed motherlode odds, stay scam-aware, and let the miner's goal decide whether to run or wait.

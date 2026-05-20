@@ -783,3 +783,17 @@ This belongs in the command bank because it is a reusable emotional reset. Small
 ```text
 !variance — Smaller miners feel more variance. You can lower tile-picking variance by spreading across tiles, but you still need runway for luck to even out. The only real levers are more rounds, a higher deploy size you can afford, or accepting that tiny mining is a long-game accumulation test.
 ```
+
+---
+
+## Update — 2026-05-20: hot-board pauses and uORE yield wording
+
+This slice produced two reusable answers. First, Navigator reframed motherlode excitement around miner goals: small and medium autominer users do not need to stay in when deploys are already hot just because big gamblers are playing. Second, firebladeXT3 asked the clean beginner version of uORE yield: does APY increase the unrefined balance itself, or does it show up as refined ORE? oduen answered plainly: the unrefined balance does not change; yield becomes refined ORE. If APR stayed around 60% for a full year, the refined ORE earned would be roughly 60% of the uORE base.
+
+```text
+!goalfirst — Before chasing a motherlode, name the goal: uORE accumulation, learning, top-miner variance, or jackpot hunting. If production cost/deploys are hot, small and medium miners can pause or shrink instead of copying big gamblers. Check ore.fyi first; FOMO is not a strategy.
+
+!uoreyield — uORE yield does not make your unrefined balance itself tick up. It accrues as refined ORE. If APR stayed near 60% for a full year, a miner would earn roughly 60% of their uORE amount as refined ORE over that year, before considering rate changes, claims, and market risk.
+
+!mlodds — Motherlode hit chance does not improve because the pot is larger. It is still 1/625 each round; a bigger pot usually changes miner behavior and crowding, not the protocol odds.
+```

@@ -691,3 +691,24 @@ Reusable command snippet:
 ```text
 !bankrollfirst — A 25-tile setup lowers tile-picking variance, but it still needs runway. Pick the total SOL you can afford, divide by SOL per round, and ask whether the plan survives enough deploys to learn anything. Judge results against ore.fyi production cost, uORE goals, fees, and runway — not one painful slice.
 ```
+
+---
+
+## Goal-first mining: pause when the board gets hot
+
+Navigator's May 20 morning note is a strong strategy checkpoint for small and medium miners. A motherlode can be exciting without being a good entry. When the board is already showing large deploys — the kind of window where miners are talking about **15, 18, or 20 SOL** chasing a moderate motherlode — the safer question is not “can I still get lucky?” It is “does this still match my goal?”
+
+The answer changes by miner type:
+
+- a patient uORE accumulator may be better off shrinking or waiting when production cost heats up;
+- a motherlode hunter can choose to chase, but should label it as jackpot variance, not steady accumulation;
+- a small wallet should not copy big-gambler behavior just because the chat is excited;
+- a miner who missed the last two hits should be especially careful not to resize from FOMO.
+
+JessieBlackMan's follow-up beginner questions made the rule easy to teach: lower deployment pressure usually means cheaper mining, and ore.fyi is the first check. Production cost can sit below spot in calmer windows, but if ORE price climbs and attention follows, SOL deployment often climbs too. The window changes; the plan has to be allowed to pause.
+
+Reusable command snippet:
+
+```text
+!goalfirst — Before chasing a motherlode, name the goal: uORE accumulation, learning, top-miner variance, or jackpot hunting. If production cost/deploys are hot, small and medium miners can pause or shrink instead of copying big gamblers. Check ore.fyi first; FOMO is not a strategy.
+```
