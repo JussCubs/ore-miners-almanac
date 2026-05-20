@@ -1481,3 +1481,25 @@ Captured 55 new messages from 2026-05-20T12:08:24.534000+00:00 through 2026-05-2
 ```
 
 **Sentiment read:** practical and onboarding-heavy. The channel is still playful around late motherlodes and mining pain, but the useful work was veteran translation: keep expectations grounded, explain where yield comes from, and protect newcomers from accidentally resizing a strategy because they misunderstood wallets, pools, or weighted rewards.
+
+## 2026-05-20 Discord Update — supervised risk vs set-and-forget low deploy
+
+Captured 6 new messages from 2026-05-20T16:39:14.797000+00:00 through 2026-05-20T17:17:38.061000+00:00.
+
+**Most active voices:** BREADFAN777⛏️ (2), XELF (2), starship_fronk⛏️ (1), firebladeXT3 (1).
+
+**Themes detected:** low-and-slow sizing, supervised partial-grid risk, unattended autominer discipline, and light lore banter.
+
+**Education signal:** BREADFAN777 gave the cleanest form of a lesson the channel keeps circling: more SOL deployed is not automatically more profitable if the miner cannot sustain the spend. More rounds create more chances for motherlode exposure and solo/top-miner outcomes, but only if the bankroll survives long enough to stay in the distribution.
+
+**Strategy insight:** the useful split is **watched risk vs unattended low-and-slow**. Community low-deploy examples sat around `0.00025-0.0005 SOL/block`. A riskier partial-grid setting like `0.007 SOL/block` over 13 blocks belongs in a supervised test with stop rules and live attention. If the miner is going unattended, the beginner-safe pattern remains all 25 tiles, low per-block spend, and a pre-funded budget boundary.
+
+**Reusable responses added/refined:**
+
+```text
+!watchedrisk — Higher deploy or fewer-tile setups are watched-session tools, not set-and-forget defaults. If you are actively monitoring, you can test a riskier size with stop rules. If you are unattended, use broader coverage, lower per-block spend, and a pre-funded budget boundary.
+
+!lowband — Community low-deploy examples often sit around 0.00025-0.0005 SOL per block, but the number is not magic. Size from total bankroll, expected rounds, fees, production cost, and whether you will be watching the session.
+```
+
+**Sentiment read:** calm, practical, and peer-review oriented. The window was small, but it sharpened the Almanac's core safety language: risky sizing can be a deliberate experiment when watched; unattended mining should be boring by design.

@@ -815,3 +815,17 @@ Third, the pool explanation should stay neutral and clear. A pool can combine re
 
 !poollane — Pools combine miners so rewards are shared from a larger collective attempt. That can smooth solo/top-miner variance, but it also means split rewards, product fees, and third-party assumptions. Understand the pool terms before treating it like solo mining.
 ```
+
+---
+
+## Update — 2026-05-20: watched risk vs unattended low-and-slow
+
+BREADFAN777 added a crisp veteran distinction to the sizing library: more SOL deployed can still be less profitable if the miner cannot sustain the spend long enough for variance, motherlode chances, and solo/top-miner shots to matter. Long-run exposure is often the edge; oversized bursts can run out before the distribution has time to breathe.
+
+He also split settings by supervision mode. Low deploy examples clustered around `0.00025-0.0005 SOL/block`. A riskier partial-grid test — `0.007 SOL/block` over 13 blocks — belongs only in an actively watched session with stop rules. For unattended mining, the command-bank answer stays boring on purpose: all 25 tiles, low per-block spend, and enough runway to survive misses.
+
+```text
+!watchedrisk — Higher deploy or fewer-tile setups are watched-session tools, not set-and-forget defaults. If you are actively monitoring, you can test a riskier size with stop rules. If you are unattended, use broader coverage, lower per-block spend, and a pre-funded budget boundary.
+
+!lowband — Community low-deploy examples often sit around 0.00025-0.0005 SOL per block, but the number is not magic. Size from total bankroll, expected rounds, fees, production cost, and whether you will be watching the session.
+```

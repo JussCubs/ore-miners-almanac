@@ -692,6 +692,12 @@ Reusable command snippet:
 !bankrollfirst — A 25-tile setup lowers tile-picking variance, but it still needs runway. Pick the total SOL you can afford, divide by SOL per round, and ask whether the plan survives enough deploys to learn anything. Judge results against ore.fyi production cost, uORE goals, fees, and runway — not one painful slice.
 ```
 
+A later BREADFAN777 note added the clean operating split: low deploy can sit around the `0.00025-0.0005 SOL/block` zone when the goal is long-run exposure, while riskier partial-grid sizing belongs in the watched-session bucket. His example was **0.007 SOL/block across 13 blocks**, with active monitoring and a clear willingness to stop if a cold streak appears. The unattended rule is the opposite: if the miner will be away, broaden back to **25 tiles** and keep the per-block size low enough that silence does not become runaway risk.
+
+```text
+!watchedrisk — Higher deploy or fewer-tile setups are watched-session tools, not set-and-forget defaults. If you are actively monitoring, you can test a riskier size with stop rules. If you are unattended, use broader coverage, lower per-block spend, and a pre-funded budget boundary.
+```
+
 ---
 
 ## Goal-first mining: pause when the board gets hot
