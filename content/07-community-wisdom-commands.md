@@ -771,3 +771,15 @@ The same thread sharpened the tracker command. A good alert bot can help miners 
 
 !tracker — Trackers and alerts are useful awareness tools, not strategy by themselves. Use them for ORE price, production cost, motherlode context, wallet-refill reminders, and stop-rule warnings; do not let notification dopamine turn into impulse mining.
 ```
+
+---
+
+## Update — 2026-05-20: variance answer for small miners
+
+ΣXTΛSY distilled the cleanest reply for miners who do everything “right” at tiny size and still feel ignored by the board: **the smaller you are, the higher your variance feels**. The two honest options are not magic settings; they are either wait through more rounds or deploy a higher SOL amount if the miner can afford the risk.
+
+This belongs in the command bank because it is a reusable emotional reset. Small miners need language that validates the pain without selling a shortcut.
+
+```text
+!variance — Smaller miners feel more variance. You can lower tile-picking variance by spreading across tiles, but you still need runway for luck to even out. The only real levers are more rounds, a higher deploy size you can afford, or accepting that tiny mining is a long-game accumulation test.
+```

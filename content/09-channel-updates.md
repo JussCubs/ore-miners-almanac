@@ -1383,3 +1383,25 @@ Captured 17 new messages from 2026-05-19T20:10:37.995000+00:00 through 2026-05-1
 ```
 
 **Sentiment read:** practical and encouraging. The slice turns a painful mining result into teachable bankroll discipline, while preserving the “little pleasures / drop by drop” miner-camp tone that keeps newcomers from feeling dumb for asking.
+
+## 2026-05-20 Discord Update
+
+Captured 2 new messages from 2026-05-20T02:19:28.962000+00:00 through 2026-05-20T03:16:22.726000+00:00.
+
+**Most active voices:** ΣXTΛSY | Candy Studio (1), FiL ⛏️ (1).
+
+**Themes detected:** uORE patience, tiny-size variance, bankroll runway.
+
+**Education signal:** the channel tightened the answer to a recurring beginner pain point: “I deployed tiny across the board; why does it still feel bad?” ΣXTΛSY gave the plain-English version — smaller miners experience higher variance, so results can take many rounds to even out unless the miner chooses to deploy more SOL. FiL then attached usable math: **0.0005 SOL per block** against about **0.3 SOL total deployed** is roughly **1/600** of the weight for a single uORE hit, so the miner needs a long enough run before the odds feel real.
+
+**Storytelling note:** this is a strong Almanac teaching moment because it does not shame the small miner. It says the discouragement is normal, then shows the actual lever: survive enough rounds, increase size only if the budget can handle it, or accept that tiny mining is a slow accumulation test.
+
+**Reusable responses added/refined:**
+
+```text
+!variance — Smaller miners feel more variance. You can lower tile-picking variance by spreading across tiles, but you still need runway for luck to even out. The only real levers are more rounds, a higher deploy size you can afford, or accepting that tiny mining is a long-game accumulation test.
+
+!smallsize — Tiny mining is a runway strategy, not an instant PnL strategy. If you deploy 0.0005 SOL into a 0.3 SOL round, you are roughly 1/600 of the weight for a single uORE hit; you need many rounds before variance has room to turn. Size small enough to survive the wait, or do not scale the plan.
+```
+
+**Sentiment read:** calm, practical, and protective. The channel is turning discouraging math into a survivable plan instead of letting miners confuse variance with failure.

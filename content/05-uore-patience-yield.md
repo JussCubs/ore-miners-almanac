@@ -351,3 +351,17 @@ Reusable command snippet:
 ```text
 !top3 — New miner top 3: use all 25 tiles while learning, mine tiny enough to survive many rounds, and do not claim early. Check ore.fyi before deploying; uORE/refinement is the long-game product, not one round's instant feeling.
 ```
+
+---
+
+## Tiny deployments need time for the math to show up
+
+FiL put numbers on the low-and-slow patience lesson on May 20. If a miner deploys **0.0005 SOL per block** while the round has about **0.3 SOL total deployed**, that miner owns roughly **1/600** of the deployed weight for a single uORE hit. Across about **600 rounds**, the expected story starts to look less hopeless, but roughly half of those outcomes will still be split or miss the visible payday.
+
+That is why the chapter should avoid promising that “all tiles + tiny size” feels good quickly. The strategy only makes sense when the miner sizes for enough attempts that variance has room to turn around. The emotional lesson is as important as the math: the numbers can look discouraging before the time horizon has actually played out.
+
+Reusable command snippet:
+
+```text
+!smallsize — Tiny mining is a runway strategy, not an instant PnL strategy. If you deploy 0.0005 SOL into a 0.3 SOL round, you are roughly 1/600 of the weight for a single uORE hit; you need many rounds before variance has room to turn. Size small enough to survive the wait, or do not scale the plan.
+```
