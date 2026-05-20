@@ -1361,3 +1361,25 @@ Captured 9 new messages from 2026-05-19T17:06:11.071000+00:00 through 2026-05-19
 ```
 
 **Sentiment read:** beginner-friendly and constructive. The slice has low drama but high onboarding value: it turns “do I leave my PC on?” into product education, and “can I test two wallets?” into disciplined strategy journaling.
+
+## 2026-05-20 Discord Update — bankroll-first mining and useful alerts
+
+Captured 17 new messages from 2026-05-19T20:10:37.995000+00:00 through 2026-05-19T21:24:45.325000+00:00.
+
+**Most active voices:** deflation (14), OGLilsBTC (2), RNA(•‿•) (1).
+
+**Education signal:** OGLilsBTC posted the beginner pain point that makes low-and-slow hard to trust: roughly **0.2 SOL** deployed for about **0.06 ORE** while running **0.0005 SOL on all 25 blocks**. Deflation kept the answer from becoming pure setting-chasing: the key variable is bankroll/runway. A 25-block setup lowers selection variance, but it still needs enough deploys for the strategy to mean anything.
+
+**Strategy note:** the Almanac should teach miners to translate “I lost SOL” into a post-run review: total SOL budget, SOL per round, number of deploys survived, live ore.fyi production cost, uORE/refinement goal, fees, and whether the miner was paying for accumulation, learning, or jackpot variance.
+
+**Tooling note:** Deflation's `@orelodebot` experiment is a useful product pattern because the alerts are practical: ORE price, production cost, motherlode context, production-cost-above-market warnings, and wallet-refill reminders. The education layer is still important: alerts should protect a plan, not create impulse mining.
+
+**Reusable responses added/refined:**
+
+```text
+!bankrollfirst — A 25-tile setup lowers tile-picking variance, but it still needs runway. Pick the total SOL you can afford, divide by SOL per round, and ask whether the plan survives enough deploys to learn anything. Judge results against ore.fyi production cost, uORE goals, fees, and runway — not one painful slice.
+
+!tracker — Trackers and alerts are useful awareness tools, not strategy by themselves. Use them for ORE price, production cost, motherlode context, wallet-refill reminders, and stop-rule warnings; do not let notification dopamine turn into impulse mining.
+```
+
+**Sentiment read:** practical and encouraging. The slice turns a painful mining result into teachable bankroll discipline, while preserving the “little pleasures / drop by drop” miner-camp tone that keeps newcomers from feeling dumb for asking.

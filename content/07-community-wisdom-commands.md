@@ -278,7 +278,13 @@ Crowded-board pause reminder for miners who were active earlier but see conditio
 
 Notification/tooling reminder after deflation shared a simple ORE tracker bot.
 
-> Trackers and alerts are useful awareness tools, not strategy by themselves. Use them to log sessions, notice motherlodes/conditions, and protect stop rules; do not let notification dopamine turn into impulse mining.
+> Trackers and alerts are useful awareness tools, not strategy by themselves. Use them for ORE price, production cost, motherlode context, wallet-refill reminders, and stop-rule warnings; do not let notification dopamine turn into impulse mining.
+
+### !bankrollfirst
+
+Beginner post-run answer when a miner used all 25 tiles but still feels underwater.
+
+> A 25-tile setup lowers tile-picking variance, but it still needs runway. Pick the total SOL you can afford, divide by SOL per round, and ask whether the plan survives enough deploys to learn anything. Judge results against ore.fyi production cost, uORE goals, fees, and runway — not one painful slice.
 
 ## Rapid-fire wisdom
 
@@ -750,4 +756,18 @@ That convenience needs one safety sentence attached: unattended does not mean un
 !autocloud — Auto mining does not require your PC/browser to stay open like classic local mining. Once funded/scheduled, the service can keep running the plan. But it only works safely if you understand the budget, tiles, rounds, reload behavior, fees, and stop rules before walking away.
 
 !wallettest — Two wallets can help compare strategies, but variance is still huge. Label each test, keep both budgets tiny, log production cost/SOL returned/uORE earned/fees/fails, and run enough rounds before judging. Share the results in-channel for sanity checks before scaling.
+```
+
+---
+
+## Update — 2026-05-20
+
+OGLilsBTC brought the channel a useful beginner post-run: 0.0005 SOL on all 25 blocks still felt rough after about 0.2 SOL deployed for roughly 0.06 ORE. Deflation's answer turned it into the reusable rule: all-tiles mining is the safer variance lane, but bankroll/runway decides whether the lane has enough time to work.
+
+The same thread sharpened the tracker command. A good alert bot can help miners notice ORE price, production cost, motherlodes, production-cost-above-market warnings, and wallet-refill moments — but the command should always say alerts are guardrails, not a reason to chase.
+
+```text
+!bankrollfirst — A 25-tile setup lowers tile-picking variance, but it still needs runway. Pick the total SOL you can afford, divide by SOL per round, and ask whether the plan survives enough deploys to learn anything. Judge results against ore.fyi production cost, uORE goals, fees, and runway — not one painful slice.
+
+!tracker — Trackers and alerts are useful awareness tools, not strategy by themselves. Use them for ORE price, production cost, motherlode context, wallet-refill reminders, and stop-rule warnings; do not let notification dopamine turn into impulse mining.
 ```

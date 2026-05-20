@@ -667,3 +667,25 @@ Reusable command snippet:
 ```text
 !wallettest — Two wallets can help compare strategies, but variance is still huge. Label each test, keep both budgets tiny, log production cost/SOL returned/uORE earned/fees/fails, and run enough rounds before judging. Share the results in-channel for sanity checks before scaling.
 ```
+
+---
+
+## Bankroll-first low-and-slow: read losses by runway, not one result
+
+A May 20 thread captured a common new-miner checkpoint: OGLilsBTC had run **0.0005 SOL across 25 blocks** and felt the pain of roughly **0.2 SOL deployed for about 0.06 ORE**. Deflation's answer kept the lesson in the right frame: the immediate loss is less important than whether the miner sized the strategy for enough deploys to let low-variance accumulation work.
+
+The useful translation for Thep's education hub:
+
+- 25 tiles reduces tile-selection variance, but it does not remove mining variance;
+- a 0.0005 SOL/block full-grid run is still **0.0125 SOL per round** before fees and reload behavior;
+- the miner should decide the bankroll/runway first, then pick SOL-per-block;
+- if the plan only survives a handful of rounds, it is not really “low and slow”;
+- compare the run with live production cost and uORE/refinement goals before calling the setting broken.
+
+Deflation's line — “the importance is more the bankroll than what you have lost” — is the durable beginner lesson. Loss screenshots are post-mortems; bankroll planning is the prevention.
+
+Reusable command snippet:
+
+```text
+!bankrollfirst — A 25-tile setup lowers tile-picking variance, but it still needs runway. Pick the total SOL you can afford, divide by SOL per round, and ask whether the plan survives enough deploys to learn anything. Judge results against ore.fyi production cost, uORE goals, fees, and runway — not one painful slice.
+```
