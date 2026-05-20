@@ -712,3 +712,27 @@ Reusable command snippet:
 ```text
 !goalfirst — Before chasing a motherlode, name the goal: uORE accumulation, learning, top-miner variance, or jackpot hunting. If production cost/deploys are hot, small and medium miners can pause or shrink instead of copying big gamblers. Check ore.fyi first; FOMO is not a strategy.
 ```
+
+
+---
+
+## SOL-weighted rewards: bigger size is bigger risk, not a shortcut
+
+The May 20 afternoon thread turned a newcomer's profit question into a clean sizing lesson. ORE mining is weighted by SOL deployed: a miner who deploys more has a larger share of split rewards and a better shot at solo/top-miner outcomes. But the same choice also spends more SOL every round. The lever cuts both ways.
+
+Kriptikz's large-wallet anecdote is the right warning label. In a **200+ wallet** experiment, some wallets got lucky quickly, but nearly all did not; after three weeks the aggregate result was only slightly above production cost. That is exactly why the Almanac should teach miners to judge the whole test, not the wallet that hit early.
+
+When a newcomer asks for the “best point,” answer in this order:
+
+- check current production cost against spot and the miner's goal;
+- decide whether the goal is uORE accumulation, solo/top-miner variance, motherlode hunting, or learning;
+- size total bankroll first, then per-round SOL;
+- remember that more SOL buys more weight and more risk at the same time;
+- treat pool mining as a different lane with shared rewards, fees, and product-specific assumptions;
+- review the full run across time, not the luckiest wallet or round.
+
+Reusable command snippet:
+
+```text
+!weighted — ORE mining rewards are weighted by SOL deployed. More SOL can mean a bigger split share and better solo/top-miner odds, but it also burns more SOL per round. Size is a risk lever, not magic alpha.
+```

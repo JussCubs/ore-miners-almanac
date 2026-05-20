@@ -1449,3 +1449,35 @@ Captured 29 new messages from 2026-05-20T08:08:08.549000+00:00 through 2026-05-2
 ```
 
 **Sentiment read:** practical, protective, and still playful. The channel kept the mine-gods memes and solo-block prayer energy, but the actual advice was sober: check production cost, respect fixed motherlode odds, stay scam-aware, and let the miner's goal decide whether to run or wait.
+
+## 2026-05-20 Discord Update — newcomer profitability, pools, and autominer budget boundaries
+
+Captured 55 new messages from 2026-05-20T12:08:24.534000+00:00 through 2026-05-20T15:36:47.144000+00:00.
+
+**Most active voices:** XELF (19), starship_fronk⛏️ (11), RNA(•‿•) (8), Saga Veritan (5), firebladeXT3 (4), ΣXTΛSY | Rubypool.io (3), Kriptikz (3), Madhatt3r (1).
+
+**Themes detected:** uORE patience/yield, profitability expectations, SOL-weighted rewards, pool mining, production-cost pressure, and refinORE operating-balance onboarding.
+
+**Education signal:** XELF pushed the question most new miners eventually ask: how do I make this profitable? The channel's answer was not a magic setting. Kriptikz gave the anti-survivorship warning from a **200+ wallet** experiment — a few wallets hit early, most did not, and the whole test ended only slightly above production cost after weeks. Fronk reframed mining as SOL exchanged for uORE/yield exposure rather than immediate profit. Together, those are strong Almanac language: profit hunting starts with production cost, bankroll, and time horizon, not the best-looking lucky wallet.
+
+**Mechanics note:** Fronk clarified the weighted-reward lever. More SOL deployed can increase a miner's share of splits and chance at solo/top-miner outcomes, but the drawback is higher SOL spend per round. The command-bank version is simple: size changes risk and expected share at the same time.
+
+**Pool note:** Ruby/pool discussion entered the mining channel. The educational framing should stay neutral: pools can combine resources and smooth some solo/top-miner variance, but rewards are split and product-specific fees/third-party assumptions apply. Point detailed pool mechanics to the ecosystem/product venue rather than overloading the mining FAQ.
+
+**Roberto/refinORE onboarding note:** Saga Veritan's balance question showed why the command center must keep explaining the difference between connected-wallet funds and authorized autominer operating balance. Auto mining should not silently drain the whole wallet; top-up is an intentional budget increase, and auto-reload recycles within the authorized plan.
+
+**Reusable responses added/refined:**
+
+```text
+!uorethesis — Mining is not an instant-profit machine. You are spending SOL for uORE exposure, yield/refinement mechanics, and variance upside. Check production cost first, size for time, and understand whether your rewards are unrefined, refined, or represented by a pool token before judging the run.
+
+!weighted — ORE mining rewards are weighted by SOL deployed. More SOL can mean a bigger split share and better solo/top-miner odds, but it also burns more SOL per round. Size is a risk lever, not magic alpha.
+
+!walletfarm — One lucky wallet can lie. Even large multi-wallet tests can have a few quick hits while most wallets do nothing for weeks. Judge the whole experiment against production cost, fees, time, and total bankroll — not the best screenshot.
+
+!poollane — Pools combine miners so rewards are shared from a larger collective attempt. That can smooth solo/top-miner variance, but it also means split rewards, product fees, and third-party assumptions. Understand the pool terms before treating it like solo mining.
+
+!topup — Your connected wallet is not an unlimited refill hose. The autominer spends from the operating balance you authorized. Use Top Up when you intentionally want to increase the mining budget; otherwise the boundary protects the rest of your wallet from the active strategy.
+```
+
+**Sentiment read:** practical and onboarding-heavy. The channel is still playful around late motherlodes and mining pain, but the useful work was veteran translation: keep expectations grounded, explain where yield comes from, and protect newcomers from accidentally resizing a strategy because they misunderstood wallets, pools, or weighted rewards.

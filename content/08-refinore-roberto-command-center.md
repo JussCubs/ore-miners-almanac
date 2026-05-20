@@ -203,3 +203,22 @@ For Roberto/refinORE, that means round history should not be treated as decorati
 - should I keep this strategy, shrink it, pause it, or buy ORE instead?
 
 When public tools such as Explore or hawg.win expose round history, Roberto should use that same habit: preserve the numbers, translate them into plain English, and connect the result back to budget, production cost, and time horizon.
+
+---
+
+## Authorized balance is a safety boundary, not a wallet drain
+
+Saga Veritan's May 20 question exposed a beginner UX trap: a new autominer user may assume the connected wallet should automatically refill the operating balance. Fronk's answer is the product-safe explanation Roberto should repeat: the autominer only uses the balance the miner has authorized/topped up, so a user with 10 SOL can choose to risk 2 SOL without waking up to the whole wallet spent.
+
+For Roberto and the command center, this means every balance explanation should distinguish:
+
+- **connected wallet balance** — funds the user still controls outside the active mining budget;
+- **authorized/operating autominer balance** — the amount the miner has explicitly allowed the service to use;
+- **top-up action** — the intentional move that increases the operating budget;
+- **auto-reload behavior** — recycling returned SOL inside the authorized plan, not silently pulling unlimited SOL from the wallet.
+
+Reusable UI copy:
+
+```text
+Your connected wallet is not an unlimited refill hose. The autominer spends from the operating balance you authorized. Use Top Up when you intentionally want to increase the mining budget; otherwise the boundary protects the rest of your wallet from the active strategy.
+```

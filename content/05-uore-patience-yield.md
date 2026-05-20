@@ -386,3 +386,21 @@ Reusable command snippet:
 ```text
 !uoreyield — uORE yield does not make your unrefined balance itself tick up. It accrues as refined ORE. If APR stayed near 60% for a full year, a miner would earn roughly 60% of their uORE amount as refined ORE over that year, before considering rate changes, claims, and market risk.
 ```
+
+---
+
+## Mining as uORE exposure, not instant-profit vending
+
+The May 20 afternoon newcomer thread sharpened the same patience lesson in one sentence: mining should not be introduced as guaranteed immediate profit. A miner is spending SOL to acquire **unrefined ORE exposure** and the yield stream attached to patient uORE/pool behavior. That can be attractive, especially while the displayed rate is high, but it is still a thesis with variance, market risk, claim-flow risk, and time horizon risk.
+
+This helps beginners separate three things that often get mixed together:
+
+- **mining rewards** can stay unrefined rather than dropping as instantly spendable ORE;
+- **refinement/yield** shows up as refined ORE backing/accruing to the position over time;
+- **liquid/pool wrappers** such as pORE can represent a claim on pooled rewards, but they are a separate product layer and deserve their own venue-specific explanation.
+
+Reusable command snippet:
+
+```text
+!uorethesis — Mining is not an instant-profit machine. You are spending SOL for uORE exposure, yield/refinement mechanics, and variance upside. Check production cost first, size for time, and understand whether your rewards are unrefined, refined, or represented by a pool token before judging the run.
+```

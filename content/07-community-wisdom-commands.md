@@ -797,3 +797,21 @@ This slice produced two reusable answers. First, Navigator reframed motherlode e
 
 !mlodds — Motherlode hit chance does not improve because the pot is larger. It is still 1/625 each round; a bigger pot usually changes miner behavior and crowding, not the protocol odds.
 ```
+
+---
+
+## Update — 2026-05-20: weighted deploys, wallet farms, and pooled lanes
+
+The afternoon thread produced three reusable explanations for newcomers. First, the reward weighting lesson: deploying more SOL gives a miner a larger share of split rewards and a better shot at solo/top-miner outcomes, but it also raises spend per round. More size is not a free edge; it is a bigger bet.
+
+Second, Kriptikz added a useful anti-survivorship anecdote from running **200+ wallets**: a few wallets hit quickly and looked brilliant, but almost all did not; over three weeks the whole experiment ended only slightly above production cost. That is the command-bank version of “do not judge a strategy from the lucky wallet screenshot.”
+
+Third, the pool explanation should stay neutral and clear. A pool can combine resources so participants share rewards from a stronger collective attempt, which may smooth outcomes, but everyone splits rewards and the product may include third-party fees/trust assumptions. Point people to the right ecosystem venue for product-specific details.
+
+```text
+!weighted — ORE mining rewards are weighted by SOL deployed. More SOL can mean a bigger split share and better solo/top-miner odds, but it also burns more SOL per round. Size is a risk lever, not magic alpha.
+
+!walletfarm — One lucky wallet can lie. Even large multi-wallet tests can have a few quick hits while most wallets do nothing for weeks. Judge the whole experiment against production cost, fees, time, and total bankroll — not the best screenshot.
+
+!poollane — Pools combine miners so rewards are shared from a larger collective attempt. That can smooth solo/top-miner variance, but it also means split rewards, product fees, and third-party assumptions. Understand the pool terms before treating it like solo mining.
+```
