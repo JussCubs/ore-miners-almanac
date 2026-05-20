@@ -684,6 +684,8 @@ The useful translation for Thep's education hub:
 
 Deflation's line — “the importance is more the bankroll than what you have lost” — is the durable beginner lesson. Loss screenshots are post-mortems; bankroll planning is the prevention.
 
+The next field note gives the positive version of the same habit. Zen reported a **1 SOL** test that returned about **2 ORE** from solo wins plus motherlode exposure, and FiL's answer was simply that the result was good. The Almanac should use that as a reminder not to flatten every session into “profit/loss.” A clean review tags *where* rewards came from — solo/top-miner wins, split rewards, motherlode, uORE held, fees, and live production cost — before deciding whether the settings were actually repeatable.
+
 Reusable command snippet:
 
 ```text

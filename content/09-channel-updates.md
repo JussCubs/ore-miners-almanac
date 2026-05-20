@@ -1405,3 +1405,19 @@ Captured 2 new messages from 2026-05-20T02:19:28.962000+00:00 through 2026-05-20
 ```
 
 **Sentiment read:** calm, practical, and protective. The channel is turning discouraging math into a survivable plan instead of letting miners confuse variance with failure.
+
+## 2026-05-20 Discord Update — proof points after the variance lesson
+
+Captured 6 new messages from 2026-05-20T06:57:15.922000+00:00 through 2026-05-20T07:33:11.783000+00:00.
+
+**Most active voices:** Zen (2), FiL ⛏️ (1), alancrean (1), RNA(•‿•) (1), Cryo Palmar (1).
+
+**Themes detected:** low-and-slow follow-through, solo + motherlode reward attribution, campfire onboarding.
+
+**Education signal:** right after the channel explained why tiny/full-grid mining needs runway, Zen added a useful field note: a **1 SOL** test produced about **2 ORE** from a mix of solo mining and motherlode exposure. FiL's simple “that's good” matters because it models the correct review habit: tag the reward sources, compare the result to context, and avoid turning one run into a universal rule.
+
+**Storytelling note:** alancrean's “GM legends… another day in the mines” and Cryo Palmar's “super helpful” response are small, but they show Thep's hub doing its job. The education loop is not just formulas; it is veterans translating hard math into language newcomers can reuse without feeling stupid.
+
+**Reusable lesson:** preserve these little field notes beside the formulas. “0.0005 SOL into a 0.3 SOL round is roughly 1/600 weight” teaches patience; “1 SOL returned 2 ORE from solo + motherlode” teaches that rewards need source labels before anyone judges whether the session was skill, variance, or environment.
+
+**Sentiment read:** constructive and communal. The channel is pairing bankroll-first math with miner-camp morale, which is exactly the mix an education/storytelling hub should keep surfacing.
