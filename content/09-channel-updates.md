@@ -1503,3 +1503,23 @@ Captured 6 new messages from 2026-05-20T16:39:14.797000+00:00 through 2026-05-20
 ```
 
 **Sentiment read:** calm, practical, and peer-review oriented. The window was small, but it sharpened the Almanac's core safety language: risky sizing can be a deliberate experiment when watched; unattended mining should be boring by design.
+
+## 2026-05-21 Discord Update — motherlode waiting-room sunk-cost check
+
+Captured 6 new messages from 2026-05-20T20:24:21.273000+00:00 through 2026-05-20T22:57:52.367000+00:00.
+
+**Most active voices:** firebladeXT3 (3), RNA(•‿•) (1), Diggy (1), BREADFAN777⛏️ (1).
+
+**Themes detected:** late-motherlode fatigue, SOL runway anxiety, sunk-cost pressure, and veteran humor.
+
+**Education signal:** firebladeXT3's line — “I've came this far. No point stopping now” — is exactly the emotional trap a big, late motherlode creates. Once a miner has already spent into the chase, the next round can feel owed. Diggy and BREADFAN's replies worked like a campfire warning: everyone recognizes that thought, and that is why it needs a rule before the wallet is tired.
+
+**Strategy insight:** the motherlode waiting room should have a pre-written stop rule. A miner can decide to keep playing if the remaining SOL, production cost, and watch level still match the plan. But “I already spent this much” is not a strategy input. If the only reason to continue is that stopping would make the previous spend feel wasted, the safe move is to shrink, pause, or label the rest as entertainment/risk capital.
+
+**Reusable response added/refined:**
+
+```text
+!sunkcost — “I came this far” is a warning light, not an edge. Before continuing a motherlode chase, check remaining SOL runway, production cost, tile crowding, and whether you are still inside the plan you wrote before the chase. Past spend is gone; only the next round's risk matters.
+```
+
+**Sentiment read:** playful but strained in the useful way. The room was joking through the pain of a delayed ML, which makes this a good storytelling note for Thep: miner culture is funny because everyone knows the feeling, but education should turn that feeling into budget discipline before the next click.

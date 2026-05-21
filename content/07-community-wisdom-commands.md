@@ -829,3 +829,15 @@ He also split settings by supervision mode. Low deploy examples clustered around
 
 !lowband — Community low-deploy examples often sit around 0.00025-0.0005 SOL per block, but the number is not magic. Size from total bankroll, expected rounds, fees, production cost, and whether you will be watching the session.
 ```
+
+---
+
+## Update — 2026-05-21: sunk-cost reset during late motherlodes
+
+A short late-motherlode thread produced one of the most reusable emotional commands. firebladeXT3 said the quiet part that many chasers feel: after spending into the wait, stopping can feel harder than continuing. Diggy and BREADFAN's replies made it clear this is common enough to deserve a canned reset.
+
+The command-bank lesson: validate the feeling, then remove past spend from the next decision. The miner should look at remaining runway, production cost, tile crowding, and pre-written stop rules. If those still support continuing, fine. If the only argument is “I already came this far,” pause or shrink.
+
+```text
+!sunkcost — “I came this far” is a warning light, not an edge. Before continuing a motherlode chase, check remaining SOL runway, production cost, tile crowding, and whether you are still inside the plan you wrote before the chase. Past spend is gone; only the next round's risk matters.
+```

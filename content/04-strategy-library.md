@@ -375,6 +375,20 @@ The May 15 “big motherlode fatigue” thread adds the emotional version of the
 
 Teach the filter this way: **bigger ML means more attention, not automatically better EV.** If a miner is already tired of waiting, their next action should be smaller and more rules-based, not larger and more emotional.
 
+### The “I came this far” stop-rule test
+
+A late May 20 waiting-room exchange turned the emotional side into a reusable rule. firebladeXT3 joked that the motherlode was “edging” him, worried about running out of SOL, then said the dangerous quiet part: **“I've came this far. No point stopping now.”** Diggy and BREADFAN recognized it immediately because every gambler/miner has felt that pull.
+
+Use that phrase as a stop-rule trigger, not as motivation:
+
+- past SOL spend is already gone; it does not make the next round cheaper or more likely to hit;
+- if the remaining wallet cannot survive the miss, shrink or stop before the board makes the decision for you;
+- write the chase budget before the motherlode gets emotionally loud;
+- if continuing is still valid, it should be because current production cost, tile crowding, and remaining runway fit the plan — not because quitting feels embarrassing;
+- if the plan has become “please hit before I run out,” the strategy has already turned into entertainment/risk capital.
+
+This is one of the best campfire lessons for Thep's hub: miners can laugh about the pain, but the Almanac should translate the joke into a wallet-protection habit.
+
 ### Testing motherlode-size filters
 
 Willd's next-test idea gives this section a cleaner research loop: split mining results by motherlode bands, for example **0-75**, **75-150**, **150-250**, and **250+ ORE**, then compare cost basis and reward source by band instead of arguing from memory. Cragglebear's response adds the caution: split rounds may deteriorate above roughly 200 ORE as competition increases, while top-miner outcomes can still look random rather than neatly tied to low-motherlode windows.
