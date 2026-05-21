@@ -1559,3 +1559,29 @@ Captured 15 new messages from 2026-05-21T09:05:07.562000+00:00 through 2026-05-2
 ```
 
 **Sentiment read:** friendly and watch-party-ish. The mood was lighter than the prior late-chase pain, which makes it useful for Thep's education hub: the same motherlode that creates great lore can also create the exact emotional conditions where miners forget their stop rules.
+
+## 2026-05-21 Discord Update — tax-log anxiety while Big Momma waits
+
+Captured 10 new messages from 2026-05-21T12:24:18.637000+00:00 through 2026-05-21T14:15:56.097000+00:00.
+
+**Most active voices:** ΣXTΛSY | Rubypool.io (3), poSIZZLE26 (2), willd (2), Yorter (1), RNA(•‿•) (1), starship_fronk⛏️ (1).
+
+**Themes detected:** mining tax/recordkeeping anxiety, pool-support routing, 400+ ORE motherlode watch, and playlist/lore mode.
+
+**Miner story:** poSIZZLE26 gave the channel a useful non-strategy newcomer question: after accumulating and staking spot ORE, they wanted to start mining from a fresh wallet but worried that US tax reporting could become a mess once the wallet has thousands of automated transactions. Yorter routed them toward a community member who understands that lane, and ΣXTΛSY pointed them toward Rubypool support / landing-page materials as a possible operational path to evaluate.
+
+**Education signal:** the Almanac should treat tax/logging as part of mining setup, not an afterthought. This is not legal or tax advice, but miners can still be taught the practical checklist before they turn on the machine: separate the mining wallet from long-term holdings, preserve exports/API history, track deposits/top-ups/claims/fees, and know when to ask a qualified crypto tax professional. The boring paperwork plan belongs next to bankroll and stop-rule planning.
+
+**Strategy insight:** pools and third-party products can be useful if they reduce operational friction, but the education hub should keep the due-diligence tone. Ask what records the product provides, how deposits/rewards/fees are represented, whether any pool token needs separate accounting, and where support questions should go. “Easier” still needs verifiable logs.
+
+**Lore note:** while the practical tax thread happened, Big Momma pushed over 400 ORE. ΣXTΛSY joked, **“Oh lord, can it hit already, we are trying to mine in peace,”** willd marked **420**, and starship_fronk pulled out the ORE playlist. That contrast is useful storytelling: mining culture flips between paperwork, risk management, and campfire music in the same hour.
+
+**Reusable responses added:**
+
+```text
+!taxlog — Not tax advice: before high-frequency mining, decide how you will keep records. Use a separate mining wallet, save wallet/export history, track deposits/top-ups/claims/fees, and talk to a qualified crypto tax pro if you are unsure. Do the boring paperwork plan before thousands of tiny txns pile up.
+
+!pooltax — If a pool says it simplifies mining operations or reporting, verify exactly what records you get: deposits, withdrawals, pool-token accounting, rewards, fees, and timestamps. Convenience is useful, but it does not replace your own tax-log plan.
+```
+
+**Sentiment read:** calm and practical with a watch-party undertone. The room was still staring at a huge motherlode, but the most educational moment was a miner slowing down to ask, “what will this look like on my records?” That is exactly the kind of responsible onboarding Thep's hub should preserve.

@@ -847,3 +847,17 @@ The command-bank lesson: validate the feeling, then remove past spend from the n
 
 !mlrecord — Historic motherlodes make great lore, but records are not a sizing signal. Remember the campfire number; do not chase it without a budget, stop rule, and enough SOL runway to survive a miss.
 ```
+
+---
+
+## Update — 2026-05-21: tax-log anxiety and pool-routing questions
+
+poSIZZLE26 brought a different kind of mining risk into the room: not tile variance, but operational recordkeeping. After buying and staking spot ORE, they wanted to start mining from a new wallet but worried that a US tax filer could quickly create thousands of transactions. Yorter pointed them toward a tax-aware community member, and ΣXTΛSY steered the conversation toward Rubypool's support / landing-page materials.
+
+The command-bank lesson is deliberately not tax advice. It is an onboarding safety rule: before a miner turns on a high-frequency strategy, they should know how they will export wallet history, separate mining wallets from long-term holding wallets, preserve CSV/API records, and ask a qualified crypto tax professional if they are unsure. If a pool or product claims to simplify reporting, treat that as a due-diligence item to verify before depositing.
+
+```text
+!taxlog — Not tax advice: before high-frequency mining, decide how you will keep records. Use a separate mining wallet, save wallet/export history, track deposits/top-ups/claims/fees, and talk to a qualified crypto tax pro if you are unsure. Do the boring paperwork plan before thousands of tiny txns pile up.
+
+!pooltax — If a pool says it simplifies mining operations or reporting, verify exactly what records you get: deposits, withdrawals, pool-token accounting, rewards, fees, and timestamps. Convenience is useful, but it does not replace your own tax-log plan.
+```
