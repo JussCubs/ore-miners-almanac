@@ -389,6 +389,8 @@ Use that phrase as a stop-rule trigger, not as motivation:
 
 This is one of the best campfire lessons for Thep's hub: miners can laugh about the pain, but the Almanac should translate the joke into a wallet-protection habit.
 
+The next-morning follow-up matters too. When the same chase becomes “not looking good” and the room answers with a sympathetic “F,” treat that as the review prompt: log what the original budget was, where the stop rule should have fired, how much runway remained, and whether the next chase needs a smaller size or a hard no-mining window.
+
 ### Testing motherlode-size filters
 
 Willd's next-test idea gives this section a cleaner research loop: split mining results by motherlode bands, for example **0-75**, **75-150**, **150-250**, and **250+ ORE**, then compare cost basis and reward source by band instead of arguing from memory. Cragglebear's response adds the caution: split rounds may deteriorate above roughly 200 ORE as competition increases, while top-miner outcomes can still look random rather than neatly tied to low-motherlode windows.

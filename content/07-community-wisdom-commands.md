@@ -840,4 +840,6 @@ The command-bank lesson: validate the feeling, then remove past spend from the n
 
 ```text
 !sunkcost — “I came this far” is a warning light, not an edge. Before continuing a motherlode chase, check remaining SOL runway, production cost, tile crowding, and whether you are still inside the plan you wrote before the chase. Past spend is gone; only the next round's risk matters.
+
+!postchase — If the morning-after result is “not looking good,” do the review before the next chase: original budget, actual SOL spent, stop-rule moment, remaining runway, and one setting you will shrink or pause next time.
 ```

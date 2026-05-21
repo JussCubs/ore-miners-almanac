@@ -1523,3 +1523,15 @@ Captured 6 new messages from 2026-05-20T20:24:21.273000+00:00 through 2026-05-20
 ```
 
 **Sentiment read:** playful but strained in the useful way. The room was joking through the pain of a delayed ML, which makes this a good storytelling note for Thep: miner culture is funny because everyone knows the feeling, but education should turn that feeling into budget discipline before the next click.
+
+## 2026-05-21 Discord Update — the morning-after chase check
+
+Captured 2 new messages from 2026-05-21T07:18:50.636000+00:00 through 2026-05-21T07:35:56.923000+00:00.
+
+**Most active voices:** firebladeXT3 (1), Yorter (1).
+
+**Miner story:** the late-motherlode chase from the prior update carried into the morning. firebladeXT3 followed the “I'll be out of SOL” / “I've came this far” tension with a simple **“Gm. Not looking good for me lol,”** and Yorter answered with the community shorthand **“F.”** It is small, but useful: the morning after an emotional chase is when the lesson becomes obvious.
+
+**Education signal:** add a post-chase review step to the sunk-cost lesson. If a miner wakes up to “not looking good,” the Almanac should not only say “you should have stopped earlier.” It should teach them to write down the pre-chase budget, actual SOL spent, whether the stop rule fired, and what they will change before the next big motherlode. That turns a rough session into a reusable rule instead of just another campfire obituary.
+
+**Sentiment read:** sympathetic and rueful. The room knows this pain well enough to meme it, which is exactly why the education hub should pair the humor with wallet-protection habits.
