@@ -391,6 +391,16 @@ This is one of the best campfire lessons for Thep's hub: miners can laugh about 
 
 The next-morning follow-up matters too. When the same chase becomes “not looking good” and the room answers with a sympathetic “F,” treat that as the review prompt: log what the original budget was, where the stop rule should have fired, how much runway remained, and whether the next chase needs a smaller size or a hard no-mining window.
 
+The later morning reset added a calmer veteran phrase: **“Just pace yourself and be aware of the ML.”** That is the friendlier version of the same rule. Awareness does not mean staring at the jackpot until it talks you into one more oversized round. It means noticing when the motherlode is changing the room — more popcorn, more jokes about record dry spells, more people asking how high the ML has ever gone — and deliberately slowing the next decision down.
+
+Teach “pace yourself” as a three-part checkpoint:
+
+- know the current motherlode, but do not let the headline number set your budget;
+- when the room starts watching history happen, reduce emotional sizing rather than increasing it;
+- if you join during a possible dry-spell / record-watch moment, write the exit before the first block.
+
+The lore question itself is useful for storytelling. A “777” motherlode record answer gives the Almanac campfire texture, but the education hook is sharper: historic numbers are fun to remember and dangerous to chase without a runway.
+
 ### Testing motherlode-size filters
 
 Willd's next-test idea gives this section a cleaner research loop: split mining results by motherlode bands, for example **0-75**, **75-150**, **150-250**, and **250+ ORE**, then compare cost basis and reward source by band instead of arguing from memory. Cragglebear's response adds the caution: split rounds may deteriorate above roughly 200 ORE as competition increases, while top-miner outcomes can still look random rather than neatly tied to low-motherlode windows.

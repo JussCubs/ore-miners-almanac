@@ -1535,3 +1535,27 @@ Captured 2 new messages from 2026-05-21T07:18:50.636000+00:00 through 2026-05-21
 **Education signal:** add a post-chase review step to the sunk-cost lesson. If a miner wakes up to “not looking good,” the Almanac should not only say “you should have stopped earlier.” It should teach them to write down the pre-chase budget, actual SOL spent, whether the stop rule fired, and what they will change before the next big motherlode. That turns a rough session into a reusable rule instead of just another campfire obituary.
 
 **Sentiment read:** sympathetic and rueful. The room knows this pain well enough to meme it, which is exactly why the education hub should pair the humor with wallet-protection habits.
+
+## 2026-05-21 Discord Update — pacing the record-watch room
+
+Captured 15 new messages from 2026-05-21T09:05:07.562000+00:00 through 2026-05-21T11:43:32.740000+00:00.
+
+**Most active voices:** ΣXTΛSY | Rubypool.io (4), Cryo Palmar (4), Diggy (3), CaydinRIOT (1), deflation (1), RNA(•‿•) (1), alancrean (1).
+
+**Themes detected:** motherlode pacing, record lore, dry-spell humor, and the morning campfire reset.
+
+**Miner story:** after the earlier “I came this far” chase pain, the channel moved into the familiar record-watch mood. ΣXTΛSY gave the clean veteran line — **“Just pace yourself and be aware of the ML.”** Cryo asked for the all-time highest motherlode, Diggy answered **777**, and then Cryo joked about joining right before the protocol's longest dry spell while ΣXTΛSY grabbed popcorn.
+
+**Education signal:** this is the other side of the sunk-cost lesson. A giant or historically interesting motherlode can turn the room into spectators, and spectatorship can quietly become sizing pressure. “Be aware of the ML” should mean watch how the board is changing miner behavior — production cost, crowding, chatter, and your own urge to chase — not simply “the pot is big, deploy more.”
+
+**Strategy insight:** record lore belongs in the storytelling hub, but it should be paired with a runway rule. If a miner enters during a possible dry-spell / record-watch moment, they should write the exit before the first block: max SOL for the attempt, maximum production cost they will tolerate, and whether this is disciplined mining or entertainment risk capital.
+
+**Reusable responses added/refined:**
+
+```text
+!pace — “Be aware of the ML” means watch how the jackpot changes behavior, not just the displayed ORE number. If the room starts treating the round like history, slow down: check runway, production cost, crowding, and your written exit before sizing up.
+
+!mlrecord — Historic motherlodes make great lore, but records are not a sizing signal. Remember the campfire number; do not chase it without a budget, stop rule, and enough SOL runway to survive a miss.
+```
+
+**Sentiment read:** friendly and watch-party-ish. The mood was lighter than the prior late-chase pain, which makes it useful for Thep's education hub: the same motherlode that creates great lore can also create the exact emotional conditions where miners forget their stop rules.

@@ -842,4 +842,8 @@ The command-bank lesson: validate the feeling, then remove past spend from the n
 !sunkcost — “I came this far” is a warning light, not an edge. Before continuing a motherlode chase, check remaining SOL runway, production cost, tile crowding, and whether you are still inside the plan you wrote before the chase. Past spend is gone; only the next round's risk matters.
 
 !postchase — If the morning-after result is “not looking good,” do the review before the next chase: original budget, actual SOL spent, stop-rule moment, remaining runway, and one setting you will shrink or pause next time.
+
+!pace — “Be aware of the ML” means watch how the jackpot changes behavior, not just the displayed ORE number. If the room starts treating the round like history, slow down: check runway, production cost, crowding, and your written exit before sizing up.
+
+!mlrecord — Historic motherlodes make great lore, but records are not a sizing signal. Remember the campfire number; do not chase it without a budget, stop rule, and enough SOL runway to survive a miss.
 ```
