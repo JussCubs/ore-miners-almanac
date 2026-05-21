@@ -1585,3 +1585,29 @@ Captured 10 new messages from 2026-05-21T12:24:18.637000+00:00 through 2026-05-2
 ```
 
 **Sentiment read:** calm and practical with a watch-party undertone. The room was still staring at a huge motherlode, but the most educational moment was a miner slowing down to ask, “what will this look like on my records?” That is exactly the kind of responsible onboarding Thep's hub should preserve.
+
+## 2026-05-21 Discord Update — first-of-many posts, verification pings, and post-ML chase energy
+
+Captured 17 new messages from 2026-05-21T16:29:07.778000+00:00 through 2026-05-21T19:55:08.474000+00:00.
+
+**Most active voices:** XELF (5), deflation (5), KRM (2), Brian (2), RNA(•‿•) (1), traumi (1), OreBro (1).
+
+**Themes detected:** public miner milestones, mining-site Discord verification, post-motherlode quiet hours, and renewed chase energy.
+
+**Miner story:** XELF posted an external public milestone link and called it the **“First of many.”** That is worth keeping as a breadcrumb rather than expanding into strategy: not every public win needs a settings lesson, but milestone posts help future readers understand why people keep telling their mining stories out loud.
+
+**Operational note:** KRM's “website down?” ping resolved into a simple support path: verify Discord on the mining site. That belongs in the Almanac because a lot of beginner confusion starts as “is the site broken?” when the first step is account/linkage hygiene. Pair the answer with the same safety rule used elsewhere: public channel, official link, tiny test, no random DM fixes.
+
+**Lore note:** traumi's high-reaction line captured the room's post-ML psychology: after the motherlode, a disciplined miner may want to log off and enjoy the quiet hours, but a hot streak can also pull them back into the next chase. Keep the humor, but teach the rule underneath it: quiet hours are where miners review the session, rebuild SOL runway, and decide whether the next run is mining discipline or entertainment risk.
+
+**Reusable responses added/refined:**
+
+```text
+!verifydiscord — If the mining site or channel flow looks broken, first check whether your Discord is verified on the mining site, then refresh/retry from the official link. Ask in the public channel before connecting a new link or assuming the product is down.
+
+!postmlquiet — After a motherlode, quiet hours are useful. Review the session, rebuild SOL runway, and decide whether the next run is disciplined mining or entertainment risk. A hot streak can be fun; it should not erase the stop rule.
+```
+
+**Public breadcrumb:** https://x.com/immortalxelf/status/2057504887995302249
+
+**Sentiment read:** quick-support practical with campfire energy. The useful education moment was not a new optimal setting; it was turning a site-verification ping and a funny post-ML vow into reusable onboarding: check the simple operational step first, then protect the quiet hours that keep miners from rolling every emotional high into the next oversized chase.

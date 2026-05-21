@@ -861,3 +861,17 @@ The command-bank lesson is deliberately not tax advice. It is an onboarding safe
 
 !pooltax — If a pool says it simplifies mining operations or reporting, verify exactly what records you get: deposits, withdrawals, pool-token accounting, rewards, fees, and timestamps. Convenience is useful, but it does not replace your own tax-log plan.
 ```
+
+---
+
+## Update — 2026-05-21: verification pings and post-ML quiet discipline
+
+This slice was mostly support routing and lore, but it produced two useful reusable answers. When a miner asked whether the website was down, the quick answer from the room was to verify Discord on the mining site before assuming the product was broken. Keep that in the command bank because support questions often hide simple account/linkage steps.
+
+The second lesson came from traumi's highly reacted post-ML chase line: normally they would log off after seeing scary stats and enjoy quiet hours, but a hot streak had them ready to keep hunting the next big hit. That is great mining culture, and also exactly where education should add a brake: post-motherlode quiet time is not laziness; it is bankroll recovery and decision hygiene.
+
+```text
+!verifydiscord — If the mining site or channel flow looks broken, first check whether your Discord is verified on the mining site, then refresh/retry from the official link. Ask in the public channel before connecting a new link or assuming the product is down.
+
+!postmlquiet — After a motherlode, quiet hours are useful. Review the session, rebuild SOL runway, and decide whether the next run is disciplined mining or entertainment risk. A hot streak can be fun; it should not erase the stop rule.
+```

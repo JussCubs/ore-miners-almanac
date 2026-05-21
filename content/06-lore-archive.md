@@ -72,6 +72,12 @@ That playlist belongs in the lore archive because it captures the human side of 
 
 Playlist: https://suno.com/playlist/672f2e39-ffcb-425b-952a-12321bac7066
 
+## Quiet hours after a motherlode
+
+The post-motherlode window has its own folklore. Some miners treat the hours after a big hit as recovery time: log off, let the board calm down, and enjoy the silence after the watch party. Others feel the opposite pull, especially after a hot streak, and start talking about tracking down the next big hit at any cost.
+
+That tension is useful lore because it explains why the strategy library talks so much about stop rules. The jokes are funny because the feeling is real. The education hook is simple: quiet hours are part of mining discipline, not dead time. They are when miners review the last chase, rebuild runway, and decide whether the next run still matches the plan.
+
 ## The ORE narrative
 
 Community members repeatedly describe ORE as:
