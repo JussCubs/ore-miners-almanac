@@ -1655,3 +1655,23 @@ Captured 2 new messages from 2026-05-22T01:34:43.655000+00:00 through 2026-05-22
 ```
 
 **Sentiment read:** playful, self-aware, and increasingly ritualized. The hub should preserve the meme as campfire texture while making the wallet brake louder than the copy-paste conviction.
+
+## 2026-05-22 Discord Update — shirt-off-your-back escalation
+
+Captured 2 new messages from 2026-05-22T05:26:11.284000+00:00 through 2026-05-22T05:36:25.330000+00:00.
+
+**Most active voices:** FiL ⛏️ (1), SOLmurai (1).
+
+**Themes detected:** post-ML chase meme, copycat conviction, and escalation hygiene.
+
+**Miner story:** FiL ⛏️ and SOLmurai repeated the quiet-hours chase meme with a sharper ending: the miner is so committed to hunting the motherlode that they might mine the shirt off their own back. This is still campfire humor, but it is also the cleanest version of the lesson so far. The joke names the moment where a miner knows the chase can outgrow the wallet.
+
+**Education signal:** keep the phrase as lore, not as permission. When the room starts remixing “at any cost” into even bigger escalation language, the useful teaching move is to make the next action smaller: cap the session, re-check production cost and tile crowding, and define the stop condition before another deploy.
+
+**Reusable response added/refined:**
+
+```text
+!shirtcheck — If the chase joke turns into “shirt off my back” energy, shrink the next decision. Set a hard SOL cap, check production cost and crowding, and name the stop condition before mining again. Lore is fun; escalation still needs a brake.
+```
+
+**Sentiment read:** playful and self-aware, but with more explicit bankroll-risk language than the earlier repeats. The hub should preserve the line as a story marker while using it to teach escalation discipline.

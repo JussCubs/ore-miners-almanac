@@ -901,3 +901,15 @@ Keep the command short enough for live channel use:
 ```text
 !hotstreak — Feeling “on a roll” is not edge. Before increasing deploy after ML chatter, write the next-session cap, check production cost and tile crowding, and decide whether this is entertainment or a logged strategy test. If “at any cost” is the thesis, pause.
 ```
+
+---
+
+## Update — 2026-05-22: shirt-off-your-back escalation
+
+FiL ⛏️ and SOLmurai kept the quiet-hours chase meme alive with the new “mining the shirt off my own back” ending. That phrasing is useful because it makes the risk visible: the joke is funny precisely because the miner knows the chase can outgrow the wallet.
+
+The command-bank lesson is escalation hygiene. If the room starts remixing the same “at any cost” vow, answer with a smaller next action instead of a bigger deploy: set a hard session cap, check whether production cost has drifted, and decide what condition makes the miner stop before the shirt joke becomes the plan.
+
+```text
+!shirtcheck — If the chase joke turns into “shirt off my back” energy, shrink the next decision. Set a hard SOL cap, check production cost and crowding, and name the stop condition before mining again. Lore is fun; escalation still needs a brake.
+```
