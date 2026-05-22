@@ -1699,3 +1699,33 @@ Yorter added the useful skeptic's line: the first one can feel free. That belong
 ```
 
 **Sentiment read:** reflective and self-aware. The room is still pro-mining and bullish on the long-term ORE story, but the best current education is post-mortem literacy: keep the lore, then translate it into session logs, dilution checks, and stop rules.
+
+## 2026-05-22 Discord Update — tracking stats and hardhat lore
+
+Captured 10 new messages from 2026-05-22T12:08:41.177000+00:00 through 2026-05-22T13:22:57.869000+00:00.
+
+**Most active voices:** traumi (3), Cragglebear (3), XELF (2), RNA(•‿•) (1), deflation (1).
+
+**Themes detected:** rising production cost, motherlode backtesting, public vs. private stats tools, and hardhat miner lore.
+
+**Miner story:** XELF opened the useful morning read: production cost keeps rising and motherlodes are taking a lot to hit. RNA answered with the exact variance reminder the hub should preserve — a slow stretch can still flip into a day with multiple ML hits. The mood was not panic; it was miners trying to name the current board correctly before acting on it.
+
+**Strategy signal:** traumi asked where to find the stats behind a recent insight, and Cragglebear clarified that part of the deeper work is from his own testing dashboard and an all-motherlode backtest he has summarized publicly but not yet turned into a full article. That is useful for the Almanac because it separates three layers:
+
+- public live-condition checks like ore.fyi;
+- personal round-history tools like ore-stats;
+- custom veteran backtests that should be treated as research notes until the method, sample, and assumptions are understood.
+
+Cragglebear also offered to test specific questions because he is mining most of the time. That is a strong community-education pattern: instead of hiding strategy, veteran miners are turning live sessions into shared experiments.
+
+**Reusable responses added/refined:**
+
+```text
+!statstack — Use public tools for the job they are good at: ore.fyi for live production-cost context, ore-stats for your own mining-round history, hawg.win for past-round review, and your own notes for thesis/stop-rule context. A screenshot or X thread is a clue, not your logbook.
+
+!backtestask — If a veteran references a private backtest or custom dashboard, ask what question it answered: motherlode band, tile count, deploy size, crowding, production cost, reward source, and sample size. Do not copy the conclusion until your own wallet, timeframe, and runway match the test.
+```
+
+**Lore note:** deflation's “remember the hardhat” line earned the strongest reaction in this slice. Keep that as the mineshaft's safety symbol: the hardhat is funny, but it also points back to the serious habit underneath — check the board, protect the wallet, and do not enter a hot ML chase bareheaded.
+
+**Sentiment read:** practical and warmly collaborative. The channel is still bullish and playful, but the best education from this slice is tooling literacy: know which dashboard answers which question, and do not mistake someone else's backtest for your own decision rule.

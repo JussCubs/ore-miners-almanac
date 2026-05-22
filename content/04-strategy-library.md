@@ -417,6 +417,8 @@ The lore question itself is useful for storytelling. A “777” motherlode reco
 
 Willd's next-test idea gives this section a cleaner research loop: split mining results by motherlode bands, for example **0-75**, **75-150**, **150-250**, and **250+ ORE**, then compare cost basis and reward source by band instead of arguing from memory. Cragglebear's response adds the caution: split rounds may deteriorate above roughly 200 ORE as competition increases, while top-miner outcomes can still look random rather than neatly tied to low-motherlode windows.
 
+A May 22 follow-up sharpened the tooling layer around that idea. Cragglebear said his deeper motherlode read comes from his own test tracker and a full all-motherlode backtest he has summarized publicly, while ore-stats is still the best public tool for miners checking their own round history. Teach that distinction clearly: use public tools to verify personal sessions, use veteran backtests to frame better questions, and do not treat a private dashboard summary as a copy-paste strategy.
+
 Use this as an experiment design, not a shortcut:
 
 - tag each session with the motherlode band at entry;
@@ -424,6 +426,7 @@ Use this as an experiment design, not a shortcut:
 - record total deployed SOL and production cost, not only ORE won;
 - expect high-motherlode bands to attract more hunters and dilute clean split-round economics;
 - do not assume low motherlode automatically means top-miner edge — fewer chasers can help, but randomness still matters;
+- write down whether the source was ore-stats, ore.fyi, hawg.win, a private tracker, or a manual session log;
 - only turn a band into a filter after many logged sessions.
 
 The useful story for Thep's education hub: “ML filters” are a way to ask better questions. They are not a replacement for bankroll limits, tile discipline, and live cost checks.

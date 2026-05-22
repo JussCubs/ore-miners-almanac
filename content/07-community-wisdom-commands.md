@@ -927,3 +927,17 @@ Yorter's “first one is free” pushback is worth keeping in the command bank t
 
 !sessionflip — A motherlode chase can flip mid-session when new miners and higher deploys crowd the board. If top-miner hits dry up or production cost jumps after the halfway point, reassess from current conditions. Past spend is gone; stop before “round data” turns into a dying-cause chase.
 ```
+
+---
+
+## Update — 2026-05-22: stats links vs. personal backtests
+
+traumi asked the question a lot of miners eventually ask after a strong data read: where is the stats link? Cragglebear clarified the important difference. Some of the deeper motherlode analysis is coming from his own test tracking and all-ML backtest work, while **ore-stats** remains the best public starting point for a miner who wants to track their own rounds.
+
+That distinction belongs in the command bank because it prevents a common onboarding confusion. Public tools are for checking personal history and production context. A veteran's private dashboard, X thread, or backtest summary is evidence to study and ask about, not a magic URL that replaces logging.
+
+```text
+!statstack — Use public tools for the job they are good at: ore.fyi for live production-cost context, ore-stats for your own mining-round history, hawg.win for past-round review, and your own notes for thesis/stop-rule context. A screenshot or X thread is a clue, not your logbook.
+
+!backtestask — If a veteran references a private backtest or custom dashboard, ask what question it answered: motherlode band, tile count, deploy size, crowding, production cost, reward source, and sample size. Do not copy the conclusion until your own wallet, timeframe, and runway match the test.
+```
