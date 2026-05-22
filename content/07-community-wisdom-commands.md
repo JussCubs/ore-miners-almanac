@@ -875,3 +875,17 @@ The second lesson came from traumi's highly reacted post-ML chase line: normally
 
 !postmlquiet — After a motherlode, quiet hours are useful. Review the session, rebuild SOL runway, and decide whether the next run is disciplined mining or entertainment risk. A hot streak can be fun; it should not erase the stop rule.
 ```
+
+---
+
+## Update — 2026-05-22: meme echoes after ML hit chatter
+
+The channel turned the earlier post-ML chase line into a shared bit. Several miners repeated or remixed the same “normally I would log off after ML quiet hours, but now I am chasing at any cost” structure, while the room also tossed around jinx and hit reactions.
+
+The command-bank lesson is social-proof hygiene. A meme can preserve the mood of the channel without becoming permission to mirror the risk. When everyone repeats the same chase language, the miner's job is to laugh, then reset the decision from bankroll, production cost, and stop rules.
+
+```text
+!memecheck — If the channel turns a chase line into a meme, enjoy the lore but do not copy the risk. Repeated “at any cost” energy is social proof, not edge. Re-check budget, production cost, and stop rule before sizing up.
+
+!jinx — Jinx and hit chatter is part of the campfire, not a signal. After an ML or near-miss, reset from your written plan: what changed on-chain, what changed in your bankroll, and whether the next round is still worth the spend.
+```

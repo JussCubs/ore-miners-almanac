@@ -1611,3 +1611,27 @@ Captured 17 new messages from 2026-05-21T16:29:07.778000+00:00 through 2026-05-2
 **Public breadcrumb:** https://x.com/immortalxelf/status/2057504887995302249
 
 **Sentiment read:** quick-support practical with campfire energy. The useful education moment was not a new optimal setting; it was turning a site-verification ping and a funny post-ML vow into reusable onboarding: check the simple operational step first, then protect the quiet hours that keep miners from rolling every emotional high into the next oversized chase.
+
+## 2026-05-22 Discord Update — jinx chatter and the post-ML meme echo
+
+Captured 10 new messages from 2026-05-21T20:16:26.654000+00:00 through 2026-05-21T22:49:15.967000+00:00.
+
+**Most active voices:** Xenos, firebladeXT3, Ni | triad, Cragglebear, Diggy, starship_fronk, alancrean, nftimm, Madhatt3r, and OREillions each added one message.
+
+**Themes detected:** motherlode hit/jinx chatter, post-ML quiet-hour discipline, copycat meme culture, and social-proof risk.
+
+**Miner story:** the first half of this slice was tiny but useful room tone: “why,” “Bro jinxed it,” “Ml hit nice,” and “I wish it had.” Then the channel picked up the earlier post-ML chase line and turned it into a copy-paste meme. Diggy, starship_fronk, alancrean, nftimm, Madhatt3r, and OREillions all riffed on the same shape: normally a miner would log off and enjoy quiet hours after an ML, but a hot streak makes them want to hunt the next motherlode “at any cost.”
+
+**Education signal:** this is exactly the kind of culture Thep's hub should preserve without flattening into a raw transcript. The funny part is the shared language; the teachable part is that “at any cost” is not a strategy. When a risk confession becomes a meme, it can become social permission to chase. The Almanac should treat copycat conviction as a warning light, not a sizing signal.
+
+**Strategy insight:** post-ML quiet hours are where miners separate entertainment from process. If the room is laughing about jinxes, near-hits, or “one more chase,” write the next-session budget before re-entering: max SOL, stop point, production-cost ceiling, and whether this is disciplined mining or just paying for the campfire.
+
+**Reusable responses added/refined:**
+
+```text
+!memecheck — If the channel turns a chase line into a meme, enjoy the lore but do not copy the risk. Repeated “at any cost” energy is social proof, not edge. Re-check budget, production cost, and stop rule before sizing up.
+
+!jinx — Jinx and hit chatter is part of the campfire, not a signal. After an ML or near-miss, reset from your written plan: what changed on-chain, what changed in your bankroll, and whether the next round is still worth the spend.
+```
+
+**Sentiment read:** playful and self-aware. The useful update is not a new setting; it is a reminder that mining culture can make risk feel communal and funny. The hub should keep the humor while making the brake obvious.
