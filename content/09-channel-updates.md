@@ -1729,3 +1729,29 @@ Cragglebear also offered to test specific questions because he is mining most of
 **Lore note:** deflation's “remember the hardhat” line earned the strongest reaction in this slice. Keep that as the mineshaft's safety symbol: the hardhat is funny, but it also points back to the serious habit underneath — check the board, protect the wallet, and do not enter a hot ML chase bareheaded.
 
 **Sentiment read:** practical and warmly collaborative. The channel is still bullish and playful, but the best education from this slice is tooling literacy: know which dashboard answers which question, and do not mistake someone else's backtest for your own decision rule.
+
+## 2026-05-22 Discord Update — 13-tile ramp discipline and price-memory lore
+
+Captured 9 new messages from 2026-05-22T17:02:48.205000+00:00 through 2026-05-22T18:44:38.138000+00:00.
+
+**Most active voices:** Scrunch (3), BREADFAN777⛏️ (2), Madhatt3r (2), Cragglebear (1), Zinn (1).
+
+**Themes detected:** partial-grid sizing, starting small before ramping, ORE price memory, deleted-image lore, and “yearned for the mines” meme texture.
+
+**Miner story:** BREADFAN777⛏️ reported several good recent sessions using the Cragglebear 13-tile approach around **0.05-0.15 SOL per round**. Cragglebear's reply gave the important guardrail: **0.05 SOL** is a sane starting point because it is not catastrophic if the run fails, while still leaving enough size to matter if conditions develop well.
+
+**Strategy signal:** the lesson is not “13 tiles is the new beginner default.” It belongs in the watched-risk lane. Start at the low end, see whether the board actually supports the thesis, then ramp only if a solid run is already forming. BREADFAN777⛏️ added the line worth preserving: going hard straight away has been unkind enough times. That is the partial-grid version of the Almanac's core rule: buy information first, size conviction second.
+
+**Lore note:** Scrunch's deleted-image thread pointed back to an older ORE-price moment, noting that ORE was much higher when the image was made. Zinn answered with the “yearned for the mines” meme. Keep this as price-memory lore: old screenshots and memes are useful culture, but current strategy still has to be judged on today's production cost, ORE price, crowding, and SOL runway.
+
+**Reusable responses added/refined:**
+
+```text
+!thirteen — A 13-tile setup is watched-risk, not a beginner default. Start small enough to survive misses, log why those tiles were selected, and treat early green rounds as data before scaling. If you cannot monitor the run, go back toward broader coverage and lower size.
+
+!rampcheck — Do not open a session at max conviction. Start at the low end, confirm live production cost/crowding/top-miner texture, then ramp only if the run is proving the thesis. Going hard straight away turns a test into a bankroll bet.
+
+!pricecontext — Old ORE screenshots and memes are lore, not current edge. Re-check today's ORE price, SOL price, production cost, miner crowding, and runway before copying an old setup.
+```
+
+**Sentiment read:** practical and lore-heavy. The channel is still playful, but the useful education is disciplined escalation: start partial-grid experiments small, let live conditions justify every ramp, and separate old price nostalgia from today's board.

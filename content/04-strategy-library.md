@@ -121,6 +121,20 @@ Use this framing when preserving the lesson:
 - test with tiny size first and log the session separately;
 - if you cannot explain the EV filter in one sentence, use the low-and-slow 25-tile beginner path instead.
 
+### Cragglebear 13-tile ramp tests
+
+BREADFAN777's later field note added a useful watched-risk example: a **13-tile** setup around **0.05-0.15 SOL per round** can produce good sessions when the board cooperates, but it should be sized like a test before it is sized like conviction. Cragglebear framed **0.05 SOL per round** as a practical start point: not too painful if the setup fails, but still meaningful if the run develops.
+
+Use this as an escalation rule, not a beginner recipe:
+
+- start at the low end before ramping;
+- watch production cost, tile crowding, top-miner texture, and return quality;
+- ramp only after live conditions support the thesis;
+- write the stop rule before the run starts;
+- if the miner cannot actively monitor it, return to broader coverage and lower size.
+
+The durable lesson is BREADFAN777's operating discipline: going hard straight away has been unkind enough times. Partial-grid mining should buy information first and only then buy more exposure.
+
 ### Big-gambler tailwinds
 
 Deflation's win note — “thanks to the one that gambled that big” — is worth preserving as attribution discipline. Sometimes a miner benefits because a larger entrant changes the payout texture of the round, not because the smaller miner discovered a repeatable edge.

@@ -214,6 +214,24 @@ Positive-EV window reminder: good live conditions can let returned SOL extend a 
 
 > Green EV does not mean free money. It means the board currently looks favorable enough to mine with a plan: know why the filter fired, keep size disciplined, let returned SOL extend runway cautiously, and stop when production cost, crowding, or failures flip the setup.
 
+### !thirteen
+
+Cragglebear 13-tile / watched-risk reminder for miners testing narrower coverage.
+
+> A 13-tile setup is watched-risk, not a beginner default. Start small enough to survive misses, log why those tiles were selected, and treat early green rounds as data before scaling. If you cannot monitor the run, go back toward broader coverage and lower size.
+
+### !rampcheck
+
+Escalation discipline before increasing size mid-session.
+
+> Do not open a session at max conviction. Start at the low end, confirm live production cost/crowding/top-miner texture, then ramp only if the run is proving the thesis. Going hard straight away turns a test into a bankroll bet.
+
+### !pricecontext
+
+Old screenshot and ORE-price-memory context for lore-heavy threads.
+
+> Old ORE screenshots and memes are lore, not current edge. Re-check today's ORE price, SOL price, production cost, miner crowding, and runway before copying an old setup.
+
 ### !stakeormine
 
 Stake-or-mine answer for miners tempted to sell staked ORE after a green mining run.
