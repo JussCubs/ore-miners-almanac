@@ -889,3 +889,15 @@ The command-bank lesson is social-proof hygiene. A meme can preserve the mood of
 
 !jinx — Jinx and hit chatter is part of the campfire, not a signal. After an ML or near-miss, reset from your written plan: what changed on-chain, what changed in your bankroll, and whether the next round is still worth the spend.
 ```
+
+---
+
+## Update — 2026-05-22: hot-streak meme echo
+
+Two more miners repeated the post-ML quiet-hours line almost verbatim. The useful command-bank update is that the repeated joke now has two warning lights: social proof and hot-streak language. “On a roll” can be fun room lore, but it should not become the reason a miner increases deploy or ignores a written stop rule.
+
+Keep the command short enough for live channel use:
+
+```text
+!hotstreak — Feeling “on a roll” is not edge. Before increasing deploy after ML chatter, write the next-session cap, check production cost and tile crowding, and decide whether this is entertainment or a logged strategy test. If “at any cost” is the thesis, pause.
+```

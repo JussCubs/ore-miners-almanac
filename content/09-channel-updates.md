@@ -1635,3 +1635,23 @@ Captured 10 new messages from 2026-05-21T20:16:26.654000+00:00 through 2026-05-2
 ```
 
 **Sentiment read:** playful and self-aware. The useful update is not a new setting; it is a reminder that mining culture can make risk feel communal and funny. The hub should keep the humor while making the brake obvious.
+
+## 2026-05-22 Discord Update — hot-streak meme echo
+
+Captured 2 new messages from 2026-05-22T01:34:43.655000+00:00 through 2026-05-22T01:52:00.110000+00:00.
+
+**Most active voices:** suckytrader (1), ΣXTΛSY | Rubypool.io (1).
+
+**Themes detected:** post-ML chase meme, hot-streak language, social-proof risk.
+
+**Miner story:** suckytrader and ΣXTΛSY both repeated the same quiet-hours-into-chase line, keeping the “track down the ML at any cost” bit alive. This is now less about one miner's plan and more about shared room language after a motherlode.
+
+**Education signal:** exact copy-paste repetition is useful lore, but it is not worth preserving as raw transcript. The teaching point is that hot-streak language can make a chase feel earned even when the next round still has to be judged from bankroll, production cost, tile crowding, and stop rules.
+
+**Reusable response added/refined:**
+
+```text
+!hotstreak — Feeling “on a roll” is not edge. Before increasing deploy after ML chatter, write the next-session cap, check production cost and tile crowding, and decide whether this is entertainment or a logged strategy test. If “at any cost” is the thesis, pause.
+```
+
+**Sentiment read:** playful, self-aware, and increasingly ritualized. The hub should preserve the meme as campfire texture while making the wallet brake louder than the copy-paste conviction.

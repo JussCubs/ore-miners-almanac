@@ -391,6 +391,8 @@ This is one of the best campfire lessons for Thep's hub: miners can laugh about 
 
 The next-morning follow-up matters too. When the same chase becomes “not looking good” and the room answers with a sympathetic “F,” treat that as the review prompt: log what the original budget was, where the stop rule should have fired, how much runway remained, and whether the next chase needs a smaller size or a hard no-mining window.
 
+The May 22 copy-paste follow-up adds another trigger: when multiple miners repeat the same “on a roll” chase line, the emotion has moved from one wallet into group lore. That is exactly when the strategy needs to get colder. A hot streak can justify logging results and asking what changed; it does not justify replacing the cap with “at any cost.”
+
 The later morning reset added a calmer veteran phrase: **“Just pace yourself and be aware of the ML.”** That is the friendlier version of the same rule. Awareness does not mean staring at the jackpot until it talks you into one more oversized round. It means noticing when the motherlode is changing the room — more popcorn, more jokes about record dry spells, more people asking how high the ML has ever gone — and deliberately slowing the next decision down.
 
 Teach “pace yourself” as a three-part checkpoint:
