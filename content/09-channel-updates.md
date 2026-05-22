@@ -1675,3 +1675,27 @@ Captured 2 new messages from 2026-05-22T05:26:11.284000+00:00 through 2026-05-22
 ```
 
 **Sentiment read:** playful and self-aware, but with more explicit bankroll-risk language than the earlier repeats. The hub should preserve the line as a story marker while using it to teach escalation discipline.
+
+## 2026-05-22 Discord Update — good hunt vs. bad hunt case study
+
+Captured 12 new messages from 2026-05-22T08:30:50.505000+00:00 through 2026-05-22T11:13:10.829000+00:00.
+
+**Most active voices:** Cragglebear (9), BREADFAN777⛏️ (2), Yorter (1).
+
+**Themes detected:** motherlode post-mortems, first-hit sample bias, dilution, partial-grid variance, and responsible conviction.
+
+**Miner story:** Cragglebear compared a strong motherlode hunt against a rough one and kept the painful session going long enough to create a useful contrast. The second run began around the 200 ORE motherlode zone as a “get some round data” test, then became psychologically harder as the session stretched, the top-miner hits dried up, and heavier deploys entered the board. His read was blunt: the first half still looked playable, while the later stretch became dilution and chase energy.
+
+**Strategy signal:** the channel should teach this as a live-session flip, not just luck. A 13-tile or partial-grid setup can look brilliant across a short favorable slice and then swing hard over hundreds of rounds. Motherlode size is only one input; miners still need to watch total deploy, tile crowding, production cost, remaining SOL runway, and whether the original test has become “please hit before I run out.”
+
+Yorter added the useful skeptic's line: the first one can feel free. That belongs in the education layer because it prevents a lucky opening hit from becoming a fake backtest. BREADFAN777⛏️ closed the loop with the right mood for conviction mining: going in hard can be valid only when “responsibly” still means a cap, a thesis, and a stop.
+
+**Reusable responses added/refined:**
+
+```text
+!huntcompare — A green ML hunt and a painful ML hunt can both be real data, but “first one is free” and one lucky window do not prove the setting. Compare sessions by starting ML size, tile count, total deploy, crowding drift, top-miner dry spells, SOL runway, and where the plan changed from data gathering to chasing.
+
+!sessionflip — A motherlode chase can flip mid-session when new miners and higher deploys crowd the board. If top-miner hits dry up or production cost jumps after the halfway point, reassess from current conditions. Past spend is gone; stop before “round data” turns into a dying-cause chase.
+```
+
+**Sentiment read:** reflective and self-aware. The room is still pro-mining and bullish on the long-term ORE story, but the best current education is post-mortem literacy: keep the lore, then translate it into session logs, dilution checks, and stop rules.

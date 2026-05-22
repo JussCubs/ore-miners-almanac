@@ -375,6 +375,16 @@ The May 15 “big motherlode fatigue” thread adds the emotional version of the
 
 Teach the filter this way: **bigger ML means more attention, not automatically better EV.** If a miner is already tired of waiting, their next action should be smaller and more rules-based, not larger and more emotional.
 
+Cragglebear's May 22 comparison between a good motherlode hunt and a bad one makes the lesson more concrete. Starting around the 200 ORE zone can be a reasonable data-gathering window for an experienced hunter, but the same session can turn against the miner if the board changes underneath them. In his post-mortem, the early stretch still looked playable; later, top-miner hits dried up, more miners and larger deploys arrived, and the loss came from continuing after the environment shifted.
+
+That is the live-session version of dilution risk:
+
+- do not judge a motherlode chase from the first favorable slice;
+- partial-grid setups such as 13 tiles can swing hard once the sample gets longer;
+- compare early and late session conditions instead of averaging the whole run into one feeling;
+- write down the point where the test becomes a chase, especially around the 300-350 ORE excitement zone;
+- if the session thesis becomes “it just needs to hit soon,” stop or shrink before sunk-cost logic takes over.
+
 ### The “I came this far” stop-rule test
 
 A late May 20 waiting-room exchange turned the emotional side into a reusable rule. firebladeXT3 joked that the motherlode was “edging” him, worried about running out of SOL, then said the dangerous quiet part: **“I've came this far. No point stopping now.”** Diggy and BREADFAN recognized it immediately because every gambler/miner has felt that pull.

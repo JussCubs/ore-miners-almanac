@@ -913,3 +913,17 @@ The command-bank lesson is escalation hygiene. If the room starts remixing the s
 ```text
 !shirtcheck — If the chase joke turns into “shirt off my back” energy, shrink the next decision. Set a hard SOL cap, check production cost and crowding, and name the stop condition before mining again. Lore is fun; escalation still needs a brake.
 ```
+
+---
+
+## Update — 2026-05-22: good hunt vs. bad hunt post-mortem
+
+Cragglebear turned a rough motherlode chase into one of the cleaner education examples in the channel: two hunts can use similar conviction and still produce completely different emotional stories. The useful comparison is not “good luck versus bad luck.” It is how the same miner's plan changes when the board gets more crowded, top-miner hits dry up, higher deploys enter, and a data-gathering session turns into a chase.
+
+Yorter's “first one is free” pushback is worth keeping in the command bank too. A first green result can be a great onboarding story, but it is still sample-size danger. A miner needs enough session logs to separate repeatable conditions from one lucky entrance.
+
+```text
+!huntcompare — A green ML hunt and a painful ML hunt can both be real data, but “first one is free” and one lucky window do not prove the setting. Compare sessions by starting ML size, tile count, total deploy, crowding drift, top-miner dry spells, SOL runway, and where the plan changed from data gathering to chasing.
+
+!sessionflip — A motherlode chase can flip mid-session when new miners and higher deploys crowd the board. If top-miner hits dry up or production cost jumps after the halfway point, reassess from current conditions. Past spend is gone; stop before “round data” turns into a dying-cause chase.
+```
