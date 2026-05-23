@@ -959,3 +959,19 @@ That distinction belongs in the command bank because it prevents a common onboar
 
 !backtestask — If a veteran references a private backtest or custom dashboard, ask what question it answered: motherlode band, tile count, deploy size, crowding, production cost, reward source, and sample size. Do not copy the conclusion until your own wallet, timeframe, and runway match the test.
 ```
+
+---
+
+## Update — 2026-05-23: first-solo onboarding language
+
+Voniito.sol's first solo hit, the congratulations that followed, and traumi's note about solo hits feeling harder while ORE has more attention all belong in the command bank. The reusable lesson is beginner-friendly: celebrate the milestone, but separate the story from the decision rule.
+
+Use these when new miners show up with a first hit, confusion about how mining works, or the urge to ramp after a lucky window:
+
+```text
+!firstsolo — Congrats on the first solo. Now write down the setup before changing anything: tile count, deploy size, session length, rough production cost, whether you were watching, and why the hit happened if you have a thesis. The memory is lore; the notes are how it becomes learning.
+
+!newminercheck — If mining suddenly makes sense after feeling confusing, explain your current setup in one sentence before scaling. “I cover X tiles, spend about Y SOL per round, and stop when Z happens” is the baseline. If that sentence is fuzzy, keep the next run tiny.
+
+!attention — When more miners are watching ORE, solo hits can feel harder and windows can crowd faster. Do not chase yesterday's quiet board. Re-check production cost, competing deploys, tile crowding, and runway before assuming the same setup still fits.
+```

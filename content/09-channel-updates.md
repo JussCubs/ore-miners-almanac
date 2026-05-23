@@ -1775,3 +1775,29 @@ Captured 4 new messages from 2026-05-22T20:14:20.116000+00:00 through 2026-05-22
 ```
 
 **Sentiment read:** light, reactive, and archival. The channel is still building the storytelling layer, but this update should stay filed as lore texture rather than strategy guidance.
+
+## 2026-05-23 Discord Update — first-solo onboarding lore
+
+Captured 9 new messages from 2026-05-23T19:02:27.666000+00:00 through 2026-05-23T19:55:40.850000+00:00.
+
+**Most active voices:** OreBro (2), Madhatt3r (2), Voniito.sol (2), starship_fronk⛏️ (1), suckytrader (1), traumi (1).
+
+**Themes detected:** first solo hit, new-miner confusion, shared-mission language, future mine lore, and ORE-attention pressure.
+
+**Miner story:** Voniito.sol reported a first solo hit while sleeping after starting only two days earlier. The thread immediately turned into a useful onboarding moment: starship_fronk⛏️, suckytrader, Madhatt3r, and traumi treated the hit as a rite of passage instead of a reason to dunk on a newcomer. Voniito.sol also admitted that mining took a while to understand, which is worth preserving because it normalizes the beginner learning curve.
+
+**Strategy signal:** a first solo hit is high-emotion data, not a complete strategy. The educational move is to capture the exact setup before memory rewrites it: tile count, deploy size, session length, rough production cost, whether the miner was watching or asleep, and what condition would make them stop or repeat. If the setup cannot be explained in one sentence, keep the next run tiny.
+
+**Lore note:** OreBro's “we all work for the same mission” response is good community texture. It frames mining knowledge as cooperative rather than zero-sum. The playful 2030 scene also belongs in the Almanac's story layer: today's confusing first sessions can become future campfire stories if miners preserve both the win and the lesson.
+
+**Reusable responses added/refined:**
+
+```text
+!firstsolo — Congrats on the first solo. Now write down the setup before changing anything: tile count, deploy size, session length, rough production cost, whether you were watching, and why the hit happened if you have a thesis. The memory is lore; the notes are how it becomes learning.
+
+!newminercheck — If mining suddenly makes sense after feeling confusing, explain your current setup in one sentence before scaling. “I cover X tiles, spend about Y SOL per round, and stop when Z happens” is the baseline. If that sentence is fuzzy, keep the next run tiny.
+
+!attention — When more miners are watching ORE, solo hits can feel harder and windows can crowd faster. Do not chase yesterday's quiet board. Re-check production cost, competing deploys, tile crowding, and runway before assuming the same setup still fits.
+```
+
+**Sentiment read:** warm, celebratory, and useful for education. The channel is doing the right thing with new-miner wins: turn them into identity and encouragement, then quietly attach the habit that keeps the win from becoming overconfidence.

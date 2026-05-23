@@ -179,3 +179,20 @@ For your own notes, keep a tiny session journal:
 If you compare strategies with separate wallets, keep the same journal for each wallet and write the hypothesis before starting. “Wallet A is low-and-slow 25 tiles; Wallet B is testing a narrower thesis” is useful. “Wallet B got lucky once” is not proof.
 
 Do not overfit one session. Use the notes to build intuition across many small experiments, then bring the results back to the mining channel for sanity checks before scaling.
+
+---
+
+## First solo hits: celebrate, then log the setup
+
+The May 23 mining-channel thread added a clean beginner story: Voniito.sol hit a first solo while sleeping after only a couple days in the mines, then admitted the mechanics took a while to click. Madhatt3r's reminder captured the emotion well: miners remember the first solo.
+
+That is exactly why the first hit needs a notebook entry instead of an immediate size-up. A lucky solo can be a great onboarding spark, but it is not enough sample size to prove a strategy. Write down the tile count, deploy size, rough production cost, how long the session had been running, and whether the miner was actively watching or letting automation work.
+
+If mining still feels confusing, reduce the question until it fits one sentence:
+
+- "I am covering X tiles."
+- "I am spending about Y SOL per round."
+- "I stop when production cost or runway reaches Z."
+- "This session is a learning run, not a proof of edge."
+
+Once you can say those four things plainly, the next mining-channel question becomes much better. Veterans can help tune a clear setup. They cannot debug vibes.
