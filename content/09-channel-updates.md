@@ -1755,3 +1755,23 @@ Captured 9 new messages from 2026-05-22T17:02:48.205000+00:00 through 2026-05-22
 ```
 
 **Sentiment read:** practical and lore-heavy. The channel is still playful, but the useful education is disciplined escalation: start partial-grid experiments small, let live conditions justify every ramp, and separate old price nostalgia from today's board.
+
+## 2026-05-23 Discord Update — reaction-only lore follow-up
+
+Captured 4 new messages from 2026-05-22T20:14:20.116000+00:00 through 2026-05-22T22:54:19.277000+00:00.
+
+**Most active voices:** RNA(•‿•) (2), OreBro (1), Scrunch (1).
+
+**Themes detected:** reaction GIFs, deleted-image callback lore, and carryover from the earlier price-memory thread.
+
+**Miner story:** This short slice did not add a new tactic or bankroll rule. It continued the prior deleted-image / old-price-memory thread with reaction energy rather than fresh strategy. Keep it as atmosphere around the mine, not as a decision signal.
+
+**Strategy signal:** When the channel is mostly memes, the useful lesson is restraint. Archive the lore, but do not let a funny or infamous screenshot replace the live checks that actually matter: production cost, ORE price, miner crowding, top-miner texture, and SOL runway.
+
+**Reusable response added/refined:**
+
+```text
+!loreonly — Some mining-channel moments are pure lore: GIFs, deleted-image callbacks, price-memory screenshots, and old jokes. Save the story, but do not mine from it until today's board, wallet runway, and stop rule agree.
+```
+
+**Sentiment read:** light, reactive, and archival. The channel is still building the storytelling layer, but this update should stay filed as lore texture rather than strategy guidance.
