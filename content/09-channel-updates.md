@@ -1826,3 +1826,31 @@ Captured 2 new messages from 2026-05-23T20:36:31.156000+00:00 through 2026-05-23
 - **Cragglebear:** Congrats on being the one ⛏️
 
 **Sentiment read:** warm and affirming. The channel is doing useful community work here: converting a new miner's lucky-feeling hit into belonging, lore, and a small prompt to document the lesson.
+
+## 2026-05-24 Discord Update — official basics routing + first-solo mythology
+
+Captured 6 new messages from 2026-05-24T05:15:48.632000+00:00 through 2026-05-24T05:44:16.011000+00:00.
+
+**Most active voices:** suckytrader (3), FiL ⛏️ (1), dougie540 (1), ΣXTΛSY | Rubypool.io (1).
+
+**Themes detected:** newcomer onboarding, official-resource routing, motherlode education, first-solo lore.
+
+**Sentiment read:** supportive and educational. A newcomer asked for a clean file or tweet explaining mining and motherlodes, and the channel routed them toward public resources instead of private DMs. FiL also added a memorable first-solo line that belongs in the storytelling layer: the emotional hit is real, but it should still lead into session notes.
+
+**Education signal:** the first answer to “where do I learn this?” should stay boring and safe: start at `ore.supply`, read the About section, use the existing public resource channels, then ask specific questions in the mining room. That turns Discord into a guided classroom instead of a pile of unsorted links.
+
+**Reusable bot-command snippets:**
+
+```text
+!startore — New to ORE mining or motherlodes? Start with ore.supply's About section and verified public resource channels, then ask follow-up questions in the mining channel. Learn the basics before copying settings, clicking DMs, or chasing one lucky tile.
+
+!solofeeling — The first solo can feel legendary. Enjoy it, then log the setup: tiles, deploy size, session length, cost backdrop, watched/asleep status, and whether the next run still fits the plan.
+```
+
+**Dialogue to organize into the Almanac:**
+
+- **FiL ⛏️:** hitting your first solo feels like a kiss from GOD
+- **dougie540:** Is there a file somewhere or tweet explaining the mining or motherlode?
+- **suckytrader:** <#1296909286005542973> / <#1226042757857017878>
+- **suckytrader:** on the main site (ore.supply) go to the about section:
+- **ΣXTΛSY | Rubypool.io:** Sucky has got you covered there. Have a read and ask any questions 🫡

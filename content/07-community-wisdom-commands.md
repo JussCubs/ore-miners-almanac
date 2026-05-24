@@ -975,3 +975,15 @@ Use these when new miners show up with a first hit, confusion about how mining w
 
 !attention — When more miners are watching ORE, solo hits can feel harder and windows can crowd faster. Do not chase yesterday's quiet board. Re-check production cost, competing deploys, tile crowding, and runway before assuming the same setup still fits.
 ```
+
+---
+
+## Update — 2026-05-24: official basics before strategy DMs
+
+A newcomer asked for a clean file or tweet explaining mining and motherlodes. The channel answer stayed healthy: use public/verified resources first, especially the `ore.supply` About section, then ask specific follow-up questions in the mining channel. FiL also added a memorable first-solo line, which strengthens the existing lesson: celebrate the moment, then write down the setup before the story becomes overconfidence.
+
+```text
+!startore — New to ORE mining or motherlodes? Start with ore.supply's About section and verified public resource channels, then ask follow-up questions in the mining channel. Learn the basics before copying settings, clicking DMs, or chasing one lucky tile.
+
+!solofeeling — The first solo can feel legendary. Enjoy it, then log the setup: tiles, deploy size, session length, cost backdrop, watched/asleep status, and whether the next run still fits the plan.
+```

@@ -8,6 +8,8 @@ The most repeated beginner advice is to start low and slow across the full board
 
 When someone asks “how do I mine ORE?”, the clean community answer is not a random DM or a mystery link. Start at **ore.supply**, read the **About** section, then come back to the mining channel with specific questions. That keeps newcomers anchored to the official protocol explainer before they copy strategy screenshots or tool settings.
 
+The May 24 mining-channel thread repeated this exact pattern. A new miner asked for a file or tweet explaining mining and the motherlode; the channel pointed them to public resource channels and the `ore.supply` About section, then invited follow-up questions. That is the right onboarding shape: official basics first, public Q&A second, personal strategy later.
+
 A safe first path:
 
 - Open `ore.supply` and read the About section.
@@ -185,6 +187,8 @@ Do not overfit one session. Use the notes to build intuition across many small e
 ## First solo hits: celebrate, then log the setup
 
 The May 23 mining-channel thread added a clean beginner story: Voniito.sol hit a first solo while sleeping after only a couple days in the mines, then admitted the mechanics took a while to click. Madhatt3r's reminder captured the emotion well: miners remember the first solo.
+
+FiL later put the emotional version even more plainly: hitting your first solo can feel almost divine. Keep that feeling in the story, but do not let the feeling become the strategy.
 
 That is exactly why the first hit needs a notebook entry instead of an immediate size-up. A lucky solo can be a great onboarding spark, but it is not enough sample size to prove a strategy. Write down the tile count, deploy size, rough production cost, how long the session had been running, and whether the miner was actively watching or letting automation work.
 
