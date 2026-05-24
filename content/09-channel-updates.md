@@ -1801,3 +1801,28 @@ Captured 9 new messages from 2026-05-23T19:02:27.666000+00:00 through 2026-05-23
 ```
 
 **Sentiment read:** warm, celebratory, and useful for education. The channel is doing the right thing with new-miner wins: turn them into identity and encouragement, then quietly attach the habit that keeps the win from becoming overconfidence.
+
+## 2026-05-24 Discord Update — first-solo celebration follow-up
+
+Captured 2 new messages from 2026-05-23T20:36:31.156000+00:00 through 2026-05-23T21:09:50.874000+00:00.
+
+**Most active voices:** Galaxy42 🌌 (1), Cragglebear (1).
+
+**Themes detected:** first-solo celebration, mining identity, and low-friction onboarding support.
+
+**Miner story:** Galaxy42 🌌 and Cragglebear continued the prior first-solo thread by focusing on the feeling of the hit rather than turning it into instant strategy advice. That matters for the Almanac's storytelling layer: a first solo is not just a payout event. It is the moment a new miner starts to feel like they belong in the mine.
+
+**Strategy signal:** no new tactic was added in this short slice. Keep it attached to the previous **!firstsolo** lesson: celebrate the emotional win, then preserve the setup notes before the next run. The education move is to make the miner feel seen first, then ask for tile count, deploy size, session length, rough production cost, watched/asleep status, and stop rule.
+
+**Reusable response added/refined:**
+
+```text
+!firstsolofollowup — The first solo is part payout, part identity. Celebrate it, then write down the setup before memory turns it into myth: tiles, deploy size, session length, cost, watched/asleep status, and why you would or would not repeat it.
+```
+
+**Dialogue to organize into the Almanac:**
+
+- **Galaxy42 🌌:** Congrats! It's a great feeling for sure 🔥 ⛏️ 🥳
+- **Cragglebear:** Congrats on being the one ⛏️
+
+**Sentiment read:** warm and affirming. The channel is doing useful community work here: converting a new miner's lucky-feeling hit into belonging, lore, and a small prompt to document the lesson.
