@@ -1854,3 +1854,28 @@ Captured 6 new messages from 2026-05-24T05:15:48.632000+00:00 through 2026-05-24
 - **suckytrader:** <#1296909286005542973> / <#1226042757857017878>
 - **suckytrader:** on the main site (ore.supply) go to the about section:
 - **ΣXTΛSY | Rubypool.io:** Sucky has got you covered there. Have a read and ask any questions 🫡
+
+## 2026-05-24 Discord Update — high-ML history checks + miner-count heat
+
+Captured 5 new messages from 2026-05-24T08:33:04.162000+00:00 through 2026-05-24T11:50:05.784000+00:00.
+
+**Most active voices:** RNA(•‿•) (3), gary (1), SeekerUser (1).
+
+**Themes detected:** motherlode history, high-ML watch parties, miner-count heat, meme fatigue.
+
+**Sentiment read:** playful but useful. The room is still treating high motherlodes as culture — charts, quick answers, and memes — while also surfacing a strategy warning: when the motherlode gets large and miners are back above 300, the board is probably hotter than a beginner-friendly low-and-slow window.
+
+**Education signal:** gary's “spot the days where ML was >400 ORE” prompt belongs in the Almanac as a data-literacy habit. Historic high-ML days are worth tagging, but they should be used to compare production cost, miner count, tile crowding, and session results — not to imply that the next hit is due. RNA's “ML 300 / Again?” meme turns the same lesson into channel lore: high jackpots are exciting, but they also bring fatigue and crowding.
+
+**Reusable bot-command snippet:**
+
+```text
+!mlhistorycheck — High motherlode charts are useful context, not a countdown. Tag the date, ML size, miner count, production cost, and whether the board was crowded, then decide from today's runway. If miners are 300+ again, shrink or wait before assuming the big jackpot is a clean entry.
+```
+
+**Dialogue to organize into the Almanac:**
+
+- **gary:** who can spot the days where ML was >400 ORE ? <:9791_pepe:821873656816730122>
+- **RNA(•‿•):** Looks like today it's gonna be one of those days
+- **SeekerUser:** Within 24 hours
+- **RNA(•‿•):** Miners again above 300

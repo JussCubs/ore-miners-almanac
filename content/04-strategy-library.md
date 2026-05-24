@@ -433,9 +433,12 @@ Willd's next-test idea gives this section a cleaner research loop: split mining 
 
 A May 22 follow-up sharpened the tooling layer around that idea. Cragglebear said his deeper motherlode read comes from his own test tracker and a full all-motherlode backtest he has summarized publicly, while ore-stats is still the best public tool for miners checking their own round history. Teach that distinction clearly: use public tools to verify personal sessions, use veteran backtests to frame better questions, and do not treat a private dashboard summary as a copy-paste strategy.
 
+A May 24 chart prompt added the public-history version: when miners ask who can spot the days where the motherlode was **over 400 ORE**, the right Almanac move is to turn nostalgia into labels. Mark the day, the approximate jackpot band, miner count, production-cost backdrop, and whether the room felt calm or crowded. RNA's follow-up that miners were “again above 300” is the heat check. High-ML history helps miners compare regimes; it does not make today's round owed.
+
 Use this as an experiment design, not a shortcut:
 
 - tag each session with the motherlode band at entry;
+- tag miner-count / crowding context when the jackpot is historically large;
 - separate top-miner wins, split rewards, and motherlode hits;
 - record total deployed SOL and production cost, not only ORE won;
 - expect high-motherlode bands to attract more hunters and dilute clean split-round economics;

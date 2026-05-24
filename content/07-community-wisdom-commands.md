@@ -250,6 +250,12 @@ High-motherlode caution for miners tempted to size up because the jackpot is lar
 
 > A big motherlode can crowd the board and push production cost up. Chasing it can work if the jackpot pops, but the miner pays with higher burn and worse averages if it does not. Beginners should treat high-ML windows as a reason to shrink, not automatically size up.
 
+### !mlhistorycheck
+
+Historical high-motherlode chart prompt for miners comparing old >400 ORE days with the current board.
+
+> High motherlode history is context, not a countdown. Tag the date, ML size, miner count, production cost, and crowding before copying a past window. If miners are 300+ again, assume the board is hot until today's numbers prove otherwise.
+
 ### !convictionstack
 
 Patient-miner story pattern: start small, build logs, increase conviction only after surviving enough rounds, and avoid unnecessary claims.
@@ -337,6 +343,7 @@ Beginner post-run answer when a miner used all 25 tiles but still feels underwat
 - **Sell staked ORE to mine more?** Not all-in. Keep a core holder/uORE position, mine from a separate SOL sleeve, and rotate slowly only when ore.fyi and budget runway justify it.
 - **Strict EV filter is quiet — can I still mine?** Maybe, but only as a tiny fallback with a SOL cap. Think thousands of rounds, not instant solo hits.
 - **Big ML is building — should I size up?** Usually shrink first. High ML can mean high production cost and crowded tiles; chasing is advanced variance.
+- **How should I use old >400 ORE motherlode charts?** Tag the date, miner count, production cost, and crowding. History is context, not a countdown.
 - **How do patient miners build conviction?** Start small, log sessions, cross goals over time, and only increase size after the plan survives bad stretches.
 - **My session was around 1:1 SOL to ORE — good or bad?** Useful note, not a verdict. Tag reward sources, fees, production cost, and whether you were mining for learning, uORE, ML, or top-miner variance.
 - **How much runway do I need for top-miner attempts?** More than your emotions expect. Even decent-looking conditions can take multiple SOL and still go cold, so size small enough to survive misses.
