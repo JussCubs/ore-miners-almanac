@@ -1022,3 +1022,25 @@ Suckytrader's quick uORE-premium note turns into two command-bank entries: one f
 
 !easymode — Below-spot mining windows are regimes, not promises. When ORE attention rises, production cost and competition can rise too. Check ore.fyi, size for runway, and be willing to shrink, wait, stake, or buy spot instead of forcing yesterday's easy board.
 ```
+
+---
+
+## Update — 2026-05-25: beginner mistakes and budget math
+
+The latest education thread produced a strong command-bank set for Thep's beginner hub. Yorter framed the curriculum around why anyone mines ORE and the common ways mining becomes gambling: deploying too much too quickly, deploying too little total budget to survive variance, chasing motherlodes, using too few tiles, and claiming instantly before the uORE thesis has time to work.
+
+Galaxy42 added the cleanest beginner math warning: per-tile deployment is not the round cost. A miner has to multiply deploy per tile by tile count by number of rounds before they know how fast SOL will burn. Cragglebear and Kriptikz then sharpened the low-deploy lesson: the sweet spot is live, crowding changes it, and top-miner odds scale with your share of the winning tile. A low setup can have great windows, but the same setup can slow down when more miners and more SOL crowd the board.
+
+Use these commands when a newcomer wants settings before they can explain budget, runway, or stop rules:
+
+```text
+!beginnertraps — New miners usually get hurt by five things: deploying too much too fast, bringing too little total budget for variance, chasing motherlodes, mining too few tiles before they understand the game, and claiming instantly before uORE/refinement can matter.
+
+!roundcost — Per-tile deploy is not your session cost. Round cost is deploy per tile x number of tiles x number of rounds, plus fees. If that burn rate surprises you, shrink before the mines teach the lesson with your SOL.
+
+!notenoughbudget — "Too little" can mean total runway, not just deploy size. A tiny wallet may fail to survive enough rounds for top-miner variance to show up, leaving you with high cost per ORE and a bad first impression. Size for time before sizing for excitement.
+
+!topminershare — A rough top-miner shortcut: if you are 10% of the winning tile's deploy, think in terms of about a 10% chance to be top miner on that tile. The exact board changes constantly, so check production cost and crowding instead of treating one deploy size as permanent.
+
+!fieldtest — Spreadsheet math helps, but live mining reveals crowding, rhythm, droughts, and lucky clusters. Test small, log enough rounds to learn something, and change one variable at a time so the lesson survives the variance.
+```

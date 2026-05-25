@@ -471,3 +471,17 @@ Reusable command snippet:
 ```text
 !uorepremium — Do not price uORE like a disposable mining receipt. It is mining-only exposure with claim friction, refining/yield upside, and patience value. If the market starts valuing that premium, compare mining cost, hold time, and claim plans before treating spot ORE and uORE as the same asset.
 ```
+
+---
+
+## Update — 2026-05-25: marathon sizing and low-deploy DCA
+
+RNA's beginner advice belongs in the patience chapter because it connects risk control to the uORE thesis. If a miner is short on SOL, the answer is not to concentrate harder into a few aggressive rounds. The safer beginner frame is to deploy less across the board, check personal performance on ore-stats, compare live production cost on ore.fyi, and let low-deploy periods plus refinement APR do more of the work.
+
+That is the education line Thep can reuse: mining is a marathon because the asset is not fully judged at the moment SOL leaves the wallet. A miner still needs discipline at entry, but once the position is uORE, the review includes time, APR, and whether the miner can wait without forcing a bad claim or chase.
+
+Reusable command snippet:
+
+```text
+!marathonminer — If SOL is tight, do not concentrate risk into a few hot rounds. Deploy smaller across the board, check ore-stats for your own history, compare production cost on ore.fyi, and let low-deploy windows plus refinement APR support the uORE thesis over time.
+```

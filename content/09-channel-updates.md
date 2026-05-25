@@ -1983,3 +1983,35 @@ Captured 2 new messages from 2026-05-25T09:34:49.080000+00:00 through 2026-05-25
 
 !addminers — Before adding another miner setup, label the goal: more uORE exposure, separate strategy testing, or operational redundancy. Keep logs separate, cap SOL per setup, and do not multiply a weak plan just because the channel feels active.
 ```
+
+## 2026-05-25 Discord Update — budget math, beginner traps, and live-test lore
+
+Captured 28 new messages from 2026-05-25T12:36:49.694000+00:00 through 2026-05-25T15:25:23.725000+00:00.
+
+**Most active voices:** Cragglebear (9), nftimm (6), RNA(•‿•) (4), Hermes (3), Yorter (2), Galaxy42 🌌 (2), Thep ⛏️ (1), Kriptikz (1).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, production cost / ore.fyi, lore and origin stories.
+
+**Sentiment read:** constructive and curriculum-minded. The channel stayed focused on Thep's education hub, with veterans translating repeated Discord advice into beginner warnings, practical math, and mining stories that make variance easier to understand.
+
+**Notable education prompt:** Thep asked for material on "why mine ORE" and the mistakes beginners keep making. Yorter turned that into a clean outline: too much too quickly, too little total runway, motherlode chasing, too few tiles, and claiming instantly. That list should become one of the public entry points for new miners because it names the moment where mining stops being a process and starts becoming gambling.
+
+**Budget math signal:** Galaxy42's warning is the line to put in front of every new miner: per-tile deploy is not session cost. The real burn is deploy per tile x tiles x rounds, with fees on top. This pairs with Cragglebear's point that budgeting is probably the biggest education gap. New miners often do not know how fast a SOL disappears at different deploy levels until they have already spent it.
+
+**Strategy signal:** Kriptikz gave the simple top-miner intuition: if a miner is 10% of the winning tile, they should think in terms of roughly a 10% chance to be top miner on that tile. Cragglebear's field-test story adds the caveat: the useful deploy size is not fixed. His 0.01 test once looked like about one top-miner hit per 1,000 rounds, then slowed when ORE pumped and more miners crowded the board. The teachable frame is not "0.01 is the answer." It is "live conditions move the answer."
+
+**Storytelling signal:** nftimm, Hermes, and Cragglebear gave the human texture Thep wants in the hub: one miner can go thousands of rounds without a hit while another setup hits several; a tiny .002 deployment can still spike lucky; some sessions feel cursed while others thrive. That does not defeat the math. It explains why live logs, budget discipline, and stop rules matter more than copying a lucky setup.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!beginnertraps — New miners usually get hurt by five things: deploying too much too fast, bringing too little total budget for variance, chasing motherlodes, mining too few tiles before they understand the game, and claiming instantly before uORE/refinement can matter.
+
+!roundcost — Per-tile deploy is not your session cost. Round cost is deploy per tile x number of tiles x number of rounds, plus fees. If that burn rate surprises you, shrink before the mines teach the lesson with your SOL.
+
+!notenoughbudget — "Too little" can mean total runway, not just deploy size. A tiny wallet may fail to survive enough rounds for top-miner variance to show up, leaving you with high cost per ORE and a bad first impression. Size for time before sizing for excitement.
+
+!topminershare — A rough top-miner shortcut: if you are 10% of the winning tile's deploy, think in terms of about a 10% chance to be top miner on that tile. The exact board changes constantly, so check production cost and crowding instead of treating one deploy size as permanent.
+
+!marathonminer — If SOL is tight, do not concentrate risk into a few hot rounds. Deploy smaller across the board, check ore-stats for your own history, compare production cost on ore.fyi, and let low-deploy windows plus refinement APR support the uORE thesis over time.
+```
