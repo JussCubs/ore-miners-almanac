@@ -1961,3 +1961,25 @@ Captured 4 new messages from 2026-05-25T04:09:58.784000+00:00 through 2026-05-25
 
 !easymode — Below-spot mining windows are regimes, not promises. When ORE attention rises, production cost and competition can rise too. Check ore.fyi, size for runway, and be willing to shrink, wait, stake, or buy spot instead of forcing yesterday's easy board.
 ```
+
+## 2026-05-25 Discord Update — steady 300+ miner activity
+
+Captured 2 new messages from 2026-05-25T09:34:49.080000+00:00 through 2026-05-25T11:41:50.750000+00:00.
+
+**Most active voices:** nftimm (1), RNA(•‿•) (1).
+
+**Themes detected:** miner-count momentum, expanding miner setups, steady network participation.
+
+**Sentiment read:** constructive and quietly bullish. The channel was not in a heavy theory thread; it was logging a useful health signal: miner participation has been holding above 300 while individual miners are still considering adding more setups.
+
+**Notable miner story:** nftimm's casual note about spinning up additional miners reads like a small but useful confidence signal. It is not a strategy by itself, but it shows the current miner mood: people who already understand the loop are still willing to add capacity when conditions feel worth watching.
+
+**Education signal:** "300+ miners" is a cleaner public metric than screenshots or one-off wins because it helps newcomers understand that the mines are active. The Almanac should use it carefully: miner count signals attention and participation, but it can also mean more competition, higher production cost, and more need for disciplined sizing.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!300miners — A steady 300+ miner count is a participation signal, not a guaranteed edge. More active miners can validate interest, but they can also raise competition and production cost. Check ore.fyi, size for runway, and treat added miners as capacity only after the beginner loop is boring.
+
+!addminers — Before adding another miner setup, label the goal: more uORE exposure, separate strategy testing, or operational redundancy. Keep logs separate, cap SOL per setup, and do not multiply a weak plan just because the channel feels active.
+```
