@@ -825,3 +825,26 @@ Reusable command snippets:
 
 !splitvsolo — A solo/top-miner hit is concentrated variance; a split is shared reward from deployed weight; a motherlode is the jackpot layer. Track which one paid you before judging the strategy. One green round is not the whole thesis.
 ```
+
+---
+
+## Update — 2026-05-25: skeptic-proof the default lane
+
+The latest strategy thread sharpened a useful response to the "24 losing squares" critique. The safest education path is to start with the plain default lane, then show why advanced miners may deviate from it.
+
+Default beginner response:
+
+- use all 25 tiles when learning so the miner is not confusing tile-picking variance with protocol mechanics;
+- deploy tiny enough to survive many rounds and observe outcomes;
+- treat the SOL charge as protocol payment, with the buyback/revenue story explained up front;
+- track uORE accumulated and refinement/yield over the intended holding period;
+- check production cost on ore.fyi before deploying;
+- if production cost is far above spot, buying or waiting can be the better move.
+
+Partial-tile or concentrated strategies can be discussed after that, but they should be framed as advantage-play attempts with sharper drawdowns. They are not the first thing to hand a new miner who is still asking whether the mines are just gambling.
+
+Reusable command snippet:
+
+```text
+!skepticproof — The beginner mining lane is not "click 25 squares and hope." It is tiny 25-tile deployment, production-cost checks, uORE accumulation, and patience with the protocol revenue/buyback loop. If production cost is far above spot or you cannot wait, shrink, pause, or buy spot instead.
+```

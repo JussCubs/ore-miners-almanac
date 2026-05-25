@@ -1911,3 +1911,29 @@ Captured 22 new messages from 2026-05-24T21:57:18.009000+00:00 through 2026-05-2
 
 !sophisticatedmining — The advanced ORE story is not “ape bigger.” It is competitive capital deployment into scarce production: production cost, deploy weight, timing, runway, buybacks, uORE patience, and variance. Learn the default lane before copying whale behavior.
 ```
+
+## 2026-05-25 Discord Update — skeptic objections, lost-SOL framing, Fronk's ethos
+
+Captured 9 new messages from 2026-05-25T00:26:07.974000+00:00 through 2026-05-25T00:43:45.540000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (4), BREADFAN777⛏️ (3), Thep ⛏️ (1), Carl-bot (1).
+
+**Themes detected:** uORE patience, skeptic education, protocol revenue/buybacks, low-and-slow 25-tile mining, production cost checks.
+
+**Sentiment read:** focused and defensive in a productive way. The channel was not just cheering itself on; it was turning a skeptical outside argument into clearer public education.
+
+**Notable miner story:** BREADFAN777 brought in a common critique: outsiders see the non-winning tiles and assume the deflationary engine depends on naive participants losing money. Fronk reduced the answer to the core thesis: mining is an exchange of SOL for yield-bearing uORE exposure, not a promise of instant profit. Carl-bot resurfaced Fronk's longer ethos: start low and slow, understand the SOL charge, respect the 25-tile beginner lane, and check ore.fyi when production cost makes mining worse than buying.
+
+**Education signal:** this belongs near the front of the Almanac because it answers the first hard question many skeptics ask. The clean version is: the SOL does not simply vanish, but that does not make every mining entry good. Miners still need to know what the protocol does with revenue, how buybacks support the story, what uORE/refinement means, and when spot buying is the better action.
+
+**Strategy signal:** the hardware/electricity analogy is reusable. Traditional miners spend money on rigs and power; ORE miners spend SOL into the protocol. The beginner still needs a stop rule: if production cost is far above spot, or the miner cannot wait for uORE/refinement math to matter, the right move may be to shrink, pause, or buy.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!skepticproof — The beginner mining lane is not "click 25 squares and hope." It is tiny 25-tile deployment, production-cost checks, uORE accumulation, and patience with the protocol revenue/buyback loop. If production cost is far above spot or you cannot wait, shrink, pause, or buy spot instead.
+
+!lostsol — SOL spent in the mines is protocol payment for uORE exposure, buyback/revenue mechanics, and variance upside. It can still be a bad entry. Review uORE held, APR/refinement, claim costs, holding period, and production cost vs spot before calling the SOL "lost" or the run profitable.
+
+!fronkethos — Mining is not meant to prove immediate profit every round. The default ethos is low-and-slow uORE accumulation: 25 tiny tiles, enough runway for many rounds, production-cost checks on ore.fyi, and patience for refinement/yield mechanics. Partial-tile advantage play comes later.
+```

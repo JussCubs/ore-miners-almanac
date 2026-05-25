@@ -426,3 +426,26 @@ Reusable command snippet:
 ```text
 !breakeventimer — Do not judge uORE like an instant spot buy. Review entry production cost, uORE held, current refinement APR, claim fees, and holding period. A break-even timer is useful only if you can actually wait long enough for the yield math to play out.
 ```
+
+---
+
+## Update — 2026-05-25: the "lost SOL" objection is a time-horizon problem
+
+The May 25 discussion gave this chapter a cleaner answer to a skeptical outside critique: if the miner only sees SOL leaving the wallet each round, the mines look like a stacked game. The missing step is explaining what that SOL is buying.
+
+The channel's answer: the miner is exchanging SOL for uORE exposure and a protocol revenue loop. That does not erase variance or make every session good. It means a review has to include:
+
+- uORE accumulated;
+- live refinement/yield rate;
+- expected holding period;
+- claim and exit costs;
+- production cost at entry;
+- whether buying spot would have been cleaner at that moment.
+
+This is why Fronk's ethos starts with "not immediately profitable." The point is not to rationalize bad entries after the fact. The point is to make miners judge the right asset over the right time window.
+
+Reusable command snippet:
+
+```text
+!lostsol — SOL spent in the mines is protocol payment for uORE exposure, buyback/revenue mechanics, and variance upside. It can still be a bad entry. Review uORE held, APR/refinement, claim costs, holding period, and production cost vs spot before calling the SOL "lost" or the run profitable.
+```

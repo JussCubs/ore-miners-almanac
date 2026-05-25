@@ -117,3 +117,20 @@ That exchange is useful because it shows what the education hub should do for ev
 - treat heating/crowded mines as a reason to pause or shrink, not to chase.
 
 > Time in the mines > timing the mines.
+
+---
+
+## Update — 2026-05-25: answer the deflation-engine objection
+
+The May 25 thread turned a common outside criticism into a useful ethos lesson. Skeptics often describe ORE mining as naive retail losing money on the non-winning tiles. The channel's best answer is not to dodge that feeling. It is to explain the trade clearly: mining is SOL spent into a protocol revenue loop in exchange for uORE exposure, refinement/yield mechanics, buyback support, and variance upside.
+
+That framing keeps the education honest:
+
+- do not promise immediate profit;
+- teach the SOL charge and buyback flow before strategy settings;
+- explain that uORE is the produced asset, not an instant spot-sale result;
+- make low-and-slow 25-tile mining the default lane for learning;
+- treat partial-tile advantage play as a higher-variance lane, not beginner advice;
+- always compare production cost against spot before deciding to mine.
+
+Fronk's ethos survives the skeptic test because it starts with patience instead of hype. If a miner cannot hold the position long enough for uORE/refinement math to matter, they should shrink, pause, or buy spot instead of pretending every round has to prove the thesis immediately.
