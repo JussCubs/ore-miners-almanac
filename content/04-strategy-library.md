@@ -800,3 +800,28 @@ Reusable command snippet:
 ```text
 !weighted — ORE mining rewards are weighted by SOL deployed. More SOL can mean a bigger split share and better solo/top-miner odds, but it also burns more SOL per round. Size is a risk lever, not magic alpha.
 ```
+
+---
+
+## Update — 2026-05-25: default lane before advanced lanes
+
+The May 25 education thread added a clean onboarding sequence for strategy content: teach the low-drama default first, then let miners graduate into riskier behavior only after they can explain what is happening.
+
+The beginner lane should look like this:
+
+- choose a calmer or lower-motherlode window instead of entering during maximum crowd excitement;
+- use all **25 tiles** so the lesson starts with coverage rather than tile-picking anxiety;
+- deploy low enough per round that the miner can watch many rounds without panic;
+- explain the SOL charge and the buyback component before the miner mistakes every cost for leakage;
+- show the difference between solo/top-miner wins, split rewards, and motherlode participation;
+- compare production cost against market price, then decide whether the session is for learning, uORE accumulation, or active hunting.
+
+The more advanced framing came from CryptyMike's point that ORE mining can be presented as a sophisticated competitive game, not only a beginner tutorial. That belongs after the default lane. A miner who cannot explain 25-tile low deploy, fee stack, production cost, and reward sources is not ready to copy whale-style deployment.
+
+Reusable command snippets:
+
+```text
+!25tileonboard — First setup: check ore.fyi, pick a calm window, use all 25 tiles, deploy low enough to survive many rounds, and learn the reward sources before resizing. Graduate only after you can explain your fee stack, production cost, solo/split outcomes, and stop rule.
+
+!splitvsolo — A solo/top-miner hit is concentrated variance; a split is shared reward from deployed weight; a motherlode is the jackpot layer. Track which one paid you before judging the strategy. One green round is not the whole thesis.
+```

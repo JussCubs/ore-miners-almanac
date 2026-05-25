@@ -1879,3 +1879,35 @@ Captured 5 new messages from 2026-05-24T08:33:04.162000+00:00 through 2026-05-24
 - **RNA(•‿•):** Looks like today it's gonna be one of those days
 - **SeekerUser:** Within 24 hours
 - **RNA(•‿•):** Miners again above 300
+
+## 2026-05-25 Discord Update — education-video curriculum and sophisticated mining narrative
+
+Captured 22 new messages from 2026-05-24T21:57:18.009000+00:00 through 2026-05-24T23:58:54.237000+00:00.
+
+**Most active voices:** Thep ⛏️ (5), Diggy ⛏️ | Independent Miner (5), CryptyMike (4), OREillions⛏️ (3), starship_fronk⛏️ (2), Brian (2), Madhatt3r (1).
+
+**Themes detected:** beginner education videos, uORE/refinement patience, 25-tile low-deploy onboarding, production cost vs. spot, scarce-production narrative, refinORE/Roberto UI.
+
+**Sentiment read:** constructive and curriculum-minded. The room is helping Thep turn scattered mining advice into public teaching material: less raw "copy my settings," more explanation of why mining feels confusing, where the costs go, and how a learner should review outcomes.
+
+**Notable education prompt:** Thep asked what should be covered for miners who recently started, tried before, or struggled to find success. That question is important for the Almanac because it shifts the room from answering one-off Discord questions into building a reusable onboarding sequence.
+
+**Strategy signal:** OREillions and Diggy converged on the same starter lane: begin in a calmer/lower-motherlode window, cover all 25 tiles, keep deploy low enough to survive many rounds, and teach the miner what a round is doing before they scale. The beginner video should explicitly explain solo/top-miner wins, split rewards, motherlode exposure, production cost vs. market price, and the SOL charge/buyback mechanics miners keep asking about.
+
+**uORE patience signal:** OREillions highlighted the common mistake of judging mining only by short-term average cost. The education layer should show how unrefined ORE, live refinement APR, holding time, and claim costs can change the break-even analysis. Diggy's suggested rORE/uORE break-even countdown is a good refinORE/Roberto product requirement.
+
+**Narrative signal:** CryptyMike pushed for a more sophisticated capital-deployment story around mining. The safer wording is not "make this whale friendly" by glamorizing size. It is: ORE mining can be explained as competitive scarce production where deploy weight, timing, production cost, buybacks, runway, and uORE patience all matter. Beginners still need the default lane first.
+
+**Storytelling signal:** Madhatt3r's point belongs in the beginner guide: if ORE is meant to become a durable store of value, rising production costs are not merely a problem. They are part of the scarcity story. The Almanac should teach miners to understand that narrative without using it as an excuse to ignore bad entry conditions.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!newminervideo — Start new miners with the boring loop: check ore.fyi, use 25 tiles, deploy tiny enough to survive many rounds, and do not judge the session only by instant PnL. Mining is paid production plus uORE patience, not the same thing as clicking buy.
+
+!25tileonboard — First setup: check ore.fyi, pick a calm window, use all 25 tiles, deploy low enough to survive many rounds, and learn the reward sources before resizing. Graduate only after you can explain your fee stack, production cost, solo/split outcomes, and stop rule.
+
+!breakeventimer — Do not judge uORE like an instant spot buy. Review entry production cost, uORE held, current refinement APR, claim fees, and holding period. A break-even timer is useful only if you can actually wait long enough for the yield math to play out.
+
+!sophisticatedmining — The advanced ORE story is not “ape bigger.” It is competitive capital deployment into scarce production: production cost, deploy weight, timing, runway, buybacks, uORE patience, and variance. Learn the default lane before copying whale behavior.
+```

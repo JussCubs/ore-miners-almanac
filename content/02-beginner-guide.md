@@ -200,3 +200,24 @@ If mining still feels confusing, reduce the question until it fits one sentence:
 - "This session is a learning run, not a proof of edge."
 
 Once you can say those four things plainly, the next mining-channel question becomes much better. Veterans can help tune a clear setup. They cannot debug vibes.
+
+---
+
+## Update — 2026-05-25: make the first lesson less transactional
+
+Thep asked the mining room what should go into an educational video for people who recently started mining, tried before, or never got a clean first success. The best beginner answer was not another magic setting. It was a framing fix.
+
+New miners often compare a few early rounds against simply buying ORE, then conclude they are "at a loss" before the mining thesis has had time to show itself. That is why the first lesson should separate four ideas that beginners collapse together:
+
+- **Buying ORE** is immediate spot exposure.
+- **Mining ORE** is paid participation in a competitive production process.
+- **Holding uORE** adds a patience/refinement layer that can change the break-even story over time.
+- **Rising production cost** is not automatically bad for a durable store-of-value thesis; it can mean new supply is becoming harder to produce.
+
+For the first video, keep the opening setup boring on purpose: a quiet or lower-motherlode window, all **25 tiles**, a small deploy size, and enough budget to observe many rounds. The learner's goal is not to prove they found edge in ten minutes. It is to understand what happened when a round splits, when a solo/top-miner hit lands, how SOL charges and buybacks fit in, and why ore.fyi production cost should be checked before sizing up.
+
+Reusable beginner script:
+
+```text
+!newminervideo — Start new miners with the boring loop: check ore.fyi, use 25 tiles, deploy tiny enough to survive many rounds, and do not judge the session only by instant PnL. Mining is paid production plus uORE patience, not the same thing as clicking buy.
+```

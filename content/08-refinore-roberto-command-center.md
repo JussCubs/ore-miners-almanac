@@ -222,3 +222,24 @@ Reusable UI copy:
 ```text
 Your connected wallet is not an unlimited refill hose. The autominer spends from the operating balance you authorized. Use Top Up when you intentionally want to increase the mining budget; otherwise the boundary protects the rest of your wallet from the active strategy.
 ```
+
+---
+
+## Update — 2026-05-25: Roberto should teach while it mines
+
+Diggy's education-video checklist doubles as a Roberto product checklist. The command center should not only execute a strategy; it should explain why the default strategy is safe enough for a learner.
+
+Roberto/refinORE should make these concepts visible in one place:
+
+- a one-click or guided **25-tile low-deploy** starter strategy;
+- live production cost compared with market price;
+- the visible fee/charge stack, including the buyback share miners keep asking about;
+- solo/top-miner outcome vs. split reward vs. motherlode exposure;
+- current uORE/rORE APR and a rough break-even estimate for patient holders;
+- plain warnings when the board is crowded, the motherlode is attracting heavy deploys, or the user's runway is too short.
+
+Reusable UI copy:
+
+```text
+Starter mode uses all 25 tiles with low deploy so you can learn before scaling. Watch production cost, reward source, fees, buyback share, APR, and runway together. If you cannot explain the setup in one sentence, keep Roberto in learner mode.
+```

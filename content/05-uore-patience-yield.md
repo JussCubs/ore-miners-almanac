@@ -404,3 +404,25 @@ Reusable command snippet:
 ```text
 !uorethesis — Mining is not an instant-profit machine. You are spending SOL for uORE exposure, yield/refinement mechanics, and variance upside. Check production cost first, size for time, and understand whether your rewards are unrefined, refined, or represented by a pool token before judging the run.
 ```
+
+---
+
+## Update — 2026-05-25: show the patience math where miners feel the pain
+
+The latest education thread sharpened the exact beginner confusion this chapter exists to solve: a mining average above spot does not automatically mean the miner's thesis has failed. It may mean the miner is judging an unfinished uORE/refinement position as though it were an instant spot buy.
+
+That does not make every expensive session good. It means the review needs the missing variables:
+
+- how much unrefined ORE was accumulated;
+- what current refinement/APR implies over the intended holding period;
+- whether the miner can wait long enough for that math to matter;
+- what production cost was at entry;
+- whether the miner is comparing against spot purchase, not just round-by-round emotions.
+
+Diggy's product suggestion belongs here: show a countdown or estimate under rORE/uORE that explains the path back to break-even based on the live APR. Even a rough timer would teach the right mental model: patience is not vibes, it is time plus rate plus risk.
+
+Reusable command snippet:
+
+```text
+!breakeventimer — Do not judge uORE like an instant spot buy. Review entry production cost, uORE held, current refinement APR, claim fees, and holding period. A break-even timer is useful only if you can actually wait long enough for the yield math to play out.
+```

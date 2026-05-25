@@ -994,3 +994,19 @@ A newcomer asked for a clean file or tweet explaining mining and motherlodes. Th
 
 !solofeeling — The first solo can feel legendary. Enjoy it, then log the setup: tiles, deploy size, session length, cost backdrop, watched/asleep status, and whether the next run still fits the plan.
 ```
+
+---
+
+## Update — 2026-05-25: commands for the education-video thread
+
+Thep's education-video prompt produced two reusable command families: beginner-safe setup language, and a more sophisticated narrative for capital-deployment minded miners.
+
+```text
+!newminervideo — Start new miners with the boring loop: check ore.fyi, use 25 tiles, deploy tiny enough to survive many rounds, and do not judge the session only by instant PnL. Mining is paid production plus uORE patience, not the same thing as clicking buy.
+
+!25tileonboard — First setup: check ore.fyi, pick a calm window, use all 25 tiles, deploy low enough to survive many rounds, and learn the reward sources before resizing. Graduate only after you can explain your fee stack, production cost, solo/split outcomes, and stop rule.
+
+!breakeventimer — Do not judge uORE like an instant spot buy. Review entry production cost, uORE held, current refinement APR, claim fees, and holding period. A break-even timer is useful only if you can actually wait long enough for the yield math to play out.
+
+!sophisticatedmining — The advanced ORE story is not “ape bigger.” It is competitive capital deployment into scarce production: production cost, deploy weight, timing, runway, buybacks, uORE patience, and variance. Learn the default lane before copying whale behavior.
+```
