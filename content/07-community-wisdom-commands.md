@@ -1010,3 +1010,15 @@ Thep's education-video prompt produced two reusable command families: beginner-s
 
 !sophisticatedmining — The advanced ORE story is not “ape bigger.” It is competitive capital deployment into scarce production: production cost, deploy weight, timing, runway, buybacks, uORE patience, and variance. Learn the default lane before copying whale behavior.
 ```
+
+---
+
+## Update — 2026-05-25: uORE premium and easy-mode checks
+
+Suckytrader's quick uORE-premium note turns into two command-bank entries: one for explaining why uORE is not the same as instant spot ORE, and one for reminding miners that below-spot mining windows can close when attention and demand rise.
+
+```text
+!uorepremium — Do not price uORE like a disposable mining receipt. It is mining-only exposure with claim friction, refining/yield upside, and patience value. If the market starts valuing that premium, compare mining cost, hold time, and claim plans before treating spot ORE and uORE as the same asset.
+
+!easymode — Below-spot mining windows are regimes, not promises. When ORE attention rises, production cost and competition can rise too. Check ore.fyi, size for runway, and be willing to shrink, wait, stake, or buy spot instead of forcing yesterday's easy board.
+```

@@ -449,3 +449,25 @@ Reusable command snippet:
 ```text
 !lostsol — SOL spent in the mines is protocol payment for uORE exposure, buyback/revenue mechanics, and variance upside. It can still be a bad entry. Review uORE held, APR/refinement, claim costs, holding period, and production cost vs spot before calling the SOL "lost" or the run profitable.
 ```
+
+---
+
+## Update — 2026-05-25: uORE premium enters the room
+
+Suckytrader's short May 25 note is useful because it names something patient miners have been implying for weeks: uORE may deserve a premium over simple spot exposure. The channel has spent months teaching miners to look past immediate round PnL, but the market can take time to recognize the difference between liquid ORE and unrefined mining output.
+
+The education version:
+
+- uORE is earned through mining, not simply bought as spot exposure;
+- claiming creates friction and can give up the patient-holder advantage;
+- refining/yield means time horizon changes the value of the position;
+- three months of easier below-spot mining may have trained miners to expect cheap accumulation;
+- if attention rises, the channel should teach production-cost discipline even harder, not softer.
+
+The point is not that miners should always pay any price for uORE. It is that uORE should be evaluated as a patience asset with its own mechanics. When production cost rises above the easy-mode zone, a miner needs to decide whether they are buying learning, yield exposure, motherlode variance, or simply overpaying because the room is excited.
+
+Reusable command snippet:
+
+```text
+!uorepremium — Do not price uORE like a disposable mining receipt. It is mining-only exposure with claim friction, refining/yield upside, and patience value. If the market starts valuing that premium, compare mining cost, hold time, and claim plans before treating spot ORE and uORE as the same asset.
+```

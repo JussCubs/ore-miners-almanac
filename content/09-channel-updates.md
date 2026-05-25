@@ -1937,3 +1937,27 @@ Captured 9 new messages from 2026-05-25T00:26:07.974000+00:00 through 2026-05-25
 
 !fronkethos — Mining is not meant to prove immediate profit every round. The default ethos is low-and-slow uORE accumulation: 25 tiny tiles, enough runway for many rounds, production-cost checks on ore.fyi, and patience for refinement/yield mechanics. Partial-tile advantage play comes later.
 ```
+
+## 2026-05-25 Discord Update
+
+Captured 4 new messages from 2026-05-25T04:09:58.784000+00:00 through 2026-05-25T04:11:12.985000+00:00.
+
+**Most active voices:** suckytrader (4).
+
+**Themes detected:** uORE premium, below-spot mining windows, price-action leadership, patience.
+
+**Sentiment read:** bullish and reflective. The tone was not just "number go up"; it was miners noticing that the market may finally be repricing the patient uORE side of the protocol.
+
+**Notable miner story:** suckytrader marked a shift in the room's mental model: miners were celebrating that people are starting to value the premium of uORE. The simple version is that the easy three-month window of mining below spot price may be behind the channel. That does not invalidate low-and-slow mining; it makes the cost check more important because cheap accumulation will no longer feel automatic if attention and demand rise.
+
+**Education signal:** this belongs in the uORE chapter because it explains why unrefined ORE should not be flattened into normal spot ORE. uORE is harder to acquire, carries claim friction, and rewards patience through the refining/yield loop. If the market begins to value that premium, miners need to teach the distinction early instead of only after a newcomer asks why mining costs more than buying.
+
+**Strategy signal:** "below spot" should be treated as a regime, not a guarantee. When production cost was consistently below spot, a beginner could learn while the market helped cover mistakes. If that regime fades, the default playbook becomes stricter: check ore.fyi, size for runway, label the session goal, and be willing to buy, stake, shrink, or wait instead of forcing a hot board.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!uorepremium — Do not price uORE like a disposable mining receipt. It is mining-only exposure with claim friction, refining/yield upside, and patience value. If the market starts valuing that premium, compare mining cost, hold time, and claim plans before treating spot ORE and uORE as the same asset.
+
+!easymode — Below-spot mining windows are regimes, not promises. When ORE attention rises, production cost and competition can rise too. Check ore.fyi, size for runway, and be willing to shrink, wait, stake, or buy spot instead of forcing yesterday's easy board.
+```

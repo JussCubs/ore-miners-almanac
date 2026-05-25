@@ -848,3 +848,25 @@ Reusable command snippet:
 ```text
 !skepticproof — The beginner mining lane is not "click 25 squares and hope." It is tiny 25-tile deployment, production-cost checks, uORE accumulation, and patience with the protocol revenue/buyback loop. If production cost is far above spot or you cannot wait, shrink, pause, or buy spot instead.
 ```
+
+---
+
+## Update — 2026-05-25: when easy-mode mining fades
+
+Suckytrader's later May 25 observation adds a regime-change warning to the strategy library: miners may have had roughly three months where mining below spot price felt common enough to become normal. That is useful history, but it can become a trap if newcomers assume the same conditions are guaranteed.
+
+Teach this as a market-state checklist:
+
+- below-spot production cost is a favorable window, not the default state of the protocol;
+- as ORE attention grows, miners can start leading price action, but they can also crowd the board;
+- rising uORE demand can make the patience thesis stronger while making cheap entry harder;
+- the same 25-tile low-and-slow setup still needs ore.fyi checks, bankroll limits, and a stop rule;
+- if the easy window closes, buying/staking/holding can be the cleaner exposure until mining conditions reset.
+
+This makes the education hub stronger because it separates bullishness from execution. A miner can believe uORE is being repriced and still choose not to mine a bad board.
+
+Reusable command snippet:
+
+```text
+!easymode — Below-spot mining windows are regimes, not promises. When ORE attention rises, production cost and competition can rise too. Check ore.fyi, size for runway, and be willing to shrink, wait, stake, or buy spot instead of forcing yesterday's easy board.
+```
