@@ -91,6 +91,19 @@ The first goal is not to maximize upside. The first goal is to make mining feel 
 - **Motherlode chance:** 1/625 per round — random upside, not something you can schedule
 - **Production cost:** check ore.fyi before each run; if it is above ORE spot price, mining may be worse than buying unless you are deliberately paying for learning, uORE yield, or jackpot variance
 
+## Common tokenomics questions
+
+New miners often onboard friends who carry old crypto scars. If someone compares ORE to Terra/Luna because they hear "yield" or see a token scanner mark ORE as "mintable," slow the conversation down and explain the mechanism.
+
+The simple distinction:
+
+- Terra/Luna depended on an algorithmic stablecoin peg and reflexive mint/redeem mechanics.
+- ORE is mined through a mining program; it is not minting extra supply to defend a dollar peg or market price.
+- A "mintable" scanner flag needs context. For ORE, it points to mining emission mechanics, not arbitrary public inflation.
+- For serious diligence, point people to official ORE resources and source/program details instead of relying only on a scanner label.
+
+This does not mean miners should hand-wave every risk away. The real beginner questions are production cost, liquidity, claim fees, hold time, and whether the miner understands why they are mining instead of buying. Answer those directly.
+
 ## Common beginner mistakes
 
 - Mining fewer than 25 tiles — you're gambling, not mining

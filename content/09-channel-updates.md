@@ -2015,3 +2015,29 @@ Captured 28 new messages from 2026-05-25T12:36:49.694000+00:00 through 2026-05-2
 
 !marathonminer — If SOL is tight, do not concentrate risk into a few hot rounds. Deploy smaller across the board, check ore-stats for your own history, compare production cost on ore.fyi, and let low-deploy windows plus refinement APR support the uORE thesis over time.
 ```
+
+## 2026-05-25 Discord Update — Terra/Luna objections and mintable-token scanner flags
+
+Captured 16 new messages from 2026-05-25T17:27:53.592000+00:00 through 2026-05-25T18:14:58.665000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (8), alancrean (6), Ni | triad (1), OREillions⛏️ (1).
+
+**Themes detected:** tokenomics education, Terra/Luna comparisons, mint authority scanner warnings, skeptical-newcomer onboarding.
+
+**Sentiment read:** constructive and defensive in the useful sense. The channel took a skeptical onboarding question seriously instead of dismissing it as FUD, then translated it into a mechanism-level answer that can help miners explain ORE to people who have old crypto scar tissue.
+
+**Notable miner story:** alancrean was trying to onboard crypto people who were nervous because "yield" plus "mintable" can remind them of Terra/Luna. That is exactly the kind of question Thep's education hub should preserve: the miner is not attacking the project; he is asking for better language so he can answer a real objection outside the channel.
+
+**Education signal:** do not answer "is ORE like Terra/Luna?" with vibes. Answer the mechanism. Terra/Luna's danger came from an algorithmic stablecoin peg and reflexive mint/redeem loop. ORE's educational distinction is that mining emissions come through the mining program; ORE is not printing extra supply to defend a dollar peg or a market price. That should become a standard newcomer explainer.
+
+**Mintable-flag signal:** scanner labels such as "mintable" need context. In ORE's case, the beginner-safe wording is: mintability is tied to mining emission mechanics, not permission for arbitrary inflation. Fronk also pointed to the program being frozen and framed the live emission around roughly 1.2 ORE per minute with a 2 ORE per minute maximum. Keep that as a dated channel note and point serious readers to official docs/source when they need the current parameter proof.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!luna — ORE is not Terra/Luna. Terra's risk came from an algorithmic stablecoin peg and reflexive LUNA minting when UST broke. ORE mining does not print extra tokens to defend price; miners compete for scheduled emissions through the mining program.
+
+!mintable — A token scanner flagging ORE as mintable means ORE is emitted through the mining program. It does not mean a random wallet can mint unlimited ORE. Explain the program parameters, point people to official docs/source, and separate "mining emission" from "unbounded mint authority."
+
+!supplyfud — When someone asks if ORE can death spiral, answer the mechanism, not the mood: no dollar peg, no UST-style reflexive mint/redeem loop, and no price-defense printing. The risk to discuss is mining economics, production cost, liquidity, and patience, not a Terra-style peg collapse.
+```

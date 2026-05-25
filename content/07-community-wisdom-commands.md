@@ -1044,3 +1044,25 @@ Use these commands when a newcomer wants settings before they can explain budget
 
 !fieldtest — Spreadsheet math helps, but live mining reveals crowding, rhythm, droughts, and lucky clusters. Test small, log enough rounds to learn something, and change one variable at a time so the lesson survives the variance.
 ```
+
+---
+
+## Update — 2026-05-25: Terra/Luna and mintable-token objections
+
+Alancrean brought a useful onboarding problem into the mining room: crypto people who remember Terra/Luna may hear "yield" and "mintable" and assume the same reflexive death-spiral risk. Fronk's answer gives the Almanac a reusable distinction:
+
+- Terra/Luna centered on an algorithmic stablecoin peg and reflexive supply expansion when the peg broke.
+- ORE mining does not mint extra tokens to defend a dollar peg or price floor.
+- ORE emission comes through the mining program and its configured parameters.
+- A scanner saying "mintable" is not the same as saying anyone can inflate the token at will.
+- The educational answer should separate "mintable because mining emissions exist" from "unbounded mint authority."
+
+Use these when a newcomer is trying to onboard skeptical crypto friends:
+
+```text
+!luna — ORE is not Terra/Luna. Terra's risk came from an algorithmic stablecoin peg and reflexive LUNA minting when UST broke. ORE mining does not print extra tokens to defend price; miners compete for scheduled emissions through the mining program.
+
+!mintable — A token scanner flagging ORE as mintable means ORE is emitted through the mining program. It does not mean a random wallet can mint unlimited ORE. Explain the program parameters, point people to official docs/source, and separate "mining emission" from "unbounded mint authority."
+
+!supplyfud — When someone asks if ORE can death spiral, answer the mechanism, not the mood: no dollar peg, no UST-style reflexive mint/redeem loop, and no price-defense printing. The risk to discuss is mining economics, production cost, liquidity, and patience, not a Terra-style peg collapse.
+```
