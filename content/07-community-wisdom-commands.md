@@ -1066,3 +1066,15 @@ Use these when a newcomer is trying to onboard skeptical crypto friends:
 
 !supplyfud — When someone asks if ORE can death spiral, answer the mechanism, not the mood: no dollar peg, no UST-style reflexive mint/redeem loop, and no price-defense printing. The risk to discuss is mining economics, production cost, liquidity, and patience, not a Terra-style peg collapse.
 ```
+
+---
+
+## Update — 2026-05-26: hit-streak sizing hygiene
+
+Brabus' quick hit-streak report is useful command-bank material because it keeps both sides of mining culture intact: celebrate the live win, then preserve the risk context before anyone copies the size. A miner running **0.1 SOL per round** is taking a real exposure position, not proving that every wallet should scale to that setting.
+
+Use this when a miner posts consecutive hits, nearly consecutive hits, or a green screenshot tied to a larger deploy:
+
+```text
+!hitstreak — A two-hit streak is morale, not a preset. Log SOL per round, tile count, budget runway, production cost, reward type, and fees before copying the size. If 0.1 SOL/round would panic-drain your bankroll during a blank stretch, scale down.
+```

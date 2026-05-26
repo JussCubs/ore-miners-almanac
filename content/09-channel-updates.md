@@ -2057,3 +2057,21 @@ Captured 1 new messages from 2026-05-26T05:07:39.814000+00:00 through 2026-05-26
 ```text
 !whyorequick — TLDR: miners like ORE because it turns token issuance into open competition, patience, and story. Learn the math before sizing up, but do not miss the simple reason the channel stays active: people enjoy mining something with lore.
 ```
+
+## 2026-05-26 Discord Update — Brabus hit-streak and sizing reminder
+
+Captured 1 new messages from 2026-05-26T12:10:26.150000+00:00 through 2026-05-26T12:10:26.150000+00:00.
+
+**Most active voices:** Brabus (1).
+
+**Sentiment read:** upbeat, sparse, and story-forward. The channel did not add a long strategy thread in this capture, but it did produce a useful live-miner report: a larger per-round setup can create memorable hit-streak moments when conditions and variance line up.
+
+**Notable miner story:** Brabus reported hitting again, nearly two in a row, while deploying **0.1 SOL per round**. Preserve it as a morale beat and field note, not a beginner prescription. Hit-streak posts are part of what makes mining feel alive, but they still need the budget context around them.
+
+**Strategy signal:** `0.1 SOL/round` is a real sizing lever. The education move is to translate a green screenshot into a journal entry: total budget, tile count, production cost, reward type, fees, rounds survived, and whether the setup can handle a blank stretch after the streak cools off. The streak proves exposure; it does not prove the size is safe for every miner.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!hitstreak — A two-hit streak is morale, not a preset. Log SOL per round, tile count, budget runway, production cost, reward type, and fees before copying the size. If 0.1 SOL/round would panic-drain your bankroll during a blank stretch, scale down.
+```
