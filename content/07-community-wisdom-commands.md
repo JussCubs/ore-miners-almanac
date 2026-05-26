@@ -1078,3 +1078,15 @@ Use this when a miner posts consecutive hits, nearly consecutive hits, or a gree
 ```text
 !hitstreak — A two-hit streak is morale, not a preset. Log SOL per round, tile count, budget runway, production cost, reward type, and fees before copying the size. If 0.1 SOL/round would panic-drain your bankroll during a blank stretch, scale down.
 ```
+
+---
+
+## Update — 2026-05-26: third-solo runway framing
+
+Brabus' later third-solo note upgrades the same lesson from "hit streak" to "case study." A miner spending about **0.1 SOL per round** and **3.5-4 SOL total** can produce a memorable solo-win day, but that is a budgeted exposure plan, not a universal recommendation.
+
+Use this when a new miner sees a solo block and asks for the exact setting:
+
+```text
+!thirdsolo — A third solo is great lore, but the sizing note matters more than the screenshot. If a miner is spending 0.1 SOL/round and 3.5-4 SOL total, log round count, tiles, production cost, fees, and dry-stretch runway before treating the win as a repeatable setting.
+```

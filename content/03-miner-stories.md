@@ -73,3 +73,11 @@ The prompt was simple: what should an educational video cover besides the basic 
 - why more sophisticated capital may care about mining as a competitive, capital-deployment game.
 
 That is a useful evolution in the miner story arc. First the room collected origin stories. Then it collected tactics. Now it is building a syllabus.
+
+---
+
+## Update — 2026-05-26: Brabus gives the solo-win story a budget label
+
+Brabus added a clean live-miner story for the archive: a third solo in one day, with the useful detail that the run was using about **0.1 SOL per round** and roughly **3.5-4 SOL total** on one miner.
+
+That is the right kind of story for Thep's hub because it keeps the win and the risk in the same frame. New miners should see the excitement of a solo block, but they should also see the budget that kept the miner alive long enough for the solo to appear. The lesson is not "copy Brabus." The lesson is: write the setup down, know the burn rate, and make sure the wallet can survive the blanks between the good screenshots.

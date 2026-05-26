@@ -2075,3 +2075,21 @@ Captured 1 new messages from 2026-05-26T12:10:26.150000+00:00 through 2026-05-26
 ```text
 !hitstreak — A two-hit streak is morale, not a preset. Log SOL per round, tile count, budget runway, production cost, reward type, and fees before copying the size. If 0.1 SOL/round would panic-drain your bankroll during a blank stretch, scale down.
 ```
+
+## 2026-05-26 Discord Update — Brabus third solo and bankroll context
+
+Captured 6 new messages from 2026-05-26T19:31:31.866000+00:00 through 2026-05-26T19:35:44.451000+00:00.
+
+**Most active voices:** Brabus (5), RNA(•‿•) (1).
+
+**Sentiment read:** celebratory and useful. The channel got another clean solo-win story, but the better Almanac value is the attached sizing context: a miner can celebrate a third solo while still giving enough budget detail for new miners to understand that the setup is a commitment, not a magic preset.
+
+**Notable miner story:** Brabus reported his **third solo** of the day after deploying roughly **3.5-4 SOL total** to one miner at about **0.1 SOL per round**. The solo block paid **1.0000 ORE with no split**. Preserve the win as lore, but preserve the spend rate with it; the story teaches exposure, bankroll, and variance at the same time.
+
+**Strategy signal:** `0.1 SOL/round` can produce memorable solo/top-miner moments when the miner stays exposed through enough rounds. It can also drain a small wallet quickly. The education hub should frame this as a case study in runway math: total SOL committed, round count, tile coverage, live production cost, and whether the wallet could survive a dry stretch after the highlight.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!thirdsolo — A third solo is great lore, but the sizing note matters more than the screenshot. If a miner is spending 0.1 SOL/round and 3.5-4 SOL total, log round count, tiles, production cost, fees, and dry-stretch runway before treating the win as a repeatable setting.
+```
