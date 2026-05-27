@@ -2145,3 +2145,25 @@ Captured 6 new messages from 2026-05-27T00:33:11.138000+00:00 through 2026-05-27
 
 !analytics — Start with ore.fyi and Blockworks for ORE market/protocol analytics. For personal mining and PnL-style review, check ore-stats.com/portfolio, hawg.win/miners, my-ore.com, and ore-mining.xyz. Use more than one source before changing deploy size.
 ```
+
+## 2026-05-27 Discord Update — bad-day review and slow-steady discipline
+
+Captured 5 new messages from 2026-05-27T07:50:49.686000+00:00 through 2026-05-27T07:56:36.843000+00:00.
+
+**Most active voices:** Rick (4), nftimm (1).
+
+**Themes detected:** rough-session PnL, back-to-back win temptation, variance discipline, slow-and-steady miner psychology.
+
+**Sentiment read:** sober but useful. The channel did not add a new technical setting in this capture; it added the emotional side of mining education. A miner can have a painful session, know exactly how much SOL went in, and still feel the urge to keep chasing because only a few big wins would make the day feel whole.
+
+**Miner story:** Rick called it a bad day in the mines after spending about **8 SOL** to mine **4.1 ORE**, then joked that he would need **3-4 ORE back-to-back** to make it feel right. nftimm answered with the better rule: **slow and steady**. Preserve this as a clean loss-review story, not a reason to chase size. The useful lesson is the gap between "I know my numbers" and "I am emotionally ready to stop."
+
+**Strategy signal:** rough sessions should trigger review, not revenge mining. A miner should compare SOL spent, ORE/uORE received, production cost, fees, reward source, and remaining budget before changing deploy size. If the plan requires several back-to-back wins just to feel acceptable, the next action is usually shrink, pause, or relabel the session as entertainment capital.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!badday — A bad day in the mines is a review trigger, not a revenge trigger. Write down SOL spent, ORE/uORE mined, fees, production cost, reward source, and remaining runway before resizing. If you need 3-4 big wins in a row to feel whole, shrink or pause.
+
+!slowsteady — Slow and steady means staying solvent long enough for variance and uORE patience to matter. Size for many rounds, not for making today's loss back in one swing.
+```

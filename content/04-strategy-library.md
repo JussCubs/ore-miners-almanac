@@ -870,3 +870,27 @@ Reusable command snippet:
 ```text
 !easymode — Below-spot mining windows are regimes, not promises. When ORE attention rises, production cost and competition can rise too. Check ore.fyi, size for runway, and be willing to shrink, wait, stake, or buy spot instead of forcing yesterday's easy board.
 ```
+
+---
+
+## Update — 2026-05-27: bad-day review before resizing
+
+The latest rough-session note adds a practical stop-rule layer to the strategy library. Rick's recap was simple enough to teach from: about **8 SOL** spent for **4.1 ORE**, followed by the feeling that it would take several back-to-back wins to repair the day. That is exactly when miners need a written review process before they touch deploy size again.
+
+When a session feels bad, run the post-session checklist before mining the next window:
+
+- total SOL spent, including fees;
+- ORE/uORE mined and whether rewards came from split, top-miner, or motherlode variance;
+- live production cost during the session;
+- remaining SOL runway at the same settings;
+- whether the next trade is part of the plan or just an attempt to win back the day.
+
+The rule is not "never keep mining after a loss." The rule is to make the next session smaller, calmer, or clearly budgeted if the current thesis only works by hitting multiple big wins in a row.
+
+Reusable command snippets:
+
+```text
+!badday — A bad day in the mines is a review trigger, not a revenge trigger. Write down SOL spent, ORE/uORE mined, fees, production cost, reward source, and remaining runway before resizing. If you need 3-4 big wins in a row to feel whole, shrink or pause.
+
+!slowsteady — Slow and steady means staying solvent long enough for variance and uORE patience to matter. Size for many rounds, not for making today's loss back in one swing.
+```

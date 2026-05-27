@@ -1121,3 +1121,17 @@ Use this when a miner asks where to check production cost, personal performance,
 ```
 
 Reference links: <https://ore.fyi/>, <https://blockworks.com/analytics/ore>, <https://www.ore-stats.com/portfolio>, <https://hawg.win/miners>, <https://www.my-ore.com/>, <https://ore-mining.xyz/>.
+
+---
+
+## Update — 2026-05-27: bad-day review commands
+
+Rick's "bad day in the mines" note turns into a useful command pair because it names the moment when miners are most likely to make the next mistake: after a real loss, while imagining the back-to-back wins needed to erase it.
+
+Use this when a miner posts a painful session recap, especially when the next thought is to increase size or chase the day back:
+
+```text
+!badday — A bad day in the mines is a review trigger, not a revenge trigger. Write down SOL spent, ORE/uORE mined, fees, production cost, reward source, and remaining runway before resizing. If you need 3-4 big wins in a row to feel whole, shrink or pause.
+
+!slowsteady — Slow and steady means staying solvent long enough for variance and uORE patience to matter. Size for many rounds, not for making today's loss back in one swing.
+```
