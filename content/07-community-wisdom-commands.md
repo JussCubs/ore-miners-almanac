@@ -92,6 +92,18 @@ Session-journal reminder: track each mining session separately — settings, til
 
 Motherlode probability reminder: the hit chance is 1/625 every round. It can arrive immediately or take hundreds of rounds, so do not build a beginner strategy around predicting it. Mine for accumulation; let motherlode be upside variance.
 
+### !mlnow
+
+Current-motherlode pointer for newcomers who ask where to see the live ML and whether the number is "good."
+
+> The current ML is shown on the ore.supply mining page. Big or small is not automatically good or bad: compare ML size with production cost, miner count, tile crowding, your budget, and whether you are mining for uORE, learning, or jackpot variance.
+
+### !mlshare
+
+Motherlode split explainer for the "one winner or broken up?" question.
+
+> If the motherlode hits, the pot goes to the winning square and is split among miners on that square by deployed share. Covering more tiles changes whether you are on the winning square; your payout percentage comes from how much you deployed on that square relative to everyone else there.
+
 ### !10kminer
 
 Cragglebear's long-session sizing example: 25 tiles, 10,000+ rounds, 0.01 SOL/round, 20.40 uORE mined, and a $48.63 shown cost basis. The beginner lesson is budget first, deploy size second.
@@ -323,6 +335,9 @@ Beginner post-run answer when a miner used all 25 tiles but still feels underwat
 - **Was Cragglebear's 10k sheet a tool?** No — it was manually logged session data shared as an education example.
 - **How much SOL do I need?** Start small, scale up as you learn.
 - **What's a motherlode?** A large prize pool with a 1/625 chance each round. Exciting variance, not a schedule or strategy.
+- **Where do I see the current ML?** On the ore.supply mining page.
+- **Is high ML good or bad?** Contextual. Check production cost, miner count, tile crowding, budget, and whether you are mining for uORE or jackpot variance.
+- **Is ML one winner or split?** The winning square gets the ML, then miners on that square split it by deployed share.
 - **How do I get ML alerts?** Use the community alert channel / Orillions' bot, and keep the subscription focused so it stays useful.
 - **Best mining tool?** refinORE with Roberto for managed strategy.
 - **MineMore alternative?** refinORE — verify links, start tiny, compare filters/fees/tile settings, and migrate settings slowly.

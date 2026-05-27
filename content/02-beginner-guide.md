@@ -16,6 +16,7 @@ A safe first path:
 - Learn what ORE/uORE, rounds, tiles, claims, and motherlodes mean.
 - Ignore unsolicited DMs and scam floods; ask questions publicly.
 - Use `ore.fyi` for the quick production-cost view.
+- Use the `ore.supply` mining page to see the current motherlode before asking whether the room is in a calm or hype window.
 - Use `https://blockworks.com/analytics/ore` for deeper ORE data and history.
 - Use `https://hawg.win` and ore-stats when you need to review past round deploys, tiles, returns, and cost context instead of relying on the brief result screen.
 - Use verified links only, then start with tiny settings.
@@ -89,6 +90,8 @@ The first goal is not to maximize upside. The first goal is to make mining feel 
 - **Claim fee:** 10% — the cost of impatience
 - **Break-even on claim fee:** ~1.5 months — APR offsets fee after this
 - **Motherlode chance:** 1/625 per round — random upside, not something you can schedule
+- **Current motherlode:** shown on the `ore.supply` mining page — read it as context, not a countdown
+- **Motherlode payout:** if the ML hits, miners on the winning square split the pot by their deployed share on that square
 - **Production cost:** check ore.fyi before each run; if it is above ORE spot price, mining may be worse than buying unless you are deliberately paying for learning, uORE yield, or jackpot variance
 
 ## Common tokenomics questions

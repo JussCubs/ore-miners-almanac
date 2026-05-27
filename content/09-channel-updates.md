@@ -2093,3 +2093,29 @@ Captured 6 new messages from 2026-05-26T19:31:31.866000+00:00 through 2026-05-26
 ```text
 !thirdsolo — A third solo is great lore, but the sizing note matters more than the screenshot. If a miner is spending 0.1 SOL/round and 3.5-4 SOL total, log round count, tiles, production cost, fees, and dry-stretch runway before treating the win as a repeatable setting.
 ```
+
+## 2026-05-27 Discord Update — current-ML basics and split mechanics
+
+Captured 10 new messages from 2026-05-26T21:17:26.392000+00:00 through 2026-05-26T22:13:56.926000+00:00.
+
+**Most active voices:** dogwood (6), RNA(•‿•) (1), starship_fronk⛏️ (1), BREADFAN777⛏️ (1), Hardhat Chad (1).
+
+**Themes detected:** current-motherlode discovery, beginner "good vs bad" framing, payout split mechanics, and comparable six-hour solo-session field notes.
+
+**Sentiment read:** calm, practical, and onboarding-heavy. A newcomer asked the questions every miner eventually needs answered: where is the current ML shown, how should the number be judged, and does one miner take the whole thing? The channel gave short answers instead of overcomplicating the first lesson.
+
+**Education signal:** point beginners to the `ore.supply` mining page for the live ML, then immediately frame "good vs bad" as context-dependent. A large ML can be exciting, but it can also crowd the board and raise production cost. A smaller ML in a calmer window can be easier to mine responsibly. The useful beginner habit is to pair ML size with ore.fyi production cost, miner count, tile crowding, budget runway, and the miner's goal.
+
+**Mechanics note:** Hardhat Chad gave the clean split answer: the motherlode is split between miners on the winning square. Keep the beginner wording exact: covering more tiles affects whether you are exposed to the winning square, while payout size depends on your deployed share on that winning square.
+
+**Miner story:** BREADFAN777 compared the current field note to a similar six-hour solo session with similar deploys and hits. That belongs in the storytelling layer as a pattern, not a preset: comparable runs help miners calibrate what a session can feel like, but they still need settings, production cost, reward source, fees, and dry-stretch runway before they copy the size.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!mlnow — The current ML is shown on the ore.supply mining page. Big or small is not automatically good or bad: compare ML size with production cost, miner count, tile crowding, your budget, and whether you are mining for uORE, learning, or jackpot variance.
+
+!mlshare — If the motherlode hits, the pot goes to the winning square and is split among miners on that square by deployed share. Covering more tiles changes whether you are on the winning square; your payout percentage comes from how much you deployed on that square relative to everyone else there.
+
+!sixhour — A six-hour session comparison is useful only with context. Log deploy size, tiles, production cost, reward type, fees, and blank-round runway before treating similar solo hits as a repeatable setting.
+```
