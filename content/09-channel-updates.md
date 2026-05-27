@@ -2119,3 +2119,29 @@ Captured 10 new messages from 2026-05-26T21:17:26.392000+00:00 through 2026-05-2
 
 !sixhour — A six-hour session comparison is useful only with context. Log deploy size, tiles, production cost, reward type, fees, and blank-round runway before treating similar solo hits as a repeatable setting.
 ```
+
+## 2026-05-27 Discord Update — stop rules and analytics bookmarks
+
+Captured 6 new messages from 2026-05-27T00:33:11.138000+00:00 through 2026-05-27T03:33:32.018000+00:00.
+
+**Most active voices:** BREADFAN777⛏️ (2), Majio (2), velebit1941 (1), Carl-bot (1).
+
+**Themes detected:** deploy ladders, capital stop rules, auto-reload discipline, personal mining analytics, PnL review.
+
+**Sentiment read:** practical and builder-oriented. The channel moved from "what settings are you using?" into a better lesson: settings only matter when paired with conditions, bankroll limits, enough rounds to learn from variance, and dashboards that show the full session record.
+
+**Miner story:** BREADFAN777 shared a two-week mining field note, not running 24/7 but mining most days. The setup example used 13 random autominer tiles with per-tile deploys ranging from about `0.0011 SOL` to `0.009 SOL`, or roughly `0.0143 SOL` to `0.117 SOL` per round before fixed fees. The stronger lesson was the operating rule: if losers chew through more than half the planned capital quickly, stop the session, lower deploy, widen coverage, or skip the window.
+
+**Strategy signal:** a target win rate around 50% can still include stretches of 60-70% when conditions line up, but miners should not let a good streak erase discipline. BREADFAN777's note about harvesting SOL when the session balance roughly doubles is useful: auto-reload can recycle wins back into variance unless the miner intentionally protects some profit.
+
+**Resource signal:** Majio's PnL question is exactly where the public hub should route miners to analytics instead of guessing from screenshots. Pair market/protocol analytics such as ore.fyi and Blockworks with personal mining tools such as ore-stats, hawg.win, my-ore, and ore-mining.xyz.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!capitalstop — Set the session budget before mining. If a setup burns through 50%+ of planned capital quickly, pause, lower deploy, widen coverage, or skip the window. Patience only works if you still have SOL after the bad stretch.
+
+!trackpnl — PnL is not only the last round result. Compare SOL spent, SOL returned, ORE/uORE earned, fees, production cost, and current ORE/uORE value. Use personal mining dashboards for history, then decide whether the setup beat buying spot.
+
+!analytics — Start with ore.fyi and Blockworks for ORE market/protocol analytics. For personal mining and PnL-style review, check ore-stats.com/portfolio, hawg.win/miners, my-ore.com, and ore-mining.xyz. Use more than one source before changing deploy size.
+```

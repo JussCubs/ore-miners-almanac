@@ -1105,3 +1105,19 @@ Use this when a new miner sees a solo block and asks for the exact setting:
 ```text
 !thirdsolo — A third solo is great lore, but the sizing note matters more than the screenshot. If a miner is spending 0.1 SOL/round and 3.5-4 SOL total, log round count, tiles, production cost, fees, and dry-stretch runway before treating the win as a repeatable setting.
 ```
+
+---
+
+## Update — 2026-05-27: analytics links for PnL questions
+
+Majio asked where to track PnL, and Carl-bot surfaced the link cluster that should stay near the command bank. This is a good reusable answer because it separates market/protocol analytics from personal mining analytics instead of pretending one dashboard answers every question.
+
+Use this when a miner asks where to check production cost, personal performance, PnL, or recent mining history:
+
+```text
+!analytics — Start with ore.fyi and Blockworks for ORE market/protocol analytics. For personal mining and PnL-style review, check ore-stats.com/portfolio, hawg.win/miners, my-ore.com, and ore-mining.xyz. Use more than one source before changing deploy size.
+
+!trackpnl — PnL is not only the last round result. Compare SOL spent, SOL returned, ORE/uORE earned, fees, production cost, and current ORE/uORE value. Use personal mining dashboards for history, then decide whether the setup beat buying spot.
+```
+
+Reference links: <https://ore.fyi/>, <https://blockworks.com/analytics/ore>, <https://www.ore-stats.com/portfolio>, <https://hawg.win/miners>, <https://www.my-ore.com/>, <https://ore-mining.xyz/>.

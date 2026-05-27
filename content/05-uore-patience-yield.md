@@ -485,3 +485,27 @@ Reusable command snippet:
 ```text
 !marathonminer — If SOL is tight, do not concentrate risk into a few hot rounds. Deploy smaller across the board, check ore-stats for your own history, compare production cost on ore.fyi, and let low-deploy windows plus refinement APR support the uORE thesis over time.
 ```
+
+---
+
+## Update — 2026-05-27: stop rules make patience possible
+
+BREADFAN777's May 27 field note belongs in the uORE patience chapter because it puts discipline before bravado. The miner described changing deploy size with conditions, stopping a session after quickly losing more than half the planned capital, trying lower deploy or more tile coverage, and sometimes choosing not to mine at all when the board feels bad.
+
+That is the practical version of "mining is a marathon." A patient miner still needs hard stop rules. Without them, a miner can burn the budget before uORE/refinement, better production-cost windows, or normal variance have time to matter.
+
+The useful ladder from the note:
+
+- 13 random tiles can be used as a focused autominer setup;
+- per-tile deploy examples ranged from about `0.0011 SOL` to `0.009 SOL`;
+- that implies about `0.0143 SOL` to `0.117 SOL` per round before fixed fees;
+- a minimum round target, such as 20 rounds, keeps the test from being judged by one noisy hit or miss;
+- when a good run roughly doubles the SOL balance, harvesting some SOL can protect the win before variance takes it back.
+
+Reusable command snippets:
+
+```text
+!capitalstop — Set the session budget before mining. If a setup burns through 50%+ of planned capital quickly, pause, lower deploy, widen coverage, or skip the window. Patience only works if you still have SOL after the bad stretch.
+
+!harvestsol — Good runs end. If a mining session roughly doubles the SOL balance, consider harvesting some SOL instead of letting auto-reload give it all back to variance. Lock the lesson, then decide whether the next session deserves fresh risk.
+```

@@ -243,3 +243,24 @@ Reusable UI copy:
 ```text
 Starter mode uses all 25 tiles with low deploy so you can learn before scaling. Watch production cost, reward source, fees, buyback share, APR, and runway together. If you cannot explain the setup in one sentence, keep Roberto in learner mode.
 ```
+
+---
+
+## Update — 2026-05-27: Roberto should make stop rules visible
+
+BREADFAN777's May 27 sizing ladder is a product note for Roberto/refinORE, not just a miner quote. The useful behavior was not a single magic deploy. It was a condition-aware loop: change deploy size, watch early losses, stop if capital is draining too fast, try lower deploy or more coverage, and skip the session when conditions are poor.
+
+Roberto should turn that into visible controls:
+
+- show per-tile deploy and total per-round spend side by side;
+- preview 13-tile and 25-tile variants before a miner starts;
+- display a session budget, a 50% capital warning, and a hard stop option;
+- make minimum round count explicit so miners do not judge a setup from one noisy result;
+- include an auto-reload warning that explains returned SOL can be recycled back into risk;
+- offer a "harvest SOL" reminder after unusually good runs.
+
+Reusable UI copy:
+
+```text
+This strategy is condition-aware. Roberto will show total SOL per round, estimated rounds, fee drag, and a capital stop before launch. If the session burns through half the planned budget quickly, pause or shrink. If a good run doubles the balance, harvest before auto-reload gives variance another shot.
+```
