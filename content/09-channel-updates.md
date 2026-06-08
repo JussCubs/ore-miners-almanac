@@ -2167,3 +2167,40 @@ Captured 5 new messages from 2026-05-27T07:50:49.686000+00:00 through 2026-05-27
 
 !slowsteady — Slow and steady means staying solvent long enough for variance and uORE patience to matter. Size for many rounds, not for making today's loss back in one swing.
 ```
+
+## 2026-06-08 Discord Update — uORE patience, low-and-slow defaults, and variance literacy
+
+Captured 100 new messages from 2026-06-03T20:59:36.414000+00:00 through 2026-06-08T02:05:27.207000+00:00.
+
+**Most active voices:** ΣXTΛSY | Rubypool.io (21), RNA(•‿•) (18), OreBro (9), BREADFAN777⛏️ (9), Diggy ⛏️ | Independent Miner (8), LESICILIEN6237 | Solana ID ⛏️ (5), Madhatt3r (3), starship_fronk⛏️ (3).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, lore and origin stories, commands / preserving knowledge.
+
+**Sentiment read:** constructive and education-heavy. The channel is preserving mining lore while tightening repeatable explanations for new miners: what uORE patience means, why low-and-slow remains the default lane, and why variance needs enough rounds to become measurable instead of emotional.
+
+**Notable miner stories and lore:**
+
+- **BREADFAN777⛏️** framed profitability as a time-horizon question: SOL spent today can become a yield-bearing ORE/uORE position rather than an instantly profitable trade.
+- **errol.sol** described mining as feeling like a real commodity game, which is useful onboarding language for the Almanac's storytelling layer.
+- A fresh wave of pickaxe-name lore and mine-culture jokes reinforced the public hub's tone: this is education wrapped in miner identity, not a dry FAQ.
+- The recent 600+ motherlode remained emotionally sticky. The useful lesson is to respect that memory without letting it force oversized deploy into weaker boards.
+
+**Strategy insights to preserve:**
+
+- "Best strategy" is context-dependent. A setup needs budget, tile count, round target, production cost, reward goal, and stop rule before it becomes advice.
+- The default beginner lane is still 25 tiles, low deploy, and enough rounds for variance to matter. Higher-deploy ML chasing can burn quickly.
+- A 10 ORE target should include a claim plan: mine extra to cover fees immediately, or leave uORE unclaimed and let APR/refinement work.
+- Multiple accounts do not create better expected value. If the goal is lower variance, use lower deploy, more rounds, or a real team/pool structure.
+- Very few solo miners make variance work in their favor without paying a lot for the attempt. The channel is increasingly steering miners toward lower-risk, longer-term behavior.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!beststrategy — There is no universal best ORE mining preset. Name your budget, round target, tile count, production cost, uORE vs ML goal, and stop rule first. A setting without runway is just a screenshot.
+
+!uoretarget — A 10 ORE target needs a claim plan. Mine extra if you want to cover fees immediately, or mine to target and leave uORE unclaimed if you can let refinement/APR work. Do not judge the session only at the moment SOL leaves.
+
+!oneaccount — Multiple accounts do not make one miner luckier. Splitting your own bankroll can make variance harder to read without adding expected value. If you want lower variance, shrink deploy, mine more rounds, or use a team/pool setup designed for shared exposure.
+
+!mlhangover — A huge ML creates memory, not a mandate. After a 600+ ML, check the current board, production cost, miner count, and bankroll before chasing the next smaller pot. Do not let yesterday's screenshot set today's deploy.
+```

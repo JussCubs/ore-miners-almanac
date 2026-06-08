@@ -894,3 +894,29 @@ Reusable command snippets:
 
 !slowsteady — Slow and steady means staying solvent long enough for variance and uORE patience to matter. Size for many rounds, not for making today's loss back in one swing.
 ```
+
+---
+
+## Update — 2026-06-08: no universal "best" strategy
+
+The latest strategy thread sharpened a useful teaching rule: there is no single best mining setup without context. A preset only becomes a strategy after the miner can name budget, intended round count, production cost, reward goal, and emotional stop rule.
+
+Keep the beginner lane plain:
+
+- start with all 25 tiles when learning;
+- keep deploy low enough to mine for many rounds, not only for one exciting window;
+- treat motherlode chasing as a higher-burn mode, not the default;
+- use team or pool-style mining when the goal is lower variance and partial uORE exposure;
+- judge results over thousands of rounds when testing a low-and-slow thesis.
+
+The useful nuance is that low-and-slow is not passive because it is lazy. It is active bankroll management. A miner trying to make variance "even out" needs enough attempts for the math to matter, and most failed strategies are simply too much deploy over too few rounds.
+
+Reusable command snippets:
+
+```text
+!beststrategy — There is no universal best ORE mining preset. Name your budget, round target, tile count, production cost, uORE vs ML goal, and stop rule first. A setting without runway is just a screenshot.
+
+!lowandslow10k — Low-and-slow works because it gives variance enough rounds to normalize. Deploy small across the board, track production cost, and think in thousands of rounds, not one hot window.
+
+!teamvariance — If solo variance is too sharp, team or pool-style mining can lower variance and still give partial uORE exposure. Use it as a risk-control tool, not as proof that one wallet should chase bigger deploy.
+```

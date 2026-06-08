@@ -1135,3 +1135,21 @@ Use this when a miner posts a painful session recap, especially when the next th
 
 !slowsteady — Slow and steady means staying solvent long enough for variance and uORE patience to matter. Size for many rounds, not for making today's loss back in one swing.
 ```
+
+---
+
+## Update — 2026-06-08: ML hangover and variance myths
+
+The command bank needs language for the day after a huge motherlode. A 600+ ML gives the channel a memorable story, but it also leaves miners emotionally primed to keep deploying when the next board is smaller or worse. That is the exact moment to answer with stop-rule language instead of hype.
+
+The thread also produced a clean correction for a common variance myth: splitting one miner into multiple accounts does not create extra expected value. It can make the miner feel more active while making variance harder to interpret. If the goal is lower variance, use a real team/pool approach or simply lower deploy and increase round count.
+
+Use these when the channel gets new questions about chasing, holders vs rinsers, or account splitting:
+
+```text
+!mlhangover — A huge ML creates memory, not a mandate. After a 600+ ML, check the current board, production cost, miner count, and bankroll before chasing the next smaller pot. Do not let yesterday's screenshot set today's deploy.
+
+!oneaccount — Multiple accounts do not make one miner luckier. Splitting your own bankroll can make variance harder to read without adding expected value. If you want lower variance, shrink deploy, mine more rounds, or use a team/pool setup designed for shared exposure.
+
+!holders — The long thesis is mine, hold, and let uORE/patience work. Rinsing every small win can feel active, but holders can outperform if ORE/uORE reprices and they avoid unnecessary claims, fees, and impatience.
+```

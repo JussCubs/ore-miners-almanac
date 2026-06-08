@@ -509,3 +509,33 @@ Reusable command snippets:
 
 !harvestsol — Good runs end. If a mining session roughly doubles the SOL balance, consider harvesting some SOL instead of letting auto-reload give it all back to variance. Lock the lesson, then decide whether the next session deserves fresh risk.
 ```
+
+---
+
+## Update — 2026-06-08: uORE targets and patience yield
+
+The latest uORE thread gives Thep a clean beginner lesson: a target like "mine 10 ORE" is not only a round-count goal. It is a claim-plan and patience-plan question.
+
+Two target styles are worth teaching:
+
+- mine above the target if the miner wants to cover the claim/refinement fee immediately;
+- mine to the target and let unclaimed uORE keep working if the miner can wait.
+
+The channel's strongest framing was that unclaimed uORE behaves like passive mining exposure. It can collect value from the protocol while less patient miners claim, rotate, or sell too quickly. That does not make every entry profitable on day one. It means the PnL review should include hold time, refinement APR, claim costs, current uORE value, and whether the miner can avoid forcing a bad claim.
+
+The practical profitability answer:
+
+- new miners often start slightly underwater unless their bot and timing are sharp;
+- the thesis is not instant SOL printing;
+- the miner is converting SOL into a yield-bearing ORE/uORE position;
+- time and patience can lower effective cost, but only if the miner survives long enough to let them work.
+
+Reusable command snippets:
+
+```text
+!uoretarget — A 10 ORE target needs a claim plan. Mine extra if you want to cover fees immediately, or mine to target and leave uORE unclaimed if you can let refinement/APR work. Do not judge the session only at the moment SOL leaves.
+
+!leaveunclaimed — Leaving uORE unclaimed can lower effective cost over time because patience captures the yield/refinement side. Check APR, claim cost, production cost, and your need for liquidity before rushing the claim.
+
+!profitwindow — Mining is not instant SOL printing. Early PnL can look negative while SOL has been converted into uORE exposure. Profitability depends on production cost, fees, hold time, APR/refinement, and whether you can avoid panic-claiming.
+```
