@@ -1153,3 +1153,15 @@ Use these when the channel gets new questions about chasing, holders vs rinsers,
 
 !holders — The long thesis is mine, hold, and let uORE/patience work. Rinsing every small win can feel active, but holders can outperform if ORE/uORE reprices and they avoid unnecessary claims, fees, and impatience.
 ```
+
+---
+
+## Update — 2026-06-09: tiny-deploy hit framing
+
+Jody's question about the lowest total deploy to recently earn a `+1` is exactly the kind of curiosity a public education hub should preserve. It asks for evidence, not vibes. The channel did not have an easy lookup, but zepipes added a useful field note: **0.0176 SOL total deployed across 15 blocks** had just hit a `+1`.
+
+Use this when newcomers see a tiny win and want to copy the setting:
+
+```text
+!tinyhit — A tiny deploy can still hit. Example field note: 0.0176 SOL total across 15 blocks earned a +1. Treat that as proof that small miners can participate, not as a magic setting. Log tile count, round count, production cost, fees, and runway before copying it.
+```

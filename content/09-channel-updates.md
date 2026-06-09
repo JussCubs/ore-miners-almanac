@@ -2204,3 +2204,29 @@ Captured 100 new messages from 2026-06-03T20:59:36.414000+00:00 through 2026-06-
 
 !mlhangover — A huge ML creates memory, not a mandate. After a 600+ ML, check the current board, production cost, miner count, and bankroll before chasing the next smaller pot. Do not let yesterday's screenshot set today's deploy.
 ```
+
+## 2026-06-09 Discord Update — tiny-deploy +1 evidence
+
+Captured 8 new messages from 2026-06-09T16:24:35.109000+00:00 through 2026-06-09T17:11:00.075000+00:00.
+
+**Most active voices:** jody (4), ΣXTΛSY | Rubypool.io (2), starship_fronk⛏️ (1), zepipes | accumulana.com ⛏️ (1).
+
+**Themes detected:** low-and-slow 25 tile mining.
+
+**Sentiment read:** quiet but useful. The channel was doing the small-data work that makes Thep's education hub better: asking what evidence exists, admitting when a query is not easy to answer, then adding a live proof point instead of overclaiming.
+
+**Notable miner story:**
+
+- **jody** asked for a way to find the lowest total deployment that recently earned a `+1`. The room did not have an easy lookup, which is itself a useful analytics gap for the hub to remember.
+- **zepipes** supplied a concrete field note: a `+1` hit with **0.0176 SOL total deployed across 15 blocks**. That is a tiny-deploy proof point, not a preset to blindly copy.
+
+**Strategy insight to preserve:**
+
+- Tiny deploys can still produce visible wins, but the right takeaway is runway and evidence collection. A low total deployment buys more attempts and more time in the mines; it does not make variance disappear.
+- When miners ask for "lowest deploy that hit," the education answer should separate two questions: historical curiosity versus actionable strategy. The actionable version asks for deploy size, tile count, round count, production cost, fees, and whether the result was a one-off hit or part of a logged session.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!tinyhit — A tiny deploy can still hit. Example field note: 0.0176 SOL total across 15 blocks earned a +1. Treat that as proof that small miners can participate, not as a magic setting. Log tile count, round count, production cost, fees, and runway before copying it.
+```

@@ -62,6 +62,19 @@ Teach it as a fallback, not a hack:
 
 The rule of thumb: dust fallback is for staying in the game and collecting data while waiting for better windows. It is not permission to leave an uncapped miner running blindly.
 
+### Tiny-deploy +1 proof points
+
+A June 9 analytics question sharpened a useful teaching distinction. Jody asked whether anyone could find the lowest recent total deployment that still earned a `+1`; the room did not have an easy lookup, but zepipes added a live field note: **0.0176 SOL total deployed across 15 blocks** had just hit a `+1`.
+
+Teach this as proof of participation, not proof of a magic setting:
+
+- tiny miners can still show up in the result distribution;
+- low total deploy buys runway and learning time, which is the real beginner edge;
+- the `+1` result needs context before it becomes strategy evidence: tile count, round count, production cost, fees, session length, and whether the miner could repeat the setup calmly;
+- a single tiny hit is encouraging lore, but a logged tiny session is education.
+
+When a newcomer asks "what is the lowest deploy that can win," answer with curiosity and caution: yes, small can hit, but the useful question is whether the size can survive enough rounds to make the miner smarter.
+
 ## Long-term stacker (David Method)
 
 Best for high-conviction miners who care about uORE exposure.
