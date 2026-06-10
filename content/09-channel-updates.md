@@ -2358,3 +2358,21 @@ Captured 7 new messages from 2026-06-10T13:17:25.617000+00:00 through 2026-06-10
 ```text
 !realworldrails - Real-world Solana rails matter as context, not as guaranteed ORE upside. WSOP/MoonPay tournament buy-ins are a useful example: crypto can be payment infrastructure before it is a price catalyst. Keep mining decisions tied to budget, variance, emissions, and treasury math.
 ```
+
+## 2026-06-10 Discord Update - cross-source verification
+
+Captured 1 new message from 2026-06-10T16:09:54.580000+00:00.
+
+**Most active voices:** ΣXTΛSY | Rubypool.io (1).
+
+**Themes detected:** source verification, Solana payment narratives, actual-use context.
+
+**Sentiment read:** constructive source-checking. The channel continued the WSOP/MoonPay/Solana payment-rails thread by looking for repeated public references instead of letting one screenshot or link become unsupported lore.
+
+**Curation note:** ΣXTΛSY | Rubypool.io noted that the WSOP/Solana item appears multiple times on the relevant X account with many Solana mentions. That strengthens the "real-world rails are being discussed publicly" context from the prior update, but it should still be framed as ecosystem evidence, not a direct ORE mining signal.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!sourcecheck — Before repeating an outside crypto/adoption claim, look for an official site, repeated official social posts, and consistent details across sources. Treat verified rails news as context; mining decisions still come back to budget, variance, emissions, and stop rules.
+```
