@@ -190,6 +190,12 @@ Tiny lottery-account framing: smaller deploys buy more rounds, giving variance m
 
 > Lottery mining works only if the size is small enough to survive. Bigger blocks can win fast but bleed fast; tiny blocks buy time for top-miner luck and motherlode variance. Pick a SOL runway first, then let the setup run long enough to mean something.
 
+### !microdust
+
+Extreme dust-deploy framing for miners asking whether `0.0001 SOL` per tile can still hit. Keep it in the runway/patience lane, not the fast-feedback lane.
+
+> 0.0001 SOL per tile is an extreme runway setting, not a quick-win preset. It can hit, and small miners have caught wins there, but judge it by rounds survived, fee drag, production cost, and patience. If you need fast feedback, size up only inside a written budget.
+
 ### !wallets
 
 Multiple-wallet clarification: extra wallets can help with withdrawals, claim isolation, cash-flow planning, and accounting, but they do not improve mining odds by themselves.

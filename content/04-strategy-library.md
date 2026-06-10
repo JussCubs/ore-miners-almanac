@@ -661,6 +661,8 @@ The reusable line: **tools can automate execution, but the edge still comes from
 
 A May 17 late-session exchange put numbers on the low-and-slow fallback newer miners keep asking about. OGLilsBTC had only about **0.5 SOL** and asked whether a “super duper low” 25-block autominer setup made sense. Fronk gave his own reference point — **0.00015 SOL x 25 tiles** — while making room for other miners to prefer different lotto-style settings.
 
+A June 10 check-in reinforced the same lesson at the even smaller edge of the range. A miner who usually ran around `0.012` tested a `0.0001`-style setting and asked how realistic a hit might be. The useful answer is not a probability promise. It is a runway frame: at that size, the miner is buying time, optionality, and a chance to stay emotionally calm through long blank stretches.
+
 The important lesson is not that `0.00015` is a magic number. It is a sizing philosophy:
 
 - keep **25 tiles** when the goal is to remove tile-selection misses from the beginner equation;
@@ -675,6 +677,8 @@ Reusable command snippet:
 
 ```text
 !dust25 — A tiny 25-tile setup is for runway and solo/top-miner optionality, not guaranteed profit. Example community settings can be around 0.00015 SOL per tile, but size from your own wallet: keep all tiles if learning, shrink per-tile spend until you can survive many rounds, and expect long blank stretches.
+
+!microdust — 0.0001 SOL per tile is an extreme runway setting, not a quick-win preset. It can hit, and small miners have caught wins there, but judge it by rounds survived, fee drag, production cost, and patience. If you need fast feedback, size up only inside a written budget.
 ```
 
 ### Personal cost basis and top-miner runway

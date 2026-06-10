@@ -2230,3 +2230,30 @@ Captured 8 new messages from 2026-06-09T16:24:35.109000+00:00 through 2026-06-09
 ```text
 !tinyhit — A tiny deploy can still hit. Example field note: 0.0176 SOL total across 15 blocks earned a +1. Treat that as proof that small miners can participate, not as a magic setting. Log tile count, round count, production cost, fees, and runway before copying it.
 ```
+
+## 2026-06-10 Discord Update — micro-deploy patience check
+
+Captured 3 new messages from 2026-06-09T23:22:55.589000+00:00 through 2026-06-09T23:31:57.623000+00:00.
+
+**Most active voices:** jody (2), Gnericvibes (1).
+
+**Themes detected:** micro-deploy sizing, tiny miner runway, low-and-slow patience.
+
+**Sentiment read:** calm and practical. The room was turning one miner's curiosity into the exact kind of teaching note the Almanac should preserve: tiny settings can participate, but they need a long time horizon.
+
+**Notable miner story:**
+
+- **jody** tested down from a usual setting around `0.012` to a much smaller `0.0001`-style deploy and asked how likely a hit is at that size.
+- **Gnericvibes** pointed back to prior community examples where miners caught hits with roughly `0.0001` deployed per tile.
+
+**Strategy insight to preserve:**
+
+- `0.0001` per tile belongs in the "maximum runway" lane, not the "fast result" lane. It can keep a miner in many more rounds, but the expected emotional experience is waiting.
+- When a miner drops size by two orders of magnitude, the useful question changes from "will it hit soon?" to "does my budget survive enough rounds for this experiment to teach me anything?"
+- Micro-deploy wins are good lore because they keep small miners included. They are not proof that every miner should copy the exact size without checking production cost, fee drag, tile count, and stop rules.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!microdust — 0.0001 SOL per tile is an extreme runway setting, not a quick-win preset. It can hit, and small miners have caught wins there, but judge it by rounds survived, fee drag, production cost, and patience. If you need fast feedback, size up only inside a written budget.
+```
