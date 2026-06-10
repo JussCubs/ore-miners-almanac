@@ -2289,3 +2289,44 @@ Captured 4 new messages from 2026-06-10T01:47:46.322000+00:00 through 2026-06-10
 
 !selectedblock — Selected block, returned SOL, and mined ORE are separate outcomes. Before calling a round broken, confirm the wallet used, whether ORE/uORE was mined, whether returned SOL auto-claimed, and what the remaining gold claim button is asking you to claim.
 ```
+
+## 2026-06-10 Discord Update - auto-reload defaults and winter conviction
+
+Captured 27 new messages from 2026-06-10T08:32:36.502000+00:00 through 2026-06-10T12:01:37.213000+00:00.
+
+**Most active voices:** seeohsee (11), ΣXTΛSY | Rubypool.io (8), Yorter (4), RNA(•‿•) (2), SpuddyA7X ⛏️ (1), Diggy ⛏️ | Independent Miner (1).
+
+**Themes detected:** auto-reload defaults, fixed-round experiments, crypto winter psychology, miner conviction, liquidity cycles, actual-use narratives.
+
+**Sentiment read:** mixed but constructive. The thread started with a real beginner/product confusion, then moved into a sober winter-cycle conversation. The useful Almanac layer is that the channel did not only vent about weak conditions; miners translated the pain into runway, discipline, redeploy planning, and long-term thesis language.
+
+**Notable miner stories:**
+
+- **seeohsee** tested the new autominer with a 3-round target, saw the estimate hit `0`, and still watched the session continue until manually stopped. **ΣXTΛSY | Rubypool.io** pointed out the key behavior change: auto-reload is now on by default. This belongs in both the command bank and Roberto product notes because it is exactly how a fixed-round beginner experiment can become confusing.
+- **SpuddyA7X ⛏️** asked the cycle-fatigue question directly: how many boom/crash cycles can crypto repeat before people write the whole thing off? That is a good prompt for the Almanac because miners need emotional risk framing, not only deploy math.
+- **seeohsee** answered with the strongest story from the batch: cycles lose a cohort of burned-out participants, but new entrants keep arriving wherever opportunity remains. Winter becomes a survival problem: stay solvent and skilled long enough for liquidity, leverage appetite, and attention to recycle.
+- **RNA(•‿•)** kept the profit-taking advice practical: cash out to pay for something or to buy more SOL and keep mining. That distinction turns "taking profit" into a planned action instead of an emotional exit.
+- **Diggy ⛏️ | Independent Miner** explicitly appreciated the long-form reflection, which is a small but important signal for Thep's hub: public education is not just settings and screenshots; miners respond to honest stories about scars, patience, and why the same core group keeps showing up.
+- **Yorter** added a broader use-case thesis: tokenized stocks/commodities, stablecoin transfers and payments, useful DePIN, cross-chain swap infrastructure, and non-sovereign digital store-of-value demand. The Almanac should treat this as long-horizon context, not as a promise that everything pumps.
+
+**Strategy and product insight to preserve:**
+
+- Auto-reload, planned rounds, estimated remaining rounds, returned SOL, and operating balance are separate concepts. Beginner copy should name them separately.
+- A fixed-round test needs a hard stop option. Otherwise "3 rounds" can look broken when the real behavior is "continue while funded."
+- Winter mining advice should focus on runway: smaller deploy, more rounds, written stop rules, and no assumption that the next board rescues the session.
+- Long-term conviction is compatible with harvesting profit. The discipline is naming whether profit is for real expenses, future redeploy, or reduced risk.
+- Cycle discussions are educational when they avoid fatalism. The actionable lesson is to survive without needing every market cycle to arrive on schedule.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!autoreload — Auto-reload can keep a miner session alive after the first estimated round target is exhausted. Check whether auto-reload is enabled, how much operating balance remains, and whether the strategy has a hard stop before assuming the round input was ignored.
+
+!roundlimit — Estimated rounds is a plan, not the whole stop rule. If the counter reaches 0 but mining continues, look for auto-reload/default continuation settings and manually stop if you only wanted a fixed test. For clean experiments, record planned rounds, actual rounds, SOL spent, ORE/uORE mined, and returned SOL.
+
+!winterrunway — Winter is a runway test. When liquidity and attention dry up, size mining so you can survive many rounds instead of needing the next board to fix everything. Tourists leave each cycle; prepared miners still need budget, patience, and a written stop rule.
+
+!redeployplan — Taking profit is not anti-mining. Cash out to pay real expenses or buy more SOL only if you name the plan first. The mistake is round-tripping wins because there was no harvest rule, no redeploy rule, and no limit on how much variance gets another shot.
+
+!actualuse — The next durable crypto bid likely comes from actual use, not every token pumping. Watch tokenized assets, stablecoin payments, useful DePIN, cross-chain swap infrastructure, and digital store-of-value demand; then ask whether your mining thesis survives without hype.
+```

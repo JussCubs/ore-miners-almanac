@@ -1185,3 +1185,43 @@ Use these when new miners ask why the miner UI is offering a gold claim button, 
 
 !selectedblock — Selected block, returned SOL, and mined ORE are separate outcomes. Before calling a round broken, confirm the wallet used, whether ORE/uORE was mined, whether returned SOL auto-claimed, and what the remaining gold claim button is asking you to claim.
 ```
+
+---
+
+## Update - 2026-06-10: auto-reload and round-limit confusion
+
+seeohsee's test of a three-round autominer session exposed a command-bank support issue: the miner can set an intended round count, watch estimated remaining rounds reach zero, and still see mining continue if auto-reload/default continuation behavior is active. The useful education answer is not "the input is ignored." It is that a round target, auto-reload, and available operating balance are separate controls.
+
+Use these when miners ask why a session kept going after the planned round count, or whether auto-reload can be disabled:
+
+```text
+!autoreload — Auto-reload can keep a miner session alive after the first estimated round target is exhausted. Check whether auto-reload is enabled, how much operating balance remains, and whether the strategy has a hard stop before assuming the round input was ignored.
+
+!roundlimit — Estimated rounds is a plan, not the whole stop rule. If the counter reaches 0 but mining continues, look for auto-reload/default continuation settings and manually stop if you only wanted a fixed test. For clean experiments, record planned rounds, actual rounds, SOL spent, ORE/uORE mined, and returned SOL.
+```
+
+---
+
+## Update - 2026-06-10: winter runway and redeploy discipline
+
+The later morning thread turned into a useful "why keep mining in winter?" teaching moment. Miners framed the current market as a liquidity drought: discords are quieter, risk appetite is low, and new launches feel harder. seeohsee's answer is strong Almanac material because it does not pretend winter feels good; it turns winter into a survival and discipline problem.
+
+Teaching points to preserve:
+
+- Cycles wash out tourists but also create the next cohort of entrants wherever opportunity remains.
+- Liquidity, leverage appetite, and market attention are cold-start variables; miners should size for survival until they recycle.
+- Long-term conviction still allows profit-taking. The key distinction is whether the miner has a redeploy plan or is emotionally round-tripping wins.
+- Community continuity matters. A small core group that keeps showing up can be part of the reason new miners learn instead of leaving after one bad session.
+- "Actual use" narratives to watch include tokenized assets, stablecoin payments, DePIN revenue, cross-chain swap infrastructure, and non-sovereign digital store-of-value demand.
+
+Use these when the channel turns bearish, quiet, or overly focused on one cycle:
+
+```text
+!winterrunway — Winter is a runway test. When liquidity and attention dry up, size mining so you can survive many rounds instead of needing the next board to fix everything. Tourists leave each cycle; prepared miners still need budget, patience, and a written stop rule.
+
+!redeployplan — Taking profit is not anti-mining. Cash out to pay real expenses or buy more SOL only if you name the plan first. The mistake is round-tripping wins because there was no harvest rule, no redeploy rule, and no limit on how much variance gets another shot.
+
+!cycleconviction — Crypto cycles can keep repeating because old participants burn out while new entrants arrive wherever opportunity remains. Treat that as a sizing lesson: do not bet like every cycle must rescue this session.
+
+!actualuse — The next durable crypto bid likely comes from actual use, not every token pumping. Watch tokenized assets, stablecoin payments, useful DePIN, cross-chain swap infrastructure, and digital store-of-value demand; then ask whether your mining thesis survives without hype.
+```

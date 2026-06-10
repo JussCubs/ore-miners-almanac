@@ -284,3 +284,29 @@ Reusable UI copy:
 ```text
 Returned SOL is separate from ORE mined. Roberto auto-claims returned SOL when automation can complete it, and shows a SOL-only claim when manual action is needed. If this wallet hit a selected block but mined no ORE, the gold claim button may still be for claimable returned SOL.
 ```
+
+---
+
+## Update - 2026-06-10: make round limits and auto-reload separate states
+
+seeohsee's three-round autominer test surfaced a Roberto/refinORE product note: if auto-reload is on by default, the UI needs to make that separate from the user's requested round count. A miner who enters `3 rounds`, watches estimated remaining rounds reach `0`, and then sees the session continue will reasonably think the input was ignored unless the interface names the continuation rule.
+
+Roberto should separate and label:
+
+- **planned rounds** - the user's requested test length;
+- **estimated remaining rounds** - a forecast based on current balance, fees, deploy, and returned SOL;
+- **auto-reload / continue while funded** - the behavior that can keep the session going after the initial estimate is exhausted;
+- **hard stop after planned rounds** - the beginner-friendly option for clean experiments;
+- **manual stop** - the visible escape hatch when a miner realizes the session is continuing longer than intended.
+
+Reusable UI copy:
+
+```text
+You asked Roberto to plan for 3 rounds. Auto-reload is currently on, so returned SOL or remaining operating balance can continue the session after the estimate reaches 0. Turn on Hard Stop to end after the planned rounds, or leave Auto-Reload on if you want the strategy to keep cycling while funded.
+```
+
+Support copy:
+
+```text
+Round count, remaining balance, and auto-reload are separate. If a test keeps mining after estimated rounds reaches 0, check Auto-Reload first, then stop manually or enable Hard Stop for the next run.
+```
