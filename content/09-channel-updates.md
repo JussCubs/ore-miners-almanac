@@ -2257,3 +2257,35 @@ Captured 3 new messages from 2026-06-09T23:22:55.589000+00:00 through 2026-06-09
 ```text
 !microdust — 0.0001 SOL per tile is an extreme runway setting, not a quick-win preset. It can hit, and small miners have caught wins there, but judge it by rounds survived, fee drag, production cost, and patience. If you need fast feedback, size up only inside a written budget.
 ```
+
+## 2026-06-10 Discord Update - SOL-only claim path
+
+Captured 4 new messages from 2026-06-10T01:47:46.322000+00:00 through 2026-06-10T02:03:01.031000+00:00.
+
+**Most active voices:** Elare (2), ΣXTΛSY | Rubypool.io (1), starship_fronk⛏️ (1).
+
+**Themes detected:** new miner UI, auto-claim behavior, selected-block edge cases, tiny-win lore.
+
+**Sentiment read:** short but useful support thread. The channel was doing what the Almanac needs most: turning a confusing UI moment into reusable beginner language instead of letting it disappear as one-off chat support.
+
+**Notable miner story:**
+
+- **Elare** asked whether the new miner UI can claim only SOL. That is a beginner-friendly question because returned SOL, mined ORE/uORE, and claim-state buttons are easy to blur together during an active session.
+- **starship_fronk** clarified the expected automation behavior: automine normally auto-claims returned SOL, and a manual SOL-only claim option can appear if auto-claim does not complete.
+- **Elare** then found the real wrinkle: the session had accidentally mined on a fresh wallet. No ORE was mined on that wallet, but it did hit a selected block, leaving only the gold claim button available.
+- **ΣXTΛSY | Rubypool.io** kept the earlier tiny-win discussion human with the "positive SOL on a win" joke. That kind of miner shorthand is useful lore, but the teaching layer should still translate it back into accounting language.
+
+**Strategy and product insight to preserve:**
+
+- Wallet identity matters. A result can look wrong when the miner is checking the usual wallet but accidentally used a fresh one.
+- Selected-block participation, returned SOL, and mined ORE/uORE should be documented as separate states.
+- Automine should usually reduce claim friction, but the UI still needs a clear fallback explanation for SOL-only manual claims.
+- For education videos and command replies, avoid saying "the claim button" generically. Name what is being claimed.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!claimsol — Automine normally claims returned SOL for you. If it does not, use the SOL-only claim path when the UI offers it. Check the wallet first: a fresh wallet can hit a selected block, show claimable SOL, and still have no ORE mined that round.
+
+!selectedblock — Selected block, returned SOL, and mined ORE are separate outcomes. Before calling a round broken, confirm the wallet used, whether ORE/uORE was mined, whether returned SOL auto-claimed, and what the remaining gold claim button is asking you to claim.
+```

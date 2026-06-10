@@ -1171,3 +1171,17 @@ Use this when newcomers see a tiny win and want to copy the setting:
 ```text
 !tinyhit — A tiny deploy can still hit. Example field note: 0.0176 SOL total across 15 blocks earned a +1. Treat that as proof that small miners can participate, not as a magic setting. Log tile count, round count, production cost, fees, and runway before copying it.
 ```
+
+---
+
+## Update - 2026-06-10: claim-only and selected-block edge cases
+
+The claim-button discussion belongs in the command bank because it answers a practical support question without needing a full UI walkthrough. A miner can hit a selected block, have no ORE mined on that wallet, and still see a claim action for returned SOL. That should be explained as a state distinction, not as a failed round or a mystery button.
+
+Use these when new miners ask why the miner UI is offering a gold claim button, whether they can claim only SOL, or why a fresh wallet did not show ORE after a selected-block result:
+
+```text
+!claimsol — Automine normally claims returned SOL for you. If it does not, use the SOL-only claim path when the UI offers it. Check the wallet first: a fresh wallet can hit a selected block, show claimable SOL, and still have no ORE mined that round.
+
+!selectedblock — Selected block, returned SOL, and mined ORE are separate outcomes. Before calling a round broken, confirm the wallet used, whether ORE/uORE was mined, whether returned SOL auto-claimed, and what the remaining gold claim button is asking you to claim.
+```

@@ -237,3 +237,24 @@ Reusable beginner script:
 ```text
 !newminervideo — Start new miners with the boring loop: check ore.fyi, use 25 tiles, deploy tiny enough to survive many rounds, and do not judge the session only by instant PnL. Mining is paid production plus uORE patience, not the same thing as clicking buy.
 ```
+
+---
+
+## Update - 2026-06-10: claim paths are part of beginner literacy
+
+Elare's UI question added a small but important beginner lesson: claiming returned SOL is a different mental model from mining ORE. In the new miner UI, a beginner may see a claim button after a round and assume it means the same thing every time. It does not.
+
+The clean explanation from the room: if automine is running, returned SOL should usually be auto-claimed. If it does not auto-claim, the UI can expose a SOL-only claim path. If a miner accidentally uses a fresh wallet, hits a selected block, but does not mine ORE that round, the available gold claim button can still represent claimable returned SOL from that selected-block result.
+
+Beginner takeaway: before asking whether a round "worked," confirm the wallet, reward type, and claim state:
+
+- Which wallet mined?
+- Did the wallet mine ORE/uORE, receive returned SOL, or both?
+- Was automine expected to auto-claim?
+- Is the remaining button a SOL-only claim, ORE claim, or another action?
+
+Reusable beginner script:
+
+```text
+!claimsol — Automine normally claims returned SOL for you. If it does not, use the SOL-only claim path when the UI offers it. If you mined from a fresh wallet and hit a selected block with no ORE mined, the gold claim button may still be the right claim action. Log the wallet and reward type before judging the round.
+```

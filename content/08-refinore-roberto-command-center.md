@@ -264,3 +264,23 @@ Reusable UI copy:
 ```text
 This strategy is condition-aware. Roberto will show total SOL per round, estimated rounds, fee drag, and a capital stop before launch. If the session burns through half the planned budget quickly, pause or shrink. If a good run doubles the balance, harvest before auto-reload gives variance another shot.
 ```
+
+---
+
+## Update - 2026-06-10: make claim state impossible to misread
+
+The mining channel surfaced a product note for Roberto/refinORE: returned SOL claims need clearer state language. Fronk's answer gave the intended behavior in plain English. Automine should normally auto-claim returned SOL; if it cannot, the miner should see a manual SOL-only claim option.
+
+That distinction matters because new miners may conflate three different things:
+
+- returned SOL from a selected-block result;
+- mined ORE/uORE;
+- the claim button still waiting for user action.
+
+Roberto should label those states separately, especially when the user mined from a fresh wallet or a wallet with no prior ORE history. A "no ORE mined" result can still have claimable returned SOL. The UI should say that directly instead of making the miner infer it from button color.
+
+Reusable UI copy:
+
+```text
+Returned SOL is separate from ORE mined. Roberto auto-claims returned SOL when automation can complete it, and shows a SOL-only claim when manual action is needed. If this wallet hit a selected block but mined no ORE, the gold claim button may still be for claimable returned SOL.
+```
