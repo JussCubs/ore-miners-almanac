@@ -1225,3 +1225,15 @@ Use these when the channel turns bearish, quiet, or overly focused on one cycle:
 
 !actualuse — The next durable crypto bid likely comes from actual use, not every token pumping. Watch tokenized assets, stablecoin payments, useful DePIN, cross-chain swap infrastructure, and digital store-of-value demand; then ask whether your mining thesis survives without hype.
 ```
+
+---
+
+## Update - 2026-06-10: mainstream Solana rails examples
+
+The afternoon channel briefly reacted to zepipes sharing that the World Series of Poker is using Solana-powered crypto payments through MoonPay for tournament buy-ins. The value for the command bank is not poker hype; it is a clean example miners can use when explaining "actual use" narratives without pretending every real-world integration immediately changes ORE price or mining EV.
+
+Use this when a miner asks why broader Solana adoption matters to an ORE mining thesis, or when the channel needs a grounded example of real payment rails:
+
+```text
+!realworldrails - Real-world Solana rails matter as context, not as guaranteed ORE upside. WSOP/MoonPay tournament buy-ins are a useful example: crypto can be payment infrastructure before it is a price catalyst. Keep mining decisions tied to budget, variance, emissions, and treasury math.
+```

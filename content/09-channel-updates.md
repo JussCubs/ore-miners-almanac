@@ -2330,3 +2330,31 @@ Captured 27 new messages from 2026-06-10T08:32:36.502000+00:00 through 2026-06-1
 
 !actualuse — The next durable crypto bid likely comes from actual use, not every token pumping. Watch tokenized assets, stablecoin payments, useful DePIN, cross-chain swap infrastructure, and digital store-of-value demand; then ask whether your mining thesis survives without hype.
 ```
+
+## 2026-06-10 Discord Update - WSOP Solana payment rails
+
+Captured 7 new messages from 2026-06-10T13:17:25.617000+00:00 through 2026-06-10T15:43:57.121000+00:00.
+
+**Most active voices:** deflation (3), zepipes | accumulana.com ⛏️ (2), Yorter (2).
+
+**Themes detected:** real-world Solana payments, official-source verification, actual-use narratives.
+
+**Sentiment read:** short but constructive. The channel treated a mainstream Solana payment integration as interesting context, then immediately sanity-checked whether it was real. That is the right education pattern for the Almanac: preserve the signal, verify the source, and avoid turning every adoption headline into an ORE price claim.
+
+**Notable miner story:**
+
+- **zepipes | accumulana.com ⛏️** shared that World Series of Poker tournament buy-ins are adding Solana-powered crypto payments through MoonPay, then followed up that the item appears on the official WSOP website.
+- **Yorter** called it cool but not groundbreaking, which is useful framing. Real-world rails are evidence that crypto can become normal payment infrastructure, but miners still need to separate ecosystem validation from immediate mining EV.
+- **deflation** reacted with disbelief and asked whether it was real, which makes this a clean example of how the channel should handle outside news: ask for the source before the narrative gets repeated.
+
+**Strategy and storytelling insight to preserve:**
+
+- Treat adoption headlines as thesis context, not as trade instructions.
+- The stronger miner story is "payment rails are getting more normal," not "this headline changes the next board."
+- For public education, pair every real-world-use example with the same mining basics: budget, variance, emissions, treasury math, and written stop rules still decide whether a miner survives.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!realworldrails - Real-world Solana rails matter as context, not as guaranteed ORE upside. WSOP/MoonPay tournament buy-ins are a useful example: crypto can be payment infrastructure before it is a price catalyst. Keep mining decisions tied to budget, variance, emissions, and treasury math.
+```
