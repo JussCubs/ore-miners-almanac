@@ -2376,3 +2376,15 @@ Captured 1 new message from 2026-06-10T16:09:54.580000+00:00.
 ```text
 !sourcecheck — Before repeating an outside crypto/adoption claim, look for an official site, repeated official social posts, and consistent details across sources. Treat verified rails news as context; mining decisions still come back to budget, variance, emissions, and stop rules.
 ```
+
+## 2026-06-11 Discord Update - reaction to verified rails
+
+Captured 1 new message from 2026-06-11T10:51:07.268000+00:00 through 2026-06-11T10:51:07.268000+00:00.
+
+**Most active voices:** deflation (1).
+
+**Themes detected:** adoption-headline digestion, source-checking follow-through, Solana real-world rails.
+
+**Sentiment read:** quiet but still useful. After the prior WSOP/Solana payment-rails thread was source-checked, the remaining reaction was amazement rather than a new mining thesis. That belongs in the Almanac as color around how the channel processes mainstream Solana news: excitement is fine, but it follows verification.
+
+**Curation note:** no new mining settings, EV claims, or bot-command snippet were added from this single-message update. Fold it into the existing `!realworldrails` and `!sourcecheck` lesson: real-world payment integrations can strengthen the broader Solana story, but miners still make decisions from budget, variance, emissions, treasury math, and stop rules.
