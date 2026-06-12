@@ -2463,3 +2463,21 @@ Captured 38 new messages from 2026-06-12T12:02:54.402000+00:00 through 2026-06-1
 
 !longholduore - Some miners hold hundreds of uORE in the mines for months. That is a patience strategy, not a guarantee. Size it so you can wait, track claim/refinement math, and do not copy another miner's locked exposure unless your budget can survive the same timeline.
 ```
+
+## 2026-06-12 Discord Update - auto miner UX feedback loop
+
+Captured 2 new messages from 2026-06-12T17:54:16.456000+00:00 through 2026-06-12T19:24:43.458000+00:00.
+
+**Most active voices:** SoCalStreet (1), Hardhat Chad (1).
+
+**Themes detected:** auto miner UX, budget-first setup, round allocation language, fast fix loop.
+
+**Sentiment read:** constructive and product-positive. A miner called the new auto miner clean and intuitive because the flow made it easy to choose the amount to run, how long to run it, and how round allocation should work. Hardhat Chad followed with a fix rolling out, which keeps the story in the useful lane: miner feedback is being converted into product iteration instead of becoming another repeated support thread.
+
+**Almanac takeaway:** preserve this as a good example of the new layout goal. The best miner setup flow is budget-first and plain-language: amount to risk, expected duration/rounds, tile or round allocation, confirmation amount, and visible continuation behavior. Positive feedback is still education material because it tells new miners what the UI is trying to make legible.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!autominersetup - Read the newer auto miner setup as a budget-first flow: choose the SOL amount you are willing to run, check the estimated duration/rounds, confirm tile or round allocation, then verify the wallet transfer. Clean UX helps only if the miner still knows the cap and stop rule.
+```

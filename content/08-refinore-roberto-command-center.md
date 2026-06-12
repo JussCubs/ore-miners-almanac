@@ -310,3 +310,13 @@ Support copy:
 ```text
 Round count, remaining balance, and auto-reload are separate. If a test keeps mining after estimated rounds reaches 0, check Auto-Reload first, then stop manually or enable Hard Stop for the next run.
 ```
+
+June 12 follow-up: SoCalStreet's positive feedback on the newer auto miner is useful because it names the UX target in miner language. A clean setup lets a miner choose the amount to run, understand how long the session should last, and set round allocation without translating old loop/per-tile habits in their head. Hardhat Chad's quick "fix rolling out" response also belongs in the product story: the channel is becoming a live feedback loop where miner confusion can turn into clearer controls.
+
+Roberto should preserve that good path:
+
+- **amount to run** - the explicit SOL budget the miner is authorizing;
+- **how long / estimated rounds** - a planning estimate, not a guarantee;
+- **round or tile allocation** - the strategy shape the miner intends to execute;
+- **wallet transfer confirmation** - the final check before funds move;
+- **fix/status context** - when something is being patched, show enough state that miners know whether to retry, wait, or report exact inputs.

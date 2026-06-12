@@ -1274,4 +1274,6 @@ Use these when someone is stuck on the new form, sees a transfer amount that doe
 !deploybudget - The newer form is budget-first: enter the total SOL you are willing to use, choose/verify rounds, then confirm how much SOL will actually transfer. Estimated rounds are planning help, not a substitute for checking the wallet approval screen.
 
 !roundmismatch - If the non-per-tile flow shows fewer rounds or a lower transfer amount than expected, switch on per-tile input as the legacy fallback, verify the confirmation screen, and report the exact total SOL, tile count, and estimated rounds so devs can reproduce it.
+
+!autominersetup - Read the newer auto miner setup as a budget-first flow: choose the SOL amount you are willing to run, check the estimated duration/rounds, confirm tile or round allocation, then verify the wallet transfer. Clean UX helps only if the miner still knows the cap and stop rule.
 ```
