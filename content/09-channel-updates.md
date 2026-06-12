@@ -2388,3 +2388,28 @@ Captured 1 new message from 2026-06-11T10:51:07.268000+00:00 through 2026-06-11T
 **Sentiment read:** quiet but still useful. After the prior WSOP/Solana payment-rails thread was source-checked, the remaining reaction was amazement rather than a new mining thesis. That belongs in the Almanac as color around how the channel processes mainstream Solana news: excitement is fine, but it follows verification.
 
 **Curation note:** no new mining settings, EV claims, or bot-command snippet were added from this single-message update. Fold it into the existing `!realworldrails` and `!sourcecheck` lesson: real-world payment integrations can strengthen the broader Solana story, but miners still make decisions from budget, variance, emissions, treasury math, and stop rules.
+
+## 2026-06-12 Discord Update - partial-grid math and channel safety
+
+Captured 18 new messages from 2026-06-11T20:48:15.237000+00:00 through 2026-06-11T22:26:37.031000+00:00.
+
+**Most active voices:** SoCalStreet (6), starship_fronk⛏️ (4), Brian (4), Thep ⛏️ (3), SpuddyA7X ⛏️ (1).
+
+**Themes detected:** 5/25 low-square strategy questions, returned-SOL accounting, scam-link hygiene, public support, moderation constraints, light channel humor.
+
+**Sentiment read:** practical and protective. A miner asked the right risk/reward question before copying a low-square setup, while regulars also surfaced a scam-link/support-imposter problem that affects onboarding safety. The useful story is not panic; it is that the channel keeps turning confusing mining math and messy chat conditions into public education.
+
+**Strategy and storytelling insight to preserve:**
+
+- A 5/25 setup should be taught as a partial-grid variance test, not as a safer beginner lane. It covers only one-fifth of possible winning tiles, so the miner must expect long miss stretches unless the setup is tightly watched and budgeted.
+- There is no universal "what SOL comes back if I hit" answer without round context. A useful answer asks for SOL per selected tile, total SOL on the winning tile, returned SOL, ORE/uORE reward type, fees, production cost, and motherlode context.
+- Scam floods are not just moderation noise. They are an education problem because new miners often arrive with wallet questions and link uncertainty. The Almanac should keep repeating public-help and verified-link habits.
+- Thep's hub benefits from short command snippets that convert these threads into reusable answers instead of burying the lesson in chat history.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!fiveblocks - A 5/25 setup is a watched variance test, not safer beginner mining. Before copying it, write down SOL per selected tile, expected misses, production cost, total budget, stop rule, and how returned SOL/uORE/fees will be logged. If 20 missed tiles out of 25 would make you resize emotionally, stay wider and smaller.
+
+!publichelp - Keep mining support in public. Scam floods can use fake helpers, dormant accounts, and link drops. Ignore DMs, use verified ore.supply/ore.fyi/refinORE links, and ask regulars before connecting or funding anything new.
+```

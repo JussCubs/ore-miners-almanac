@@ -598,6 +598,20 @@ Practical framing:
 
 The teaching line: dropping tiles does not make the miner smarter by itself. It trades cost for variance. Use it only with a bankroll, round count, and stop rule that can survive the extra misses.
 
+### Five-of-25 low-square questions
+
+A June 12 miner asked the right partial-grid question: what does the risk/reward look like if a 5/25 setup hits, especially when looking at returned SOL rather than only ORE? Keep that question in the strategy library because it forces the missing inputs into the open before anyone copies a low-square preset.
+
+The first-pass math is coverage. Five selected tiles means the miner is present on about **20%** of possible winning tiles over enough rounds and absent on about **80%**. If one of the selected tiles wins, the result still depends on the live round:
+
+- SOL per selected tile;
+- total SOL deployed on the winning tile;
+- whether the reward was split, solo/top-miner, motherlode, returned SOL, or some combination;
+- production cost and fees during the run;
+- how many blank rounds the budget can survive before the hit.
+
+Teach 5/25 as a watched experiment, not an unattended beginner default. It can be a real question for a miner who understands tile variance and logs results carefully. It is not a shortcut around the core rule: fewer tiles mean more missed winners, so the bankroll and stop rule must be stronger, not weaker.
+
 ---
 
 ## Post-run diagnostics: production cost before variance blame

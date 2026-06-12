@@ -1237,3 +1237,19 @@ Use this when a miner asks why broader Solana adoption matters to an ORE mining 
 ```text
 !realworldrails - Real-world Solana rails matter as context, not as guaranteed ORE upside. WSOP/MoonPay tournament buy-ins are a useful example: crypto can be payment infrastructure before it is a price catalyst. Keep mining decisions tied to budget, variance, emissions, and treasury math.
 ```
+
+---
+
+## Update - 2026-06-12: 5/25 questions and scam-flood hygiene
+
+SoCalStreet's low-square question is useful because it asks for the missing math before copying a partial-grid setup. A 5/25 setup can lower per-round spend, but only by accepting many more missed winning tiles. The right answer is not a fixed "SOL back" number. Ask for tile count, SOL per selected tile, total SOL on the winning tile, production cost, returned SOL, ORE/uORE, fees, motherlode context, and whether the plan has enough rounds to survive misses.
+
+The same thread had a visible scam-link/fake-support flood. Preserve that as onboarding hygiene: scammers may use fresh or dormant accounts, support-ish language, and urgency. Keep help in public, click only verified domains, and ask mods or regulars before connecting wallets.
+
+Use these when the channel needs a quick answer:
+
+```text
+!fiveblocks - A 5/25 setup is a watched variance test, not safer beginner mining. Before copying it, write down SOL per selected tile, expected misses, production cost, total budget, stop rule, and how returned SOL/uORE/fees will be logged. If 20 missed tiles out of 25 would make you resize emotionally, stay wider and smaller.
+
+!publichelp - Keep mining support in public. Scam floods can use fake helpers, dormant accounts, and link drops. Ignore DMs, use verified ore.supply/ore.fyi/refinORE links, and ask regulars before connecting or funding anything new.
+```
