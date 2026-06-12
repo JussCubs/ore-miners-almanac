@@ -539,3 +539,22 @@ Reusable command snippets:
 
 !profitwindow — Mining is not instant SOL printing. Early PnL can look negative while SOL has been converted into uORE exposure. Profitability depends on production cost, fees, hold time, APR/refinement, and whether you can avoid panic-claiming.
 ```
+
+---
+
+## Update - 2026-06-12: long-hold uORE conviction
+
+Metroseized's comment about having nearly 700 uORE in the mines since October gives Thep a useful story for the patience chapter. The lesson is not "everyone should lock up that much." It is that some miners are treating uORE as a long-duration mining position, not a same-day flip.
+
+Teach this distinction clearly:
+
+- uORE patience is easier to say than to practice when SOL is leaving quickly;
+- a miner with months of uORE exposure is judging the position across claim timing, refinement yield, and conviction, not only one deploy screen;
+- long-hold conviction still needs sizing discipline, because trapped capital can feel very different during a bad mining stretch;
+- beginners should learn the story as a planning example, not copy the size.
+
+Reusable command snippet:
+
+```text
+!longholduore - Some miners hold hundreds of uORE in the mines for months. That is a patience strategy, not a guarantee. Size it so you can wait, track claim/refinement math, and do not copy another miner's locked exposure unless your budget can survive the same timeline.
+```

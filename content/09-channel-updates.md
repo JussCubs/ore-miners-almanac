@@ -2433,3 +2433,33 @@ Captured 6 new messages from 2026-06-12T11:24:58.762000+00:00 through 2026-06-12
 ```text
 !newlayoutloop - In the newer miner layout, "looping" maps to auto-reload/default continuation. Treat setup as budget-first: enter the SOL you are willing to run, check the estimated rounds, and know whether the session will keep going from remaining balance. If you only want a fixed test, watch it and stop manually when the plan is done.
 ```
+
+## 2026-06-12 Discord Update - per-tile fallback and deploy confirmation checks
+
+Captured 38 new messages from 2026-06-12T12:02:54.402000+00:00 through 2026-06-12T13:15:57.593000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (18), RNA (13), Metroseized (4), FiL (3).
+
+**Themes detected:** new deploy-form translation, per-tile legacy fallback, round/transfer confirmation checks, long-hold uORE conviction, change-management patience.
+
+**Sentiment read:** practical but a little frustrated. Miners were not arguing over a new thesis; they were trying to make the new form match the old mental model. That is exactly the kind of thread Thep's hub should preserve: turn support friction into a reusable onboarding answer before the same confusion repeats.
+
+**Strategy and support insight to preserve:**
+
+- The per-tile setting under the form settings cog is the key translation layer for miners who want the previous order-form behavior.
+- The newer deploy form should be taught as budget-first: enter the total SOL budget, review the round estimate, and verify the actual transfer/confirmation amount before signing.
+- If the non-per-tile flow appears one round short or shows a lower transfer than expected, the immediate support answer is to retry with per-tile input enabled and document exact inputs for the devs.
+- Auto-reload/loop language still needs translation. Long-time miners may say "loop rewards," while the current UI may express that behavior through default continuation and estimated rounds.
+- Metroseized's note about having nearly 700 uORE in the mines since October adds a useful patience story: serious miners may treat uORE as long-duration exposure, but beginners should copy the discipline and tracking before copying the size.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!pertile - In the newer deploy form, enable per-tile input under settings if you want the old order-form logic. Then size by SOL per selected tile, confirm total SOL before signing, and keep your normal stop rule.
+
+!deploybudget - The newer form is budget-first: enter the total SOL you are willing to use, choose/verify rounds, then confirm how much SOL will actually transfer. Estimated rounds are planning help, not a substitute for checking the wallet approval screen.
+
+!roundmismatch - If the non-per-tile flow shows fewer rounds or a lower transfer amount than expected, switch on per-tile input as the legacy fallback, verify the confirmation screen, and report the exact total SOL, tile count, and estimated rounds so devs can reproduce it.
+
+!longholduore - Some miners hold hundreds of uORE in the mines for months. That is a patience strategy, not a guarantee. Size it so you can wait, track claim/refinement math, and do not copy another miner's locked exposure unless your budget can survive the same timeline.
+```

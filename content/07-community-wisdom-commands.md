@@ -1259,3 +1259,19 @@ Use these when the channel needs a quick answer:
 
 !publichelp - Keep mining support in public. Scam floods can use fake helpers, dormant accounts, and link drops. Ignore DMs, use verified ore.supply/ore.fyi/refinORE links, and ask regulars before connecting or funding anything new.
 ```
+
+---
+
+## Update - 2026-06-12: per-tile toggle and deploy-form translation
+
+The latest layout discussion produced a clean support pattern for miners confused by the newer deploy form. The old mental model was "how much per tile, how many loops." The newer model is closer to "total SOL budget, estimated rounds, and auto-reload behavior." The bridge between those two models is the settings cog: enabling per-tile input makes the form behave more like the previous order flow.
+
+Use these when someone is stuck on the new form, sees a transfer amount that does not match expectations, or wants the old loop/reload behavior back:
+
+```text
+!pertile - In the newer deploy form, enable per-tile input under settings if you want the old order-form logic. Then size by SOL per selected tile, confirm total SOL before signing, and keep your normal stop rule.
+
+!deploybudget - The newer form is budget-first: enter the total SOL you are willing to use, choose/verify rounds, then confirm how much SOL will actually transfer. Estimated rounds are planning help, not a substitute for checking the wallet approval screen.
+
+!roundmismatch - If the non-per-tile flow shows fewer rounds or a lower transfer amount than expected, switch on per-tile input as the legacy fallback, verify the confirmation screen, and report the exact total SOL, tile count, and estimated rounds so devs can reproduce it.
+```
