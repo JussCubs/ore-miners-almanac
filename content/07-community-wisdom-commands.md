@@ -1200,6 +1200,12 @@ Use these when miners ask why a session kept going after the planned round count
 !roundlimit — Estimated rounds is a plan, not the whole stop rule. If the counter reaches 0 but mining continues, look for auto-reload/default continuation settings and manually stop if you only wanted a fixed test. For clean experiments, record planned rounds, actual rounds, SOL spent, ORE/uORE mined, and returned SOL.
 ```
 
+June 12 follow-up: Metroseized's new-layout question showed the same confusion from the other side. Some miners still call the behavior "looping" because that was the older mental model. In the newer budget-first layout, the safer explanation is: choose how much SOL the session can use, read the estimated rounds as a planning number, and confirm whether default continuation/auto-reload will keep mining from remaining balance.
+
+```text
+!newlayoutloop - In the newer miner layout, "looping" maps to auto-reload/default continuation. Treat setup as budget-first: enter the SOL you are willing to run, check the estimated rounds, and know whether the session will keep going from remaining balance. If you only want a fixed test, watch it and stop manually when the plan is done.
+```
+
 ---
 
 ## Update - 2026-06-10: winter runway and redeploy discipline

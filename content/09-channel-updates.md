@@ -2413,3 +2413,23 @@ Captured 18 new messages from 2026-06-11T20:48:15.237000+00:00 through 2026-06-1
 
 !publichelp - Keep mining support in public. Scam floods can use fake helpers, dormant accounts, and link drops. Ignore DMs, use verified ore.supply/ore.fyi/refinORE links, and ask regulars before connecting or funding anything new.
 ```
+
+## 2026-06-12 Discord Update - new layout loop defaults
+
+Captured 6 new messages from 2026-06-12T11:24:58.762000+00:00 through 2026-06-12T11:40:24.730000+00:00.
+
+**Most active voices:** Metroseized (4), ΣXTΛSY | Rubypool.io (2).
+
+**Themes detected:** new layout onboarding, auto-reload / loop terminology, estimated rounds, safe defaults.
+
+**Sentiment read:** practical and low-drama. The thread was not a new mining thesis; it was a useful example of how UI language changes can confuse otherwise normal beginner workflows. The education hub should translate old miner vocabulary into current controls before a newcomer assumes something is broken.
+
+**Support insight to preserve:** Metroseized asked how to "loop" with the new layout after seeing only one deploy/round path. ΣXTΛSY clarified the old auto-reload idea by asking if "loop" meant the old auto-reload behavior, then answered that it is on by default. The follow-up question is the real beginner translation: the miner appears to enter how much SOL they want to put in, then the UI estimates how many rounds that budget can cover.
+
+**Almanac takeaway:** teach this as budget-first session setup. A miner should decide the SOL budget, understand the estimated round count, and still know how auto-reload/default continuation affects the stop rule. Estimated rounds help plan the session; they do not replace a written cap, balance check, or manual stop if the miner only wanted a fixed test.
+
+**Reusable bot-command snippet added/refined:**
+
+```text
+!newlayoutloop - In the newer miner layout, "looping" maps to auto-reload/default continuation. Treat setup as budget-first: enter the SOL you are willing to run, check the estimated rounds, and know whether the session will keep going from remaining balance. If you only want a fixed test, watch it and stop manually when the plan is done.
+```
