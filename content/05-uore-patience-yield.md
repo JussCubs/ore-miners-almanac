@@ -558,3 +558,24 @@ Reusable command snippet:
 ```text
 !longholduore - Some miners hold hundreds of uORE in the mines for months. That is a patience strategy, not a guarantee. Size it so you can wait, track claim/refinement math, and do not copy another miner's locked exposure unless your budget can survive the same timeline.
 ```
+
+---
+
+## Update - 2026-06-13: visible uORE balance as conviction support
+
+FiL's reaction to the new separate uORE tab is a useful reminder that UX is part of the patience story. When miners call uORE "hard earned," they are not just talking about a number in a wallet. They are talking about time, variance, rounds survived, and conviction that is easier to maintain when the app makes the position visible instead of buried.
+
+Hardhat Chad's follow-up that miners had been asking for that change also matters for the Almanac: repeated channel friction can become product education. A dedicated uORE view helps miners track what they are building before they rush into a claim decision.
+
+Teach the tab this way:
+
+- visible uORE makes the patience thesis easier to understand;
+- a clean balance view is not profit by itself, but it reduces confusion around what has been earned;
+- miners should still pair the visible uORE number with claim fees, refinement timing, APR, and their own liquidity needs;
+- when the UI improves, update the onboarding language so new miners learn the current flow, not the old workaround.
+
+Reusable command snippet:
+
+```text
+!uoretab - The separate uORE tab is there to make your hard-earned mining position easier to track. Use it as a patience dashboard: check uORE earned, claim/refinement math, APR, and liquidity needs before deciding whether to claim or keep waiting.
+```

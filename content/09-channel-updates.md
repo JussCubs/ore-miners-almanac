@@ -2481,3 +2481,34 @@ Captured 2 new messages from 2026-06-12T17:54:16.456000+00:00 through 2026-06-12
 ```text
 !autominersetup - Read the newer auto miner setup as a budget-first flow: choose the SOL amount you are willing to run, check the estimated duration/rounds, confirm tile or round allocation, then verify the wallet transfer. Clean UX helps only if the miner still knows the cap and stop rule.
 ```
+
+## 2026-06-13 Discord Update - uORE tab gratitude and SOL reward refresh bug
+
+Captured 6 new messages from 2026-06-12T20:50:21.776000+00:00 through 2026-06-12T22:30:36.705000+00:00.
+
+**Most active voices:** FiL (2), Hardhat Chad (2), seeohsee (2).
+
+**Themes detected:** visible uORE tracking, UI change-management, mobile/Phantom reward visibility, support-workaround discipline.
+
+**Sentiment read:** product-positive and practical. Miners appreciated the dedicated uORE tab because it makes hard-earned mining output easier to see, while the same update window surfaced a reward-display edge case that needs clean support language.
+
+**Almanac takeaway:** the uORE tab belongs in the patience chapter as more than UI polish. A visible balance helps miners understand the position they are building before they rush to claim. The SOL reward report belongs in the command bank as a troubleshooting pattern: if won SOL is not visible, collect wallet/device/round details, distinguish display lag from lost funds, and treat a tiny redeploy/sign refresh only as a temporary diagnostic workaround.
+
+**Notable miner stories and support details:**
+
+- FiL thanked the team for moving hard-earned uORE into a separate tab and called the first-glance UX clean.
+- Hardhat Chad noted that miners had been asking for that uORE visibility improvement.
+- seeohsee reported won SOL not showing in Rewards after the UI update despite reconnecting and reopening, with the reward appearing after starting another deploy/sign flow.
+- seeohsee added that the report was on mobile/Phantom, with desktop still unconfirmed.
+- FiL saw the same behavior and used a tiny 0.00001 x 25 redeploy, then stopped and redeployed normally.
+- Hardhat Chad replied that he likely knew the issue, making this a likely fix/debug thread rather than an intended behavior lesson.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!uoretab - The separate uORE tab is there to make your hard-earned mining position easier to track. Use it as a patience dashboard: check uORE earned, claim/refinement math, APR, and liquidity needs before deciding whether to claim or keep waiting.
+
+!solrewards - If won SOL is not visible after the UI update, first treat it as a display/support issue, not automatically lost funds. Note wallet, device, Phantom/mobile or desktop, round/tx details, and whether reconnect/reopen changes anything before reporting it.
+
+!rewardrefresh - Some miners saw owed SOL appear only after starting another tiny deploy/sign flow. That is a temporary visibility workaround, not a mining strategy. If you try it, keep the amount tiny, stop afterward, and report the exact wallet/device/round details so devs can fix the refresh path.
+```

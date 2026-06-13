@@ -1277,3 +1277,26 @@ Use these when someone is stuck on the new form, sees a transfer amount that doe
 
 !autominersetup - Read the newer auto miner setup as a budget-first flow: choose the SOL amount you are willing to run, check the estimated duration/rounds, confirm tile or round allocation, then verify the wallet transfer. Clean UX helps only if the miner still knows the cap and stop rule.
 ```
+
+---
+
+## Update - 2026-06-13: delayed SOL rewards visibility after UI update
+
+seeohsee reported a support edge case after the UI update: SOL rewards from a won round were not immediately visible in the Rewards view, even after reconnecting the wallet and reopening the app. The missing reward appeared only after starting another deploy and signing, with the report coming from mobile/Phantom.
+
+FiL confirmed seeing the same behavior and described a tiny 25-tile redeploy as a temporary visibility nudge, then stopping and redeploying normally. Hardhat Chad replied that he likely knew the issue, so this should be framed as a UI/support note, not a new strategy.
+
+Use this carefully when someone says won SOL is missing:
+
+- first separate "not visible in UI" from "lost funds";
+- capture device, wallet, browser/app, tx/round details, and whether it is mobile/Phantom;
+- do not teach a tiny redeploy as profit strategy or standard practice;
+- if the UI only refreshes after a new deploy/sign, treat that as a bug clue for devs and a temporary workaround to document.
+
+Reusable command snippets:
+
+```text
+!solrewards - If won SOL is not visible after the UI update, first treat it as a display/support issue, not automatically lost funds. Note wallet, device, Phantom/mobile or desktop, round/tx details, and whether reconnect/reopen changes anything before reporting it.
+
+!rewardrefresh - Some miners saw owed SOL appear only after starting another tiny deploy/sign flow. That is a temporary visibility workaround, not a mining strategy. If you try it, keep the amount tiny, stop afterward, and report the exact wallet/device/round details so devs can fix the refresh path.
+```
