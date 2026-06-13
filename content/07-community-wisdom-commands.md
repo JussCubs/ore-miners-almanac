@@ -1300,3 +1300,17 @@ Reusable command snippets:
 
 !rewardrefresh - Some miners saw owed SOL appear only after starting another tiny deploy/sign flow. That is a temporary visibility workaround, not a mining strategy. If you try it, keep the amount tiny, stop afterward, and report the exact wallet/device/round details so devs can fix the refresh path.
 ```
+
+---
+
+## Update - 2026-06-13: Mobile Wallet Adapter permission prompt
+
+d_pittsy's mobile connect report gives the support bank a clean troubleshooting flow for Android/mobile wallet sessions: the miner selected Mobile Wallet Adapter, the page appeared to freeze before the next prompt, then the device-level "ore.com wants to access other apps and services" Allow prompt looked unresponsive or greyed out.
+
+Fronk's support path was practical: clear the Chrome/browser cache first, then if the Allow button is greyed out, hit Back and try Allow again. If that still fails, close the app/browser completely and retry the connection flow.
+
+Use this when someone is stuck before their wallet actually opens:
+
+```text
+!mobilewallet - If Mobile Wallet Adapter freezes or the device Allow prompt is greyed out, clear Chrome/browser cache, retry connect, hit Back then Allow if the prompt stalls, and fully close/reopen the app if needed. Include phone OS, browser, wallet app, and whether Google login works when reporting it.
+```

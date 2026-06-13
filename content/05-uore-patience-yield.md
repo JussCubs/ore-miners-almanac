@@ -579,3 +579,24 @@ Reusable command snippet:
 ```text
 !uoretab - The separate uORE tab is there to make your hard-earned mining position easier to track. Use it as a patience dashboard: check uORE earned, claim/refinement math, APR, and liquidity needs before deciding whether to claim or keep waiting.
 ```
+
+---
+
+## Update - 2026-06-13: rORE staking requires a claim decision
+
+Big Lizard's question is exactly the kind of patient-miner tension the Almanac should preserve: if a miner is deliberately long uORE in the mines, can they still stake the refined reward without disturbing the unclaimed uORE position?
+
+Fronk's short answer in-channel was no: there is no way to stake rORE from the mining position without claiming it first, and that claim path also means dealing with the uORE claim state. That makes the decision a sleeve change, not a background optimization.
+
+Teach it this way:
+
+- unclaimed uORE is the patience position;
+- staked/refined ORE is a different position after the miner chooses to claim;
+- a miner who wants to keep the uORE thesis intact should not claim just because staking sounds productive;
+- before moving sleeves, compare claim friction, current APR/refinement assumptions, staking yield, taxes/accounting if relevant, and the miner's liquidity needs.
+
+Reusable command snippet:
+
+```text
+!rorestake - You cannot stake rORE from the mines while leaving that same reward unclaimed as uORE. To stake or use the reward, plan the claim path first; if you want the uORE patience thesis, leave it unclaimed and track claim fee, APR/refinement, and liquidity needs before changing sleeves.
+```

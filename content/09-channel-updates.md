@@ -2512,3 +2512,31 @@ Captured 6 new messages from 2026-06-12T20:50:21.776000+00:00 through 2026-06-12
 
 !rewardrefresh - Some miners saw owed SOL appear only after starting another tiny deploy/sign flow. That is a temporary visibility workaround, not a mining strategy. If you try it, keep the amount tiny, stop afterward, and report the exact wallet/device/round details so devs can fix the refresh path.
 ```
+
+## 2026-06-13 Discord Update - mobile wallet support and rORE claim clarity
+
+Captured 24 new messages from 2026-06-13T16:10:29.277000+00:00 through 2026-06-13T16:50:12.883000+00:00.
+
+**Most active voices:** d_pittsy (10), starship_fronk⛏️ (8), StevieWonders.eth (2), Big Lizard (2), BREADFAN777⛏️ (1), FiL ⛏️ (1).
+
+**Themes detected:** mobile wallet adapter support, finished-product UI feedback, uORE patience, rORE staking claim boundary.
+
+**Sentiment read:** product-positive and support-focused. Miners praised the refreshed UI as feeling closer to a finished product, while the same window produced two useful education threads: one for mobile-wallet permission prompts and one for the boundary between unclaimed uORE patience and staking/refined-reward actions.
+
+**Almanac takeaway:** this is a good example of Thep's hub turning scattered chat into durable onboarding. The mobile wallet thread becomes a reusable support script instead of a one-off troubleshooting exchange. Big Lizard's question becomes a patience-chapter reminder: a miner cannot treat unclaimed uORE and staked rORE as the same position. Staking requires a claim decision, and a claim decision should be made intentionally.
+
+**Notable miner stories and support details:**
+
+- BREADFAN777 and FiL both framed the new UI as a meaningful polish step, with FiL emphasizing the skill and energy behind the work.
+- d_pittsy hit a Mobile Wallet Adapter flow where the device permission prompt stalled or greyed out before the wallet could open.
+- Fronk suggested clearing Chrome/browser cache, then using Back -> Allow if the prompt was greyed out, and closing/reopening the app if it still failed.
+- Big Lizard asked whether a long-hold uORE miner could stake refined mining rewards without claiming the uORE position.
+- Fronk clarified that rORE cannot be staked without claiming it first, which makes the action a claim-path decision rather than passive yield on untouched uORE.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!mobilewallet - If Mobile Wallet Adapter freezes or the device Allow prompt is greyed out, clear Chrome/browser cache, retry connect, hit Back then Allow if the prompt stalls, and fully close/reopen the app if needed. Include phone OS, browser, wallet app, and whether Google login works when reporting it.
+
+!rorestake - You cannot stake rORE from the mines while leaving that same reward unclaimed as uORE. To stake or use the reward, plan the claim path first; if you want the uORE patience thesis, leave it unclaimed and track claim fee, APR/refinement, and liquidity needs before changing sleeves.
+```

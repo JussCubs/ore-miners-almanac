@@ -366,6 +366,23 @@ Practical translation:
 
 The core strategy is not “stake or mine.” It is **stake what you have, mine tiny while learning, and let repetition create the edge.**
 
+### Claim boundary before staking mined rewards
+
+The June 13 mining chat added a useful clarification for long-hold uORE miners: staking/refined-reward actions require the miner to pass through the claim path first. If the reward is still unclaimed in the mines, the miner is not simultaneously staking that same reward.
+
+That distinction keeps the sleeves clean:
+
+- uORE left in the mines is a patience/yield position;
+- rORE or ORE prepared for staking is a post-claim position;
+- moving from one sleeve to the other should be a deliberate claim decision, not a reflex to make the reward "do something";
+- compare the claim cost, current uORE/refinement thesis, staking yield, and liquidity need before switching.
+
+Reusable command snippet:
+
+```text
+!rorestake - You cannot stake rORE from the mines while leaving that same reward unclaimed as uORE. To stake or use the reward, plan the claim path first; if you want the uORE patience thesis, leave it unclaimed and track claim fee, APR/refinement, and liquidity needs before changing sleeves.
+```
+
 ### Rotating staked ORE into mining SOL
 
 Hermes' back-to-back green hits created the natural temptation to sell or unstake ORE and refill the mining budget. That temptation is understandable: when a miner finally feels the “mines are alive,” every inactive ORE position can start looking like unused ammunition.

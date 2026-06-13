@@ -258,3 +258,23 @@ Reusable beginner script:
 ```text
 !claimsol — Automine normally claims returned SOL for you. If it does not, use the SOL-only claim path when the UI offers it. If you mined from a fresh wallet and hit a selected block with no ORE mined, the gold claim button may still be the right claim action. Log the wallet and reward type before judging the round.
 ```
+
+---
+
+## Update - 2026-06-13: mobile wallet connect prompts
+
+Mobile Wallet Adapter issues are beginner-hostile because they happen before the miner can even learn the mining screen. If the connect flow freezes, the device-level permission prompt stalls, or the Allow button is greyed out, treat it as a wallet/browser/device-state support issue before assuming the miner is doing the mining setup wrong.
+
+The practical support order from the channel:
+
+- clear Chrome/browser cache on the device;
+- retry the connect flow;
+- if the Allow prompt is greyed out, hit Back and try Allow again;
+- if it still fails, fully close the app/browser and retry;
+- when reporting, include phone OS, browser, wallet app, and whether Google login works.
+
+Reusable beginner script:
+
+```text
+!mobilewallet - If Mobile Wallet Adapter freezes or the device Allow prompt is greyed out, clear Chrome/browser cache, retry connect, hit Back then Allow if the prompt stalls, and fully close/reopen the app if needed. Include phone OS, browser, wallet app, and whether Google login works when reporting it.
+```
