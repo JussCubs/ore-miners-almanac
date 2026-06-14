@@ -1348,3 +1348,17 @@ Use this when a support or education thread starts to turn into a dispute about 
 ```text
 !moveon - Once an ORE education claim has been source-checked and the mechanics are corrected, move the thread back to mining. Preserve the useful lesson, skip personal intent reads, and keep the channel focused on settings, claims, yield wording, fees, and risk.
 ```
+
+---
+
+## Update — 2026-06-14
+
+### Chance weighting on ORE bet size
+
+When miners compare tiny bets with larger bets, the key lesson is that the chance of winning the `+1 ORE` outcome is weighted by the amount wagered. A `1 SOL` bet has roughly ten times the chance of a `0.1 SOL` bet for that specific outcome.
+
+That does not mean the dice remember prior attempts. Each roll should still be understood as independent; larger wagers change weight in the draw, not the memory of the system.
+
+```text
+!betweight - The +1 ORE chance is weighted by bet size: 1 SOL has about 10x the draw weight of 0.1 SOL. Prior rolls do not create memory, streak debt, or a guaranteed catch-up outcome.
+```

@@ -2601,3 +2601,17 @@ Captured 14 new messages from 2026-06-14T08:32:22.755000+00:00 through 2026-06-1
 
 !moveon - Once an ORE education claim has been source-checked and the mechanics are corrected, move the thread back to mining. Preserve the useful lesson, skip personal intent reads, and keep the channel focused on settings, claims, yield wording, fees, and risk.
 ```
+
+## 2026-06-14 Discord Update
+
+Captured 16 new messages from 2026-06-14T12:04:57.707000+00:00 through 2026-06-14T12:55:57.338000+00:00.
+
+**Most active voices:** strigops (8), starship_fronk⛏️ (5), Xenos (2), Zinn (1).
+
+**Themes detected:** probability education, bet sizing, command-worthy clarification.
+
+**Sentiment read:** the useful thread was a beginner-safe probability clarification: miners separated independent roll intuition from wager-weighted odds, then turned the answer into reusable channel knowledge.
+
+**Almanac note:** For the `+1 ORE` outcome, chance is weighted by amount wagered. A `1 SOL` wager carries about ten times the draw weight of a `0.1 SOL` wager, while prior rolls still do not create memory, streak debt, or guaranteed catch-up behavior.
+
+**Command seed:** `!betweight` now captures the short answer for future probability questions.
