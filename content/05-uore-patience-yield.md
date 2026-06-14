@@ -600,3 +600,26 @@ Reusable command snippet:
 ```text
 !rorestake - You cannot stake rORE from the mines while leaving that same reward unclaimed as uORE. To stake or use the reward, plan the claim path first; if you want the uORE patience thesis, leave it unclaimed and track claim fee, APR/refinement, and liquidity needs before changing sleeves.
 ```
+
+---
+
+## Update - 2026-06-14: precise yield language and claim restraint
+
+The latest channel thread is useful for Thep because it separates two things beginners often blur together:
+
+- uORE patience can be a real yield thesis;
+- that does not mean the unrefined uORE balance itself "compounds" like a simple staking counter.
+
+If a public clip, post, or educator says "compounds," the Almanac should translate it carefully instead of amplifying sloppy wording. The clean phrasing is that uORE can earn/refine into ORE over time through protocol mechanics, while the mined uORE principal remains the mined amount until the miner chooses the claim path.
+
+OreBro's claim framing also belongs here: there is little reason to claim uORE just to move it around unless the miner has a clear sell, staking, liquidity, tax/accounting, or sleeve-change reason. Taking uORE out, paying the claim friction, and then staking is not automatically better than leaving the patience position alone. A future point could arrive where the combined staking/claimed position beats the unclaimed uORE path, but the miner should prove that with current APRs and fees before acting.
+
+The community side of the thread adds a softer story: miners defended the Wisemen as educators while still leaving room for exact math corrections. That is the right hub posture. Respect the people doing onboarding work, but keep the mechanics precise.
+
+Reusable command snippets:
+
+```text
+!yieldwording - uORE yield is not the unrefined balance ticking upward like a simple compounding counter. The safer wording is: mined uORE stays unclaimed while protocol/refinement yield accrues as ORE over time. Use precise language, then check current APR, claims, and docs before sizing.
+
+!claimwhy - Do not claim uORE just because it is available. Name the reason first: sell, liquidity, staking sleeve, accounting, or strategy change. Then compare claim friction, current uORE/refinement yield, staking APR, hold time, and whether you are giving up the patience thesis too early.
+```

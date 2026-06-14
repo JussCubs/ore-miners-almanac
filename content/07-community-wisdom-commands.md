@@ -1314,3 +1314,25 @@ Use this when someone is stuck before their wallet actually opens:
 ```text
 !mobilewallet - If Mobile Wallet Adapter freezes or the device Allow prompt is greyed out, clear Chrome/browser cache, retry connect, hit Back then Allow if the prompt stalls, and fully close/reopen the app if needed. Include phone OS, browser, wallet app, and whether Google login works when reporting it.
 ```
+
+---
+
+## Update - 2026-06-14: source-checking educator claims
+
+The June 14 thread is mostly an editorial lesson for the command bank. A miner remembered a public clip that may have described uORE/refining yield as compounding. The clip could not be found during the chat, and other miners pushed back against turning a possibly sloppy phrase into a bad-faith accusation against the Wisemen.
+
+The reusable answer has three parts:
+
+- ask for the source, clip, or timestamp before litigating a claim;
+- correct the protocol wording calmly: uORE yield should not be taught as the unrefined balance mechanically compounding;
+- keep respect for community educators separate from verification of the actual mining, claim, staking, and yield mechanics.
+
+This keeps the hub useful for new miners. It encourages skepticism without turning every imprecise sentence into drama, and it protects Thep's education lane from repeating language that later needs cleanup.
+
+Reusable command snippets:
+
+```text
+!sourcecheck - If an ORE clip or post sounds wrong, ask for the source/timestamp first, then correct the math cleanly. If nobody can find the clip, treat it as unverified context, not proof. Keep good-faith education separate from scam accusations.
+
+!educatorcheck - Community educators can be useful onboarding, but always verify the mechanics: uORE yield wording, claim fees, staking APR, mining production cost, and current protocol docs. Respect the teacher; still check the math before sizing.
+```

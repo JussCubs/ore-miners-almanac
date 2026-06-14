@@ -2540,3 +2540,35 @@ Captured 24 new messages from 2026-06-13T16:10:29.277000+00:00 through 2026-06-1
 
 !rorestake - You cannot stake rORE from the mines while leaving that same reward unclaimed as uORE. To stake or use the reward, plan the claim path first; if you want the uORE patience thesis, leave it unclaimed and track claim fee, APR/refinement, and liquidity needs before changing sleeves.
 ```
+
+## 2026-06-14 Discord Update - uORE wording and educator trust
+
+Captured 12 new messages from 2026-06-14T04:28:51.320000+00:00 through 2026-06-14T07:52:12.006000+00:00.
+
+**Most active voices:** strigops (3), OreBro (2), dougie540 (2), Wildster15 (2), Fatfree (2), velebit1941 (1).
+
+**Themes detected:** uORE yield wording, claim restraint, source-checking public education, community educator trust.
+
+**Sentiment read:** constructive but protective. The channel corrected fuzzy uORE language while also defending the value of community educators who have helped people understand ORE. The strongest Almanac version is not a drama recap; it is a public education rule: verify sources, fix the math, and keep good-faith onboarding work distinct from bad protocol wording.
+
+**Almanac takeaway:** Thep's hub should be precise about uORE/refinement yield. Do not teach uORE as the unrefined balance mechanically compounding. Teach it as a patience position where mined uORE remains unclaimed while yield/refinement can accrue as ORE over time. If a disputed clip or post cannot be found, label the claim unverified and move back to the actual mechanics.
+
+**Notable miner stories and strategy details:**
+
+- OreBro framed claiming uORE as something to do only when there is a clear reason, such as selling, liquidity, or a proven staking/claim sleeve change.
+- The thread raised the edge case where claimed/staked yield could eventually beat leaving the uORE patience position alone, but nobody framed that as the default beginner move.
+- dougie540 connected the claim-restraint lesson to the "never sell your uORE" style of Fred miner lore, which is useful storytelling as long as the hub still explains the tradeoffs.
+- Wildster15 and Fatfree defended the Wisemen's contribution to ORE education and asked for evidence before treating an unclear clip as proof of bad faith.
+- The practical moderation lesson is reusable: public educators can be valuable and still need exact wording when they describe yield, staking, claims, or mining EV.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!yieldwording - uORE yield is not the unrefined balance ticking upward like a simple compounding counter. The safer wording is: mined uORE stays unclaimed while protocol/refinement yield accrues as ORE over time. Use precise language, then check current APR, claims, and docs before sizing.
+
+!claimwhy - Do not claim uORE just because it is available. Name the reason first: sell, liquidity, staking sleeve, accounting, or strategy change. Then compare claim friction, current uORE/refinement yield, staking APR, hold time, and whether you are giving up the patience thesis too early.
+
+!sourcecheck - If an ORE clip or post sounds wrong, ask for the source/timestamp first, then correct the math cleanly. If nobody can find the clip, treat it as unverified context, not proof. Keep good-faith education separate from scam accusations.
+
+!educatorcheck - Community educators can be useful onboarding, but always verify the mechanics: uORE yield wording, claim fees, staking APR, mining production cost, and current protocol docs. Respect the teacher; still check the math before sizing.
+```
