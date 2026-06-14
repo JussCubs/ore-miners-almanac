@@ -1362,3 +1362,13 @@ That does not mean the dice remember prior attempts. Each roll should still be u
 ```text
 !betweight - The +1 ORE chance is weighted by bet size: 1 SOL has about 10x the draw weight of 0.1 SOL. Prior rolls do not create memory, streak debt, or a guaranteed catch-up outcome.
 ```
+
+---
+
+## Update - 2026-06-14: round result visibility
+
+Miners asked about the post-round visibility that earlier versions provided: bid totals, winners, and how much ORE each participant received. The current lesson is simple: do not assume missing UI fields are gone forever, but avoid building strategy notes around data that is not visible in the present interface.
+
+```text
+!roundresults - If round-level bid and winner details are not visible in the current app, treat them as pending UI context instead of strategy data. Watch official updates before relying on old V3 result screens.
+```

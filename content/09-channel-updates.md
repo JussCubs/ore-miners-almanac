@@ -2615,3 +2615,15 @@ Captured 16 new messages from 2026-06-14T12:04:57.707000+00:00 through 2026-06-1
 **Almanac note:** For the `+1 ORE` outcome, chance is weighted by amount wagered. A `1 SOL` wager carries about ten times the draw weight of a `0.1 SOL` wager, while prior rolls still do not create memory, streak debt, or guaranteed catch-up behavior.
 
 **Command seed:** `!betweight` now captures the short answer for future probability questions.
+
+## 2026-06-14 Discord Update - round result visibility
+
+Captured 2 new messages from 2026-06-14T17:26:25.375000+00:00 through 2026-06-14T18:05:20.463000+00:00.
+
+**Themes detected:** post-round visibility, app-version expectations, pending winner-view improvements.
+
+**Sentiment read:** practical and patient. Miners noticed that earlier round-result detail is not currently exposed in the same way, while also expecting the winners view to improve in a coming app update.
+
+**Almanac note:** Earlier ORE interfaces exposed more end-of-round detail about bids and received ORE. Until the current app surfaces comparable round data again, new miners should avoid treating those old screens as live strategy inputs. The reusable advice is to distinguish historical UI behavior from current, verifiable data.
+
+**Command seed:** `!roundresults` now captures the caution around old V3 result screens and pending winner-view updates.
