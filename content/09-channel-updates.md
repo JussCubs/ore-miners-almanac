@@ -2572,3 +2572,32 @@ Captured 12 new messages from 2026-06-14T04:28:51.320000+00:00 through 2026-06-1
 
 !educatorcheck - Community educators can be useful onboarding, but always verify the mechanics: uORE yield wording, claim fees, staking APR, mining production cost, and current protocol docs. Respect the teacher; still check the math before sizing.
 ```
+
+## 2026-06-14 Discord Update - variance sizing and de-escalation
+
+Captured 14 new messages from 2026-06-14T08:32:22.755000+00:00 through 2026-06-14T12:01:02.981000+00:00.
+
+**Most active voices:** strigops (6), ΣXTΛSY | Rubypool.io (3), Diggy ⛏️ | Independent Miner (2), Xenos (2), Zinn (1).
+
+**Themes detected:** low-and-slow 25-tile mining, variance sizing, team/pool variance control, education-thread de-escalation.
+
+**Sentiment read:** constructive after a sensitive education thread cooled down. The useful public takeaway is to preserve the lesson, avoid over-reading intent, and return attention to mining mechanics.
+
+**Almanac takeaway:** the strategy question compared two same-budget 25-tile setups: more SOL per round over fewer rounds versus less SOL per round over more rounds. The beginner-safe answer is not "one is always better." The miner should compare total SOL at risk, number of rounds, desired reward sleeve, and tolerance for variance. More rounds can help a low-and-slow thesis only when the bankroll and stop rule allow the test to continue.
+
+**Notable miner stories and strategy details:**
+
+- The 25-tile comparison sharpened a reusable "same budget, different variance" explanation for new miners.
+- Lower per-round deploy over more rounds was favored as the cleaner low-and-slow test when variance is the main concern.
+- Team or pool-style mining came up again as a way to reduce solo variance while staying exposed to the mining experience.
+- The social thread around educator wording ended with a practical moderation lesson: keep the verified mechanics, then let the personal side cool down.
+
+**Reusable bot-command snippets added/refined:**
+
+```text
+!samebudget - Two mining presets can risk the same total SOL with different variance. Higher deploy over fewer rounds makes each hit larger but shortens the test. Lower deploy over more rounds gives the low-and-slow thesis more samples, with smaller individual wins.
+
+!roundsvsdeploy - Choose round count and deploy together: name total SOL at risk, tile count, expected rounds, production cost, and whether you are chasing ML upside or steady uORE exposure. More rounds help variance only if the budget and stop rule are real.
+
+!moveon - Once an ORE education claim has been source-checked and the mechanics are corrected, move the thread back to mining. Preserve the useful lesson, skip personal intent reads, and keep the channel focused on settings, claims, yield wording, fees, and risk.
+```

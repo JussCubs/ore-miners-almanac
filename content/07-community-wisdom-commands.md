@@ -1336,3 +1336,15 @@ Reusable command snippets:
 
 !educatorcheck - Community educators can be useful onboarding, but always verify the mechanics: uORE yield wording, claim fees, staking APR, mining production cost, and current protocol docs. Respect the teacher; still check the math before sizing.
 ```
+
+---
+
+## Update - 2026-06-14: de-escalating disputed education threads
+
+The useful community-wisdom lesson from the follow-up thread is not the private back-and-forth. It is the moderation pattern: once an education claim has been source-checked, corrected, and framed in good faith, the channel is usually better served by moving back to mining mechanics instead of extending personal interpretation.
+
+Use this when a support or education thread starts to turn into a dispute about intent:
+
+```text
+!moveon - Once an ORE education claim has been source-checked and the mechanics are corrected, move the thread back to mining. Preserve the useful lesson, skip personal intent reads, and keep the channel focused on settings, claims, yield wording, fees, and risk.
+```

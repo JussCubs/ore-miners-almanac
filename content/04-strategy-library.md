@@ -968,3 +968,25 @@ Reusable command snippets:
 
 !teamvariance — If solo variance is too sharp, team or pool-style mining can lower variance and still give partial uORE exposure. Use it as a risk-control tool, not as proof that one wallet should chase bigger deploy.
 ```
+
+---
+
+## Update - 2026-06-14: same budget, more rounds, lower variance
+
+The latest 25-tile strategy question is a useful teaching case: two plans can spend roughly the same total SOL while feeling very different. A higher per-round deploy over fewer rounds gives each hit more punch, but it also burns through the test faster. A lower per-round deploy over more rounds gives variance more chances to smooth out, while each individual win is smaller.
+
+For beginner-safe strategy language, teach the choice this way:
+
+- compare total SOL at risk first, not only per-round deploy;
+- decide whether the goal is motherlode upside or long-run uORE exposure;
+- prefer more rounds when the miner is testing a low-and-slow thesis;
+- use pool or team-style mining when solo variance feels too sharp;
+- never increase both deploy and round count unless the bankroll and stop rule already support it.
+
+Reusable command snippets:
+
+```text
+!samebudget - Two mining presets can risk the same total SOL with different variance. Higher deploy over fewer rounds makes each hit larger but shortens the test. Lower deploy over more rounds gives the low-and-slow thesis more samples, with smaller individual wins.
+
+!roundsvsdeploy - Choose round count and deploy together: name total SOL at risk, tile count, expected rounds, production cost, and whether you are chasing ML upside or steady uORE exposure. More rounds help variance only if the budget and stop rule are real.
+```
