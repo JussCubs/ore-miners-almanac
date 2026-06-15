@@ -2627,3 +2627,12 @@ Captured 2 new messages from 2026-06-14T17:26:25.375000+00:00 through 2026-06-14
 **Almanac note:** Earlier ORE interfaces exposed more end-of-round detail about bids and received ORE. Until the current app surfaces comparable round data again, new miners should avoid treating those old screens as live strategy inputs. The reusable advice is to distinguish historical UI behavior from current, verifiable data.
 
 **Command seed:** `!roundresults` now captures the caution around old V3 result screens and pending winner-view updates.
+
+## 2026-06-15 Discord Update
+
+Captured 1 new messages from 2026-06-14T23:31:27.675000+00:00 through 2026-06-14T23:31:27.675000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
