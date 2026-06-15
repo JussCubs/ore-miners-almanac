@@ -2654,3 +2654,12 @@ Captured 3 new messages from 2026-06-15T04:32:01.659000+00:00 through 2026-06-15
 
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
+## 2026-06-15 Discord Update - platform momentum and tile selection
+
+Captured 3 new messages from 2026-06-15T13:55:38.600000+00:00 through 2026-06-15T14:17:28.811000+00:00.
+
+**Themes detected:** platform polish, miner morale, random tile expectations.
+
+**Sentiment read:** upbeat and practical. Miners are noticing the platform's continued polish while still checking how current tile-selection behavior compares with older random-tile mining expectations.
+
+**Almanac note:** When miners ask whether random tile mining is still available, the useful teaching path is to separate past mining patterns from the current interface. New miners should verify the live controls and round rules before assuming an older random-tile strategy still applies.
