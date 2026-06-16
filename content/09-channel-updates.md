@@ -2697,3 +2697,17 @@ Captured 3 new messages from 2026-06-16T08:36:52.708000+00:00 through 2026-06-16
 **Almanac note:** A recurring auto-mining request is random tile selection, which would let automatic mode rotate attempts without requiring a miner to manually choose the next tile. Until that exists, miners should treat auto-mine as a convenience layer over a chosen strategy rather than a full strategy engine.
 
 **Motherlode reminder:** The community keeps turning big-loss stories into onboarding lessons. Chasing the motherlode can be fun, but it should be framed as variance-heavy lottery behavior, not dependable mining yield.
+
+## 2026-06-16 Discord Update
+
+Captured 9 new messages from 2026-06-16T12:47:39.362000+00:00 through 2026-06-16T16:02:10.344000+00:00.
+
+**Most active voices:** newcomer support request (3), strategy-channel moderation (2), mining regulars (4).
+
+**Themes detected:** beginner boundaries, channel purpose, and keeping mining help educational.
+
+**Sentiment read:** the channel stayed calm and protective of its purpose. A newcomer asked for direct financial help and private follow-up; regulars redirected the conversation back toward learning how mining works and made clear that the mining channel is for strategy, not personal fundraising.
+
+**Almanac note:** keep beginner support public, educational, and bounded. When someone is confused about ORE mining, the reusable response is to explain the game loop, risks, and expected variance without promising income or moving the conversation into private money requests.
+
+**Beginner-safe framing:** ORE mining can be taught as a strategy game with uncertain outcomes: miners choose tools, tiles, bid timing, and risk exposure, but no one should present it as guaranteed income or ask others to mine on their behalf for emergency money.
