@@ -2663,3 +2663,15 @@ Captured 3 new messages from 2026-06-15T13:55:38.600000+00:00 through 2026-06-15
 **Sentiment read:** upbeat and practical. Miners are noticing the platform's continued polish while still checking how current tile-selection behavior compares with older random-tile mining expectations.
 
 **Almanac note:** When miners ask whether random tile mining is still available, the useful teaching path is to separate past mining patterns from the current interface. New miners should verify the live controls and round rules before assuming an older random-tile strategy still applies.
+
+## 2026-06-16 Discord Update - balance views and wallet expectations
+
+Captured 32 new messages from 2026-06-15T20:12:20.893000+00:00 through 2026-06-15T21:54:21.666000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (11), firebladeXT3 (9), traumi (6), Peaky (4), OREillions⛏️ (2).
+
+**Themes detected:** uORE balance views, wallet and portfolio UX, refined-versus-unrefined accounting, low-and-slow 25 tile mining, lore and origin stories, commands / preserving knowledge.
+
+**Sentiment read:** practical and constructive. The thread centered on miners reconciling what different app screens show, with a little optimism that future ORE-native wallet tooling could make the uORE/refined split easier to read.
+
+**Almanac note:** Treat portfolio display questions as an education opportunity, not just a UI complaint. A useful answer should name the screen being checked, separate gross uORE from net-after-friction uORE, add any refined ORE explicitly, and suggest a second portfolio view before a miner assumes their reward math or claim path has changed.

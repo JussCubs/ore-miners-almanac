@@ -623,3 +623,22 @@ Reusable command snippets:
 
 !claimwhy - Do not claim uORE just because it is available. Name the reason first: sell, liquidity, staking sleeve, accounting, or strategy change. Then compare claim friction, current uORE/refinement yield, staking APR, hold time, and whether you are giving up the patience thesis too early.
 ```
+
+---
+
+## Update - 2026-06-16: reading uORE balances across app views
+
+The channel clarified a small but important portfolio-reading habit: different ORE views may show different slices of the same position. A miner comparing the main miner page, rewards page, wallet portfolio, and third-party portfolio tools should first ask what each screen is counting:
+
+- unclaimed uORE before any sell or claim tax;
+- net uORE after expected friction;
+- refined ORE already separated from the unrefined position;
+- total dollar value that may combine or omit one of those pieces.
+
+For beginners, the safest lesson is not to treat one headline balance as the final truth. Open the reward detail view, compare it with a portfolio view such as ore-stats, and do the simple tax/refined-ORE math by hand before deciding whether the interface has changed or the position itself has changed.
+
+Reusable command snippet:
+
+```text
+!uoreview - When ORE balances look different across app screens, check what each view is counting: gross uORE, net-after-friction uORE, refined ORE, or a combined dollar estimate. Verify the reward detail page and a portfolio view before making a claim, sell, or strategy decision.
+```
