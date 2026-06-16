@@ -2685,3 +2685,15 @@ Captured 2 new messages from 2026-06-16T02:22:45.231000+00:00 through 2026-06-16
 **Sentiment read:** beginner-oriented and practical. The exchange clarified a small but important expectation for hands-off mining.
 
 **Almanac note:** Auto-mine is best framed as "runs without constant babysitting" rather than "set and forget forever." Miners should still keep enough SOL available for transaction fees and check in periodically, especially after wallet, network, or app changes.
+
+## 2026-06-16 Discord Update
+
+Captured 3 new messages from 2026-06-16T08:36:52.708000+00:00 through 2026-06-16T11:51:28.196000+00:00.
+
+**Themes detected:** automatic-mode feature requests, random tile selection, and motherlode risk storytelling.
+
+**Sentiment read:** curious and playful. Miners are still thinking about quality-of-life improvements for hands-off mining while using humor to warn each other about the emotional swing of chasing motherlodes.
+
+**Almanac note:** A recurring auto-mining request is random tile selection, which would let automatic mode rotate attempts without requiring a miner to manually choose the next tile. Until that exists, miners should treat auto-mine as a convenience layer over a chosen strategy rather than a full strategy engine.
+
+**Motherlode reminder:** The community keeps turning big-loss stories into onboarding lessons. Chasing the motherlode can be fun, but it should be framed as variance-heavy lottery behavior, not dependable mining yield.
