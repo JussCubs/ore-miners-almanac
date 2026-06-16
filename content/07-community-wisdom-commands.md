@@ -1372,3 +1372,15 @@ Miners asked about the post-round visibility that earlier versions provided: bid
 ```text
 !roundresults - If round-level bid and winner details are not visible in the current app, treat them as pending UI context instead of strategy data. Watch official updates before relying on old V3 result screens.
 ```
+
+---
+
+## Update — 2026-06-16
+
+### Beginner intent check
+
+Miners clarified that the public channel is the right place to learn how to mine, while requests that sound like asking someone else to mine or send funds should be redirected back toward education. The reusable lesson is to separate onboarding help from money-transfer expectations: explain the mining loop, tools, variance, and safety boundaries in public, without implying that another miner can guarantee income for someone.
+
+```text
+!learn - If someone is new, keep the answer educational: explain how to start mining, where risk/variance enter the game, and that the channel can teach strategy but cannot promise payouts or mine on someone else's behalf.
+```

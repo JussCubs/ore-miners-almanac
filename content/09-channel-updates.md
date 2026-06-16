@@ -2711,3 +2711,11 @@ Captured 9 new messages from 2026-06-16T12:47:39.362000+00:00 through 2026-06-16
 **Almanac note:** keep beginner support public, educational, and bounded. When someone is confused about ORE mining, the reusable response is to explain the game loop, risks, and expected variance without promising income or moving the conversation into private money requests.
 
 **Beginner-safe framing:** ORE mining can be taught as a strategy game with uncertain outcomes: miners choose tools, tiles, bid timing, and risk exposure, but no one should present it as guaranteed income or ask others to mine on their behalf for emergency money.
+
+## 2026-06-16 Discord Update
+
+Captured 1 new beginner-support clarification from 2026-06-16T16:08:39.859000+00:00.
+
+**Almanac note:** keep help requests anchored in learning. If a newcomer sounds like they are asking for money or for someone else to mine on their behalf, the channel can still respond kindly by clarifying intent and pointing them back to public mining education.
+
+**Beginner-safe framing:** the Almanac should teach ORE mining as a game with tools, choices, variance, and risk. It should not frame mining as guaranteed income, and it should not publish raw back-and-forth around personal money needs.
