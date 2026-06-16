@@ -2675,3 +2675,13 @@ Captured 32 new messages from 2026-06-15T20:12:20.893000+00:00 through 2026-06-1
 **Sentiment read:** practical and constructive. The thread centered on miners reconciling what different app screens show, with a little optimism that future ORE-native wallet tooling could make the uORE/refined split easier to read.
 
 **Almanac note:** Treat portfolio display questions as an education opportunity, not just a UI complaint. A useful answer should name the screen being checked, separate gross uORE from net-after-friction uORE, add any refined ORE explicitly, and suggest a second portfolio view before a miner assumes their reward math or claim path has changed.
+
+## 2026-06-16 Discord Update - auto-mining expectations
+
+Captured 2 new messages from 2026-06-16T02:22:45.231000+00:00 through 2026-06-16T02:23:44.152000+00:00.
+
+**Theme detected:** auto-mining continuity and SOL fee readiness.
+
+**Sentiment read:** beginner-oriented and practical. The exchange clarified a small but important expectation for hands-off mining.
+
+**Almanac note:** Auto-mine is best framed as "runs without constant babysitting" rather than "set and forget forever." Miners should still keep enough SOL available for transaction fees and check in periodically, especially after wallet, network, or app changes.
