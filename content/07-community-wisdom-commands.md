@@ -1398,3 +1398,25 @@ New miners also voiced a healthy hesitation around third-party mining tools. Tha
 ```text
 !selective - Full-board mining and selective deployments are different strategy surfaces. If you try a pool or selective tool, verify the operator, start small, compare many rounds, and keep scam-risk caution higher than FOMO.
 ```
+
+---
+
+## Update — 2026-06-17
+
+### Ledger signing and pool onboarding
+
+Miners clarified an onboarding detail around wallet verification: some Solana apps ask for message signing, while others can use a tiny or zero-value transaction as proof of wallet ownership. That distinction matters for hardware-wallet users, because message signing support can vary by app and device workflow.
+
+The public lesson is to check what a pool or tool actually requires before assuming a Ledger-style setup cannot use it. Avoid treating a random article, forum post, or social thread as authoritative; verify the live app flow, start with small size, and never sign transactions you do not understand.
+
+```text
+!ledger - Hardware wallets may handle app verification differently. Before using a pool or mining tool, confirm whether it needs message signing or a transaction-based wallet proof, verify the live app flow, and start small.
+```
+
+### HAWG mode as expert UI
+
+Rubypool's HAWG mode came up as an experienced-miner view: it compresses labels and makes more live stats fit on screen at a readable size. The beginner-safe framing is that dense UI is not a better strategy by itself; it is a convenience once a miner already understands the abbreviations and knows what signal they are watching.
+
+```text
+!hawg - HAWG mode is an expert-style stats layout. Use it when you already know the mining abbreviations and want a denser live view; new miners should learn the full labels first.
+```

@@ -2733,3 +2733,19 @@ Captured 8 new messages from 2026-06-17T04:02:39.384000+00:00 through 2026-06-17
 **Almanac note:** teach this as a strategy-comparison pattern. Before debating success rates, miners should define the surface being compared: official-site mining, full-board pool participation, selective pool deployments, manual tile choice, or requested randomization. Then compare results across enough rounds to avoid treating one streak as proof.
 
 **Beginner-safe framing:** hesitation around new tooling is not a weakness. It is part of scam resistance. The public note should encourage miners to listen, verify, test small, and understand who controls the tool before moving meaningful size away from the official path.
+
+## 2026-06-17 Discord Update
+
+Captured 24 new messages from 2026-06-17T13:35:58.603000+00:00 through 2026-06-17T14:50:25.877000+00:00.
+
+**Most active voices:** strigops (10), ΣXTΛSY | Rubypool.io (6), willd (4), Kriptikz (3), starship_fronk⛏️ (1).
+
+**Themes detected:** hardware-wallet onboarding, pool verification flows, HAWG mode, dense mining stats, and motherlode-loss storytelling.
+
+**Sentiment read:** practical and lightly self-deprecating. Miners were comparing what different apps require from wallets, testing pool UX, and turning prior motherlode losses into shared caution rather than hype.
+
+**Almanac note:** wallet compatibility should be taught as a concrete checklist, not a rumor. A miner using a hardware wallet should verify whether a tool requires message signing or can prove wallet ownership through a transaction flow, then test with small size before moving meaningful funds.
+
+**Strategy note:** HAWG mode belongs in the Almanac as an expert-interface note. It abbreviates labels and fits more live stats into the top bar, which is useful only after the miner knows what the shortened terms mean.
+
+**Risk framing:** the motherlode thread again reinforced that losses are common enough to become community lore. Keep it beginner-safe: chasing ML is variance-heavy and emotionally sticky, so miners should size attempts as entertainment or high-risk strategy rather than expected recovery.
