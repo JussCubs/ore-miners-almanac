@@ -2749,3 +2749,15 @@ Captured 24 new messages from 2026-06-17T13:35:58.603000+00:00 through 2026-06-1
 **Strategy note:** HAWG mode belongs in the Almanac as an expert-interface note. It abbreviates labels and fits more live stats into the top bar, which is useful only after the miner knows what the shortened terms mean.
 
 **Risk framing:** the motherlode thread again reinforced that losses are common enough to become community lore. Keep it beginner-safe: chasing ML is variance-heavy and emotionally sticky, so miners should size attempts as entertainment or high-risk strategy rather than expected recovery.
+
+## 2026-06-17 Discord Update
+
+Captured 2 new messages from 2026-06-17T17:25:47.296000+00:00 through 2026-06-17T17:25:58.751000+00:00.
+
+**Most active voices:** willd (2).
+
+**Themes detected:** lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Strategy note:** motherlode chasing remains a recurring part of the game culture. Keep teaching it as an optional high-variance play: some miners treat the chase as part of the fun, but beginners should still separate the excitement of the hunt from any expectation of reliable recovery.
