@@ -1384,3 +1384,17 @@ Miners clarified that the public channel is the right place to learn how to mine
 ```text
 !learn - If someone is new, keep the answer educational: explain how to start mining, where risk/variance enter the game, and that the channel can teach strategy but cannot promise payouts or mine on someone else's behalf.
 ```
+
+---
+
+## Update — 2026-06-17
+
+### Full-board versus selective mining
+
+Miners compared the familiar "cover every block" approach with selective deployments through pooled tooling. The reusable lesson is not that one path is universally better; it is that miners should name which surface they are using, understand whether they are covering all tiles or making selective attempts, and compare outcomes over enough rounds to avoid over-reading a lucky or unlucky streak.
+
+New miners also voiced a healthy hesitation around third-party mining tools. That caution belongs in the Almanac: sticking with the official route while learning is reasonable, and any move into pooled or selective deployment should come with extra verification, small test sizing, and attention to the surrounding miner chat.
+
+```text
+!selective - Full-board mining and selective deployments are different strategy surfaces. If you try a pool or selective tool, verify the operator, start small, compare many rounds, and keep scam-risk caution higher than FOMO.
+```

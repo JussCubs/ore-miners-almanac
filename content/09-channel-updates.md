@@ -2719,3 +2719,17 @@ Captured 1 new beginner-support clarification from 2026-06-16T16:08:39.859000+00
 **Almanac note:** keep help requests anchored in learning. If a newcomer sounds like they are asking for money or for someone else to mine on their behalf, the channel can still respond kindly by clarifying intent and pointing them back to public mining education.
 
 **Beginner-safe framing:** the Almanac should teach ORE mining as a game with tools, choices, variance, and risk. It should not frame mining as guaranteed income, and it should not publish raw back-and-forth around personal money needs.
+
+## 2026-06-17 Discord Update
+
+Captured 8 new messages from 2026-06-17T04:02:39.384000+00:00 through 2026-06-17T07:53:40.949000+00:00.
+
+**Most active voices:** mining strategy discussion (4), pooled-tooling perspective (3), lore preservation (1).
+
+**Themes detected:** full-board versus selective mining, healthy caution around third-party tooling, community enthusiasm, and preserving reusable strategy notes.
+
+**Sentiment read:** upbeat and curious. A newer miner asked whether covering every block remains the default move or whether partial/random/selective strategies can compete. The answer from the channel was exploratory rather than prescriptive: pooled tooling can expose both all-in and selective deployment styles, but the official route remains a sensible baseline while someone is still learning.
+
+**Almanac note:** teach this as a strategy-comparison pattern. Before debating success rates, miners should define the surface being compared: official-site mining, full-board pool participation, selective pool deployments, manual tile choice, or requested randomization. Then compare results across enough rounds to avoid treating one streak as proof.
+
+**Beginner-safe framing:** hesitation around new tooling is not a weakness. It is part of scam resistance. The public note should encourage miners to listen, verify, test small, and understand who controls the tool before moving meaningful size away from the official path.
