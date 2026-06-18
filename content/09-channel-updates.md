@@ -2761,3 +2761,13 @@ Captured 2 new messages from 2026-06-17T17:25:47.296000+00:00 through 2026-06-17
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Strategy note:** motherlode chasing remains a recurring part of the game culture. Keep teaching it as an optional high-variance play: some miners treat the chase as part of the fun, but beginners should still separate the excitement of the hunt from any expectation of reliable recovery.
+
+## 2026-06-18 Discord Update
+
+Captured 1 new messages from 2026-06-17T21:43:18.695000+00:00 through 2026-06-17T21:43:18.695000+00:00.
+
+**Most active voices:** Madhatt3r (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Lore note:** miners occasionally resurface older ORE-adjacent social posts as part of the channel's shared memory. Treat these references as culture and context first, then connect them back to practical mining lessons only when they add durable value.
