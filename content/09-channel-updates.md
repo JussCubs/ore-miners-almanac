@@ -2811,3 +2811,17 @@ Captured 4 new messages from 2026-06-20T08:15:39.616000+00:00 through 2026-06-20
 **Strategy note:** the durable lesson is to keep variance and tile math separate. A good return can be real without becoming a guarantee, and a smaller tile count should be evaluated as its own preset with its own fee drag, refund behavior, and win profile.
 
 **Beginner note:** if a miner asks "what strategy are you using?", the safest answer starts with budget, tile count, stop rules, and variance tolerance. Avoid copying someone else's lucky result without also copying their risk limits.
+
+## 2026-06-20 Discord Update
+
+Captured 1 new messages from 2026-06-20T12:14:28.315000+00:00 through 2026-06-20T12:14:28.315000+00:00.
+
+**Most active voices:** FiL ⛏️ (1).
+
+**Themes detected:** low-and-slow 25 tile mining.
+
+**Sentiment read:** practical and clarifying. The follow-up kept the 25-tile discussion focused on why estimates are approximate instead of treating one run as a fixed payout model.
+
+**Strategy note:** tile outcomes can vary because each tile may not carry the same amount of SOL exposure, and only selected tiles participate in a given hit. When teaching low-and-slow mining, present per-tile math as a planning estimate with variance rather than a precise promise.
+
+**Beginner note:** if a miner is comparing tile counts, ask whether they are estimating cost, refund behavior, or hit distribution. Those are related, but they are not the same question.
