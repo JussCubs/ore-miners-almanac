@@ -642,3 +642,17 @@ Reusable command snippet:
 ```text
 !uoreview - When ORE balances look different across app screens, check what each view is counting: gross uORE, net-after-friction uORE, refined ORE, or a combined dollar estimate. Verify the reward detail page and a portfolio view before making a claim, sell, or strategy decision.
 ```
+
+---
+
+## Update — 2026-06-20
+
+### Good-day variance and uORE patience
+
+One miner returned after a break and reported a strong day: a position that had been around the mid-teens in uORE climbed into the low twenties on roughly a couple SOL of mining. The useful lesson is not to treat that as a promise. It is a clean example of why ORE mining feels alive: quiet stretches can be interrupted by a day where the mines seem generous.
+
+For the Almanac, this belongs in the patience file because it shows the emotional side of uORE accumulation. A good day can restore confidence, but the durable habit is still to track budget, rounds, claim friction, and time horizon instead of resizing only because the latest session felt lucky.
+
+```text
+!goodday - A strong uORE day is encouragement, not a guarantee. Log the budget, rounds, and balance change, then keep the same patience rules: size for variance, understand claim friction, and avoid chasing only because today's mines felt friendly.
+```

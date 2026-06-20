@@ -1004,3 +1004,17 @@ For low-and-slow tests, the difference may feel small because each round is capp
 ```text
 !lastround - Before running an autominer, decide whether the final round must match your chosen tile count or may spend leftover SOL on fewer tiles. Full-tile-only protects the setup you selected; partial final deploys keep funds active but change the last round's odds.
 ```
+
+---
+
+## Update — 2026-06-20
+
+### Tile-count fee curve
+
+Miners asked for a simple way to see how fees change as tile count drops from a 25-tile plan into smaller deploys. That question belongs beside final-round autominer discipline: a smaller tile count is not just "the same strategy with less SOL." It may change the fee schedule, the win profile, and the way a miner reads the last deploy in a run.
+
+Beginner-safe rule: when comparing 25, 23, 15, or any other tile count, write down the fee beside the tile count before choosing the preset. If an autominer may finish with a smaller partial deploy, the miner should understand that final deploy on its own terms rather than assuming it inherits the original 25-tile economics.
+
+```text
+!tilefees - Before shrinking a tile plan, compare tile count, fee, deploy size, and expected round behavior together. A lower tile count may change both cost and odds, so treat it as a different preset rather than a smaller copy of the original run.
+```

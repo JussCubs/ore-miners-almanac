@@ -2785,3 +2785,17 @@ Captured 34 new messages from 2026-06-19T23:02:43.235000+00:00 through 2026-06-1
 **Strategy note:** miners debated whether a 25-tile autominer should stop when the balance cannot fund all 25 tiles, or spend the remaining SOL on a smaller final deploy. The durable lesson is to make final-round behavior explicit: full-tile-only preserves the setup the miner chose, while a partial deploy spends idle SOL but changes the last round's odds.
 
 **Product note:** the feedback loop itself was the useful story. Miners appreciated that channel feedback is being read and turned into clearer controls. Roberto/refinORE should keep asking for intent in miner language, especially where low-and-slow miners and larger deployers may feel the same default differently.
+
+## 2026-06-20 Discord Update
+
+Captured 7 new messages from 2026-06-20T04:18:50.766000+00:00 through 2026-06-20T07:59:17.496000+00:00.
+
+**Most active voices:** Hermes (4), starship_fronk⛏️ (2), Xenos (1).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**uORE note:** miners shared a small good-day story around uORE accumulation. The public lesson is patience with variance: a strong session can be encouraging, but it should be logged as one data point beside budget, rounds, and claim friction.
+
+**Strategy note:** the tile-count fee curve came up as a practical education need. When miners reduce from a 25-tile setup into smaller tile counts, the fee, win profile, and any partial final-round behavior should be read as a new preset rather than a miniature version of the original plan.
