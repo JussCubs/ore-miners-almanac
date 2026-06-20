@@ -320,3 +320,18 @@ Roberto should preserve that good path:
 - **round or tile allocation** - the strategy shape the miner intends to execute;
 - **wallet transfer confirmation** - the final check before funds move;
 - **fix/status context** - when something is being patched, show enough state that miners know whether to retry, wait, or report exact inputs.
+
+---
+
+## Update — 2026-06-20
+
+### Partial final rounds need an explicit control
+
+The mining channel debated how Roberto/refinORE should treat the last autominer round when a 25-tile plan no longer has enough SOL for all 25 tiles. This belongs in the command center as a product requirement: do not hide the policy. Give the miner a visible setting such as **Full tiles only** versus **Use remaining SOL**, then show the final-round consequence before deployment.
+
+Roberto should phrase the confirmation around the user's intent:
+
+- **Full tiles only** - stop when the remaining balance cannot fund the selected tile count;
+- **Use remaining SOL** - allow a smaller final deploy, clearly labeling the reduced tile count;
+- **Risk preview** - show estimated remaining SOL, tile count, and whether the final round differs from the original setup;
+- **Feedback loop** - keep asking miners which default feels clearer, because low-deploy and high-deploy users may experience the risk differently.

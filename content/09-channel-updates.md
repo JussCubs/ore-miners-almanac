@@ -2771,3 +2771,17 @@ Captured 1 new messages from 2026-06-17T21:43:18.695000+00:00 through 2026-06-17
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Lore note:** miners occasionally resurface older ORE-adjacent social posts as part of the channel's shared memory. Treat these references as culture and context first, then connect them back to practical mining lessons only when they add durable value.
+
+## 2026-06-20 Discord Update
+
+Captured 34 new messages from 2026-06-19T23:02:43.235000+00:00 through 2026-06-19T23:52:53.921000+00:00.
+
+**Most active voices:** OREillions⛏️ (17), starship_fronk⛏️ (12), Vau (3), Madhatt3r (2).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, lore and origin stories, refinORE / Roberto.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Strategy note:** miners debated whether a 25-tile autominer should stop when the balance cannot fund all 25 tiles, or spend the remaining SOL on a smaller final deploy. The durable lesson is to make final-round behavior explicit: full-tile-only preserves the setup the miner chose, while a partial deploy spends idle SOL but changes the last round's odds.
+
+**Product note:** the feedback loop itself was the useful story. Miners appreciated that channel feedback is being read and turned into clearer controls. Roberto/refinORE should keep asking for intent in miner language, especially where low-and-slow miners and larger deployers may feel the same default differently.

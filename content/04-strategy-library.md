@@ -990,3 +990,17 @@ Reusable command snippets:
 
 !roundsvsdeploy - Choose round count and deploy together: name total SOL at risk, tile count, expected rounds, production cost, and whether you are chasing ML upside or steady uORE exposure. More rounds help variance only if the budget and stop rule are real.
 ```
+
+---
+
+## Update — 2026-06-20
+
+### Final-round tile discipline
+
+The channel compared two valid autominer expectations: stop when a 25-tile setup can no longer fund a full 25-tile deploy, or spend the remaining SOL on a smaller final deploy. The strategy lesson is that a miner should decide this before starting the run. A full-tile-only rule preserves the win-rate shape the miner chose; a partial final round keeps idle SOL working but changes the last round's odds and can feel surprising when the deploy size is high.
+
+For low-and-slow tests, the difference may feel small because each round is capped tightly. For larger deploys, the same behavior can matter more because the final round may still put meaningful SOL at risk while no longer matching the original tile plan.
+
+```text
+!lastround - Before running an autominer, decide whether the final round must match your chosen tile count or may spend leftover SOL on fewer tiles. Full-tile-only protects the setup you selected; partial final deploys keep funds active but change the last round's odds.
+```

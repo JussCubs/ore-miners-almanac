@@ -1420,3 +1420,25 @@ Rubypool's HAWG mode came up as an experienced-miner view: it compresses labels 
 ```text
 !hawg - HAWG mode is an expert-style stats layout. Use it when you already know the mining abbreviations and want a denser live view; new miners should learn the full labels first.
 ```
+
+---
+
+## Update — 2026-06-20
+
+### Autominer feedback belongs in miner language
+
+Miners raised a practical UX question about the last round of a 25-tile autominer run: should the tool cancel when the balance can no longer fund all 25 tiles, or should it fire a smaller deploy with the remaining SOL? The disagreement is useful because both sides are protecting a real expectation. Some miners want the bot to preserve the exact win-rate shape they configured; others prefer using the last available balance instead of leaving dust behind.
+
+The reusable command lesson is to make the choice explicit instead of letting the tool surprise the miner.
+
+```text
+!fulltiles - If your plan depends on a fixed tile count, use a full-tile-only stop rule. If you prefer one more chance with leftover SOL, allow partial final rounds and remember that the final odds no longer match the original setup.
+```
+
+### Care for miners big and small
+
+The same discussion kept returning to a healthy community norm: tools should work for both low-budget miners and people pushing larger deploys. A beginner-safe bot should ask for the user's intent in plain language, show the SOL at risk, and avoid making hidden strategy changes on the final round.
+
+```text
+!minerintent - Good autominer settings name the intent first: fixed tile count, spend-all balance, hard stop, or auto-claim. If the bot changes deploy size, the miner should see that before funds move.
+```
