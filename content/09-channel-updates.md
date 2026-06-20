@@ -2825,3 +2825,11 @@ Captured 1 new messages from 2026-06-20T12:14:28.315000+00:00 through 2026-06-20
 **Strategy note:** tile outcomes can vary because each tile may not carry the same amount of SOL exposure, and only selected tiles participate in a given hit. When teaching low-and-slow mining, present per-tile math as a planning estimate with variance rather than a precise promise.
 
 **Beginner note:** if a miner is comparing tile counts, ask whether they are estimating cost, refund behavior, or hit distribution. Those are related, but they are not the same question.
+
+## 2026-06-20 Discord Update
+
+Captured 2 new messages from 2026-06-20T19:51:50.912000+00:00 through 2026-06-20T19:52:13.809000+00:00.
+
+**Most active voices:** FiL ⛏️ (1), MikkelHax (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
