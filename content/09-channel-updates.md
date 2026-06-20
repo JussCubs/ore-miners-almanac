@@ -2799,3 +2799,15 @@ Captured 7 new messages from 2026-06-20T04:18:50.766000+00:00 through 2026-06-20
 **uORE note:** miners shared a small good-day story around uORE accumulation. The public lesson is patience with variance: a strong session can be encouraging, but it should be logged as one data point beside budget, rounds, and claim friction.
 
 **Strategy note:** the tile-count fee curve came up as a practical education need. When miners reduce from a 25-tile setup into smaller tile counts, the fee, win profile, and any partial final-round behavior should be read as a new preset rather than a miniature version of the original plan.
+
+## 2026-06-20 Discord Update
+
+Captured 4 new messages from 2026-06-20T08:15:39.616000+00:00 through 2026-06-20T11:51:18.376000+00:00.
+
+**Themes detected:** low-and-slow 25 tile mining.
+
+**Sentiment read:** practical and corrective. Miners were answering a strategy question by separating lucky outcomes from repeatable edge, then pressure-testing how tile count affects fees, refunds, and expectations.
+
+**Strategy note:** the durable lesson is to keep variance and tile math separate. A good return can be real without becoming a guarantee, and a smaller tile count should be evaluated as its own preset with its own fee drag, refund behavior, and win profile.
+
+**Beginner note:** if a miner asks "what strategy are you using?", the safest answer starts with budget, tile count, stop rules, and variance tolerance. Avoid copying someone else's lucky result without also copying their risk limits.

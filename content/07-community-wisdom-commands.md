@@ -1442,3 +1442,23 @@ The same discussion kept returning to a healthy community norm: tools should wor
 ```text
 !minerintent - Good autominer settings name the intent first: fixed tile count, spend-all balance, hard stop, or auto-claim. If the bot changes deploy size, the miner should see that before funds move.
 ```
+
+---
+
+## Update — 2026-06-20
+
+### Variance is not a money printer
+
+Miners kept the "good run" framing grounded: a session that returns far more than expected can happen, but it is still variance rather than a repeatable promise. The beginner-safe lesson is to log upside streaks the same way the channel logs losses, with enough humility that new miners do not confuse a lucky window for a guaranteed strategy.
+
+```text
+!variance - A strong mining run is still variance. Track it, enjoy it, and compare it against many rounds before changing your plan; no tile count or pool setting turns mining into guaranteed profit.
+```
+
+### Tile count changes the final shape
+
+The channel also revisited how smaller tile counts can change the refund profile while fees remain a meaningful drag. The useful teaching point is not to memorize one percentage from chat, but to make each tile count its own preset: check the fee, expected refund behavior, and win profile before treating a smaller deploy as a simple scaled-down 25-tile run.
+
+```text
+!tilemath - When changing tile count, recalculate the whole preset: SOL at risk, fee drag, refund behavior, and odds. Smaller deploys can feel cheaper, but they are not just miniature 25-tile runs.
+```
