@@ -2854,3 +2854,10 @@ Captured 2 new messages from 2026-06-21T04:40:53.002000+00:00 through 2026-06-21
 
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
+## 2026-06-21 Discord Update
+
+Captured 3 new messages from 2026-06-21T12:14:43.569000+00:00 through 2026-06-21T15:02:34.892000+00:00.
+
+**Sentiment read:** light social chatter, not a strategy-heavy interval. The useful public takeaway is that the mining channel remains active between deeper technical discussions, but this batch did not add durable guidance on tile selection, bankroll sizing, or bot operation.
+
+**Editorial note:** no private chat excerpts or external reaction links were promoted into the public Almanac from this window.
