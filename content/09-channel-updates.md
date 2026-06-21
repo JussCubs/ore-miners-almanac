@@ -2833,3 +2833,15 @@ Captured 2 new messages from 2026-06-20T19:51:50.912000+00:00 through 2026-06-20
 **Most active voices:** FiL ⛏️ (1), MikkelHax (1).
 
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+## 2026-06-21 Discord Update
+
+Captured 1 new messages from 2026-06-21T03:53:17.614000+00:00 through 2026-06-21T03:53:17.614000+00:00.
+
+**Most active voices:** Brent (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Dialogue to organize into the Almanac:**
+
+- **Brent:** "FBI" miner lol
