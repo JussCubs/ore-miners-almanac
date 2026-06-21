@@ -2845,3 +2845,12 @@ Captured 1 new messages from 2026-06-21T03:53:17.614000+00:00 through 2026-06-21
 **Dialogue to organize into the Almanac:**
 
 - **Brent:** "FBI" miner lol
+
+## 2026-06-21 Discord Update
+
+Captured 2 new messages from 2026-06-21T04:40:53.002000+00:00 through 2026-06-21T07:45:29.053000+00:00.
+
+**Most active voices:** Diggy ⛏️ | Independent Miner (1), RNA(•‿•) (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
