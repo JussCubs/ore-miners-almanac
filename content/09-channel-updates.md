@@ -2877,3 +2877,17 @@ Captured 21 new messages from 2026-06-21T23:39:42.397000+00:00 through 2026-06-2
 **Lore note:** the memorable stories were about improbable multiplier hits on small tile selections. They are useful for onboarding because they show why miners remember variance so vividly, but the public lesson should stay beginner-safe: dramatic wins are anecdotes, not a forecast.
 
 **Command snippets added:** `!lowtiles` for lower-tile bankroll planning and `!mlstory` for multiplier-lore discipline.
+
+## 2026-06-22 Discord Update
+
+Captured 11 new messages from 2026-06-22T04:08:57.260000+00:00 through 2026-06-22T04:17:53.897000+00:00.
+
+**Most active voices:** ΣXTΛSY | Rubypool.io (7), strigops (4).
+
+**Themes detected:** lore and origin stories.
+
+**Sentiment read:** playful math talk turned into a useful variance lesson. The group was testing intuition around very low per-round odds, crowd-scale probability, and why a result can be likely for someone without being dependable for one miner.
+
+**Strategy note:** distinguish individual odds from population odds. If thousands of miners each try a long-shot setup once, a hit somewhere can become plausible, but a single miner still faces a long and uncertain waiting period. Treat that setup as a separate risk mode with its own budget and stop rule.
+
+**Command snippets added:** `!longshot` for explaining why possible wins are not the same as expected income.

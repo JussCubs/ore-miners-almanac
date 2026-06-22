@@ -1482,3 +1482,15 @@ The channel also told the familiar story of tiny tile selections hitting outsize
 ```text
 !mlstory - Huge multipliers on tiny tile selections make great lore, but they are not a plan. Decide your tile count, stop rule, and gamble-mode boundary before the round starts.
 ```
+
+---
+
+## Update — 2026-06-22
+
+### Long-shot odds still need time discipline
+
+Miners compared the math of very low-probability hits with the lived experience of waiting through many rounds. A tiny per-round chance can still produce a winner somewhere in a large crowd, but that does not make the outcome timely or predictable for one miner. The useful public lesson is to separate "possible" from "plan": long-shot deploys need a hard budget, a time horizon, and no promise that the crowd's odds belong to any single wallet.
+
+```text
+!longshot - A tiny per-round chance can hit for someone, especially across many miners, but one wallet can still wait a very long time. Budget long-shot deploys as entertainment or experiments, not expected income.
+```
