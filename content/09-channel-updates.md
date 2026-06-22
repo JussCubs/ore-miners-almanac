@@ -2901,3 +2901,13 @@ Captured 2 new messages from 2026-06-22T09:55:22.188000+00:00 through 2026-06-22
 **Operations note:** the durable public takeaway is that miners continue to treat multi-device rigs as part of the culture and ambition of ORE mining. When this comes up in beginner material, pair the excitement with practical reminders: track power, thermals, network stability, and bankroll separately so a bigger rig does not blur operating costs with mining outcomes.
 
 **Editorial note:** no raw chat excerpts or names were promoted from this small window.
+
+## 2026-06-22 Discord Update
+
+Captured 1 new message from 2026-06-22T17:52:03.201000+00:00 through 2026-06-22T17:52:03.201000+00:00.
+
+**Most active voices:** Gadams (1).
+
+**Sentiment read:** a small but useful reminder that the first confirmed ORE win can be a powerful motivator. Beginner material should treat that spark honestly: celebrate the fun of the chase while separating emotional momentum from expected return.
+
+**Editorial note:** no raw chat excerpt was promoted from this small window.
