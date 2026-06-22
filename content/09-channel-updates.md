@@ -2861,3 +2861,19 @@ Captured 3 new messages from 2026-06-21T12:14:43.569000+00:00 through 2026-06-21
 **Sentiment read:** light social chatter, not a strategy-heavy interval. The useful public takeaway is that the mining channel remains active between deeper technical discussions, but this batch did not add durable guidance on tile selection, bankroll sizing, or bot operation.
 
 **Editorial note:** no private chat excerpts or external reaction links were promoted into the public Almanac from this window.
+
+## 2026-06-22 Discord Update
+
+Captured 21 new messages from 2026-06-21T23:39:42.397000+00:00 through 2026-06-21T23:53:05.355000+00:00.
+
+**Most active voices:** Cragglebear (12), starship_fronk⛏️ (9).
+
+**Themes detected:** low-and-slow 25 tile mining, lore and origin stories.
+
+**Sentiment read:** playful but useful. The discussion used old low-tile wins and multiplier stories to explain a serious point: smaller tile counts can feel powerful when variance is friendly, but they can drain quickly when misses stack.
+
+**Strategy note:** the durable teaching is to separate steady mining mode from gamble mode. A 13-tile setup, a 25-tile setup, and a one-tile long-shot are different risk shapes. Each needs its own expectations for missed rounds, multiplier exposure, and stop rules.
+
+**Lore note:** the memorable stories were about improbable multiplier hits on small tile selections. They are useful for onboarding because they show why miners remember variance so vividly, but the public lesson should stay beginner-safe: dramatic wins are anecdotes, not a forecast.
+
+**Command snippets added:** `!lowtiles` for lower-tile bankroll planning and `!mlstory` for multiplier-lore discipline.

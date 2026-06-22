@@ -1462,3 +1462,23 @@ The channel also revisited how smaller tile counts can change the refund profile
 ```text
 !tilemath - When changing tile count, recalculate the whole preset: SOL at risk, fee drag, refund behavior, and odds. Smaller deploys can feel cheaper, but they are not just miniature 25-tile runs.
 ```
+
+---
+
+## Update — 2026-06-22
+
+### Low-tile runs amplify variance
+
+Miners revisited the old 13-tile style as both a leaderboard tactic and a cautionary story. Fewer selected tiles can make a deploy feel more efficient in a lucky stretch, especially when mining is easier, but the missed rounds tend to compound quickly. The lesson is not that 13 tiles is magic; it is that lower tile counts change the variance profile enough that a miner needs a separate bankroll plan.
+
+```text
+!lowtiles - Lower tile counts can stretch a deploy during lucky runs, but they also magnify missed-round variance. Treat 13 tiles, 25 tiles, or any other preset as separate plans with separate stop rules.
+```
+
+### Multiplier stories are morale, not a plan
+
+The channel also told the familiar story of tiny tile selections hitting outsized multipliers. Those moments are part of mining lore because they are memorable, not because they are repeatable strategy. Use them to explain variance, emotional discipline, and why a miner should decide in advance whether they are in a steady mining mode or a gamble mode.
+
+```text
+!mlstory - Huge multipliers on tiny tile selections make great lore, but they are not a plan. Decide your tile count, stop rule, and gamble-mode boundary before the round starts.
+```
