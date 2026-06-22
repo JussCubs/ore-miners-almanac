@@ -2891,3 +2891,13 @@ Captured 11 new messages from 2026-06-22T04:08:57.260000+00:00 through 2026-06-2
 **Strategy note:** distinguish individual odds from population odds. If thousands of miners each try a long-shot setup once, a hit somewhere can become plausible, but a single miner still faces a long and uncertain waiting period. Treat that setup as a separate risk mode with its own budget and stop rule.
 
 **Command snippets added:** `!longshot` for explaining why possible wins are not the same as expected income.
+
+## 2026-06-22 Discord Update
+
+Captured 2 new messages from 2026-06-22T09:55:22.188000+00:00 through 2026-06-22T11:41:13.691000+00:00.
+
+**Sentiment read:** a quiet interval with one strong excitement marker around scaling up physical mining hardware.
+
+**Operations note:** the durable public takeaway is that miners continue to treat multi-device rigs as part of the culture and ambition of ORE mining. When this comes up in beginner material, pair the excitement with practical reminders: track power, thermals, network stability, and bankroll separately so a bigger rig does not blur operating costs with mining outcomes.
+
+**Editorial note:** no raw chat excerpts or names were promoted from this small window.
