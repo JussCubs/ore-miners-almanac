@@ -1494,3 +1494,15 @@ Miners compared the math of very low-probability hits with the lived experience 
 ```text
 !longshot - A tiny per-round chance can hit for someone, especially across many miners, but one wallet can still wait a very long time. Budget long-shot deploys as entertainment or experiments, not expected income.
 ```
+
+---
+
+## Update — 2026-06-23
+
+### Profit thresholds need dashboards, not vibes
+
+Miners asked for a cleaner way to decide when a round is worth entering: compare current SOL committed, available Motherlode, fees, and payout assumptions before deploying. The beginner-safe lesson is that profitability tools should show assumptions plainly and avoid pretending that a threshold can remove variance. A dashboard can help a miner avoid obviously poor conditions, but it cannot promise the next round will pay.
+
+```text
+!profitcheck - Before mining, compare SOL committed, Motherlode size, fees, and your stop rule. A threshold dashboard can filter bad setups, but it does not make any round guaranteed profit.
+```

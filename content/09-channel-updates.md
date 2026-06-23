@@ -2925,3 +2925,17 @@ Captured 3 new messages from 2026-06-23T02:47:54.629000+00:00 through 2026-06-23
 **Command-center note:** Roberto should repeat the selected tile count in the final autominer confirmation, flag near-misses against common presets, and preserve pending edit/cancel intent if a win notification interrupts the miner.
 
 **Editorial note:** raw chat lines, reactions, and external social links were not promoted from this small window.
+
+## 2026-06-23 Discord Update
+
+Captured 1 new message from 2026-06-23T16:55:14.592000+00:00 through 2026-06-23T16:55:14.592000+00:00.
+
+**Most active voices:** permaweave (1).
+
+**Themes detected:** profitability dashboards, threshold-based mining, risk discipline.
+
+**Sentiment read:** practical and cautious. The message asked for a way to estimate when mining conditions are worth entering, with a clear desire to avoid deploying SOL when the expected payout per committed SOL looks weak.
+
+**Strategy note:** this belongs in the Almanac as a dashboard design prompt, not a profit promise. A useful miner view would expose current SOL committed, Motherlode size, fees, selected tile count, stop rule, and the threshold the miner is using. It should make the assumptions visible and remind beginners that thresholds can filter poor conditions but cannot remove variance.
+
+**Command snippets added:** `!profitcheck` for pre-round threshold thinking.
