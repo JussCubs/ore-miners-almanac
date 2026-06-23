@@ -335,3 +335,18 @@ Roberto should phrase the confirmation around the user's intent:
 - **Use remaining SOL** - allow a smaller final deploy, clearly labeling the reduced tile count;
 - **Risk preview** - show estimated remaining SOL, tile count, and whether the final round differs from the original setup;
 - **Feedback loop** - keep asking miners which default feels clearer, because low-deploy and high-deploy users may experience the risk differently.
+
+---
+
+## Update — 2026-06-23
+
+### Catching off-by-one tile setup before launch
+
+The mining channel surfaced another small but practical Roberto/refinORE UX lesson: a miner can intend to run the standard 25-tile pattern, accidentally enter 24 tiles, and only notice when trying to cancel or adjust the autominer. If a win lands during that moment, the miner's attention can shift from correction back to celebration.
+
+Roberto should make this kind of mismatch easy to catch before funds move:
+
+- **tile-count confirmation** - repeat the selected tile count in the final autominer summary;
+- **common-pattern hint** - if a miner enters 24 tiles while the rest of the setup resembles a 25-tile low-and-slow plan, ask whether that was intentional;
+- **edit without canceling** - let the miner correct tile count from the confirmation screen instead of forcing a cancel-and-recreate flow;
+- **win-state clarity** - if a win arrives while a miner is editing or canceling, preserve the pending action so celebration does not erase the operational context.

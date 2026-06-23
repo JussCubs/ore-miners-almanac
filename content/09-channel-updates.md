@@ -2911,3 +2911,17 @@ Captured 1 new message from 2026-06-22T17:52:03.201000+00:00 through 2026-06-22T
 **Sentiment read:** a small but useful reminder that the first confirmed ORE win can be a powerful motivator. Beginner material should treat that spark honestly: celebrate the fun of the chase while separating emotional momentum from expected return.
 
 **Editorial note:** no raw chat excerpt was promoted from this small window.
+
+## 2026-06-23 Discord Update
+
+Captured 3 new messages from 2026-06-23T02:47:54.629000+00:00 through 2026-06-23T02:52:52.324000+00:00.
+
+**Most active voices:** strigops (3).
+
+**Themes detected:** low-and-slow 25 tile mining, commands / preserving knowledge, refinORE / Roberto.
+
+**Sentiment read:** a tiny, playful interval still produced a reusable product lesson: low-and-slow miners treat 25 tiles as a recognizable pattern, so an accidental 24-tile autominer setup should be easy to notice and correct before or during a session.
+
+**Command-center note:** Roberto should repeat the selected tile count in the final autominer confirmation, flag near-misses against common presets, and preserve pending edit/cancel intent if a win notification interrupts the miner.
+
+**Editorial note:** raw chat lines, reactions, and external social links were not promoted from this small window.
