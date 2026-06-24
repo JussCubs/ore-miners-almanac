@@ -2939,3 +2939,17 @@ Captured 1 new message from 2026-06-23T16:55:14.592000+00:00 through 2026-06-23T
 **Strategy note:** this belongs in the Almanac as a dashboard design prompt, not a profit promise. A useful miner view would expose current SOL committed, Motherlode size, fees, selected tile count, stop rule, and the threshold the miner is using. It should make the assumptions visible and remind beginners that thresholds can filter poor conditions but cannot remove variance.
 
 **Command snippets added:** `!profitcheck` for pre-round threshold thinking.
+
+## 2026-06-24 Discord Update
+
+Captured 1 new message from 2026-06-24T02:03:02.837000+00:00 through 2026-06-24T02:03:02.837000+00:00.
+
+**Most active voices:** ΣXTΛSY | Rubypool.io (1).
+
+**Themes detected:** ORE V4 expectations, tooling timing, provisional strategy advice.
+
+**Sentiment read:** cautious and pragmatic. The channel is watching for ORE V4 before turning current assumptions into polished tooling, because the new version may change enough mining mechanics to make some dashboards or strategy helpers need revision.
+
+**Strategy note:** publish V4-adjacent material as provisional. Good public guidance can still explain what miners are watching, but it should avoid promising that today's thresholds, dashboards, or autominer assumptions will survive the update unchanged.
+
+**Command snippets added:** `!v4wait` for protocol-change caution.

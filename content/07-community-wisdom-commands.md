@@ -1506,3 +1506,15 @@ Miners asked for a cleaner way to decide when a round is worth entering: compare
 ```text
 !profitcheck - Before mining, compare SOL committed, Motherlode size, fees, and your stop rule. A threshold dashboard can filter bad setups, but it does not make any round guaranteed profit.
 ```
+
+---
+
+## Update — 2026-06-24
+
+### Big protocol changes deserve patience
+
+Miners flagged that the upcoming ORE V4 release may change enough assumptions that some dashboard or automation ideas should wait until the new mechanics are public. The useful lesson is not to freeze all building; it is to label speculative tools clearly, avoid hard-coding soon-to-change assumptions, and keep beginner advice flexible until V4 settles.
+
+```text
+!v4wait - If a protocol update is close, treat strategy tools as provisional. Build notes and dashboards around visible assumptions so they can be revised when the new rules land.
+```
