@@ -2953,3 +2953,9 @@ Captured 1 new message from 2026-06-24T02:03:02.837000+00:00 through 2026-06-24T
 **Strategy note:** publish V4-adjacent material as provisional. Good public guidance can still explain what miners are watching, but it should avoid promising that today's thresholds, dashboards, or autominer assumptions will survive the update unchanged.
 
 **Command snippets added:** `!v4wait` for protocol-change caution.
+
+## 2026-06-24 Discord Update
+
+Captured 1 new message from 2026-06-24T17:20:05.490000+00:00.
+
+**Theme to track:** miners are still talking about ORE's deflationary supply mechanics in playful terms. For the public Almanac, this is useful as a reminder to explain burn-and-mine dynamics carefully: lower supply can be part of the protocol story, but beginner-facing material should separate tokenomics from any promise of short-term mining returns.
