@@ -2959,3 +2959,17 @@ Captured 1 new message from 2026-06-24T02:03:02.837000+00:00 through 2026-06-24T
 Captured 1 new message from 2026-06-24T17:20:05.490000+00:00.
 
 **Theme to track:** miners are still talking about ORE's deflationary supply mechanics in playful terms. For the public Almanac, this is useful as a reminder to explain burn-and-mine dynamics carefully: lower supply can be part of the protocol story, but beginner-facing material should separate tokenomics from any promise of short-term mining returns.
+
+## 2026-06-25 Discord Update
+
+Captured 4 new messages from 2026-06-24T23:08:04.750000+00:00 through 2026-06-24T23:43:11.842000+00:00.
+
+**Most active voices:** two miners compared recent mega-lane observations with the longer-running average.
+
+**Themes detected:** mega-lane variance, short-window averages, long-run expectations.
+
+**Sentiment read:** quietly expectant. Miners are watching whether a recent stretch of smaller mega-lanes reverts toward the larger historical average, but the discussion stayed in the realm of probability and pattern-watching rather than certainty.
+
+**Strategy note:** when teaching mega-lanes, separate recent-window averages from all-time averages. A one-week average below the historical mean can make miners feel like larger lanes are "due," but the beginner-safe framing is variance: past averages help set expectations, not guarantees. This is a good place to explain why miners track both short-term streaks and long-term baselines before changing strategy.
+
+**Numbers to explain carefully:** miners cited a recent mega-lane average just under 65 ORE and an all-time average around 124.74 ORE. Present those as community observations to contextualize variance, not as mining-profit forecasts.
