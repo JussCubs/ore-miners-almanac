@@ -2973,3 +2973,19 @@ Captured 4 new messages from 2026-06-24T23:08:04.750000+00:00 through 2026-06-24
 **Strategy note:** when teaching mega-lanes, separate recent-window averages from all-time averages. A one-week average below the historical mean can make miners feel like larger lanes are "due," but the beginner-safe framing is variance: past averages help set expectations, not guarantees. This is a good place to explain why miners track both short-term streaks and long-term baselines before changing strategy.
 
 **Numbers to explain carefully:** miners cited a recent mega-lane average just under 65 ORE and an all-time average around 124.74 ORE. Present those as community observations to contextualize variance, not as mining-profit forecasts.
+
+## 2026-06-25 Discord Update
+
+Captured 11 new messages from 2026-06-25T17:13:31.508000+00:00 through 2026-06-25T19:41:04.996000+00:00.
+
+**Most active voices:** several miners and community operators discussed a short-lived mining interruption, account migration timing, and whether to pause or resume deploys.
+
+**Themes detected:** migration-related downtime, mining-status communication, motherlode variance, pause-and-resume discipline.
+
+**Sentiment read:** cautious but constructive. Operators clarified that mining had been temporarily stuck during account migrations and later returned to normal, while miners reacted by pausing, watching the board, and selectively re-entering once deploy activity looked healthier.
+
+**Strategy note:** this is a useful beginner lesson in operational risk. Even when protocol or account migration work is expected, miners should treat temporary stuck states as a reason to slow down, verify current status, and avoid forcing deploys into unclear conditions. A public Almanac section can frame this as "pause, confirm, then redeploy" rather than as a panic event.
+
+**Beginner-safe takeaway:** a miner pausing during unusual conditions is not the same thing as abandoning a strategy. The stronger habit is to define what "normal enough" looks like before re-entry: recent successful deploys, fresh operator status, and a motherlode size that still matches the miner's risk budget.
+
+**Lore note:** the channel kept using playful pirate and motherlode language around the same event. Keep that flavor in storytelling sections, but pair it with plain explanations so new miners understand the practical decision underneath the joke.
