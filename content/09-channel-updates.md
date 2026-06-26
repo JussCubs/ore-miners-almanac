@@ -2989,3 +2989,15 @@ Captured 11 new messages from 2026-06-25T17:13:31.508000+00:00 through 2026-06-2
 **Beginner-safe takeaway:** a miner pausing during unusual conditions is not the same thing as abandoning a strategy. The stronger habit is to define what "normal enough" looks like before re-entry: recent successful deploys, fresh operator status, and a motherlode size that still matches the miner's risk budget.
 
 **Lore note:** the channel kept using playful pirate and motherlode language around the same event. Keep that flavor in storytelling sections, but pair it with plain explanations so new miners understand the practical decision underneath the joke.
+
+## 2026-06-26 Discord Update
+
+Captured 1 new message from 2026-06-26T02:24:39.124000+00:00.
+
+**Theme to track:** miners are watching deploy cadence as the board gets more competitive.
+
+**Sentiment read:** alert and promotional, with the underlying education point being that hotter conditions can shift a miner's attention from pure cost basis to whether their route can consistently get into productive rounds at all.
+
+**Strategy note:** add this to the command library as a capacity-risk reminder. Before deploying into a crowded window, beginners should check recent pool deploy timing, visible operator health, Motherlode size, and their own stop rule. Treat claims about "hotter mines" as a prompt to verify current conditions, not as a promise of better returns.
+
+**Command snippets added:** `!hotmines` for crowded-board deploy discipline.

@@ -1518,3 +1518,15 @@ Miners flagged that the upcoming ORE V4 release may change enough assumptions th
 ```text
 !v4wait - If a protocol update is close, treat strategy tools as provisional. Build notes and dashboards around visible assumptions so they can be revised when the new rules land.
 ```
+
+---
+
+## Update — 2026-06-26
+
+### Hotter mining changes the question
+
+Miners are watching pool deploy cadence as competition rises. The practical lesson is that a busy board can make the first question "can this deploy reliably reach ORE?" before it becomes "what is the exact cost basis?" That belongs in beginner education as capacity discipline: compare recent deploy timing, pool health, and the Motherlode before chasing a round that has already grown crowded.
+
+```text
+!hotmines - When mining gets crowded, check recent deploy timing and pool health before cost basis. A hotter board can turn access to ORE itself into the first risk to manage.
+```
