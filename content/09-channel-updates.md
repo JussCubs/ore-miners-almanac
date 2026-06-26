@@ -3013,3 +3013,17 @@ Captured 1 new messages from 2026-06-26T11:24:52.982000+00:00 through 2026-06-26
 **Crowding signal:** a miner noted that current mines are staying busy, with roughly 16-21 SOL deployed per round on average. Treat this as a capital-density signal, not a profitability promise: crowded boards can confirm demand, but they also raise the importance of timing, capacity checks, and a defined stop rule.
 
 **Strategy note:** beginners should read high deployed-SOL averages as a reminder to size conservatively, compare multiple active mines, and avoid chasing crowded rounds without checking recent deploy patterns.
+
+## 2026-06-26 Discord Update
+
+Captured 5 new messages from 2026-06-26T12:35:08.046000+00:00 through 2026-06-26T14:44:16.014000+00:00.
+
+**Most active voices:** a small group of miners used the latest Motherlode conditions to blend strategy talk with mining-camp humor.
+
+**Themes detected:** Motherlode threshold watching, deploy-crowding expectations, mining lore.
+
+**Sentiment read:** playful but alert. The channel framed a Motherlode move above 300 ORE as a reason to expect more near-term competition, while also turning the moment into the kind of pickaxe-and-hardhat lore that helps new miners remember the lesson.
+
+**Strategy note:** a larger Motherlode can attract more miners and push deployed-SOL averages higher for a while, but the beginner-safe takeaway is not "mine harder." It is to check whether the board has become crowded, confirm pool/operator health, and size entries so a competitive window does not force emotional redeploys.
+
+**Lore note:** keep using mining-camp imagery around high-Motherlode moments, but pair the story with plain risk language: bigger targets can bring more energy to the board, and more energy usually means timing and discipline matter more.
