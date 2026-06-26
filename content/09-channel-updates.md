@@ -3001,3 +3001,15 @@ Captured 1 new message from 2026-06-26T02:24:39.124000+00:00.
 **Strategy note:** add this to the command library as a capacity-risk reminder. Before deploying into a crowded window, beginners should check recent pool deploy timing, visible operator health, Motherlode size, and their own stop rule. Treat claims about "hotter mines" as a prompt to verify current conditions, not as a promise of better returns.
 
 **Command snippets added:** `!hotmines` for crowded-board deploy discipline.
+
+## 2026-06-26 Discord Update
+
+Captured 1 new messages from 2026-06-26T11:24:52.982000+00:00 through 2026-06-26T11:24:52.982000+00:00.
+
+**Most active voices:** willd on orestack.app (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Crowding signal:** a miner noted that current mines are staying busy, with roughly 16-21 SOL deployed per round on average. Treat this as a capital-density signal, not a profitability promise: crowded boards can confirm demand, but they also raise the importance of timing, capacity checks, and a defined stop rule.
+
+**Strategy note:** beginners should read high deployed-SOL averages as a reminder to size conservatively, compare multiple active mines, and avoid chasing crowded rounds without checking recent deploy patterns.
