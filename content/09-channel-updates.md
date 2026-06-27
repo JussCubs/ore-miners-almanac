@@ -3027,3 +3027,11 @@ Captured 5 new messages from 2026-06-26T12:35:08.046000+00:00 through 2026-06-26
 **Strategy note:** a larger Motherlode can attract more miners and push deployed-SOL averages higher for a while, but the beginner-safe takeaway is not "mine harder." It is to check whether the board has become crowded, confirm pool/operator health, and size entries so a competitive window does not force emotional redeploys.
 
 **Lore note:** keep using mining-camp imagery around high-Motherlode moments, but pair the story with plain risk language: bigger targets can bring more energy to the board, and more energy usually means timing and discipline matter more.
+
+## 2026-06-27 Discord Update
+
+Captured 1 new messages from 2026-06-27T09:04:09.906000+00:00 through 2026-06-27T09:04:09.906000+00:00.
+
+**Most active voices:** one brief check-in, with no substantive mining guidance added.
+
+**Sentiment read:** quiet window. Keep the prior Motherlode and deploy-crowding notes as the current reusable teaching context until miners add fresh strategy, command examples, or stories worth preserving.
