@@ -350,3 +350,21 @@ Roberto should make this kind of mismatch easy to catch before funds move:
 - **common-pattern hint** - if a miner enters 24 tiles while the rest of the setup resembles a 25-tile low-and-slow plan, ask whether that was intentional;
 - **edit without canceling** - let the miner correct tile count from the confirmation screen instead of forcing a cancel-and-recreate flow;
 - **win-state clarity** - if a win arrives while a miner is editing or canceling, preserve the pending action so celebration does not erase the operational context.
+
+---
+
+## Update — 2026-06-28
+
+*Refined from the mining channel*
+
+### Autominer SOL and Rewards Visibility
+
+When a miner asks where their remaining SOL went after an autominer run, the first thing to check is whether the SOL was actively deployed into mining or already returned to the wallet.
+
+The useful distinction:
+
+- **SOL rewards** should appear in the rewards section when auto reload is off.
+- **Auto reload is on by default**, so miners should expect available SOL to keep getting reused for mining until the run ends.
+- **When an autominer ends**, any remaining SOL should be back in the wallet rather than sitting invisibly inside the app.
+
+Roberto should answer this as a calm troubleshooting flow: check rewards, check wallet balance, check whether auto reload was enabled, then explain that a successful autominer may have spent the intended SOL on mining rather than leaving it idle.

@@ -3069,3 +3069,17 @@ Captured 51 new messages from 2026-06-28T12:11:43.510000+00:00 through 2026-06-2
 **Fee-headroom note:** trying to deploy the exact visible SOL balance can create an avoidable edge case because fees still need room. The public Almanac should keep teaching miners to size a deploy below their total wallet balance, leave a fee buffer, and treat simulation or insufficient-balance warnings as guardrails rather than noise.
 
 **Command snippets added:** `!stucktx` for stale signature or balance states, and `!feeheadroom` for deploy sizing with enough SOL left to pay fees.
+
+## 2026-06-28 Discord Update
+
+Captured 22 new messages from 2026-06-28T16:41:20.595000+00:00 through 2026-06-28T18:17:01.323000+00:00.
+
+**Most active voices:** starship_fronk, RNA, 2rhyme, and strigops.
+
+**Themes detected:** low-and-slow 25 tile mining, lore and origin stories, safe defaults / misconfiguration, refinORE / Roberto.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac-worthy note:** miners clarified a common autominer support question: when auto reload is enabled, available SOL may be reused for mining rather than remaining idle; when auto reload is off, SOL rewards should be visible in the rewards section; when an autominer ends, unspent SOL should return to the wallet.
+
+**Archive note:** the channel also touched on Minerside Chat archiving and mining-themed music, but the durable educational update for this run is the autominer SOL/rewards troubleshooting flow.
