@@ -3035,3 +3035,11 @@ Captured 1 new messages from 2026-06-27T09:04:09.906000+00:00 through 2026-06-27
 **Most active voices:** one brief check-in, with no substantive mining guidance added.
 
 **Sentiment read:** quiet window. Keep the prior Motherlode and deploy-crowding notes as the current reusable teaching context until miners add fresh strategy, command examples, or stories worth preserving.
+
+## 2026-06-28 Discord Update
+
+Captured 1 new messages from 2026-06-27T20:07:18.403000+00:00 through 2026-06-27T20:07:18.403000+00:00.
+
+**Most active voices:** one miner added a brief lore-oriented note.
+
+**Sentiment read:** quiet but constructive. No new strategy guidance or command examples landed in this window, so the useful public takeaway remains that small lore notes can support onboarding when they stay tied to clear mining lessons.
