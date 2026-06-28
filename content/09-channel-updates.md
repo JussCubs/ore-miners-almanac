@@ -3043,3 +3043,15 @@ Captured 1 new messages from 2026-06-27T20:07:18.403000+00:00 through 2026-06-27
 **Most active voices:** one miner added a brief lore-oriented note.
 
 **Sentiment read:** quiet but constructive. No new strategy guidance or command examples landed in this window, so the useful public takeaway remains that small lore notes can support onboarding when they stay tied to clear mining lessons.
+
+## 2026-06-28 Discord Update
+
+Captured 7 new messages from 2026-06-28T09:33:44.054000+00:00 through 2026-06-28T11:52:28.082000+00:00.
+
+**Most active voices:** a short troubleshooting exchange, plus a small amount of lore-oriented chatter.
+
+**Sentiment read:** quiet but practical. The useful teaching value came from a miner reporting that their mining flow felt stuck or buggy, followed by the familiar first-response advice to close and reopen the wallet before assuming the problem is deeper.
+
+**Beginner troubleshooting note:** when a mining session appears frozen, out of sync, or otherwise "bugged," start with the low-risk checks: reopen the wallet, confirm the wallet connection, refresh the app, and only then escalate to pool/operator status or transaction-level debugging. This keeps new miners from turning a routine client-side hiccup into an unnecessary strategy change.
+
+**Lore note:** the mining-camp language remains useful when it stays attached to a clear action: if the mine feels off, reset the lantern first before blaming the tunnel.
