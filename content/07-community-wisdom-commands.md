@@ -1530,3 +1530,23 @@ Miners are watching pool deploy cadence as competition rises. The practical less
 ```text
 !hotmines - When mining gets crowded, check recent deploy timing and pool health before cost basis. A hotter board can turn access to ORE itself into the first risk to manage.
 ```
+
+---
+
+## Update — 2026-06-28
+
+### Cache and signature states need a calm checklist
+
+Miners compared a stuck app state where the interface could show a stale balance, a lingering "waiting for signature" status, or a failure message even after the transaction itself had already landed. The reusable lesson is to separate interface state from chain state: refresh with patience, clear the single-site cache when the app seems wedged, reconnect the wallet, and verify balances or transaction status before retrying aggressively.
+
+```text
+!stucktx - If the miner UI hangs on "waiting for signature" or shows a stale balance, wait briefly, refresh once, reconnect the wallet, and check the transaction or balance before sending another deploy.
+```
+
+### Keep fee headroom
+
+The thread also surfaced a beginner-safe wallet rule: do not try to deploy the exact visible SOL balance. Leave enough SOL for fees and simulation overhead so the app can fail cleanly instead of getting stuck between an insufficient-balance check and a transaction prompt.
+
+```text
+!feeheadroom - Never deploy the exact SOL balance shown in your wallet. Keep a small fee buffer so the miner can simulate, submit, and recover cleanly if conditions change.
+```

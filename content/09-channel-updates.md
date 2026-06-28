@@ -3055,3 +3055,17 @@ Captured 7 new messages from 2026-06-28T09:33:44.054000+00:00 through 2026-06-28
 **Beginner troubleshooting note:** when a mining session appears frozen, out of sync, or otherwise "bugged," start with the low-risk checks: reopen the wallet, confirm the wallet connection, refresh the app, and only then escalate to pool/operator status or transaction-level debugging. This keeps new miners from turning a routine client-side hiccup into an unnecessary strategy change.
 
 **Lore note:** the mining-camp language remains useful when it stays attached to a clear action: if the mine feels off, reset the lantern first before blaming the tunnel.
+
+## 2026-06-28 Discord Update
+
+Captured 51 new messages from 2026-06-28T12:11:43.510000+00:00 through 2026-06-28T13:56:30.850000+00:00.
+
+**Most active voices:** deflation (33), starship_fronk⛏️ (16), strigops (2).
+
+**Sentiment read:** practical debugging, with miners turning a confusing wallet/app state into reusable onboarding material.
+
+**Troubleshooting note:** the useful lesson was not a private bug transcript; it was the pattern. When a miner appears stuck after a deploy attempt, the interface may be behind the chain or the wallet may be short on fee headroom. Beginners should pause before retrying, refresh with patience, reconnect the wallet, clear only the affected site's cache if the app remains wedged, and check the transaction or balance directly before assuming funds are lost.
+
+**Fee-headroom note:** trying to deploy the exact visible SOL balance can create an avoidable edge case because fees still need room. The public Almanac should keep teaching miners to size a deploy below their total wallet balance, leave a fee buffer, and treat simulation or insufficient-balance warnings as guardrails rather than noise.
+
+**Command snippets added:** `!stucktx` for stale signature or balance states, and `!feeheadroom` for deploy sizing with enough SOL left to pay fees.
