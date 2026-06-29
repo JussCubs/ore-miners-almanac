@@ -1018,3 +1018,15 @@ Beginner-safe rule: when comparing 25, 23, 15, or any other tile count, write do
 ```text
 !tilefees - Before shrinking a tile plan, compare tile count, fee, deploy size, and expected round behavior together. A lower tile count may change both cost and odds, so treat it as a different preset rather than a smaller copy of the original run.
 ```
+
+---
+
+## Update — 2026-06-29
+
+The channel revisited a high-variance 25-tile run where the starting deploy size rose from roughly 0.5 SOL to around 1.4 SOL by the end of the session. The useful lesson is not that larger sizing is inherently better; it is that reserve depth matters when a miner is trying to stay live for rare outcomes.
+
+Beginner-safe rule: do not let an ambitious preset consume the SOL needed to continue mining, claim, or recover from failed attempts. If reserves are thin, scale the run down before variance makes the decision for you.
+
+```text
+!reserves - High-variance mining needs SOL headroom. Before increasing deploy size, keep enough reserve for fees, failed attempts, claims, and the next round; otherwise one unlucky stretch can stop the run before the opportunity you were waiting for.
+```

@@ -656,3 +656,15 @@ For the Almanac, this belongs in the patience file because it shows the emotiona
 ```text
 !goodday - A strong uORE day is encouragement, not a guarantee. Log the budget, rounds, and balance change, then keep the same patience rules: size for variance, understand claim friction, and avoid chasing only because today's mines felt friendly.
 ```
+
+---
+
+## Update — 2026-06-29
+
+Another miner framed uORE mining as a target-driven process: choose a uORE goal, mine toward it, and monitor progress rather than reacting to every short-term bump. That belongs in the patience file because it turns the emotional question of "is this working right now?" into a measured plan.
+
+Beginner-safe rule: write down the uORE target before the session starts, then compare progress against the target at checkpoints. If the target requires deploy sizes or SOL reserves beyond the wallet's comfort zone, reduce the target instead of chasing.
+
+```text
+!uoretarget - Pick a uORE goal before the run, monitor progress at checkpoints, and resize if the plan starts requiring more SOL risk than the wallet can comfortably support.
+```

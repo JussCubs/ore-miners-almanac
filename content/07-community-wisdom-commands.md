@@ -1550,3 +1550,15 @@ The thread also surfaced a beginner-safe wallet rule: do not try to deploy the e
 ```text
 !feeheadroom - Never deploy the exact SOL balance shown in your wallet. Keep a small fee buffer so the miner can simulate, submit, and recover cleanly if conditions change.
 ```
+
+---
+
+## Update — 2026-06-29
+
+Miners used a bit of fantasy shorthand to describe the emotional pull of chasing a Mining Lottery hit: the rare outcome can become so tempting that the plan starts gripping the operator instead of the operator managing the plan.
+
+For commands, the durable point is discipline. A rare-hit strategy should have a stop rule, a reserve rule, and a target rule before the run begins.
+
+```text
+!mlchase - Treat Mining Lottery chasing as a high-variance plan, not a mood. Set the deploy size, reserve floor, and stop rule before the run starts so the rare-hit target does not take over the wallet.
+```
