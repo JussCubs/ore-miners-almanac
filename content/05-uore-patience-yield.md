@@ -668,3 +668,17 @@ Beginner-safe rule: write down the uORE target before the session starts, then c
 ```text
 !uoretarget - Pick a uORE goal before the run, monitor progress at checkpoints, and resize if the plan starts requiring more SOL risk than the wallet can comfortably support.
 ```
+
+---
+
+## Update — 2026-06-30
+
+### uORE versus staking needs a time-horizon check
+
+Miners compared long-term uORE patience with the idea of eventually claiming into a staking sleeve. The reusable lesson is that there is no timeless crossover date. The answer moves with current uORE/refinement assumptions, staking APR, claim friction, wallet needs, and how many years the miner is willing to wait.
+
+For the Almanac, the beginner-safe rule is to treat uORE as the default long-horizon patience sleeve until the miner can show, with current rates, that claiming and staking is better for their actual hold period. A spreadsheet crossover is useful only if the inputs are visible and updated.
+
+```text
+!uorecross - Before claiming uORE into staking, compare current uORE/refinement assumptions, staking APR, claim friction, and hold time. A crossover date changes when rates change, so prove the sleeve switch with current numbers before moving.
+```

@@ -1562,3 +1562,17 @@ For commands, the durable point is discipline. A rare-hit strategy should have a
 ```text
 !mlchase - Treat Mining Lottery chasing as a high-variance plan, not a mood. Set the deploy size, reserve floor, and stop rule before the run starts so the rare-hit target does not take over the wallet.
 ```
+
+---
+
+## Update — 2026-06-30
+
+### Yield comparisons need visible assumptions
+
+Miners worked through the difference between a high simple-return assumption and a lower annual compounding assumption. The educational point is not the exact year count from one chat calculation; it is the habit of showing inputs. A 50% simple return can beat a lower compounding return for a while, but compounding can eventually pass it if the time horizon is long enough.
+
+For command-center education, this belongs beside strategy snippets because it teaches miners to compare sleeves by formula, not by vibes. Write down the principal, annual rate, whether returns compound, the expected hold period, and any claim or switching friction before saying one sleeve is better.
+
+```text
+!yieldcompare - Compare mining sleeves with visible inputs: principal, rate, simple vs compounding, hold period, and claim/switching friction. A compounding option can pass a simple-return option later, but the crossover changes when the assumptions change.
+```

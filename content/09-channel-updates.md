@@ -3112,3 +3112,17 @@ Captured 1 new messages from 2026-06-30T15:55:56.344000+00:00 through 2026-06-30
 **Dialogue to organize into the Almanac:**
 
 - **willd on orestack.app:** The mines have been so busy recently!
+
+## 2026-06-30 Discord Update
+
+Captured 7 new messages from 2026-06-30T19:23:20.712000+00:00 through 2026-06-30T19:33:10.039000+00:00.
+
+**Most active voices:** two miners compared long-horizon yield assumptions.
+
+**Themes detected:** uORE / patience.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac-worthy note:** the thread compared simple-return and compounding-return assumptions as a way to decide when uORE patience might eventually give way to a claimed staking sleeve. The useful public lesson is the method, not a fixed promise: crossover timing changes whenever APRs, refinement assumptions, claim friction, or hold period change.
+
+**Command snippets added:** `!uorecross` for checking a claim-and-stake switch against current inputs, and `!yieldcompare` for comparing simple versus compounding return assumptions with visible math.
