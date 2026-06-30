@@ -3100,3 +3100,15 @@ Captured 8 new messages from 2026-06-29T12:52:08.487000+00:00 through 2026-06-29
 - The run reportedly scaled from about 0.5 SOL per round to about 1.4 SOL by the end, which makes it a useful example for reserve planning rather than a general recommendation.
 - The channel turned the story into two reusable lessons: set a uORE target and monitor progress, but keep enough SOL reserve that chasing a rare outcome does not force the miner out of the run.
 - A recurring community metaphor compared Mining Lottery chasing to a shiny object that can take over attention; the public Almanac version is a discipline rule: define size, reserve floor, and stop rule before starting.
+
+## 2026-06-30 Discord Update
+
+Captured 1 new messages from 2026-06-30T15:55:56.344000+00:00 through 2026-06-30T15:55:56.344000+00:00.
+
+**Most active voices:** willd on orestack.app (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Dialogue to organize into the Almanac:**
+
+- **willd on orestack.app:** The mines have been so busy recently!
