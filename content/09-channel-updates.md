@@ -3142,3 +3142,17 @@ Captured 3 new messages from 2026-06-30T21:49:47.622000+00:00 through 2026-06-30
 **Command snippets added:** `!uoreexit` for checking whether a patient uORE position now has a clear claim purpose.
 
 **Lore note:** the channel also celebrated a very cheap ORE fill, useful as color for the mining story but not as a general pricing expectation.
+
+## 2026-07-01 Discord Update
+
+Captured 3 new messages from 2026-07-01T09:16:35.862000+00:00 through 2026-07-01T09:22:41.678000+00:00.
+
+**Most active voices:** a brief EV and cost-discipline thread.
+
+**Themes detected:** low-and-slow 25 tile mining, production cost / ore.fyi.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac-worthy note:** the thread sharpened two beginner-safe mining filters. First, expected value can guide deployment intensity: some miners wait for stronger EV windows or blocks, while negative EV argues for restraint. Second, spot price alone is not the whole decision. A miner can use public production-cost dashboards such as ore.fyi as a sanity check and prefer mining only when estimated production cost sits below the market price.
+
+**Strategy reminder:** these filters are timing aids, not profit guarantees. Fees, hash conditions, tile competition, and local setup can turn a seemingly attractive round into a poor fill.
