@@ -3156,3 +3156,17 @@ Captured 3 new messages from 2026-07-01T09:16:35.862000+00:00 through 2026-07-01
 **Almanac-worthy note:** the thread sharpened two beginner-safe mining filters. First, expected value can guide deployment intensity: some miners wait for stronger EV windows or blocks, while negative EV argues for restraint. Second, spot price alone is not the whole decision. A miner can use public production-cost dashboards such as ore.fyi as a sanity check and prefer mining only when estimated production cost sits below the market price.
 
 **Strategy reminder:** these filters are timing aids, not profit guarantees. Fees, hash conditions, tile competition, and local setup can turn a seemingly attractive round into a poor fill.
+
+## 2026-07-01 Discord Update
+
+Captured 15 new messages from 2026-07-01T13:36:05.171000+00:00 through 2026-07-01T15:35:22.473000+00:00.
+
+**Most active voices:** a small group of miners comparing expected value, long-horizon conviction, and old missed-opportunity stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac-worthy note:** the thread made expected value more teachable. In plain terms, a deploy can be treated as positive EV only when the value of the ORE a miner reasonably expects to win is higher than the SOL, fees, and friction being put at risk. The public education point is to name the assumptions and update them often, especially when spot price, competition, or pool behavior changes.
+
+**Lore note:** miners also compared ORE conviction with old crypto-cycle regret stories. That belongs in the Almanac as color, not as a forecast: missed opportunities are memorable, but they should not replace a written deploy budget, reserve rule, or exit plan.
+
+**Command snippet added:** `!evplain` for explaining expected value without turning it into a profit guarantee.

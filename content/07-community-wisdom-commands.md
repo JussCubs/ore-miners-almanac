@@ -1576,3 +1576,17 @@ For command-center education, this belongs beside strategy snippets because it t
 ```text
 !yieldcompare - Compare mining sleeves with visible inputs: principal, rate, simple vs compounding, hold period, and claim/switching friction. A compounding option can pass a simple-return option later, but the crossover changes when the assumptions change.
 ```
+
+---
+
+## Update — 2026-07-01
+
+### Expected value belongs in plain language
+
+Miners returned to the basic EV filter for ORE deploys: compare the SOL being put at risk against the ORE a miner reasonably expects to win back at the current market price. If the expected ORE value clears the deployment cost and friction, the setup is positive EV; if it does not, patience is part of the strategy.
+
+The beginner-safe framing is that EV is a decision aid, not a promise. It needs live assumptions for spot price, expected fill, fees, tile competition, and pool behavior.
+
+```text
+!evplain - Expected value means comparing the SOL at risk with the ORE you reasonably expect back at current price. Use it as a filter, not a guarantee, and include fees, competition, and fill risk.
+```
