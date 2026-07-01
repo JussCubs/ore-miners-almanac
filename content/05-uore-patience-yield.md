@@ -682,3 +682,17 @@ For the Almanac, the beginner-safe rule is to treat uORE as the default long-hor
 ```text
 !uorecross - Before claiming uORE into staking, compare current uORE/refinement assumptions, staking APR, claim friction, and hold time. A crossover date changes when rates change, so prove the sleeve switch with current numbers before moving.
 ```
+
+---
+
+## Update — 2026-07-01
+
+### uORE patience eventually needs an exit thesis
+
+The channel sharpened yesterday's uORE-versus-staking discussion with an important nuance: staying in uORE can be the better patience play today, but it should not be treated as a permanent rule. uORE yield depends on the broader pool behavior and gradually changes as other miners claim, while refined ORE itself does not create the same unclaimed-yield effect.
+
+The beginner-safe lesson is to pair patience with a written exit thesis. A miner can keep uORE when the current inputs favor it, but should revisit the decision as net APR declines, staking rates change, claim friction shifts, or liquidity needs appear. The useful strategy is not "never claim"; it is "claim only when the math and purpose are clear."
+
+```text
+!uoreexit - uORE patience needs an exit thesis. Keep uORE while current yield, friction, and time horizon favor it, but re-check the claim decision when net APR declines, staking assumptions change, or the wallet needs refined ORE for a clear purpose.
+```

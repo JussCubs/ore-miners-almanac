@@ -3126,3 +3126,19 @@ Captured 7 new messages from 2026-06-30T19:23:20.712000+00:00 through 2026-06-30
 **Almanac-worthy note:** the thread compared simple-return and compounding-return assumptions as a way to decide when uORE patience might eventually give way to a claimed staking sleeve. The useful public lesson is the method, not a fixed promise: crossover timing changes whenever APRs, refinement assumptions, claim friction, or hold period change.
 
 **Command snippets added:** `!uorecross` for checking a claim-and-stake switch against current inputs, and `!yieldcompare` for comparing simple versus compounding return assumptions with visible math.
+
+## 2026-07-01 Discord Update
+
+Captured 3 new messages from 2026-06-30T21:49:47.622000+00:00 through 2026-06-30T23:57:18.582000+00:00.
+
+**Most active voices:** a small uORE strategy thread.
+
+**Themes detected:** uORE / patience.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac-worthy note:** miners extended the uORE patience discussion by separating today's best sleeve from a permanent holding rule. The durable lesson is that uORE can be preferable while its current net yield and friction profile make sense, but a miner should still revisit the claim decision as pool behavior, staking assumptions, and liquidity needs change.
+
+**Command snippets added:** `!uoreexit` for checking whether a patient uORE position now has a clear claim purpose.
+
+**Lore note:** the channel also celebrated a very cheap ORE fill, useful as color for the mining story but not as a general pricing expectation.
