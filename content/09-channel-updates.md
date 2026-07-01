@@ -3170,3 +3170,17 @@ Captured 15 new messages from 2026-07-01T13:36:05.171000+00:00 through 2026-07-0
 **Lore note:** miners also compared ORE conviction with old crypto-cycle regret stories. That belongs in the Almanac as color, not as a forecast: missed opportunities are memorable, but they should not replace a written deploy budget, reserve rule, or exit plan.
 
 **Command snippet added:** `!evplain` for explaining expected value without turning it into a profit guarantee.
+
+## 2026-07-01 Discord Update
+
+Captured 12 new messages from 2026-07-01T17:54:29.669000+00:00 through 2026-07-01T19:48:06.632000+00:00.
+
+**Most active voices:** strigops (6), Hermes (2), RNA(•‿•) (2), Madhatt3r (1), starship_fronk⛏️ (1).
+
+**Themes detected:** uORE / patience.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the evening thread mixed yield pride, gallows humor, and variance frustration. The useful public lesson is that miners should separate entertainment from process: large-looking uORE yield needs a written claim thesis, and noisy variance days are a reason to review averages rather than rewrite the whole strategy.
+
+**Lore note:** jokes about ORE being "dead" fit a long crypto tradition of death announcements. Treat them as cycle color, not as market guidance. The durable habit is to keep conviction, deploy budget, and exit criteria in separate buckets.

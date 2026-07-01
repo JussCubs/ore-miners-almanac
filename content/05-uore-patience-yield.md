@@ -696,3 +696,9 @@ The beginner-safe lesson is to pair patience with a written exit thesis. A miner
 ```text
 !uoreexit - uORE patience needs an exit thesis. Keep uORE while current yield, friction, and time horizon favor it, but re-check the claim decision when net APR declines, staking assumptions change, or the wallet needs refined ORE for a clear purpose.
 ```
+
+---
+
+## Update — 2026-07-01
+
+Miners revisited the emotional side of holding uORE yield when balances start to feel meaningful. The reusable lesson is not to treat a large-looking refined yield number as an automatic sell signal or an automatic hold signal. Write down what the yield is for, what would make you convert it, and what reserve rule keeps the decision from being driven by one exciting moment in chat.
