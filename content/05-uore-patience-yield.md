@@ -702,3 +702,11 @@ The beginner-safe lesson is to pair patience with a written exit thesis. A miner
 ## Update — 2026-07-01
 
 Miners revisited the emotional side of holding uORE yield when balances start to feel meaningful. The reusable lesson is not to treat a large-looking refined yield number as an automatic sell signal or an automatic hold signal. Write down what the yield is for, what would make you convert it, and what reserve rule keeps the decision from being driven by one exciting moment in chat.
+
+---
+
+## Update — 2026-07-02
+
+Miners used a wallet move as another reminder that uORE strategy is partly about custody design. If a miner wants to preserve unclaimed yield while changing where they manage activity, the practical question becomes how to separate mining, holding, and claiming habits without losing track of why each wallet exists.
+
+The beginner-safe lesson is to name the job of each wallet before moving funds. A "mining" wallet, a "holding" wallet, and an "experiment" wallet can all make sense, but only if the miner can still explain the uORE thesis, the claim trigger, and the recovery plan.

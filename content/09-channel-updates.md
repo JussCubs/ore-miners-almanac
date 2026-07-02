@@ -3206,3 +3206,15 @@ Captured 3 new messages from 2026-07-02T00:42:30.752000+00:00 through 2026-07-02
 **Sentiment read:** the tiny overnight arc was a useful variance reminder: a miner who had been stuck in a dry spell came back celebrating positive P&L, and the room treated the win as shared encouragement rather than a new guarantee. The reusable lesson is to let results accumulate before rewriting your strategy. Bad stretches and good stretches both feel dramatic in chat, but neither one is enough by itself to prove a rig, pool, or budget choice.
 
 **Almanac note:** this is the kind of story that helps beginners understand the emotional side of ORE mining. Track your runs, keep your expectations tied to variance, and let the community energy support discipline instead of replacing it.
+
+## 2026-07-02 Discord Update
+
+Captured 15 new messages from 2026-07-02T09:38:42.091000+00:00 through 2026-07-02T11:31:38.792000+00:00.
+
+**Most active voices:** willd on orestack.app (10), oduen⛏️ (3), OREillions⛏️ (2).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, commands / preserving knowledge.
+
+**Sentiment read:** the channel continues to act like a living notebook instead of a pure price room. The useful thread today was continuity: miners recognized wallet and username changes, compared how long they had been around since earlier ORE versions, and kept tying the conversation back to reusable bot commands and strategy memory.
+
+**Almanac note:** there are three beginner lessons to preserve. First, uORE patience also needs clean wallet labeling so a miner knows which address is mining, holding, or experimenting. Second, low-and-slow 25 tile mining remains a recurring phrase worth turning into a plain-English strategy note. Third, community-built Telegram and command tools matter because they keep repeated explanations from disappearing into chat history.
