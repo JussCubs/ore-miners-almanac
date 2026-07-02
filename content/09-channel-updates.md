@@ -3196,3 +3196,13 @@ Captured 4 new messages from 2026-07-01T20:05:50.302000+00:00 through 2026-07-01
 **Almanac note:** the late thread was light on strategy and heavy on miner color: patience under bad variance, meme relief, and people reading through community commentary. The reusable lesson is simple: when a run still has not paid out, do not let frustration become a strategy change by itself. Mark the dry spell, compare it against expected variance, and wait for a bigger sample before changing rigs, budget, or pool assumptions.
 
 **Lore note:** small offhand moments are part of the hub's texture, but public notes should preserve the pattern rather than the private chatter. The durable story is miners turning long waits into shared humor while keeping enough discipline to keep learning from the run.
+
+## 2026-07-02 Discord Update
+
+Captured 3 new messages from 2026-07-02T00:42:30.752000+00:00 through 2026-07-02T01:25:21.418000+00:00.
+
+**Most active voices:** strigops (1), Thep ⛏️ (1), Hermes (1).
+
+**Sentiment read:** the tiny overnight arc was a useful variance reminder: a miner who had been stuck in a dry spell came back celebrating positive P&L, and the room treated the win as shared encouragement rather than a new guarantee. The reusable lesson is to let results accumulate before rewriting your strategy. Bad stretches and good stretches both feel dramatic in chat, but neither one is enough by itself to prove a rig, pool, or budget choice.
+
+**Almanac note:** this is the kind of story that helps beginners understand the emotional side of ORE mining. Track your runs, keep your expectations tied to variance, and let the community energy support discipline instead of replacing it.
