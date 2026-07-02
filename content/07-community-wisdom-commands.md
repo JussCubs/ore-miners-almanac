@@ -1590,3 +1590,15 @@ The beginner-safe framing is that EV is a decision aid, not a promise. It needs 
 ```text
 !evplain - Expected value means comparing the SOL at risk with the ORE you reasonably expect back at current price. Use it as a filter, not a guarantee, and include fees, competition, and fill risk.
 ```
+
+---
+
+## Update — 2026-07-02
+
+### "How about now?" needs a variance answer
+
+Miners joked about the urge to check whether the Mining Lottery has reached the target outcome at the start of every round. The reusable lesson is that ML mining needs a prepared patience script: most rounds will not hit the hoped-for threshold, so the miner should decide in advance how many rounds, how much SOL, and what target condition justifies continuing.
+
+```text
+!howaboutnow - ML rounds can make every update feel urgent. Set the target, round budget, and stop rule first; most checks will be "not yet," and that is variance, not a fresh signal by itself.
+```

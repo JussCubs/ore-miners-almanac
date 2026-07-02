@@ -3230,3 +3230,17 @@ Captured 4 new messages from 2026-07-02T14:46:58.697000+00:00 through 2026-07-02
 **Sentiment read:** the afternoon thread was small, but it pointed at a useful knowledge gap: miners are trying to place ORE's mechanics and history in sequence, including details that are not obvious from the public about page.
 
 **Almanac note:** the site should keep turning scattered origin-story context into beginner-safe explanations. When a detail depends on mining-era terminology, ML rounds, or historical protocol behavior, frame it as community memory until it can be backed by a primary source.
+
+## 2026-07-02 Discord Update
+
+Captured 8 new messages from 2026-07-02T17:04:19.252000+00:00 through 2026-07-02T20:00:18.743000+00:00.
+
+**Most active voices:** strigops (5), Kauzaal (2), starship_fronk⛏️ (1).
+
+**Themes detected:** lore and origin stories, commands / preserving knowledge.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the evening thread turned the recurring "is this the round?" feeling into a useful teaching moment. Mining Lottery checks can feel urgent every time a new round begins, but a good plan treats most "not yet" outcomes as expected variance. The public command-center lesson is to set the target, round budget, and stop rule before watching the board.
+
+**Command snippet added:** `!howaboutnow` for explaining why repeated ML checks need a prewritten patience rule instead of a fresh decision each round.
