@@ -3184,3 +3184,15 @@ Captured 12 new messages from 2026-07-01T17:54:29.669000+00:00 through 2026-07-0
 **Almanac note:** the evening thread mixed yield pride, gallows humor, and variance frustration. The useful public lesson is that miners should separate entertainment from process: large-looking uORE yield needs a written claim thesis, and noisy variance days are a reason to review averages rather than rewrite the whole strategy.
 
 **Lore note:** jokes about ORE being "dead" fit a long crypto tradition of death announcements. Treat them as cycle color, not as market guidance. The durable habit is to keep conviction, deploy budget, and exit criteria in separate buckets.
+
+## 2026-07-02 Discord Update
+
+Captured 4 new messages from 2026-07-01T20:05:50.302000+00:00 through 2026-07-01T23:52:51.659000+00:00.
+
+**Most active voices:** strigops (2), RNA(•‿•) (1), Diggy ⛏️ | Independent Miner (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the late thread was light on strategy and heavy on miner color: patience under bad variance, meme relief, and people reading through community commentary. The reusable lesson is simple: when a run still has not paid out, do not let frustration become a strategy change by itself. Mark the dry spell, compare it against expected variance, and wait for a bigger sample before changing rigs, budget, or pool assumptions.
+
+**Lore note:** small offhand moments are part of the hub's texture, but public notes should preserve the pattern rather than the private chatter. The durable story is miners turning long waits into shared humor while keeping enough discipline to keep learning from the run.
