@@ -3218,3 +3218,15 @@ Captured 15 new messages from 2026-07-02T09:38:42.091000+00:00 through 2026-07-0
 **Sentiment read:** the channel continues to act like a living notebook instead of a pure price room. The useful thread today was continuity: miners recognized wallet and username changes, compared how long they had been around since earlier ORE versions, and kept tying the conversation back to reusable bot commands and strategy memory.
 
 **Almanac note:** there are three beginner lessons to preserve. First, uORE patience also needs clean wallet labeling so a miner knows which address is mining, holding, or experimenting. Second, low-and-slow 25 tile mining remains a recurring phrase worth turning into a plain-English strategy note. Third, community-built Telegram and command tools matter because they keep repeated explanations from disappearing into chat history.
+
+## 2026-07-02 Discord Update
+
+Captured 4 new messages from 2026-07-02T14:46:58.697000+00:00 through 2026-07-02T15:14:29.050000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (2), strigops (1), Brian (1).
+
+**Themes detected:** lore and origin stories.
+
+**Sentiment read:** the afternoon thread was small, but it pointed at a useful knowledge gap: miners are trying to place ORE's mechanics and history in sequence, including details that are not obvious from the public about page.
+
+**Almanac note:** the site should keep turning scattered origin-story context into beginner-safe explanations. When a detail depends on mining-era terminology, ML rounds, or historical protocol behavior, frame it as community memory until it can be backed by a primary source.
