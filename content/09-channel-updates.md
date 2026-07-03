@@ -3244,3 +3244,15 @@ Captured 8 new messages from 2026-07-02T17:04:19.252000+00:00 through 2026-07-02
 **Almanac note:** the evening thread turned the recurring "is this the round?" feeling into a useful teaching moment. Mining Lottery checks can feel urgent every time a new round begins, but a good plan treats most "not yet" outcomes as expected variance. The public command-center lesson is to set the target, round budget, and stop rule before watching the board.
 
 **Command snippet added:** `!howaboutnow` for explaining why repeated ML checks need a prewritten patience rule instead of a fresh decision each round.
+
+## 2026-07-03 Discord Update
+
+Captured 50 new messages from 2026-07-02T20:09:43.232000+00:00 through 2026-07-02T21:40:48.301000+00:00.
+
+**Most active voices:** strigops (26), starship_fronk⛏️ (15), Kauzaal (8), BREAKFASTHERO (1).
+
+**Themes detected:** channel housekeeping, link moderation, off-topic community texture.
+
+**Sentiment read:** this window was mostly social and operational rather than mining-strategy heavy. The useful public lesson is that an education hub should separate durable mining knowledge from casual Discord texture: preserve the fact that moderation, link permissions, and tool access affect how knowledge gets shared, but do not publish raw jokes, account details, or private mentions.
+
+**Almanac note:** when a mining community depends on Discord, onboarding is partly technical. Beginners may need plain guidance on where approved links, bot commands, and reusable resources live so they do not mistake access friction for missing knowledge. No new mining profitability, tile strategy, or ML-round claims were added from this batch.
