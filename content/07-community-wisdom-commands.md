@@ -1602,3 +1602,15 @@ Miners joked about the urge to check whether the Mining Lottery has reached the 
 ```text
 !howaboutnow - ML rounds can make every update feel urgent. Set the target, round budget, and stop rule first; most checks will be "not yet," and that is variance, not a fresh signal by itself.
 ```
+
+---
+
+## Update — 2026-07-05
+
+### Beginner mining directions
+
+New miners are still arriving after reading the official ORE materials and feeling unsure about the first practical steps. The reusable command should point them toward the safest path: start with the official docs, confirm the current mining client or pool instructions in approved community resources, test with small budgets, and ask for help with their setup before risking meaningful SOL.
+
+```text
+!startmining - Begin with the official ORE docs, then confirm the current community-recommended miner or pool path before spending. Test with a small budget, write down your fees and stop rule, and ask setup questions before scaling up.
+```

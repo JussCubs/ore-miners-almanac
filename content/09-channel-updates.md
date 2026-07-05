@@ -3256,3 +3256,13 @@ Captured 50 new messages from 2026-07-02T20:09:43.232000+00:00 through 2026-07-0
 **Sentiment read:** this window was mostly social and operational rather than mining-strategy heavy. The useful public lesson is that an education hub should separate durable mining knowledge from casual Discord texture: preserve the fact that moderation, link permissions, and tool access affect how knowledge gets shared, but do not publish raw jokes, account details, or private mentions.
 
 **Almanac note:** when a mining community depends on Discord, onboarding is partly technical. Beginners may need plain guidance on where approved links, bot commands, and reusable resources live so they do not mistake access friction for missing knowledge. No new mining profitability, tile strategy, or ML-round claims were added from this batch.
+
+## 2026-07-05 Discord Update
+
+Captured 3 new messages from 2026-07-05T15:12:27.504000+00:00 through 2026-07-05T15:13:56.592000+00:00.
+
+**Most active voices:** one beginner-focused participant.
+
+**Sentiment read:** this window was a small but useful onboarding signal. A newer miner had already read the official ORE material but still needed a practical route into mining, which shows that public education should bridge the gap between docs, current tooling, budget safety, and where to ask setup questions.
+
+**Almanac note:** add beginner-safe language that does not assume mining is profitable or simple. The public note should route first-time miners toward official docs, current approved community resources, small tests, explicit stop rules, and setup help before they scale spend.
