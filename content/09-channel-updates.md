@@ -3266,3 +3266,15 @@ Captured 3 new messages from 2026-07-05T15:12:27.504000+00:00 through 2026-07-05
 **Sentiment read:** this window was a small but useful onboarding signal. A newer miner had already read the official ORE material but still needed a practical route into mining, which shows that public education should bridge the gap between docs, current tooling, budget safety, and where to ask setup questions.
 
 **Almanac note:** add beginner-safe language that does not assume mining is profitable or simple. The public note should route first-time miners toward official docs, current approved community resources, small tests, explicit stop rules, and setup help before they scale spend.
+
+## 2026-07-05 Discord Update
+
+Captured 2 new messages from 2026-07-05T16:23:30.709000+00:00 through 2026-07-05T17:01:15.994000+00:00.
+
+**Most active voices:** a setup-helper and a follow-up participant.
+
+**Themes detected:** refinORE / Roberto.
+
+**Sentiment read:** this was another small onboarding-help moment rather than a strategy debate. The useful public signal is that beginners need a short, current path from "I want to try mining" to an approved tool, wallet connection, and a cautious first run.
+
+**Almanac note:** beginner setup guidance should mention that miners commonly start from a known community resource, connect a wallet, and choose an autominer or guided flow only after checking the source, budget, and stop rule. Keep the language tool-agnostic enough to avoid freezing a Discord reply into permanent instructions.
