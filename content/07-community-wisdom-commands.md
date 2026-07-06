@@ -1614,3 +1614,15 @@ New miners are still arriving after reading the official ORE materials and feeli
 ```text
 !startmining - Begin with the official ORE docs, then confirm the current community-recommended miner or pool path before spending. Test with a small budget, write down your fees and stop rule, and ask setup questions before scaling up.
 ```
+
+---
+
+## Update — 2026-07-06
+
+### Small-budget variance testing
+
+One recurring strategy lesson is that ORE mining has high variance at the tile level. Miners who want to learn the flow over time often start with very small SOL amounts spread across the available fields instead of concentrating the whole test on one outcome. This does not make the strategy profitable by itself; it simply turns the first session into a controlled experiment where fees, timing, misses, and occasional lucky hits can be understood before scaling.
+
+```text
+!smalltiles - When testing tile mining, treat variance as the main lesson. Use tiny amounts, spread risk across fields only if that matches your plan, record fees and outcomes, and scale only after the experiment still makes sense.
+```

@@ -3278,3 +3278,15 @@ Captured 2 new messages from 2026-07-05T16:23:30.709000+00:00 through 2026-07-05
 **Sentiment read:** this was another small onboarding-help moment rather than a strategy debate. The useful public signal is that beginners need a short, current path from "I want to try mining" to an approved tool, wallet connection, and a cautious first run.
 
 **Almanac note:** beginner setup guidance should mention that miners commonly start from a known community resource, connect a wallet, and choose an autominer or guided flow only after checking the source, budget, and stop rule. Keep the language tool-agnostic enough to avoid freezing a Discord reply into permanent instructions.
+
+## 2026-07-06 Discord Update
+
+Captured 1 new mining-strategy message from 2026-07-05T23:37:58.564000+00:00.
+
+**Most active voices:** one strategy helper.
+
+**Themes detected:** low-and-slow 25 tile mining.
+
+**Sentiment read:** this was a practical variance reminder. The advice was not about guaranteed returns; it was about treating a first tile-mining session as a small, spread-out experiment so the miner can observe misses, fees, timing, and rare lucky outcomes without overcommitting.
+
+**Almanac note:** beginner tile-mining guidance should explain variance in plain language. A cautious public recommendation is to test with tiny SOL amounts, record fees and outcomes, avoid implying profitability, and only scale after the miner understands how the field spread and stop rule behave in practice.
