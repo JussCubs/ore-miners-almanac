@@ -1626,3 +1626,15 @@ One recurring strategy lesson is that ORE mining has high variance at the tile l
 ```text
 !smalltiles - When testing tile mining, treat variance as the main lesson. Use tiny amounts, spread risk across fields only if that matches your plan, record fees and outcomes, and scale only after the experiment still makes sense.
 ```
+
+---
+
+## Update — 2026-07-06
+
+### Beginner mining guides
+
+The channel shared another reminder that beginners need both a broad overview and a simple first-session path. A useful public command can point newcomers toward current ORE mining guides, while still reminding them to verify links, start small, and treat any third-party instructions as educational material rather than a promise of returns.
+
+```text
+!miningguide - Start with current ORE docs and trusted community guides, then test the simplest path with a tiny budget. Verify links, record fees and outcomes, and ask setup questions before scaling.
+```

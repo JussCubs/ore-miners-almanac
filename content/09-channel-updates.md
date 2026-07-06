@@ -3290,3 +3290,15 @@ Captured 1 new mining-strategy message from 2026-07-05T23:37:58.564000+00:00.
 **Sentiment read:** this was a practical variance reminder. The advice was not about guaranteed returns; it was about treating a first tile-mining session as a small, spread-out experiment so the miner can observe misses, fees, timing, and rare lucky outcomes without overcommitting.
 
 **Almanac note:** beginner tile-mining guidance should explain variance in plain language. A cautious public recommendation is to test with tiny SOL amounts, record fees and outcomes, avoid implying profitability, and only scale after the miner understands how the field spread and stop rule behave in practice.
+
+## 2026-07-06 Discord Update
+
+Captured 4 new messages from 2026-07-06T15:49:59.080000+00:00 through 2026-07-06T15:57:53.170000+00:00.
+
+**Most active voices:** one guide-sharer, one long-time community observer, and one lore-joking participant.
+
+**Themes detected:** beginner mining guides, simple first-run instructions, long-running ORE lore, version naming jokes.
+
+**Sentiment read:** this was a small education-and-lore moment. Miners were sharing useful beginner resources while also joking about how long ORE has been evolving and how confusing future version names could become.
+
+**Almanac note:** beginner-facing pages should keep a short path from "what is mining?" to "how do I safely try one tiny run?" A public guide can link out to reputable overviews, but the Almanac should continue to frame every first run around verification, small budgets, fee tracking, and clear stop rules. The lore thread is also worth preserving at a high level: ORE has accumulated enough history that names, versions, and old habits are part of the learning curve for new miners.
