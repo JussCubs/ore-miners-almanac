@@ -3302,3 +3302,15 @@ Captured 4 new messages from 2026-07-06T15:49:59.080000+00:00 through 2026-07-06
 **Sentiment read:** this was a small education-and-lore moment. Miners were sharing useful beginner resources while also joking about how long ORE has been evolving and how confusing future version names could become.
 
 **Almanac note:** beginner-facing pages should keep a short path from "what is mining?" to "how do I safely try one tiny run?" A public guide can link out to reputable overviews, but the Almanac should continue to frame every first run around verification, small budgets, fee tracking, and clear stop rules. The lore thread is also worth preserving at a high level: ORE has accumulated enough history that names, versions, and old habits are part of the learning curve for new miners.
+
+## 2026-07-06 Discord Update
+
+Captured 3 new messages from 2026-07-06T16:08:08.902000+00:00 through 2026-07-06T17:09:20.200000+00:00.
+
+**Activity pattern:** a short three-participant exchange mixed mining-timing signal with light community banter.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the main reusable signal was a miner calling out a favorable mining window: sub-10 SOL rounds were appearing alongside regular positive expected-value opportunities. This is worth framing for beginners as an example of timing discipline rather than a profit promise. When the channel says conditions look attractive, the practical habit is to verify current round size, fees, pool/router behavior, hash-rate assumptions, and personal stop rules before increasing exposure.
+
+The surrounding chatter was mostly light meme/lore energy, so there is no deeper public note to preserve beyond the recurring pattern: miners often mix humor with timely strategy signals, and the Almanac should extract the strategy while leaving raw banter private.
