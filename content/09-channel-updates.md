@@ -3314,3 +3314,15 @@ Captured 3 new messages from 2026-07-06T16:08:08.902000+00:00 through 2026-07-06
 **Almanac note:** the main reusable signal was a miner calling out a favorable mining window: sub-10 SOL rounds were appearing alongside regular positive expected-value opportunities. This is worth framing for beginners as an example of timing discipline rather than a profit promise. When the channel says conditions look attractive, the practical habit is to verify current round size, fees, pool/router behavior, hash-rate assumptions, and personal stop rules before increasing exposure.
 
 The surrounding chatter was mostly light meme/lore energy, so there is no deeper public note to preserve beyond the recurring pattern: miners often mix humor with timely strategy signals, and the Almanac should extract the strategy while leaving raw banter private.
+
+## 2026-07-07 Discord Update
+
+Captured 7 new messages from 2026-07-07T13:45:52.713000+00:00 through 2026-07-07T15:03:51.611000+00:00.
+
+**Most active voices:** a small group of miners kept the channel moving with strategy notes, lore preservation, and light coordination.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** one reusable signal was that miners were seeing larger 14-15 SOL rounds, a useful reminder that round size can change quickly and should be treated as live context rather than a fixed expectation. For beginners, the practical habit is to check the current round, fee environment, hash-rate assumptions, pool or router behavior, and personal stop rules before reading an active window as attractive.
+
+The remaining discussion leaned toward lore, storytelling, and how to preserve repeated community lessons. That is worth carrying forward as the Almanac's publishing posture: extract the durable mining lesson, keep raw chat private, and turn recurring channel wisdom into beginner-safe explanations rather than a transcript.
