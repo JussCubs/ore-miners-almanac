@@ -3326,3 +3326,17 @@ Captured 7 new messages from 2026-07-07T13:45:52.713000+00:00 through 2026-07-07
 **Almanac note:** one reusable signal was that miners were seeing larger 14-15 SOL rounds, a useful reminder that round size can change quickly and should be treated as live context rather than a fixed expectation. For beginners, the practical habit is to check the current round, fee environment, hash-rate assumptions, pool or router behavior, and personal stop rules before reading an active window as attractive.
 
 The remaining discussion leaned toward lore, storytelling, and how to preserve repeated community lessons. That is worth carrying forward as the Almanac's publishing posture: extract the durable mining lesson, keep raw chat private, and turn recurring channel wisdom into beginner-safe explanations rather than a transcript.
+
+## 2026-07-07 Discord Update
+
+Captured 14 new messages from 2026-07-07T17:58:21.325000+00:00 through 2026-07-07T20:00:06.851000+00:00.
+
+**Most active voices:** strigops (9), starship_fronk⛏️ (2), OREillions⛏️ (1), Madhatt3r (1), SuckyTrader (1).
+
+**Themes detected:** uORE / patience, production cost / ore.fyi.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the useful teaching thread was less about a single number and more about miner psychology around uORE accumulation. A "decent stack" is personal: it depends on hardware, fees, power cost, pool behavior, patience, and whether the miner is measuring a short active window or a longer campaign. Beginners should treat uORE milestones as checkpoints for reviewing assumptions, not as universal targets.
+
+The ore.fyi discussion also surfaced a small but practical onboarding point: display theme can follow the browser or system setting. That belongs in the "make the dashboard readable before you judge the data" bucket. A miner who can comfortably read current round, cost, and reward context is less likely to make hurried decisions from a confusing screen.
