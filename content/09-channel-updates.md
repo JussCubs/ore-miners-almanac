@@ -3380,3 +3380,15 @@ Captured 10 new messages from 2026-07-08T06:02:38.041000+00:00 through 2026-07-0
 **Almanac note:** the durable signal was a small strategy thread about whether it is still worth tracking active wallets and how to interpret very large SOL bids in a round. The beginner-safe framing is that visible bid size is a clue, not a complete strategy: a large round bid may reflect confidence, experimentation, signaling, or a miner's private constraints. Do not copy it without understanding bankroll, fee exposure, expected variance, and stop rules.
 
 This is also a useful reminder that manual wallet tracking has an attention cost. Treat it as optional research, not required homework. If the process stops producing decisions you can act on, the better habit may be to step back, preserve your budget, and wait for clearer learning opportunities.
+
+## 2026-07-08 Discord Update
+
+Captured 3 new messages from 2026-07-08T14:35:24.226000+00:00 through 2026-07-08T15:01:50.230000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (1), willd on orestack.app (1), Madhatt3r (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the small afternoon thread continued the morning's theme: miners were reacting to unusually large SOL rounds and joking about how round quality or scoring can look surprising from the outside. The reusable lesson is to treat a headline number, score, or percentage as a prompt for investigation rather than a command to copy the trade.
+
+For beginners, a big round can mean more competition, more variance, and more ways to misread the situation. Before following size, ask what the number is actually measuring, whether fees and failed attempts are included, and whether your bankroll can survive being wrong more than once.
