@@ -1658,3 +1658,13 @@ Miners also clarified a small community-status detail: holding 1 ORE in a wallet
 ```text
 !goldentag - Community role rules can change. If a tag depends on wallet holdings, verify the current requirement first, use a wallet you understand, and do not move funds just for status unless the tradeoff is worth it.
 ```
+
+---
+
+## Update — 2026-07-08
+
+Miners framed a 250 uORE stack as a meaningful psychological milestone while tying patience to future protocol mechanics, especially partial claims. The public takeaway is not a price target; it is the importance of knowing which conditions would justify claiming versus continuing to hold.
+
+```text
+!uore-plan - Before claiming, write down your stack milestone, your reason for holding, whether partial claims are available, and the risk you are willing to keep carrying.
+```

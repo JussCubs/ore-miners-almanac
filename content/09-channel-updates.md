@@ -3392,3 +3392,18 @@ Captured 3 new messages from 2026-07-08T14:35:24.226000+00:00 through 2026-07-08
 **Almanac note:** the small afternoon thread continued the morning's theme: miners were reacting to unusually large SOL rounds and joking about how round quality or scoring can look surprising from the outside. The reusable lesson is to treat a headline number, score, or percentage as a prompt for investigation rather than a command to copy the trade.
 
 For beginners, a big round can mean more competition, more variance, and more ways to misread the situation. Before following size, ask what the number is actually measuring, whether fees and failed attempts are included, and whether your bankroll can survive being wrong more than once.
+
+## 2026-07-08 Discord Update
+
+Captured 4 new messages from 2026-07-08T17:46:50.807000+00:00 through 2026-07-08T17:50:36.624000+00:00.
+
+**Most active voices:** OreBro (4).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Dialogue to organize into the Almanac:**
+
+- A miner treated 250 uORE as a meaningful stack milestone and connected claiming decisions to future protocol features such as partial claims.
+- The thread emphasized that reaching a milestone can be a reason to revisit the plan, not necessarily a reason to stop accumulating.

@@ -710,3 +710,11 @@ Miners revisited the emotional side of holding uORE yield when balances start to
 Miners used a wallet move as another reminder that uORE strategy is partly about custody design. If a miner wants to preserve unclaimed yield while changing where they manage activity, the practical question becomes how to separate mining, holding, and claiming habits without losing track of why each wallet exists.
 
 The beginner-safe lesson is to name the job of each wallet before moving funds. A "mining" wallet, a "holding" wallet, and an "experiment" wallet can all make sense, but only if the miner can still explain the uORE thesis, the claim trigger, and the recovery plan.
+
+---
+
+## Update — 2026-07-08
+
+Miners revisited a familiar uORE patience question: once a stack reaches a personally meaningful milestone, does the strategy change or does accumulation continue? The useful lesson is that a milestone should be treated as a checkpoint, not an automatic exit signal.
+
+For beginners, the decision should come from a written plan: why the miner is holding uORE, what would make claiming attractive, whether partial claims are available, and how much exposure still feels comfortable if the thesis takes longer than expected.
