@@ -3368,3 +3368,15 @@ Captured 3 new messages from 2026-07-08T01:19:42.133000+00:00 through 2026-07-08
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Almanac note:** the overnight activity was light and mostly playful. The durable lesson is a familiar one: miners often narrate short-term luck as if their own stop or start timing caused the next move. Keep that as culture, not strategy. Beginner-facing guidance should continue to separate superstition and banter from repeatable habits like budget sizing, fee awareness, and knowing when to stop a session.
+
+## 2026-07-08 Discord Update
+
+Captured 10 new messages from 2026-07-08T06:02:38.041000+00:00 through 2026-07-08T07:18:23.794000+00:00.
+
+**Most active voices:** RNA(•‿•) (3), ΣXTΛSY | Rubypool.io (3), bacchanal (3), Yorter (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the durable signal was a small strategy thread about whether it is still worth tracking active wallets and how to interpret very large SOL bids in a round. The beginner-safe framing is that visible bid size is a clue, not a complete strategy: a large round bid may reflect confidence, experimentation, signaling, or a miner's private constraints. Do not copy it without understanding bankroll, fee exposure, expected variance, and stop rules.
+
+This is also a useful reminder that manual wallet tracking has an attention cost. Treat it as optional research, not required homework. If the process stops producing decisions you can act on, the better habit may be to step back, preserve your budget, and wait for clearer learning opportunities.
