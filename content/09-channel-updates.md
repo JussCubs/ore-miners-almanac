@@ -3356,3 +3356,15 @@ Captured 26 new messages from 2026-07-07T20:05:55.840000+00:00 through 2026-07-0
 The channel also clarified that a community "golden tag" can be tied to holding 1 ORE, whether mined or purchased. That belongs in public notes only as role-context guidance: verify the current criteria, avoid moving funds solely for status unless the user understands the tradeoff, and remember that Discord tags are not mining strategy.
 
 The remaining lore thread is worth preserving at a high level rather than quoting. ORE culture has recurring names, jokes, and origin stories, and new miners often learn through those references. The Almanac should keep extracting the durable lesson while leaving raw banter private.
+
+## 2026-07-08 Discord Update
+
+Captured 3 new messages from 2026-07-08T01:19:42.133000+00:00 through 2026-07-08T03:10:29.445000+00:00.
+
+**Most active voices:** Hermes (2), strigops (1).
+
+**Themes detected:** lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the overnight activity was light and mostly playful. The durable lesson is a familiar one: miners often narrate short-term luck as if their own stop or start timing caused the next move. Keep that as culture, not strategy. Beginner-facing guidance should continue to separate superstition and banter from repeatable habits like budget sizing, fee awareness, and knowing when to stop a session.
