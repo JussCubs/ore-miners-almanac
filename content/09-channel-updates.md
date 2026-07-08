@@ -3340,3 +3340,19 @@ Captured 14 new messages from 2026-07-07T17:58:21.325000+00:00 through 2026-07-0
 **Almanac note:** the useful teaching thread was less about a single number and more about miner psychology around uORE accumulation. A "decent stack" is personal: it depends on hardware, fees, power cost, pool behavior, patience, and whether the miner is measuring a short active window or a longer campaign. Beginners should treat uORE milestones as checkpoints for reviewing assumptions, not as universal targets.
 
 The ore.fyi discussion also surfaced a small but practical onboarding point: display theme can follow the browser or system setting. That belongs in the "make the dashboard readable before you judge the data" bucket. A miner who can comfortably read current round, cost, and reward context is less likely to make hurried decisions from a confusing screen.
+
+## 2026-07-08 Discord Update
+
+Captured 26 new messages from 2026-07-07T20:05:55.840000+00:00 through 2026-07-07T23:31:22.534000+00:00.
+
+**Most active voices:** traumi (6), starship_fronk⛏️ (6), AtticusCryptocus (6), strigops (4), Madhatt3r (4).
+
+**Themes detected:** low-and-slow 25 tile mining, lore and origin stories.
+
+**Sentiment read:** the channel mixed practical encouragement with lorekeeping. The useful public signal is that experienced miners are still turning repeated chat advice into small, testable habits for newer miners.
+
+**Almanac note:** the strongest teaching moment was a small-budget tile-mining walkthrough. The beginner-safe version is to use tiny per-field amounts, understand the full round budget before clicking, and let the first several rounds teach timing, variance, fees, automation behavior, and stop-rule discipline. This should never be framed as a guarantee that most funds come back; it is an experiment design.
+
+The channel also clarified that a community "golden tag" can be tied to holding 1 ORE, whether mined or purchased. That belongs in public notes only as role-context guidance: verify the current criteria, avoid moving funds solely for status unless the user understands the tradeoff, and remember that Discord tags are not mining strategy.
+
+The remaining lore thread is worth preserving at a high level rather than quoting. ORE culture has recurring names, jokes, and origin stories, and new miners often learn through those references. The Almanac should keep extracting the durable lesson while leaving raw banter private.

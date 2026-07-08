@@ -1638,3 +1638,23 @@ The channel shared another reminder that beginners need both a broad overview an
 ```text
 !miningguide - Start with current ORE docs and trusted community guides, then test the simplest path with a tiny budget. Verify links, record fees and outcomes, and ask setup questions before scaling.
 ```
+
+---
+
+## Update — 2026-07-08
+
+### Low-and-slow tile testing
+
+The channel returned to a beginner-friendly way to learn tile mining: use a tiny amount per field, spread the test across all 25 fields only when that matches the plan, and treat the first rounds as practice rather than a profit claim. The useful part is not the exact amount someone else used; it is the discipline of making the experiment small enough that fees, misses, timing, automation, and emotional pressure can be observed without overcommitting.
+
+```text
+!25tiles - A 25-field test can teach the flow, but keep it tiny. Decide the per-field spend, total round budget, stop rule, and fee assumptions first, then record outcomes before scaling.
+```
+
+### Golden-tag eligibility
+
+Miners also clarified a small community-status detail: holding 1 ORE in a wallet can be enough for a golden tag, whether that ORE was mined or bought. For the Almanac, the useful command is a neutral reminder to verify the current Discord role criteria before moving funds just for a badge.
+
+```text
+!goldentag - Community role rules can change. If a tag depends on wallet holdings, verify the current requirement first, use a wallet you understand, and do not move funds just for status unless the tradeoff is worth it.
+```
