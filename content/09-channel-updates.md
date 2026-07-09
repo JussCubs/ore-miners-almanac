@@ -3423,3 +3423,18 @@ Captured 4 new messages from 2026-07-08T23:25:47.884000+00:00 through 2026-07-08
 - Miners used large uORE target numbers to talk about the emotional weight of unrealized value and the discipline required to keep accumulating through milestones.
 - The discussion connected simple APY math to patience: headline yield examples are useful for intuition, but they should be treated as planning aids rather than promises.
 - The reusable Almanac point is that uORE milestones work best as checkpoints for reviewing a plan, not as automatic instructions to stop mining, claim, or change exposure.
+
+## 2026-07-09 Discord Update
+
+Captured 1 new autominer configuration question from 2026-07-09T10:52:14.504000+00:00.
+
+**Participation:** 1 miner raised a setup question.
+
+**Themes detected:** autominer configuration, tile-selection behavior, refinORE / Roberto support.
+
+**Sentiment read:** miners are using the channel to translate UI changes into reusable operating guidance.
+
+**Dialogue to organize into the Almanac:**
+
+- A miner asked how the updated autominer can choose tiles randomly instead of repeating the same selection pattern.
+- The reusable Almanac note is to separate configuration checks from outcome promises: first identify whether the run is using a saved pattern, manual tile choice, or a random/automatic selection mode.

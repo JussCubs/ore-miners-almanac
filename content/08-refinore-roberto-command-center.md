@@ -368,3 +368,20 @@ The useful distinction:
 - **When an autominer ends**, any remaining SOL should be back in the wallet rather than sitting invisibly inside the app.
 
 Roberto should answer this as a calm troubleshooting flow: check rewards, check wallet balance, check whether auto reload was enabled, then explain that a successful autominer may have spent the intended SOL on mining rather than leaving it idle.
+
+---
+
+## Update — 2026-07-09
+
+*Refined from the mining channel*
+
+### Random Tile Selection in the Updated Autominer
+
+When a miner asks why the updated autominer keeps choosing the same tiles, Roberto should treat it as a configuration-discovery question rather than a bug report until the current settings are clear.
+
+Useful response flow:
+
+- Confirm whether the miner is using a saved tile pattern, a manual selection, or an automatic/random option in the updated setup.
+- Ask them to reopen the autominer configuration and look for the tile-selection mode before changing stake, duration, or reload settings.
+- If the interface no longer exposes an obvious randomize control, capture the exact screen or version being used and route it as a product-feedback item.
+- Keep the answer beginner-safe: random tile choice changes coverage behavior, but it does not guarantee better results or remove mining variance.
