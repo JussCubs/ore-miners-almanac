@@ -3438,3 +3438,19 @@ Captured 1 new autominer configuration question from 2026-07-09T10:52:14.504000+
 
 - A miner asked how the updated autominer can choose tiles randomly instead of repeating the same selection pattern.
 - The reusable Almanac note is to separate configuration checks from outcome promises: first identify whether the run is using a saved pattern, manual tile choice, or a random/automatic selection mode.
+
+## 2026-07-09 Discord Update
+
+Captured 4 new messages from 2026-07-09T12:31:34.373000+00:00 through 2026-07-09T15:25:43.988000+00:00.
+
+**Participation:** 4 miners added follow-up context around autominer behavior and the lite-mode interface.
+
+**Themes detected:** random tile selection, autominer configuration, lite mode UI.
+
+**Sentiment read:** miners still like the feeling of tactical agency that comes from varied tile selection, while also noticing small UI improvements that make the mining flow feel more polished.
+
+**Reusable Almanac notes:**
+
+- The current miner behavior was described as not choosing a fresh random tile set for each new round, with the request passed along for team consideration.
+- For onboarding, frame random tile selection as a usability and player-agency preference rather than a way to promise better odds.
+- Lite mode polish matters: small visual affordances, such as a clearer grid icon, can make the reduced interface feel more intentional and easier to trust.
