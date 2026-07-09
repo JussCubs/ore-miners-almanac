@@ -3407,3 +3407,19 @@ Captured 4 new messages from 2026-07-08T17:46:50.807000+00:00 through 2026-07-08
 
 - A miner treated 250 uORE as a meaningful stack milestone and connected claiming decisions to future protocol features such as partial claims.
 - The thread emphasized that reaching a milestone can be a reason to revisit the plan, not necessarily a reason to stop accumulating.
+
+## 2026-07-09 Discord Update
+
+Captured 4 new messages from 2026-07-08T23:25:47.884000+00:00 through 2026-07-08T23:59:11.997000+00:00.
+
+**Participation:** 2 miners contributed to the thread.
+
+**Themes detected:** uORE / patience.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Dialogue to organize into the Almanac:**
+
+- Miners used large uORE target numbers to talk about the emotional weight of unrealized value and the discipline required to keep accumulating through milestones.
+- The discussion connected simple APY math to patience: headline yield examples are useful for intuition, but they should be treated as planning aids rather than promises.
+- The reusable Almanac point is that uORE milestones work best as checkpoints for reviewing a plan, not as automatic instructions to stop mining, claim, or change exposure.

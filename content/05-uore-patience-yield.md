@@ -718,3 +718,11 @@ The beginner-safe lesson is to name the job of each wallet before moving funds. 
 Miners revisited a familiar uORE patience question: once a stack reaches a personally meaningful milestone, does the strategy change or does accumulation continue? The useful lesson is that a milestone should be treated as a checkpoint, not an automatic exit signal.
 
 For beginners, the decision should come from a written plan: why the miner is holding uORE, what would make claiming attractive, whether partial claims are available, and how much exposure still feels comfortable if the thesis takes longer than expected.
+
+---
+
+## Update — 2026-07-09
+
+The channel returned to a classic uORE patience theme: milestones can be motivating, but they should not automatically become sell signals. One miner framed a large uORE target as already representing major unrealized value, then immediately tied that realization back to the question of why a long-term accumulator would stop there.
+
+The beginner-safe lesson is to separate morale math from financial advice. Yield examples and headline value estimates can help a miner understand scale, but a claim, hold, or accumulation decision still needs a personal plan, risk limits, and patience for protocol features to mature.
