@@ -726,3 +726,11 @@ For beginners, the decision should come from a written plan: why the miner is ho
 The channel returned to a classic uORE patience theme: milestones can be motivating, but they should not automatically become sell signals. One miner framed a large uORE target as already representing major unrealized value, then immediately tied that realization back to the question of why a long-term accumulator would stop there.
 
 The beginner-safe lesson is to separate morale math from financial advice. Yield examples and headline value estimates can help a miner understand scale, but a claim, hold, or accumulation decision still needs a personal plan, risk limits, and patience for protocol features to mature.
+
+---
+
+## Update — 2026-07-09
+
+Miners kept using 250 rORE plus uORE as a morale checkpoint rather than a finish line. The useful lesson is that a large-looking combined balance can create the urge to declare victory, but the stronger patience habit is to ask whether the original thesis has actually changed.
+
+For beginners, a stack milestone should trigger a calm review: how much exposure still feels right, whether partial-claim tooling changes the plan, and whether continuing to accumulate still matches the miner's written purpose.

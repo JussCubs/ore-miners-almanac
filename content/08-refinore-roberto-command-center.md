@@ -385,3 +385,20 @@ Useful response flow:
 - Ask them to reopen the autominer configuration and look for the tile-selection mode before changing stake, duration, or reload settings.
 - If the interface no longer exposes an obvious randomize control, capture the exact screen or version being used and route it as a product-feedback item.
 - Keep the answer beginner-safe: random tile choice changes coverage behavior, but it does not guarantee better results or remove mining variance.
+
+---
+
+## Update — 2026-07-09
+
+*Refined from the mining channel*
+
+### Lite and Pro Mode Need Clear Switching Rules
+
+Miners asked whether an active 25-tile autominer run can move from Lite view back into Pro/grid view after launch. The useful product lesson is that mode choice needs a visible rule before deployment, especially when Lite hides the full grid that some miners use to feel oriented.
+
+Roberto should answer this as an interface-state question:
+
+- Confirm whether the miner deployed the current run in Lite mode or Pro mode.
+- If the current interface does not support switching modes during an active Lite deployment, say that plainly and avoid sending the miner through refresh loops.
+- Explain whether the miner must stop and recreate the autominer to change view mode, including any cost or run-state consequences.
+- Route repeated confusion as UX feedback: the launch screen should label whether Lite/Pro can be changed later.

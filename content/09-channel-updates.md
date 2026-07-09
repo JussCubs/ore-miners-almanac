@@ -3454,3 +3454,20 @@ Captured 4 new messages from 2026-07-09T12:31:34.373000+00:00 through 2026-07-09
 - The current miner behavior was described as not choosing a fresh random tile set for each new round, with the request passed along for team consideration.
 - For onboarding, frame random tile selection as a usability and player-agency preference rather than a way to promise better odds.
 - Lite mode polish matters: small visual affordances, such as a clearer grid icon, can make the reduced interface feel more intentional and easier to trust.
+
+## 2026-07-09 Discord Update
+
+Captured 18 new messages from 2026-07-09T17:11:31.469000+00:00 through 2026-07-09T19:27:12.833000+00:00.
+
+**Participation:** 8 miners contributed to the thread.
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, refinORE / Roberto.
+
+**Sentiment read:** the channel stayed practical and product-focused: miners were trying to understand the updated autominer interface, checking claim behavior, and still using stack milestones as patience fuel.
+
+**Reusable Almanac notes:**
+
+- Lite and Pro mode need an obvious switching rule before an autominer is deployed. If Lite mode cannot become Pro mode mid-run, say so clearly in the setup flow and in Roberto's support answers.
+- A hard refresh should not be the long-term answer for missing mode controls. Repeated reports belong in product feedback with the exact run state and interface version.
+- Partial-claim behavior is becoming part of miners' mental model for uORE and rORE planning, so the Almanac should keep separating "claim button status" from financial advice about when to claim.
+- Stack milestones still work best as planning checkpoints: celebrate the morale boost, then review the thesis, exposure, and claim options before changing strategy.
