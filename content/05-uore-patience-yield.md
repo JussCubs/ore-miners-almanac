@@ -734,3 +734,24 @@ The beginner-safe lesson is to separate morale math from financial advice. Yield
 Miners kept using 250 rORE plus uORE as a morale checkpoint rather than a finish line. The useful lesson is that a large-looking combined balance can create the urge to declare victory, but the stronger patience habit is to ask whether the original thesis has actually changed.
 
 For beginners, a stack milestone should trigger a calm review: how much exposure still feels right, whether partial-claim tooling changes the plan, and whether continuing to accumulate still matches the miner's written purpose.
+
+---
+
+## Update — 2026-07-10
+
+### Partial claims as a patience unlock
+
+Miners returned to a practical uORE wish-list item: native partial claims. The room already works around the gap with multiple wallets, but the cleaner product idea is to let a miner claim only some of their unclaimed stack while leaving the rest in the patience sleeve.
+
+The beginner-safe lesson is not to assume the feature exists today. Until it ships, treat partial claims as a planning concept:
+
+- decide how much refined yield you actually need;
+- keep the remainder unclaimed if the thesis is still long-horizon;
+- remember that more full claims can mean more rORE circulating back through the system;
+- do not invent multi-wallet complexity unless you can still track recovery, purpose, and claim rules.
+
+A related naming idea also surfaced: keep refining, but simplify labels so `uORE` means unstaked ORE and `stORE` means staked ORE. For the Almanac, treat that as community language hygiene rather than a live protocol rename.
+
+```text
+!partialclaim - Partial claims would make patience easier, but do not assume they exist yet. Until tooling supports them, claim only what your plan needs, keep the rest of the thesis intact, and use multi-wallet workarounds only if you can still track each wallet's job.
+```

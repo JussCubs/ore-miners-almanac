@@ -3538,3 +3538,22 @@ Captured 5 new messages from 2026-07-10T10:43:58.536000+00:00 through 2026-07-10
 - Never publish raw wallet transfer details, truncated addresses, or speculation about someone else's funds in the public hub.
 - "Never takes a break" energy is part of ORE culture, but the Almanac should frame persistence as optional craft and curiosity — not as a profitability guarantee or pressure to stay online forever.
 - When chat turns to profit motives, redirect public notes toward process: learning the tools, managing risk, and deciding when rest is healthier than grinding.
+
+## 2026-07-10 Discord Update
+
+Captured 7 new messages from 2026-07-10T12:46:11.989000+00:00 through 2026-07-10T15:21:10.932000+00:00.
+
+**Most active voices:** SuckyTrader (2), starship_fronk⛏️ (1), willd on orestack.app (1), Madhatt3r (1), Alpha (1), OreBro (1).
+
+**Themes detected:** uORE patience, partial claims, protocol naming hygiene, v4 speculation.
+
+**Sentiment read:** practical product thinking. Miners are less interested in hype screenshots and more interested in tools that protect long-horizon patience without forcing full claims.
+
+**Reusable Almanac notes:**
+
+- Partial claims remain a high-priority quality-of-life request. Multi-wallet workarounds already approximate the idea, but native partial claims would make patience plans cleaner for beginners.
+- One product framing keeps refining, lets only the unstaked/patience sleeve be partially claimed, and simplifies labels toward unstaked ORE vs staked ORE.
+- v4 chatter still mixes admiration for long-running miners with caution that the next version may change which edge cases remain gameable. Keep that as provisional lore, not a strategy guarantee.
+- Continue avoiding wallet-level speculation and copycat bankroll stories in the public hub.
+
+**Command snippet refined:** `!partialclaim` for claim-plan discipline while partial-claim tooling is still a wishlist item.

@@ -1668,3 +1668,17 @@ Miners framed a 250 uORE stack as a meaningful psychological milestone while tyi
 ```text
 !uore-plan - Before claiming, write down your stack milestone, your reason for holding, whether partial claims are available, and the risk you are willing to keep carrying.
 ```
+
+---
+
+## Update — 2026-07-10
+
+### Partial-claim command note
+
+The channel sharpened the partial-claim conversation with a useful product framing: refining can still happen, but the claimed path and the patience path should not force an all-or-nothing decision. Miners also floated clearer sleeve labels — unstaked vs staked — so beginners spend less time decoding acronyms and more time deciding when to claim.
+
+Public takeaway: partial claims are a high-leverage quality-of-life request because they protect long-horizon uORE plans while still letting a miner free a slice of refined value when life or strategy needs it.
+
+```text
+!partialclaim - Partial claims would make patience easier, but do not assume they exist yet. Until tooling supports them, claim only what your plan needs, keep the rest of the thesis intact, and use multi-wallet workarounds only if you can still track each wallet's job.
+```
