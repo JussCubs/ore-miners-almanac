@@ -3519,3 +3519,22 @@ Captured 16 new messages from 2026-07-10T04:03:04.337000+00:00 through 2026-07-1
 - Some miners plan participation around normal work calendars, bonuses, dividends, and personal runway. Keep the public guide grounded in budgeting and readiness instead of treating seasonal capital flows as a strategy signal.
 - "Living in the mines" remains useful community language for belonging and commitment. Present it as culture and motivation, not as advice to overextend time or money.
 - Returning-miner onboarding should respect real-life constraints: help people restart with simple setup steps, clear risk reminders, and room to enjoy the game without promising lifestyle outcomes.
+
+## 2026-07-10 Discord Update
+
+Captured 5 new messages from 2026-07-10T10:43:58.536000+00:00 through 2026-07-10T11:43:40.875000+00:00.
+
+**Most active voices:** willd on orestack.app (1), oduen⛏️ (1), Madhatt3r (1), Alpha (1), OREillions⛏️ (1).
+
+**Participation:** 5 miners contributed to a short lore/recognition thread.
+
+**Themes detected:** veteran-miner lore, continuity of presence, community recognition of long-running wallets/players.
+
+**Sentiment read:** light and admiring rather than tactical — miners were matching identities and celebrating someone who seems never to step away from the mines.
+
+**Reusable Almanac notes:**
+
+- Community lore often centers on recognizable long-running miners and wallets. Treat that as storytelling and pattern-spotting, not as doxxing or a signal to copy another person's bankroll moves.
+- Never publish raw wallet transfer details, truncated addresses, or speculation about someone else's funds in the public hub.
+- "Never takes a break" energy is part of ORE culture, but the Almanac should frame persistence as optional craft and curiosity — not as a profitability guarantee or pressure to stay online forever.
+- When chat turns to profit motives, redirect public notes toward process: learning the tools, managing risk, and deciding when rest is healthier than grinding.
