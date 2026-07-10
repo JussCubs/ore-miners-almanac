@@ -3503,3 +3503,19 @@ Captured 7 new messages from 2026-07-10T01:08:07.760000+00:00 through 2026-07-10
 - Returning miners are treating automining as a way to re-enter the game after life or work interrupts manual play. Keep onboarding language welcoming for people who already believe in ORE but need a lower-maintenance route back into the mines.
 - When miners talk about adding larger amounts over time, keep the Almanac focused on planning discipline: set a budget, understand the game mechanics, and avoid presenting any mining approach as guaranteed profit.
 - Origin-story posts are useful community glue. Preserve the sense that ORE was many miners' first "gem," while turning that nostalgia into durable education about patience, conviction, and responsible participation.
+
+## 2026-07-10 Discord Update
+
+Captured 16 new messages from 2026-07-10T04:03:04.337000+00:00 through 2026-07-10T05:36:39.470000+00:00.
+
+**Participation:** 2 miners contributed to the thread.
+
+**Themes detected:** returning-to-the-mines motivation, work/life timing, crypto-cycle expectations.
+
+**Sentiment read:** the channel was more personal than technical: miners were talking through when they expect to have time and capital to participate again, with the mines framed as a fun place to return rather than a guaranteed escape plan.
+
+**Reusable Almanac notes:**
+
+- Some miners plan participation around normal work calendars, bonuses, dividends, and personal runway. Keep the public guide grounded in budgeting and readiness instead of treating seasonal capital flows as a strategy signal.
+- "Living in the mines" remains useful community language for belonging and commitment. Present it as culture and motivation, not as advice to overextend time or money.
+- Returning-miner onboarding should respect real-life constraints: help people restart with simple setup steps, clear risk reminders, and room to enjoy the game without promising lifestyle outcomes.
