@@ -3471,3 +3471,19 @@ Captured 18 new messages from 2026-07-09T17:11:31.469000+00:00 through 2026-07-0
 - A hard refresh should not be the long-term answer for missing mode controls. Repeated reports belong in product feedback with the exact run state and interface version.
 - Partial-claim behavior is becoming part of miners' mental model for uORE and rORE planning, so the Almanac should keep separating "claim button status" from financial advice about when to claim.
 - Stack milestones still work best as planning checkpoints: celebrate the morale boost, then review the thesis, exposure, and claim options before changing strategy.
+
+## 2026-07-10 Discord Update
+
+Captured 14 new messages from 2026-07-09T20:05:37.593000+00:00 through 2026-07-09T23:32:27.292000+00:00.
+
+**Participation:** 8 miners contributed to the thread.
+
+**Themes detected:** uORE / patience, Lite mode onboarding, partial-claim expectations.
+
+**Sentiment read:** the channel was light but useful: miners were checking which claim features are actually live, nudging each other back into the mines, and treating Lite mode as a lower-friction path for participation.
+
+**Reusable Almanac notes:**
+
+- Partial claims should be described as an active design discussion until the product itself exposes the feature. Avoid teaching it as a production behavior before miners can verify it in the app.
+- Lite mode is becoming the default invitation for hesitant miners: it lowers setup pressure and gives community members a simple "start here" answer without forcing a full Pro-mode explanation.
+- Joke-driven feature speculation can confuse newer miners. The public notes should separate confirmed product behavior from community banter, especially around claim mechanics.
