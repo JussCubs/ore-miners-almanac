@@ -3557,3 +3557,22 @@ Captured 7 new messages from 2026-07-10T12:46:11.989000+00:00 through 2026-07-10
 - Continue avoiding wallet-level speculation and copycat bankroll stories in the public hub.
 
 **Command snippet refined:** `!partialclaim` for claim-plan discipline while partial-claim tooling is still a wishlist item.
+
+## 2026-07-10 Discord Update
+
+Captured 54 new messages from 2026-07-10T16:22:20.634000+00:00 through 2026-07-10T19:51:07.633000+00:00.
+
+**Most active voices:** strigops (18), Hardhat Chad (15), Kriptikz (6), Madhatt3r (6), starship_fronk⛏️ (5), willd on orestack.app (1), Alpha (1), ZeDef_Koala (1).
+
+**Themes detected:** uORE / patience, lore and origin stories, commands / preserving knowledge.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Reusable Almanac notes:**
+
+- Partial-claim discussion matured into a concrete design question: claims should probably remove the same percentage of uORE and rORE, not merely the same amount, so miners cannot skim tax-free rORE while leaving most of the uORE position untouched.
+- The thread treated rORE's current "no yield while unclaimed" behavior as an incentive mechanism. It nudges miners toward eventual claims, feeds claim activity back into the pool, and avoids turning early positions into effortless lifetime royalties.
+- Auto-compounding remains tempting, but miners called out the centralization risk: if existing positions generate more position weight without fresh mining input, early stacks can become entrenched.
+- Lore surfaced around old mining stories and the community's math-heavy identity. Preserve the flavor as culture, but avoid naming inactive people, publishing mentions, or implying private credentials as public facts.
+
+**Command snippet refined:** `!claimdesign` for evaluating partial-claim rules without turning draft protocol ideas into promises.

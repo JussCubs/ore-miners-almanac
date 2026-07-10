@@ -1682,3 +1682,19 @@ Public takeaway: partial claims are a high-leverage quality-of-life request beca
 ```text
 !partialclaim - Partial claims would make patience easier, but do not assume they exist yet. Until tooling supports them, claim only what your plan needs, keep the rest of the thesis intact, and use multi-wallet workarounds only if you can still track each wallet's job.
 ```
+
+---
+
+## Update — 2026-07-10
+
+### Partial-claim design guardrails
+
+The channel moved from "partial claims would be nice" into the rule design. The reusable command should now warn miners that partial claims are only healthy if they keep rORE, uORE, fees, and claim incentives aligned.
+
+```text
+!partialclaim - Partial claims are a wishlist feature, not a current guarantee. A healthy design should let miners free part of a stack without making wallet-splitting, rORE skimming, or forever-compounding positions the obvious play.
+```
+
+```text
+!claimdesign - When comparing claim ideas, ask four questions: does it reduce all-or-nothing pressure, does it avoid sybil incentives, does it keep rORE tied to the uORE that earned it, and does it preserve reasons for new mining input?
+```

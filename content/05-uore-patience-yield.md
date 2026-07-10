@@ -755,3 +755,21 @@ A related naming idea also surfaced: keep refining, but simplify labels so `uORE
 ```text
 !partialclaim - Partial claims would make patience easier, but do not assume they exist yet. Until tooling supports them, claim only what your plan needs, keep the rest of the thesis intact, and use multi-wallet workarounds only if you can still track each wallet's job.
 ```
+
+---
+
+## Update — 2026-07-10
+
+### Matched-percentage partial claims
+
+Miners dug deeper into the partial-claim design problem. The key concern is that a simple "claim uORE first" or equal-amount split can still reward wallet splitting: a miner could spread one position across several wallets, unlock tax-free rORE faster, and leave most of the patience stack untouched.
+
+The strongest public design note from the thread was a matched-percentage claim. Instead of taking the same number of uORE and rORE, a partial claim would take the same percentage from both sleeves. That keeps the rORE exit tied to the uORE position that produced it, and it makes "skim the rORE while keeping the uORE" much harder.
+
+For beginners, the lesson is still conceptual. Partial claims are not something to assume in today's tooling, and the exact rule would need protocol-level review. But the conversation sharpened three useful principles:
+
+- partial claims should reduce all-or-nothing pressure without creating an obvious sybil edge;
+- rORE not earning yield is part of the current claim incentive, not just a nuisance;
+- auto-compounding sounds attractive to a holder, but it can also entrench early positions if new pool weight grows without new mining input.
+
+The patience thesis survives best when claiming remains a deliberate lifecycle decision: mine or hold for a reason, claim when the plan calls for it, and avoid designing around loopholes that would make the pool less healthy for later miners.
