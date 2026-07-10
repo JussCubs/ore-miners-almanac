@@ -3487,3 +3487,19 @@ Captured 14 new messages from 2026-07-09T20:05:37.593000+00:00 through 2026-07-0
 - Partial claims should be described as an active design discussion until the product itself exposes the feature. Avoid teaching it as a production behavior before miners can verify it in the app.
 - Lite mode is becoming the default invitation for hesitant miners: it lowers setup pressure and gives community members a simple "start here" answer without forcing a full Pro-mode explanation.
 - Joke-driven feature speculation can confuse newer miners. The public notes should separate confirmed product behavior from community banter, especially around claim mechanics.
+
+## 2026-07-10 Discord Update
+
+Captured 7 new messages from 2026-07-10T01:08:07.760000+00:00 through 2026-07-10T04:01:42.576000+00:00.
+
+**Participation:** 3 miners contributed to the thread.
+
+**Themes detected:** low-and-slow 25 tile mining, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Reusable Almanac notes:**
+
+- Returning miners are treating automining as a way to re-enter the game after life or work interrupts manual play. Keep onboarding language welcoming for people who already believe in ORE but need a lower-maintenance route back into the mines.
+- When miners talk about adding larger amounts over time, keep the Almanac focused on planning discipline: set a budget, understand the game mechanics, and avoid presenting any mining approach as guaranteed profit.
+- Origin-story posts are useful community glue. Preserve the sense that ORE was many miners' first "gem," while turning that nostalgia into durable education about patience, conviction, and responsible participation.
