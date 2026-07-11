@@ -3642,3 +3642,23 @@ Captured 9 new messages from 2026-07-11T10:04:47.401000+00:00 through 2026-07-11
 - The multiple-small-miner question belongs in the strategy library as an exposure-tracking issue: splitting runs can help organization, but the miner still needs one view of total SOL at risk, fees, tile count, and purpose.
 
 **Command snippets refined:** `!gridcheck`, `!smallminers`, `!redpnl`, and `!tinydeploy`.
+
+## 2026-07-11 Discord Update
+
+Captured 26 new messages from 2026-07-11T12:04:22.414000+00:00 through 2026-07-11T15:12:16.602000+00:00.
+
+**Most active voices:** ΣXTΛSY | Rubypool.io (6), starship_fronk⛏️ (4), willd on orestack.app (3), Brent (3), Madhatt3r (3), OREillions⛏️ (3), didi (2), Carl-bot (1).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, production cost / ore.fyi, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Reusable Almanac notes:**
+
+- The partial-claim debate is converging on matched percentages: a miner who claims part of a position should reduce both uORE and rORE by the same share, instead of skimming refined output while leaving the source position untouched.
+- Current claim behavior appears to mix several miner types. Short-cycle miners may claim young uORE because the immediate EV makes sense, while patient holders may wait until refinement yield, tax, and opportunity cost line up.
+- Very small miners can still hit solos, but the public education should frame that as lotto-style variance. It is valid for fun only when the budget is bounded and total exposure across wallets is tracked.
+- Multiple wallets can imitate partial-claim behavior, but that workaround creates tracking and recovery complexity. Native or tool-assisted partial claims should be judged by whether they keep the same economic logic without adding hidden custody or accounting risk.
+- Public analytics links are useful onboarding material, especially when paired with a warning to compare dashboards against a miner's own wallet records and production-cost notes.
+
+**Command snippets refined:** `!claimtypes`, `!lottomining`, and `!analytics`.

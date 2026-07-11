@@ -811,3 +811,24 @@ The Almanac should keep this distinction plain:
 ```text
 !uorepatience - Judge a mining plan by uORE accumulation, refinement, production cost, and runway, not one round's PnL color. If the plan cannot survive variance, shrink it before the mine teaches the lesson for you.
 ```
+
+---
+
+## Update — 2026-07-11
+
+### Short-term claims and patient yield
+
+The partial-claim thread added one more useful distinction: not every claim comes from the same kind of miner. Some miners repeatedly claim younger uORE because the immediate round, fee, or motherlode context makes sense to them. Others hold unclaimed positions for the long game and care more about whether the refined yield remains above their alternatives.
+
+That matters for teaching claim design. If most recent claims are coming from short-term actors, then changing how rORE can be claimed may not affect every miner equally. A design that helps patient miners unlock a small slice of value could still leave short-cycle miners focused on current EV, production cost, and the next run.
+
+For the Almanac, the beginner-safe model is:
+
+- short-term miners may drive a large share of claim activity;
+- patient miners are often deciding whether the refinement sleeve still beats their next best use of capital;
+- matched-percentage partial claims are easier to explain than free rORE streaming;
+- any claim feature should be judged by whether it preserves incentives for future miners, not just whether it feels convenient today.
+
+```text
+!claimtypes - Short-cycle miners and patient uORE holders do not react to claim rules the same way. Compare any partial-claim idea by asking who uses it, whether uORE and rORE still move together, and whether the broader mining loop stays healthy.
+```

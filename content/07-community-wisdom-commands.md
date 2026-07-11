@@ -1730,3 +1730,21 @@ The latest newcomer question produced a useful command set: read a low grid as b
 ```text
 !redpnl - A mining screen can look red in the short term because fees, misses, and variance arrive before the long-horizon thesis. Do not use that as permission to ignore cost; use it as a reason to check runway, uORE goals, and stop rules.
 ```
+
+---
+
+## Update — 2026-07-11
+
+### Lotto mining, partial-claim workarounds, and analytics
+
+Miners tied three recurring tips together: multiple wallets can imitate partial claims, very small miners can still hit a solo over a long enough sample, and public analytics should be checked before turning a fun setup into a serious budget.
+
+The safer public language is to treat "lotto mining" as a style of play, not as a promise. Naming several small miners and watching for a hit can be fun, but the miner still needs one combined view of fees, tile count, total SOL at risk, and the reason for continuing.
+
+```text
+!lottomining - Tiny miners can hit, but "possible" is not the same as likely on your timeline. Use lotto mining for bounded fun, track total exposure across every small run, and check analytics before increasing size.
+```
+
+```text
+!analytics - Start with public dashboards such as ore.fyi, Blockworks ORE analytics, ore-stats, hawg.win, and my-ore, then compare them against your own wallet records before making a mining decision.
+```
