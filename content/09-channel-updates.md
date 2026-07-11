@@ -3576,3 +3576,16 @@ Captured 54 new messages from 2026-07-10T16:22:20.634000+00:00 through 2026-07-1
 - Lore surfaced around old mining stories and the community's math-heavy identity. Preserve the flavor as culture, but avoid naming inactive people, publishing mentions, or implying private credentials as public facts.
 
 **Command snippet refined:** `!claimdesign` for evaluating partial-claim rules without turning draft protocol ideas into promises.
+
+## 2026-07-11 Discord Update
+
+Captured 3 new messages from 2026-07-10T20:08:46.426000+00:00 through 2026-07-10T21:10:51.984000+00:00.
+
+**Themes detected:** uORE / patience.
+
+**Sentiment read:** quiet follow-up on the claim-design thread; miners are still converging on simple language for how uORE and rORE should be handled together.
+
+**Reusable Almanac notes:**
+
+- The most reusable teaching point remains percentage-based partial claims: when a miner claims part of a position, reducing uORE and rORE by the same percentage is easier to explain than juggling equal absolute amounts.
+- Rust implementation details were deferred; keep this section framed as protocol-design intuition until concrete code or docs land.
