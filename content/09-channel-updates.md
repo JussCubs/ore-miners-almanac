@@ -3589,3 +3589,19 @@ Captured 3 new messages from 2026-07-10T20:08:46.426000+00:00 through 2026-07-10
 
 - The most reusable teaching point remains percentage-based partial claims: when a miner claims part of a position, reducing uORE and rORE by the same percentage is easier to explain than juggling equal absolute amounts.
 - Rust implementation details were deferred; keep this section framed as protocol-design intuition until concrete code or docs land.
+
+## 2026-07-11 Discord Update
+
+Captured 13 new messages from 2026-07-11T02:18:16.584000+00:00 through 2026-07-11T02:50:01.519000+00:00.
+
+**Most active voices:** strigops (7), starship_fronk⛏️ (5), !Alex | RudeLabs.io (1).
+
+**Themes detected:** lore and origin stories.
+
+**Sentiment read:** mostly playful lore-building. The useful public lesson is not a tactic, but a culture note: miners often use self-deprecating jokes about risk, trust, and internet-money custodianship to remind each other not to take custody claims too casually.
+
+**Reusable Almanac notes:**
+
+- Treat jokes about being an "expert" at losing money as a beginner-safety opening: every miner should assume ORE mining has risk, variance, and operational mistakes until proven otherwise.
+- Custody humor belongs in the Almanac only as a warning label. Do not turn casual chat into endorsements of any person, wallet, bot, or service as a trustworthy custodian.
+- Mathematical and old-internet references are part of the channel's personality, but public notes should preserve the pattern without dragging private banter or family-unfriendly punchlines into the education hub.
