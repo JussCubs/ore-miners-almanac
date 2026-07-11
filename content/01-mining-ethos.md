@@ -134,3 +134,19 @@ That framing keeps the education honest:
 - always compare production cost against spot before deciding to mine.
 
 Fronk's ethos survives the skeptic test because it starts with patience instead of hype. If a miner cannot hold the position long enough for uORE/refinement math to matter, they should shrink, pause, or buy spot instead of pretending every round has to prove the thesis immediately.
+
+---
+
+## Update — 2026-07-11: patience before round-by-round PnL
+
+The July 11 new-miner thread restated the core ethos in a useful way: mining should not be judged only by whether today's visible PnL is green. The durable product is uORE exposure, refinement, and enough time in the system for variance to matter.
+
+For beginners, the safest version remains small and patient:
+
+- treat red-looking short-term PnL as expected friction, not automatic failure;
+- keep deploys tiny enough that a long test is actually possible;
+- use all 25 tiles only when that is the chosen low-and-slow plan;
+- compare production cost against spot before adding more SOL;
+- remember that motherlode exposure can be part of the motive, but not a guarantee.
+
+> Time in the mines still beats trying to perfectly time the mines.

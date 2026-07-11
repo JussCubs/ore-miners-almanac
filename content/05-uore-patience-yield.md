@@ -792,3 +792,22 @@ The room also sharpened a beginner-friendly mental model:
 - marketing and education still matter because most potential miners have not learned the system well enough for these design tradeoffs to be obvious.
 
 In short: partial claims can reduce all-or-nothing pressure, but they should not become free refined-income streaming.
+
+---
+
+## Update — 2026-07-11
+
+### uORE as the reason for patience
+
+The latest onboarding exchange was useful because it separated two ideas that beginners often blend together: visible round PnL and the reason miners accept variance in the first place. The short-term screen can look slightly red because of fees and misses, while the longer thesis is about accumulated uORE, refinement, and staying eligible for rare upside.
+
+The Almanac should keep this distinction plain:
+
+- uORE is mined exposure, not an instant-profit receipt;
+- refinement yield is a reason to think in weeks and months, not single rounds;
+- low-and-slow settings make patience easier only when the budget can survive the sample;
+- motherlode participation can matter emotionally, but it should not replace production-cost discipline.
+
+```text
+!uorepatience - Judge a mining plan by uORE accumulation, refinement, production cost, and runway, not one round's PnL color. If the plan cannot survive variance, shrink it before the mine teaches the lesson for you.
+```

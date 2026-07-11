@@ -1710,3 +1710,23 @@ The channel noted that some third-party mining tools may already offer partial-c
 ```text
 !partialtools - Some tools may offer partial-claim workflows before native protocol support. Verify custody, wallet recovery, fees, and whether uORE/rORE still move together before relying on the shortcut.
 ```
+
+---
+
+## Update — 2026-07-11
+
+### New-miner low-and-slow checks
+
+The latest newcomer question produced a useful command set: read a low grid as better opportunity, treat crowded/heated conditions as a reason to go lighter or wait, and accept that fees can make short-term PnL look uncomfortable even when the plan is working as designed.
+
+```text
+!gridcheck - Low grid can improve the opportunity set, but crowded or expensive conditions can erase the edge. Before deploying, compare grid state, production cost, tile count, fee drag, and whether waiting is the cleaner move.
+```
+
+```text
+!smallminers - Splitting a budget across small miners is mainly an organization and variance-shape choice. Track total SOL at risk, fees, tile count, and purpose across all wallets or runs so "small" does not quietly become overexposed.
+```
+
+```text
+!redpnl - A mining screen can look red in the short term because fees, misses, and variance arrive before the long-horizon thesis. Do not use that as permission to ignore cost; use it as a reason to check runway, uORE goals, and stop rules.
+```

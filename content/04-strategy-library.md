@@ -1030,3 +1030,22 @@ Beginner-safe rule: do not let an ambitious preset consume the SOL needed to con
 ```text
 !reserves - High-variance mining needs SOL headroom. Before increasing deploy size, keep enough reserve for fees, failed attempts, claims, and the next round; otherwise one unlucky stretch can stop the run before the opportunity you were waiting for.
 ```
+
+---
+
+## Update — 2026-07-11
+
+### Tiny deploys and rare solos
+
+The channel gave a new miner a clean variance lesson: very small deploys can still hit, but the smaller the deploy, the more the strategy depends on grinding split rounds and staying patient through a long sample. That makes bankroll discipline more important than bravado.
+
+Beginner-safe framing:
+
+- a tiny 25-tile miner can be a learning tool, not a promise of quick profit;
+- solo hits at very low deploy sizes are possible but rare;
+- if production cost is high or the grid feels crowded, shrinking or pausing is a valid move;
+- multiple small miners only help if the miner can still track purpose, fees, and total exposure.
+
+```text
+!tinydeploy - Tiny deploys can teach the mine without forcing big decisions. Expect mostly split rounds, keep the run long enough for variance to breathe, and only scale when production cost, fees, and stop rules are written down.
+```

@@ -3622,3 +3622,23 @@ Captured 13 new messages from 2026-07-11T05:09:54.703000+00:00 through 2026-07-1
 - The clean public model is still matched-percentage claiming, where uORE and rORE move together and any claimed slice carries the same economic logic as a normal claim.
 - Staking yield and refining yield should not be explained as identical. Staking is framed around protocol revenue, while refining is an intra-miner redistribution mechanism.
 - Some tools may already provide partial-claim style workflows, but miners should treat those as tool-specific conveniences and verify custody, recovery, fees, and uORE/rORE alignment before relying on them.
+
+## 2026-07-11 Discord Update
+
+Captured 9 new messages from 2026-07-11T10:04:47.401000+00:00 through 2026-07-11T12:02:27.113000+00:00.
+
+**Most active voices:** didi (3), starship_fronk⛏️ (2), Madhatt3r (2), RNA(•‿•) (2).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, production cost / ore.fyi, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Reusable Almanac notes:**
+
+- A newcomer restated the low-grid thesis in beginner language: lower grid can mean better opportunity, while crowded conditions can justify going lighter or waiting.
+- The public answer should normalize short-term red PnL as a possible fee-and-variance artifact without turning that into a guarantee of eventual profit.
+- Very small deploys can hit solos, but the educational framing should stress rarity, long samples, and split-round grinding.
+- Motherlode exposure remains a legitimate motive for some miners when production cost is above spot, but it should be presented as preference and risk tolerance rather than universal advice.
+- The multiple-small-miner question belongs in the strategy library as an exposure-tracking issue: splitting runs can help organization, but the miner still needs one view of total SOL at risk, fees, tile count, and purpose.
+
+**Command snippets refined:** `!gridcheck`, `!smallminers`, `!redpnl`, and `!tinydeploy`.
