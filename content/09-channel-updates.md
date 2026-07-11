@@ -3605,3 +3605,20 @@ Captured 13 new messages from 2026-07-11T02:18:16.584000+00:00 through 2026-07-1
 - Treat jokes about being an "expert" at losing money as a beginner-safety opening: every miner should assume ORE mining has risk, variance, and operational mistakes until proven otherwise.
 - Custody humor belongs in the Almanac only as a warning label. Do not turn casual chat into endorsements of any person, wallet, bot, or service as a trustworthy custodian.
 - Mathematical and old-internet references are part of the channel's personality, but public notes should preserve the pattern without dragging private banter or family-unfriendly punchlines into the education hub.
+
+## 2026-07-11 Discord Update
+
+Captured 13 new messages from 2026-07-11T05:09:54.703000+00:00 through 2026-07-11T06:35:43.170000+00:00.
+
+**Most active voices:** Brent (5), Madhatt3r (4), ΣXTΛSY | Rubypool.io (3), ZeDef_Koala (1).
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Reusable Almanac notes:**
+
+- The partial-claim thread clarified why "free refined claims" are not just a UX change: if refined output can be streamed away while the uORE position stays intact, miners may lose the incentive to make taxable claims that refresh the broader mining loop.
+- The clean public model is still matched-percentage claiming, where uORE and rORE move together and any claimed slice carries the same economic logic as a normal claim.
+- Staking yield and refining yield should not be explained as identical. Staking is framed around protocol revenue, while refining is an intra-miner redistribution mechanism.
+- Some tools may already provide partial-claim style workflows, but miners should treat those as tool-specific conveniences and verify custody, recovery, fees, and uORE/rORE alignment before relying on them.

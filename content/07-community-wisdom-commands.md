@@ -1698,3 +1698,15 @@ The channel moved from "partial claims would be nice" into the rule design. The 
 ```text
 !claimdesign - When comparing claim ideas, ask four questions: does it reduce all-or-nothing pressure, does it avoid sybil incentives, does it keep rORE tied to the uORE that earned it, and does it preserve reasons for new mining input?
 ```
+
+---
+
+## Update — 2026-07-11
+
+### Partial-claim tooling note
+
+The channel noted that some third-party mining tools may already offer partial-claim style workflows. Treat that as a tool-specific feature, not a protocol guarantee. A miner should verify custody, wallet tracking, fees, and recovery assumptions before replacing a simple multi-wallet workaround with any hosted or delegated workflow.
+
+```text
+!partialtools - Some tools may offer partial-claim workflows before native protocol support. Verify custody, wallet recovery, fees, and whether uORE/rORE still move together before relying on the shortcut.
+```

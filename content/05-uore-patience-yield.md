@@ -773,3 +773,22 @@ For beginners, the lesson is still conceptual. Partial claims are not something 
 - auto-compounding sounds attractive to a holder, but it can also entrench early positions if new pool weight grows without new mining input.
 
 The patience thesis survives best when claiming remains a deliberate lifecycle decision: mine or hold for a reason, claim when the plan calls for it, and avoid designing around loopholes that would make the pool less healthy for later miners.
+
+---
+
+## Update — 2026-07-11
+
+### Why free refined claims would change the game
+
+The follow-up partial-claim discussion clarified the economic reason miners keep returning to matched uORE/rORE exits. A "take refined as it arrives" path sounds friendly at first, but it can turn a mined position into a perpetual skim: the miner keeps the unclaimed uORE position alive, removes the refined output repeatedly, and loses much of the reason to ever pay the claim tax that refreshes incentives for later miners.
+
+The public distinction worth teaching is external versus internal yield. Staking yield is framed as protocol-revenue distribution. Refining yield is an intra-miner redistribution mechanic, so letting refined output detach too easily from the uORE that earned it can weaken the claim loop that keeps mining attractive.
+
+The room also sharpened a beginner-friendly mental model:
+
+- partial claims are best treated as a UX improvement, not a promise of new economics;
+- rORE and uORE should move together, preferably by matched percentage;
+- if a miner wants to claim some value, the claimed slice should carry the same fee and incentive logic as a normal claim;
+- marketing and education still matter because most potential miners have not learned the system well enough for these design tradeoffs to be obvious.
+
+In short: partial claims can reduce all-or-nothing pressure, but they should not become free refined-income streaming.
