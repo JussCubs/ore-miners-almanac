@@ -3662,3 +3662,22 @@ Captured 26 new messages from 2026-07-11T12:04:22.414000+00:00 through 2026-07-1
 - Public analytics links are useful onboarding material, especially when paired with a warning to compare dashboards against a miner's own wallet records and production-cost notes.
 
 **Command snippets refined:** `!claimtypes`, `!lottomining`, and `!analytics`.
+
+## 2026-07-12 Discord Update
+
+Captured 14 new messages from 2026-07-12T13:19:40.716000+00:00 through 2026-07-12T16:01:10.332000+00:00.
+
+**Most active voices:** Orestack and Rubypool regulars, with a few longtime miners comparing notes from earlier ORE eras.
+
+**Themes detected:** uORE / patience, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Reusable Almanac notes:**
+
+- Older Minemore subaccounts are useful history for explaining why modern miners still split activity across several named miners or wallets: the real goal is often cleaner partial-claim behavior and easier tracking of separate experiments.
+- Orestack usage appears to continue that habit, with miners describing multiple subaccounts as normal rather than exotic. The beginner-safe framing should stress that splitting accounts helps organization only if the miner still totals fees, deployed SOL, claim timing, and risk across the whole setup.
+- Miner nicknames, competition memories, and celebrity-style account names remain part of ORE's culture. The Almanac can use that lore to make the ecosystem feel lived-in without publishing long raw chat excerpts or personal back-and-forth.
+- Large per-round deploy stories are best treated as historical color and risk-context examples, not as suggested sizing for current miners.
+
+**Command snippets refined:** `!subaccounts`, `!partialclaims`, and `!orehistory`.
