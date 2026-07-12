@@ -3681,3 +3681,22 @@ Captured 14 new messages from 2026-07-12T13:19:40.716000+00:00 through 2026-07-1
 - Large per-round deploy stories are best treated as historical color and risk-context examples, not as suggested sizing for current miners.
 
 **Command snippets refined:** `!subaccounts`, `!partialclaims`, and `!orehistory`.
+
+## 2026-07-12 Discord Update
+
+Captured 14 new messages from 2026-07-12T16:05:08.503000+00:00 through 2026-07-12T16:22:24.582000+00:00.
+
+**Most active voices:** a small cluster of regular miners discussing short-term runway and miner behavior.
+
+**Themes detected:** lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Reusable Almanac notes:**
+
+- Miner runway remains a useful teaching lens: when someone adds SOL to continue mining, translate that into estimated rounds, fee exposure, and the conditions that would make continuing rational.
+- Avoid treating another wallet's top-up as a profitability signal. A top-up may reflect conviction, entertainment budget, experimentation, or simple willingness to chase variance.
+- When explaining "waiting for ml" or similar catalysts, keep the advice conditional: miners should separate catalyst hopes from the concrete cost of each additional round.
+- Short chat bursts can still improve the Almanac when they are turned into neutral risk language instead of publishing banter, memes, or wallet-specific commentary.
+
+**Command snippets refined:** `!runway`, `!roundcost`, and `!variance`.
