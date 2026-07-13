@@ -3700,3 +3700,17 @@ Captured 14 new messages from 2026-07-12T16:05:08.503000+00:00 through 2026-07-1
 - Short chat bursts can still improve the Almanac when they are turned into neutral risk language instead of publishing banter, memes, or wallet-specific commentary.
 
 **Command snippets refined:** `!runway`, `!roundcost`, and `!variance`.
+
+## 2026-07-13 Discord Update
+
+Captured 1 new messages from 2026-07-13T17:33:25.703000+00:00 through 2026-07-13T17:33:25.703000+00:00.
+
+**Most active voices:** one miner contributed the day's new mining-channel note.
+
+**Themes detected:** uORE / patience.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Dialogue to organize into the Almanac:**
+
+- A miner reported partial claims landing during the day and expressed appreciation for the team, reinforcing the channel's steady morale around claims progress.
