@@ -3760,3 +3760,15 @@ Captured 1 new messages from 2026-07-14T12:44:13.825000+00:00 through 2026-07-14
 **Learning notes for the Almanac:**
 
 - A brief inspiration prompt was shared for future Almanac material, but the message did not add a concrete strategy note, command snippet, or miner story that should be expanded yet.
+
+## 2026-07-14 Discord Update
+
+Captured 2 new messages from 2026-07-14T16:48:46.179000+00:00 through 2026-07-14T16:49:13.806000+00:00.
+
+**Most active voices:** OreBro (2).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Learning notes for the Almanac:**
+
+- A light gameplay suggestion came through, but it did not add a durable mining tactic, setup detail, or bot command worth expanding into a standalone guide yet.
