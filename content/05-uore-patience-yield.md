@@ -832,3 +832,17 @@ For the Almanac, the beginner-safe model is:
 ```text
 !claimtypes - Short-cycle miners and patient uORE holders do not react to claim rules the same way. Compare any partial-claim idea by asking who uses it, whether uORE and rORE still move together, and whether the broader mining loop stays healthy.
 ```
+
+---
+
+## Update — 2026-07-14
+
+### Patient miners and short-cycle flow
+
+The latest channel discussion returned to one of ORE v3's simplest teaching points: the system is easier to understand when short-cycle behavior and patient uORE holding are separated. Fast entrants may still treat mining like a short attention-span wager, but the protocol story is strongest when value can accrue toward miners who survive variance, hold their position, and let refinement do its work.
+
+That does not make the mine painless. Newer miners can still deploy too aggressively, run out of SOL, or mistake one rough session for the whole system. The public lesson is to frame uORE as a patience instrument: the edge is not that every miner wins immediately, but that durable miners have a clearer reason to keep measuring runway, cost, and claim timing.
+
+```text
+!patientflow - ORE v3 rewards are easiest to explain as value moving away from short-cycle impatience and toward miners with enough runway to hold uORE through variance. Size the miner so patience is possible before chasing the next round.
+```

@@ -3731,3 +3731,20 @@ Captured 24 new messages from 2026-07-13T21:22:27.855000+00:00 through 2026-07-1
 - The channel connected minimum luck to production-cost behavior: high minimum-luck streaks can push production cost up, and miners may take several rounds to react before conditions normalize.
 - A useful beginner explanation emerged: short-term production cost can lag live conditions because miner behavior changes gradually, not instantly.
 - The $1B valuation thought experiment was used as a way to separate protocol mechanics from market-price imagination. Keep this framed as scenario thinking, not a profitability claim.
+
+## 2026-07-14 Discord Update
+
+Captured 67 new messages from 2026-07-14T04:03:36.823000+00:00 through 2026-07-14T04:42:35.663000+00:00.
+
+**Participation:** four regular miners carried the discussion, with most of the energy around v3 incentives, retention, and how motherlode stories affect miner morale.
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, lore and origin stories, commands / preserving knowledge.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Learning notes for the Almanac:**
+
+- Miners framed ORE v3 as a stronger fit for patient participants than for extremely short-cycle entrants. The beginner-safe translation is that runway and holding discipline matter before a miner can benefit from uORE and refinement.
+- The group connected growth with retention: a miner who tries one short session, sees a huge motherlode elsewhere, or runs out of SOL too quickly may leave before understanding what the system is testing.
+- Motherlode chasing remains useful as culture and morale, but it should be taught as variance-aware storytelling rather than a profitability promise.
+- The public notes were refined into command snippets for patient flow, retention, and motherlode morale instead of publishing chat excerpts or personal banter.

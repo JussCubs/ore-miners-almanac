@@ -1748,3 +1748,21 @@ The safer public language is to treat "lotto mining" as a style of play, not as 
 ```text
 !analytics - Start with public dashboards such as ore.fyi, Blockworks ORE analytics, ore-stats, hawg.win, and my-ore, then compare them against your own wallet records before making a mining decision.
 ```
+
+---
+
+## Update — 2026-07-14
+
+### Retention, morale, and motherlode stories
+
+The channel sharpened an onboarding point that belongs in community commands: growth is not just a new miner trying ORE once. Retention matters because a miner who enters under high-variance conditions, sees an outsized motherlode, or runs out of SOL too quickly may conclude the system is not for them before they understand the loop.
+
+The safer public story is to treat motherlode chasing as morale and narrative, not a guarantee. Changes that make participation feel less punishing may help miners stay long enough to learn, but the command language should still point them back to budget, runway, and production-cost discipline.
+
+```text
+!retention - A healthy mining community is not just new wallets trying one day. Teach new miners to size for runway, understand motherlode variance, and judge the loop over enough rounds to learn what they are actually testing.
+```
+
+```text
+!mlmorale - Motherlode stories can keep miners engaged, but they should not replace cost control. If chasing ML empties the runway, lower size first; morale only helps when the miner can stay in the game.
+```
