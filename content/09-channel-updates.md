@@ -3714,3 +3714,20 @@ Captured 1 new messages from 2026-07-13T17:33:25.703000+00:00 through 2026-07-13
 **Dialogue to organize into the Almanac:**
 
 - A miner reported partial claims landing during the day and expressed appreciation for the team, reinforcing the channel's steady morale around claims progress.
+
+## 2026-07-14 Discord Update
+
+Captured 24 new messages from 2026-07-13T21:22:27.855000+00:00 through 2026-07-14T04:02:52.537000+00:00.
+
+**Participation:** 5 miners contributed to the discussion, with most of the energy around minimum luck, production cost, and participation incentives.
+
+**Themes detected:** low-and-slow 25 tile mining, production cost / ore.fyi, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Learning notes for the Almanac:**
+
+- Miners revisited whether lower minimum-luck odds would make the protocol feel less punishing. The practical takeaway is that odds changes may reduce frustration, but long-term participation still depends on more miners entering and staying active.
+- The channel connected minimum luck to production-cost behavior: high minimum-luck streaks can push production cost up, and miners may take several rounds to react before conditions normalize.
+- A useful beginner explanation emerged: short-term production cost can lag live conditions because miner behavior changes gradually, not instantly.
+- The $1B valuation thought experiment was used as a way to separate protocol mechanics from market-price imagination. Keep this framed as scenario thinking, not a profitability claim.
