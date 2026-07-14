@@ -3748,3 +3748,15 @@ Captured 67 new messages from 2026-07-14T04:03:36.823000+00:00 through 2026-07-1
 - The group connected growth with retention: a miner who tries one short session, sees a huge motherlode elsewhere, or runs out of SOL too quickly may leave before understanding what the system is testing.
 - Motherlode chasing remains useful as culture and morale, but it should be taught as variance-aware storytelling rather than a profitability promise.
 - The public notes were refined into command snippets for patient flow, retention, and motherlode morale instead of publishing chat excerpts or personal banter.
+
+## 2026-07-14 Discord Update
+
+Captured 1 new messages from 2026-07-14T12:44:13.825000+00:00 through 2026-07-14T12:44:13.825000+00:00.
+
+**Most active voices:** Thep ⛏️ (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Learning notes for the Almanac:**
+
+- A brief inspiration prompt was shared for future Almanac material, but the message did not add a concrete strategy note, command snippet, or miner story that should be expanded yet.
