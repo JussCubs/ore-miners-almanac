@@ -3772,3 +3772,12 @@ Captured 2 new messages from 2026-07-14T16:48:46.179000+00:00 through 2026-07-14
 **Learning notes for the Almanac:**
 
 - A light gameplay suggestion came through, but it did not add a durable mining tactic, setup detail, or bot command worth expanding into a standalone guide yet.
+
+## 2026-07-15 Discord Update
+
+Captured 1 new messages from 2026-07-15T03:50:37.310000+00:00 through 2026-07-15T03:50:37.310000+00:00.
+
+**Most active voices:** strigops (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
