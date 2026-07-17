@@ -846,3 +846,17 @@ That does not make the mine painless. Newer miners can still deploy too aggressi
 ```text
 !patientflow - ORE v3 rewards are easiest to explain as value moving away from short-cycle impatience and toward miners with enough runway to hold uORE through variance. Size the miner so patience is possible before chasing the next round.
 ```
+
+---
+
+## Update — 2026-07-17
+
+### Partial claims and displayed refinement yield
+
+The latest uORE discussion added a useful reading note for yield dashboards: recent partial-claim behavior can make the displayed average rORE yield look lower than a miner expects from the current moment. That does not automatically mean the underlying patience thesis changed. It means the public number may be mixing claims from different ages, different strategies, and different reasons for taking value now.
+
+For beginners, the important habit is to ask what a metric is averaging before treating it as a live promise. A 7-day average, a spot estimate, and a miner's own claim timing can all tell related but different stories.
+
+```text
+!partialyield - When partial claims are active, read rORE yield metrics as blended history, not a guaranteed live rate. Check the averaging window, compare it with current claim behavior, and keep the uORE patience thesis separate from one dashboard snapshot.
+```

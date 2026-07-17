@@ -3886,3 +3886,17 @@ Captured 2 new messages from 2026-07-16T17:01:25.383000+00:00 through 2026-07-16
 **Almanac note:** the useful signal in this tiny window is the ongoing split between active mining participation and more passive identity signaling. Even a brief joke can reinforce a beginner-facing question: is someone learning by running a miner and observing results, or mostly following the culture from the sidelines?
 
 **Beginner-safe takeaway:** a hardhat, role, or miner identity is only the start. The real learning comes from understanding what your rig is doing, what the pool is reporting, and how your setup behaves over time.
+
+## 2026-07-17 Discord Update
+
+Captured 25 new messages from 2026-07-16T21:19:32.619000+00:00 through 2026-07-16T22:13:22.225000+00:00.
+
+**Most active voices:** a compact group of regular mining-channel participants.
+
+**Themes detected:** uORE / patience, production cost / ore.fyi, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** miners were comparing motherlode-chasing behavior, changing odds near the end of v3, and the way partial claims can affect visible rORE yield. The useful education point is that a dashboard average is not the same thing as a live guarantee: it may blend recent claims, older positions, and the behavior of miners with very different time horizons.
+
+**Beginner-safe takeaway:** before reacting to a yield number, identify the averaging window and ask which claims are feeding it. Motherlode excitement can drive short-term behavior, but patient uORE strategy still depends on runway, claim timing, and understanding what the metric actually measures.
