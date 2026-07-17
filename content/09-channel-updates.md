@@ -3900,3 +3900,17 @@ Captured 25 new messages from 2026-07-16T21:19:32.619000+00:00 through 2026-07-1
 **Almanac note:** miners were comparing motherlode-chasing behavior, changing odds near the end of v3, and the way partial claims can affect visible rORE yield. The useful education point is that a dashboard average is not the same thing as a live guarantee: it may blend recent claims, older positions, and the behavior of miners with very different time horizons.
 
 **Beginner-safe takeaway:** before reacting to a yield number, identify the averaging window and ask which claims are feeding it. Motherlode excitement can drive short-term behavior, but patient uORE strategy still depends on runway, claim timing, and understanding what the metric actually measures.
+
+## 2026-07-17 Discord Update
+
+Captured 13 new messages from 2026-07-17T03:10:09.675000+00:00 through 2026-07-17T03:48:52.403000+00:00.
+
+**Most active voices:** br0wnD3v (8), ΣXTΛSY | Rubypool.io (5).
+
+**Themes detected:** production cost / ore.fyi, commands / preserving knowledge.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the late-night thread circled around two practical miner realities: production-cost awareness and Discord-era scam hygiene. The cost side was framed with humor around how miners feel when ore.fyi-style production estimates move against expectations. The security side is beginner-relevant: low-effort bot-driven scam attempts can still be cheap to run, so miners should treat unusual links, giveaway claims, and unsolicited help as hostile until verified through known project channels.
+
+**Beginner-safe takeaway:** do not read production cost as a promise of profit, and do not let urgency override verification. Check miner economics over time, compare against your own electricity and hardware assumptions, and keep wallet safety habits boring: verify domains, ignore unsolicited DMs, and never paste secrets into a bot or support form.
