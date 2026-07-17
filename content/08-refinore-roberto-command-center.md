@@ -402,3 +402,20 @@ Roberto should answer this as an interface-state question:
 - If the current interface does not support switching modes during an active Lite deployment, say that plainly and avoid sending the miner through refresh loops.
 - Explain whether the miner must stop and recreate the autominer to change view mode, including any cost or run-state consequences.
 - Route repeated confusion as UX feedback: the launch screen should label whether Lite/Pro can be changed later.
+
+---
+
+## Update — 2026-07-17
+
+*Refined from the mining channel*
+
+### Autominer Feedback Should Separate Humor from Product Signal
+
+Miners used meme language to describe the feeling of tiny ORE results slipping past an autominer. The reusable Roberto lesson is not the joke itself; it is the emotional state behind it. When a miner is frustrated by low visible yield, Roberto should acknowledge variance without turning the reply into a promise that the next run will recover it.
+
+Useful response flow:
+
+- Recognize that small incremental results can feel personal when the miner has been watching the autominer closely.
+- Reframe the moment around variance, claim timing, tile selection, and runway instead of implying that the interface is "dodging" rewards.
+- If the miner is asking about a specific autominer setup, ask for public-safe configuration details before giving advice.
+- Keep the tone light, but make the takeaway practical: one funny low-yield moment is not enough evidence to change strategy.
