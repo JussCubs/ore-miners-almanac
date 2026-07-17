@@ -3914,3 +3914,17 @@ Captured 13 new messages from 2026-07-17T03:10:09.675000+00:00 through 2026-07-1
 **Almanac note:** the late-night thread circled around two practical miner realities: production-cost awareness and Discord-era scam hygiene. The cost side was framed with humor around how miners feel when ore.fyi-style production estimates move against expectations. The security side is beginner-relevant: low-effort bot-driven scam attempts can still be cheap to run, so miners should treat unusual links, giveaway claims, and unsolicited help as hostile until verified through known project channels.
 
 **Beginner-safe takeaway:** do not read production cost as a promise of profit, and do not let urgency override verification. Check miner economics over time, compare against your own electricity and hardware assumptions, and keep wallet safety habits boring: verify domains, ignore unsolicited DMs, and never paste secrets into a bot or support form.
+
+## 2026-07-17 Discord Update
+
+Captured 5 new messages from 2026-07-17T04:18:07.129000+00:00 through 2026-07-17T08:02:43.295000+00:00.
+
+**Activity shape:** a small handful of miners posted brief anticipation and follow-up chatter.
+
+**Themes detected:** release anticipation, channel rhythm, and signal-versus-noise discipline.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** this was a quiet stretch with light anticipation around upcoming ML-related activity and ordinary Discord churn. There was not enough durable technical detail to promote into the strategy library, but the rhythm is still useful context: miners often treat short "wen" bursts as a social signal that people are watching for the next catalyst rather than as actionable mining guidance.
+
+**Beginner-safe takeaway:** treat channel anticipation as atmosphere, not instruction. Wait for official release notes, bot outputs, or repeatable miner reports before changing hardware, wallet, or pool behavior.
