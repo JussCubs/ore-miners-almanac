@@ -3970,3 +3970,15 @@ Captured 6 new messages from 2026-07-19T08:21:00.108000+00:00 through 2026-07-19
 **Almanac note:** the durable lesson was a familiar variance reminder. A miner reported a rough stretch, another framed it as the natural rise and fall of mining, and the thread turned toward the gap between short-term frustration and longer-term accumulation logic.
 
 **Beginner-safe takeaway:** do not read a few bad days as proof that a setup is broken. Track costs, odds, time horizon, and claim behavior separately from mood. If buying ORE directly is part of the comparison, treat that as a separate treasury decision rather than a mining-performance signal.
+
+## 2026-07-19 Discord Update
+
+Captured 2 new messages from 2026-07-19T13:14:31.502000+00:00 through 2026-07-19T13:45:02.002000+00:00.
+
+**Most active voices:** two miners each added one short note.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the useful thread was about how quickly the live mining surface can move. One miner described the last day as jumpy but engaging, while another pointed back to ORE EV as the key lens for understanding current v3 mining decisions.
+
+**Beginner-safe takeaway:** when conditions feel noisy, use EV as the organizing concept instead of chasing every swing. Ask whether a command, fee choice, or claim timing changes expected value over repeated attempts, then separate that from the short-term feeling of a lucky or unlucky session.
