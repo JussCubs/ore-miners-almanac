@@ -3996,3 +3996,12 @@ Captured 8 new messages from 2026-07-19T19:54:13.486000+00:00 through 2026-07-19
 **Almanac note:** the useful thread was a simple production-cost heuristic. One miner framed minting as enjoyable when conditions feel favorable, but switches to buying spot when estimated production cost rises meaningfully above spot price. The repeated lesson is that mining and spot buying are not opposing identities; they are two ways to accumulate ORE, and miners can choose between them based on current economics.
 
 **Beginner-safe takeaway:** compare estimated production cost against spot price before treating every mining session as automatically worthwhile. If mining cost is above spot, buying spot may be cleaner; if mining cost falls below spot, the discount can be understood as the reward for doing the work.
+
+## 2026-07-20 Discord Update
+
+Captured 2 new messages from 2026-07-20T00:09:30.320000+00:00 through 2026-07-20T00:40:09.034000+00:00.
+
+**Most active voices:** Brian (1), strigops (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
