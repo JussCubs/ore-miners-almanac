@@ -4013,3 +4013,11 @@ Captured 1 new messages from 2026-07-20T16:02:25.460000+00:00 through 2026-07-20
 
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
+## 2026-07-21 Discord Update
+
+Captured 2 new messages from 2026-07-20T21:38:21.178000+00:00 through 2026-07-20T21:39:05.878000+00:00.
+
+**Most active voices:** Bakes (2).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
