@@ -4054,3 +4054,14 @@ Captured 3 new messages from 2026-07-21T20:54:27.822000+00:00 through 2026-07-21
 **Most active voices:** strigops (3).
 
 **Sentiment read:** this small batch was mostly light social banter and encouragement around preserving ORE education for newer miners. No new setup guidance, command pattern, or mining strategy was added.
+
+## 2026-07-22 Discord Update
+
+Captured 1 new messages from 2026-07-22T03:52:24.818000+00:00 through 2026-07-22T03:52:24.818000+00:00.
+
+**Most active voices:** strigops (1).
+
+**Themes detected:** lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
