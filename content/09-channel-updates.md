@@ -4073,3 +4073,10 @@ Captured 2 new messages from 2026-07-22T04:55:03.898000+00:00 through 2026-07-22
 
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
+## 2026-07-22 Discord Update
+
+Captured 3 new messages from 2026-07-22T11:05:20.821000+00:00 through 2026-07-22T11:58:01.094000+00:00.
+
+**Most active voices:** willd (1), kehaar (1), strigops (1).
+
+**Sentiment read:** this small batch was casual community conversation. No new mining setup, bot-command pattern, yield lesson, or onboarding guidance was added.
