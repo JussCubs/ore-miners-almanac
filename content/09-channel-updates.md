@@ -4065,3 +4065,11 @@ Captured 1 new messages from 2026-07-22T03:52:24.818000+00:00 through 2026-07-22
 
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
+## 2026-07-22 Discord Update
+
+Captured 2 new messages from 2026-07-22T04:55:03.898000+00:00 through 2026-07-22T06:13:47.134000+00:00.
+
+**Most active voices:** StevieWonders.eth (1), strigops (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
