@@ -1766,3 +1766,21 @@ The safer public story is to treat motherlode chasing as morale and narrative, n
 ```text
 !mlmorale - Motherlode stories can keep miners engaged, but they should not replace cost control. If chasing ML empties the runway, lower size first; morale only helps when the miner can stay in the game.
 ```
+
+---
+
+## Update — 2026-07-23
+
+### Small-wallet solo variance after odds changes
+
+The channel revisited a common small-miner concern: after an odds or participation shift, a miner can feel fewer solo wins even when they are still mining consistently, keeping tile size modest, and staying below cost basis. The education point is that a short run can be dominated by variance, especially when the broader field changes around the miner.
+
+Community analysis pointed to two separate ideas that beginners should not blend together. Motherlode averages can move around for many rounds before the sample is mature, while solo frequency depends on the miner's share of deployed capital relative to everyone else. If total deposits rise, the same small deployment can represent a smaller slice of the field even when the miner's own routine has not changed.
+
+```text
+!solovariance - Fewer solos over a few days does not prove the setup broke. Compare your tile size and spend against total network deposits, then judge over enough rounds for variance to smooth out.
+```
+
+```text
+!depositshare - Your solo odds are relative to the field. If everyone else deploys more SOL, a steady small miner may win less often because their share of deposits fell, not because consistency stopped mattering.
+```

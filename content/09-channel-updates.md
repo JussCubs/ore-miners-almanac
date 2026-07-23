@@ -4112,3 +4112,15 @@ Captured 1 new messages from 2026-07-23T10:37:16.312000+00:00 through 2026-07-23
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Almanac note:** a miner shared an updated post-odds-change Motherlode average around 192.04 ORE. Treat this as an informal channel observation that helps frame recent mining expectations, not a guarantee or profitability claim.
+
+## 2026-07-23 Discord Update
+
+Captured 9 new messages from 2026-07-23T17:14:48.407000+00:00 through 2026-07-23T17:35:18.634000+00:00.
+
+**Most active voices:** Madhatt3r (5), traumi (4).
+
+**Themes detected:** low-and-slow 25 tile mining, lore and origin stories.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** miners compared the feeling of fewer solo wins after the odds change with the broader deposit field. The reusable lesson is to separate short-term variance from relative deposit share: a steady 25/25 miner can still see fewer solos if overall deployments rise, and Motherlode averages need many more rounds before they become reliable context.
