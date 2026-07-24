@@ -4160,3 +4160,12 @@ Captured 3 new messages from 2026-07-24T12:39:48.294000+00:00 through 2026-07-24
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Almanac note:** the informal post-odds-change Motherlode average moved down again to about 163.97 ORE. Treat this as a community-observed variance marker rather than a profitability claim; the running average can keep drifting as more rounds land.
+
+## 2026-07-24 Discord Update
+
+Captured 1 new messages from 2026-07-24T17:35:54.373000+00:00 through 2026-07-24T17:35:54.373000+00:00.
+
+**Most active voices:** willd (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
