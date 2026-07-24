@@ -4124,3 +4124,15 @@ Captured 9 new messages from 2026-07-23T17:14:48.407000+00:00 through 2026-07-23
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Almanac note:** miners compared the feeling of fewer solo wins after the odds change with the broader deposit field. The reusable lesson is to separate short-term variance from relative deposit share: a steady 25/25 miner can still see fewer solos if overall deployments rise, and Motherlode averages need many more rounds before they become reliable context.
+
+## 2026-07-24 Discord Update
+
+Captured 1 new messages from 2026-07-24T07:00:41.793000+00:00 through 2026-07-24T07:00:41.793000+00:00.
+
+**Most active voices:** strigops (1).
+
+**Themes detected:** mining odds tracking and Motherlode observations.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the informal post-odds-change Motherlode average ticked down slightly to about 191.58 ORE. Keep treating this as channel-sourced context for variance and expectation setting rather than a profitability forecast.
