@@ -4180,3 +4180,12 @@ Captured 1 new messages from 2026-07-25T15:01:00.721000+00:00 through 2026-07-25
 **Dialogue to organize into the Almanac:**
 
 - **starship_fronk⛏️:** going to take some time as RNG still does RNG things
+
+## 2026-07-26 Discord Update
+
+Captured 1 new messages from 2026-07-26T13:42:55.500000+00:00 through 2026-07-26T13:42:55.500000+00:00.
+
+**Most active voices:** Keysplatz (1).
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
