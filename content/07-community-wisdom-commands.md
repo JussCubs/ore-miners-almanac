@@ -1784,3 +1784,21 @@ Community analysis pointed to two separate ideas that beginners should not blend
 ```text
 !depositshare - Your solo odds are relative to the field. If everyone else deploys more SOL, a steady small miner may win less often because their share of deposits fell, not because consistency stopped mattering.
 ```
+
+---
+
+## Update — 2026-07-27
+
+### Community Motherlode averages without a built-in scoreboard
+
+Miners asked again whether any Ore site keeps a live running Motherlode average. The useful answer is mostly no single canonical scoreboard: channel trackers still publish informal post-odds-change averages, and curious miners rebuild a fuller sample themselves from motherlode-hit history.
+
+One community method: open hawg.win, filter to motherlode hits only, export or copy the full hit list, extract the ML sizes, then average the sample in a spreadsheet. Recent channel figures put the informal post-odds-change average near 135.58 ORE and a reconstructed running average near 125.12 ORE. Keep both as expectation-setting context for variance, not as a promise of what the next hit pays.
+
+```text
+!mlavg - There may not be one official live Motherlode average on every site. If you rebuild one, use motherlode-hits-only history over many rounds, and treat the number as variance context rather than a profitability forecast.
+```
+
+```text
+!samplemath - One splashy Motherlode does not redefine the loop. Filter hits only, average the full sample, and update slowly so short-run luck does not rewrite your expectations.
+```

@@ -4189,3 +4189,14 @@ Captured 1 new messages from 2026-07-26T13:42:55.500000+00:00 through 2026-07-26
 
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
+## 2026-07-27 Discord Update
+
+Captured 4 new messages from 2026-07-27T06:41:55.936000+00:00 through 2026-07-27T07:25:16.392000+00:00.
+
+**Most active voices:** strigops (3), Diggy ⛏️ | Independent Miner (1).
+
+**Themes detected:** Motherlode average tracking, community measurement methods, expectation setting.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** the informal post-odds-change Motherlode average was reported around 135.58 ORE, with a separate community-computed running average near 125.12 ORE from hawg.win motherlode-only history. There still is no single canonical live average on every Ore site, so treat these as community-sourced variance markers rather than profitability forecasts. The practical lesson is how miners are reconstructing averages themselves: filter motherlode hits only, pull the full sample, and average carefully instead of reacting to one splashy round.
