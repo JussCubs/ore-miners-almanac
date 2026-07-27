@@ -1802,3 +1802,16 @@ One community method: open hawg.win, filter to motherlode hits only, export or c
 ```text
 !samplemath - One splashy Motherlode does not redefine the loop. Filter hits only, average the full sample, and update slowly so short-run luck does not rewrite your expectations.
 ```
+
+### Incomplete samples and size-to-ML discipline
+
+The same day also clarified two related brakes. First, reconstructed Motherlode averages can still miss older hits or ingestion gaps, so a short sample should be labeled incomplete. Second, cheap production cost on a v4 board is not permission to overdeploy into a modest motherlode. Compare deploy size with current ML size, ORE/SOL context, tile crowding, and runway before sizing up.
+
+```text
+!mlsamplegap - Reconstructed Motherlode averages can miss older hits or ingestion gaps. If the sample looks short, mark it incomplete, compare more than one public source, and do not treat a partial history as a finished odds model.
+```
+
+```text
+!sizetoml - Cheap production cost is not permission to overdeploy. Compare deploy size to current ML size, ORE/SOL price, tile crowding, and runway. If the pot is modest, keep the deploy modest unless the session is labeled high-variance entertainment.
+```
+

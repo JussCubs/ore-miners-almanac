@@ -4212,3 +4212,25 @@ Captured 1 new messages from 2026-07-27T09:05:10.538000+00:00 through 2026-07-27
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Almanac note:** willd pointed miners to diamondpools.app motherlode stats (`https://www.diamondpools.app/stats?section=motherlode`) as another public place to inspect Motherlode data. Pair it with hawg.win motherlode-hit history and any informal channel averages when studying variance. Still treat every dashboard figure as context for expectation setting, not a profitability forecast or a countdown to the next hit.
+
+## 2026-07-27 Discord Update
+
+Captured 5 new messages from 2026-07-27T12:45:08.622000+00:00 through 2026-07-27T15:03:50.281000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (2), br0wnD3v (1), strigops (1), willd (1).
+
+**Themes detected:** Motherlode history gaps, oversized deployments vs ML size, cheap production-cost windows, expectation setting.
+
+**Sentiment read:** constructive caution. Miners were debugging incomplete Motherlode history, then immediately pairing that with a sizing warning: heavy deploys look reckless when measured against current ML size, ORE/SOL price, and cheap production-cost conditions.
+
+**Almanac note:** two lessons belong together. First, public Motherlode samples can still be incomplete. Channel discussion pointed at missing hits and older gaps between genesis-era data and later ingestions, so treat any reconstructed average as a working sample rather than a finished scoreboard. Second, cheap production cost is not a green light to overdeploy into the current ML. willd framed the board as a v4 motherlode with probably cheap production costs; strigops answered with the beginner-safe brake: calm down and size deploys relative to ML size plus live ORE/SOL context. Pair ore.fyi cost checks with ML size, tile crowding, and bankroll runway before increasing size.
+
+**Beginner-safe takeaway:** incomplete history means slow conclusion-drawing, and cheap production cost still needs a size cap. If the current motherlode is modest, keep deploys modest too unless the session is explicitly labeled as high-variance entertainment capital.
+
+```text
+!mlsamplegap - Reconstructed Motherlode averages can miss older hits or ingestion gaps. If the sample looks short, mark it incomplete, compare more than one public source, and do not treat a partial history as a finished odds model.
+```
+
+```text
+!sizetoml - Cheap production cost is not permission to overdeploy. Compare deploy size to current ML size, ORE/SOL price, tile crowding, and runway. If the pot is modest, keep the deploy modest unless the session is labeled high-variance entertainment.
+```

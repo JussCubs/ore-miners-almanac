@@ -1049,3 +1049,40 @@ Beginner-safe framing:
 ```text
 !tinydeploy - Tiny deploys can teach the mine without forcing big decisions. Expect mostly split rounds, keep the run long enough for variance to breathe, and only scale when production cost, fees, and stop rules are written down.
 ```
+
+---
+
+## Update — 2026-07-27
+
+### Community Motherlode averages without a built-in scoreboard
+
+Miners asked again whether any Ore site keeps a live running Motherlode average. The useful answer is mostly no single canonical scoreboard: channel trackers still publish informal post-odds-change averages, and curious miners rebuild a fuller sample themselves from motherlode-hit history.
+
+One community method: open hawg.win, filter to motherlode hits only, export or copy the full hit list, extract the ML sizes, then average the sample in a spreadsheet. Another public view shared in-channel is diamondpools motherlode stats at `https://www.diamondpools.app/stats?section=motherlode`. Compare more than one source when the numbers disagree. Recent channel figures put the informal post-odds-change average near 135.58 ORE and a reconstructed running average near 125.12 ORE. Keep both as expectation-setting context for variance, not as a promise of what the next hit pays.
+
+```text
+!mlavg - There may not be one official live Motherlode average on every site. Cross-check public views such as hawg.win motherlode-hit history and diamondpools motherlode stats. If you rebuild an average yourself, use motherlode-hits-only history over many rounds, and treat the number as variance context rather than a profitability forecast.
+```
+
+```text
+!samplemath - One splashy Motherlode does not redefine the loop. Filter hits only, average the full sample, and update slowly so short-run luck does not rewrite your expectations.
+```
+
+### Size to the motherlode, not only to cheap production cost
+
+Later the same day, the channel paired incomplete Motherlode history with a sizing warning. Public samples can still miss older hits or ingestion gaps, so reconstructed averages remain working estimates. At the same time, a v4 board with probably cheap production costs is not automatic permission to throw heavy SOL at a modest motherlode.
+
+Beginner-safe framing:
+
+- mark incomplete history as incomplete instead of forcing a finished odds model;
+- compare deploy size to current ML size, live ORE/SOL context, tile crowding, and runway;
+- treat cheap production cost as one green check, not the whole go decision;
+- if the pot is modest, keep the deploy modest unless the session is explicitly labeled high-variance entertainment capital.
+
+```text
+!mlsamplegap - Reconstructed Motherlode averages can miss older hits or ingestion gaps. If the sample looks short, mark it incomplete, compare more than one public source, and do not treat a partial history as a finished odds model.
+```
+
+```text
+!sizetoml - Cheap production cost is not permission to overdeploy. Compare deploy size to current ML size, ORE/SOL price, tile crowding, and runway. If the pot is modest, keep the deploy modest unless the session is labeled high-variance entertainment.
+```
