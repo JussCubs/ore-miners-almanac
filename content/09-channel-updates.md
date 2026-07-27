@@ -4200,3 +4200,15 @@ Captured 4 new messages from 2026-07-27T06:41:55.936000+00:00 through 2026-07-27
 **Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
 
 **Almanac note:** the informal post-odds-change Motherlode average was reported around 135.58 ORE, with a separate community-computed running average near 125.12 ORE from hawg.win motherlode-only history. There still is no single canonical live average on every Ore site, so treat these as community-sourced variance markers rather than profitability forecasts. The practical lesson is how miners are reconstructing averages themselves: filter motherlode hits only, pull the full sample, and average carefully instead of reacting to one splashy round.
+
+## 2026-07-27 Discord Update
+
+Captured 1 new messages from 2026-07-27T09:05:10.538000+00:00 through 2026-07-27T09:05:10.538000+00:00.
+
+**Most active voices:** willd (1).
+
+**Themes detected:** Motherlode stats sources, public dashboards, expectation setting.
+
+**Sentiment read:** the channel continues to build the education and storytelling hub: miners are preserving lore, sharpening strategy language, and turning repeated advice into reusable onboarding material.
+
+**Almanac note:** willd pointed miners to diamondpools.app motherlode stats (`https://www.diamondpools.app/stats?section=motherlode`) as another public place to inspect Motherlode data. Pair it with hawg.win motherlode-hit history and any informal channel averages when studying variance. Still treat every dashboard figure as context for expectation setting, not a profitability forecast or a countdown to the next hit.
