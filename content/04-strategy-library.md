@@ -1108,3 +1108,25 @@ Beginner-safe framing: tile count is part of the strategy. If Lite stops coverin
 ```text
 !lite25 - Lite is meant to run the full 25-tile loop. If your autominer suddenly drops to a handful of tiles, check for accidental manual selection, confirm round history on the personal explore tab, and open a ticket if it keeps reverting. Do not assume the core autominer switched into an EV strat.
 ```
+
+---
+
+## Update — 2026-07-28
+
+### RNG, near misses, and the 25-tile frame
+
+The channel revisited a recurring beginner confusion: a near miss can feel like the protocol is targeting a miner, especially when the interface makes the outcome feel dramatic. The better frame is simpler and calmer. Core mining still relies on RNG, and future versions may leave slightly more room for strategy, but the product goal is not casino-style play.
+
+Running all 25 tiles is best understood as coverage plus discipline, not lucky-square picking. The miner still needs to size deploys, understand production cost, and set runway limits before scaling.
+
+Beginner-safe framing:
+
+- the protocol is not personally targeting a miner after a near miss;
+- full-board coverage reduces tile-choice anxiety but does not remove variance;
+- v4 strategy should be taught as mining-mechanism design, not as gambling language;
+- informational UI is healthier than animations that make losses feel theatrical;
+- write deploy size, runway, and stop rules before increasing exposure.
+
+```text
+!rngframe - Near misses are variance, not the protocol targeting you. If you mine all 25 tiles, treat it as coverage plus bankroll discipline, not lucky-square picking. Write deploy size, runway, production cost, and stop rules before scaling.
+```

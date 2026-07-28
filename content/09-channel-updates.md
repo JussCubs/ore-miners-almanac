@@ -4270,3 +4270,21 @@ Captured 3 new messages from 2026-07-28T12:06:09.093000+00:00 through 2026-07-28
 ```text
 !privateticket - For account-specific mining bugs, describe the symptom publicly if useful, then move wallet addresses, logs, and detailed review into a private support ticket. Do not post private identifiers in the mining channel.
 ```
+
+## 2026-07-28 Discord Update
+
+Captured 15 new messages from 2026-07-28T16:49:32.839000+00:00 through 2026-07-28T18:12:14.676000+00:00.
+
+**Conversation shape:** a compact product-and-strategy thread about mining animation, near-miss psychology, RNG framing, and v4's non-casino direction.
+
+**Themes detected:** informational mining UI, RNG expectations, full-board coverage, strategy without gambling framing.
+
+**Sentiment read:** constructive. Miners were not asking for more spectacle; the durable lesson was that mining interfaces should help people understand state and variance without making near misses feel personal.
+
+**Almanac note:** a short animation discussion turned into useful strategy language. Near misses can make miners feel singled out, so the UI should lean informational over theatrical. The public education frame should also separate ORE mining from casino language: RNG remains part of the mechanism, all-25 coverage is a coverage choice rather than lucky-square picking, and v4's added strategy room should be taught as mining design rather than a promise of controlled outcomes.
+
+**Beginner-safe takeaway:** do not turn a dramatic near miss into a theory that the protocol is watching you. Treat outcomes as variance, use full-board coverage when that is the intended mode, and make deploy decisions from production cost, bankroll, runway, and stop rules.
+
+```text
+!rngframe - Near misses are variance, not the protocol targeting you. If you mine all 25 tiles, treat it as coverage plus bankroll discipline, not lucky-square picking. Write deploy size, runway, production cost, and stop rules before scaling.
+```
