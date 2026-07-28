@@ -4252,3 +4252,21 @@ Captured 41 new messages from 2026-07-28T10:27:50.978000+00:00 through 2026-07-2
 ```text
 !lite25 - Lite is meant to run the full 25-tile loop. If your autominer suddenly drops to a handful of tiles, check for accidental manual selection, confirm round history on the personal explore tab, and open a ticket if it keeps reverting. Do not assume the core autominer switched into an EV strat.
 ```
+
+## 2026-07-28 Discord Update
+
+Captured 3 new messages from 2026-07-28T12:06:09.093000+00:00 through 2026-07-28T15:06:01.578000+00:00.
+
+**Most active voices:** starship_fronk⛏️ (1), Hardhat Chad (1), Felipe (1).
+
+**Themes detected:** Lite autominer follow-up, private support escalation, mining UI feedback.
+
+**Sentiment read:** constructive bug triage with a small product-design thread. The channel separated account-specific investigation from public strategy talk, then folded in miner feedback about animation clarity.
+
+**Almanac note:** a reported mining-behavior issue was treated as unintended, likely connected to recent split/solo assignment preparation, and routed into the private support flow for wallet-specific review. The reusable public lesson is privacy-aware escalation: describe the symptom and expected behavior in broad terms, but move wallet addresses, logs, and account review into a support ticket. A separate UI comment asked for clearer or more satisfying block-fade feedback, which is a useful reminder that mining interfaces need legible state changes as much as raw automation.
+
+**Beginner-safe takeaway:** if your autominer does something that looks inconsistent with the expected mode, do not turn the glitch into a strategy thesis. Capture the symptom, keep private identifiers out of public chat, and use the ticket path when account-specific review is needed.
+
+```text
+!privateticket - For account-specific mining bugs, describe the symptom publicly if useful, then move wallet addresses, logs, and detailed review into a private support ticket. Do not post private identifiers in the mining channel.
+```

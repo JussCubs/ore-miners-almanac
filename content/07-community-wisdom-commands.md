@@ -1815,3 +1815,14 @@ The same day also clarified two related brakes. First, reconstructed Motherlode 
 !sizetoml - Cheap production cost is not permission to overdeploy. Compare deploy size to current ML size, ORE/SOL price, tile crowding, and runway. If the pot is modest, keep the deploy modest unless the session is labeled high-variance entertainment.
 ```
 
+---
+
+## Update — 2026-07-28
+
+### Private support tickets for account-specific mining issues
+
+The channel reinforced a privacy rule that belongs in public onboarding: if a mining behavior looks unintended and support needs wallet-specific context, move the details into the private ticket flow. Public chat can describe the symptom, expected behavior, recent UI or autominer changes, and whether the issue repeats across rounds. Wallet addresses, debug details, and account-specific review belong in support.
+
+```text
+!privateticket - For account-specific mining bugs, describe the symptom publicly if useful, then move wallet addresses, logs, and detailed review into a private support ticket. Do not post private identifiers in the mining channel.
+```
