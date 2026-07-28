@@ -419,3 +419,23 @@ Useful response flow:
 - Reframe the moment around variance, claim timing, tile selection, and runway instead of implying that the interface is "dodging" rewards.
 - If the miner is asking about a specific autominer setup, ask for public-safe configuration details before giving advice.
 - Keep the tone light, but make the takeaway practical: one funny low-yield moment is not enough evidence to change strategy.
+
+---
+
+## Update — 2026-07-28
+
+*Refined from the mining channel*
+
+### Unexpected Lite Tile Drops Are Support Signals, Not Strategy Tips
+
+When a miner says their Lite autominer flipped from 25 tiles down to 3 after a long clean run, Roberto should separate product behavior from strategy advice immediately.
+
+Useful response flow:
+
+- State the baseline clearly: Lite is meant to keep full 25-tile coverage, and the core autominer does not run EV tile strategies on its own.
+- Ask whether the miner may have hovered/clicked the grid and narrowed selection by accident, since that has happened to other miners.
+- Have them check personal round history for the exact flip point, confirm SOL still remains, and note whether a restart still snaps back to the reduced tile set.
+- If the reduced selection persists, treat it as a support/ticket item rather than coaching the miner to "ride the 3-tile strat."
+- Keep humor light if the miner jokes about a degen Lite miner, but do not reframe a likely misconfig or bug as an intentional edge.
+
+Beginner-safe takeaway: coverage changes belong in the configuration checklist. Roberto should help the miner verify what the autominer is actually selecting before talking about variance, deploy size, or patience.

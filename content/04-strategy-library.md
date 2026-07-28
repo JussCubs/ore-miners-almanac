@@ -1086,3 +1086,25 @@ Beginner-safe framing:
 ```text
 !sizetoml - Cheap production cost is not permission to overdeploy. Compare deploy size to current ML size, ORE/SOL price, tile crowding, and runway. If the pot is modest, keep the deploy modest unless the session is labeled high-variance entertainment.
 ```
+
+---
+
+## Update — 2026-07-28
+
+### Lite miner should stay on the full 25-tile loop
+
+A miner reported that after more than eight hours on all 25 tiles, a Lite autominer quietly dropped to a 3-tile pattern and stayed there. Personal explore history showed the flip between consecutive rounds, with SOL still left in the miner, so it was not a simple end-of-run collapse.
+
+Channel consensus treated that as abnormal rather than a smart EV mode:
+
+- Lite is meant to keep the full 25-tile coverage;
+- the core autominer is not an EV tile-picker;
+- a sudden 25 → 3 tile change should be checked, not celebrated as a hidden strategy upgrade;
+- accidental hover/manual tile selection can happen, so re-open the grid and confirm the live selection before assuming a bug;
+- if the miner keeps snapping back to 3 tiles after a restart, pause and open a ticket instead of grinding on the wrong coverage.
+
+Beginner-safe framing: tile count is part of the strategy. If Lite stops covering the whole board, you are no longer running the setup you thought you launched.
+
+```text
+!lite25 - Lite is meant to run the full 25-tile loop. If your autominer suddenly drops to a handful of tiles, check for accidental manual selection, confirm round history on the personal explore tab, and open a ticket if it keeps reverting. Do not assume the core autominer switched into an EV strat.
+```

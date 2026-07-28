@@ -4234,3 +4234,21 @@ Captured 5 new messages from 2026-07-27T12:45:08.622000+00:00 through 2026-07-27
 ```text
 !sizetoml - Cheap production cost is not permission to overdeploy. Compare deploy size to current ML size, ORE/SOL price, tile crowding, and runway. If the pot is modest, keep the deploy modest unless the session is labeled high-variance entertainment.
 ```
+
+## 2026-07-28 Discord Update
+
+Captured 41 new messages from 2026-07-28T10:27:50.978000+00:00 through 2026-07-28T11:35:00.837000+00:00.
+
+**Most active voices:** strigops (15), RNA(•‿•) (12), GibWin (11), StevieWonders.eth (3).
+
+**Themes detected:** Lite autominer tile coverage, accidental grid selection, support escalation, variance patience during drawdowns.
+
+**Sentiment read:** practical troubleshooting with light humor. Miners quickly separated a likely Lite coverage glitch from intentional strategy, while an earlier stretch of the thread stayed in familiar variance-coping territory.
+
+**Almanac note:** the durable lesson is about Lite behavior. After a long 25-tile run, one miner watched coverage collapse to 3 tiles and stay there across later rounds even with SOL remaining. Channel guidance was consistent: Lite is supposed to keep the full 25-tile loop, the core autominer does not silently switch into EV tile picks, accidental hover/manual selection is worth ruling out, and a persistent snap-back to 3 tiles belongs in a ticket rather than a new strategy thesis. A secondary reminder from the same window: raising deploy size during a cold stretch does not force relief; solos and motherlodes still arrive on their own clock, so runway and process matter more than tilt sizing.
+
+**Beginner-safe takeaway:** verify the tiles your autominer is actually playing. If Lite stops covering all 25, treat that as a configuration or support issue before you rewrite your strategy around the reduced board.
+
+```text
+!lite25 - Lite is meant to run the full 25-tile loop. If your autominer suddenly drops to a handful of tiles, check for accidental manual selection, confirm round history on the personal explore tab, and open a ticket if it keeps reverting. Do not assume the core autominer switched into an EV strat.
+```
