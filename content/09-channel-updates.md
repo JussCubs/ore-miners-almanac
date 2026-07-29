@@ -4318,3 +4318,17 @@ Captured 4 new messages from 2026-07-29T13:12:26.358000+00:00 through 2026-07-29
 ```text
 !mlaverage - Track Motherlode averages as snapshots. Note the ruleset, sample size, and date range before using the number in a mining plan, and never treat a recent average as a guarantee for the next outcome.
 ```
+
+## 2026-07-29 Discord Update
+
+Captured 7 new messages from 2026-07-29T16:19:20.678000+00:00 through 2026-07-29T16:34:28.197000+00:00.
+
+**Most active voices:** strigops (4), RNA(•‿•) (2), Keysplatz (1).
+
+**Themes detected:** Motherlode average tracking, post-odds-change expectations, miner sentiment around jackpot size.
+
+**Sentiment read:** watchful and a little amused. Miners were still following the post-odds-change Motherlode average closely, while the complaint pattern showed how quickly expectations move: a jackpot can feel too large during one phase and too small once the average starts settling lower.
+
+**Almanac note:** the tracked average Motherlode size moved again, with the channel citing roughly **114.93 ORE** for the post-odds-change window. This continues the same lesson from the earlier update: a live average is a moving measurement, not a forecast. The education hub should teach miners to record the ruleset, sample window, and timestamp beside the number, then separate data from mood. Complaints about "big" or "small" Motherlodes can both be true as sentiment, but neither changes the math of the next outcome.
+
+**Beginner-safe takeaway:** do not resize because the latest average feels high or low. Treat Motherlode averages as historical context, keep deployment size tied to bankroll and production-cost rules, and expect miner sentiment to swing faster than the distribution becomes meaningful.
