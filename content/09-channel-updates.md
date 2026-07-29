@@ -4288,3 +4288,15 @@ Captured 15 new messages from 2026-07-28T16:49:32.839000+00:00 through 2026-07-2
 ```text
 !rngframe - Near misses are variance, not the protocol targeting you. If you mine all 25 tiles, treat it as coverage plus bankroll discipline, not lucky-square picking. Write deploy size, runway, production cost, and stop rules before scaling.
 ```
+
+## 2026-07-29 Discord Update
+
+Captured 1 new message from 2026-07-28T23:03:07.142000+00:00 through 2026-07-28T23:03:07.142000+00:00.
+
+**Most active voices:** GibWin (1).
+
+**Conversation shape:** quick maintenance confirmation after a support-side fix.
+
+**Almanac note:** small fix confirmations are still part of the mining operating culture. The reusable lesson is to close the loop briefly: when a reported issue is handled, acknowledge the fix, keep account-specific details out of public chat, and let the public channel return to strategy and learning instead of replaying private diagnostics.
+
+**Beginner-safe takeaway:** when support resolves a mining issue, confirm the outcome without posting wallet details, logs, or private troubleshooting context.
