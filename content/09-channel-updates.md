@@ -4300,3 +4300,21 @@ Captured 1 new message from 2026-07-28T23:03:07.142000+00:00 through 2026-07-28T
 **Almanac note:** small fix confirmations are still part of the mining operating culture. The reusable lesson is to close the loop briefly: when a reported issue is handled, acknowledge the fix, keep account-specific details out of public chat, and let the public channel return to strategy and learning instead of replaying private diagnostics.
 
 **Beginner-safe takeaway:** when support resolves a mining issue, confirm the outcome without posting wallet details, logs, or private troubleshooting context.
+
+## 2026-07-29 Discord Update
+
+Captured 4 new messages from 2026-07-29T13:12:26.358000+00:00 through 2026-07-29T15:25:22.277000+00:00.
+
+**Most active voices:** strigops (3), Madhatt3r (1).
+
+**Themes detected:** Motherlode average tracking, post-odds-change expectations, milestone watching.
+
+**Sentiment read:** light, data-aware chatter. The thread treated the current average Motherlode size as a moving benchmark rather than a guarantee, with miners watching how the post-odds-change average drifts as more outcomes land.
+
+**Almanac note:** the useful signal is the habit of tracking averages over time. A short exchange recorded the average Motherlode size moving from about 122.94 ORE to 119.04 ORE during the observed window, with the channel framing the change as part of the live distribution settling in after an odds update. This belongs in the Almanac as a reminder that headline averages are snapshots: they can move quickly when the sample is still developing, and they should be read beside the number of observed outcomes, the current ruleset, and each miner's bankroll plan.
+
+**Beginner-safe takeaway:** use Motherlode average posts as context, not a promise. A falling or rising average over a few updates does not mean the next block owes a correction; it means the tracked sample is still changing.
+
+```text
+!mlaverage - Track Motherlode averages as snapshots. Note the ruleset, sample size, and date range before using the number in a mining plan, and never treat a recent average as a guarantee for the next outcome.
+```
