@@ -4332,3 +4332,17 @@ Captured 7 new messages from 2026-07-29T16:19:20.678000+00:00 through 2026-07-29
 **Almanac note:** the tracked average Motherlode size moved again, with the channel citing roughly **114.93 ORE** for the post-odds-change window. This continues the same lesson from the earlier update: a live average is a moving measurement, not a forecast. The education hub should teach miners to record the ruleset, sample window, and timestamp beside the number, then separate data from mood. Complaints about "big" or "small" Motherlodes can both be true as sentiment, but neither changes the math of the next outcome.
 
 **Beginner-safe takeaway:** do not resize because the latest average feels high or low. Treat Motherlode averages as historical context, keep deployment size tied to bankroll and production-cost rules, and expect miner sentiment to swing faster than the distribution becomes meaningful.
+
+## 2026-07-30 Discord Update
+
+Captured 3 new messages from 2026-07-29T20:54:50.124000+00:00 through 2026-07-29T20:55:28.622000+00:00.
+
+**Most active voices:** willd (3).
+
+**Themes detected:** EV gaps, v4 strategy adaptation, automation assumptions.
+
+**Sentiment read:** compact but useful strategy chatter. The channel treated the current v4 surface as something that still needs live observation, not something solved once by an old bot or copied preset.
+
+**Almanac note:** one miner's read was that some automated play still looked stale against current EV gaps, with balanced v4-style setups mixing split and solo exposure. Preserve this as an observation, not a guaranteed edge: if a strategy is built around current EV, it has to be refreshed when protocol rules, competition, production cost, or tile behavior move. "The bots have not adapted yet" is only useful if a miner can verify the gap with live data and size small enough to survive being wrong.
+
+**Beginner-safe takeaway:** do not copy a balanced/split/solo recipe just because it sounds current. Ask what EV gap it is trying to capture, what assumptions make it positive, how often those assumptions are checked, and where the stop rule lives.
