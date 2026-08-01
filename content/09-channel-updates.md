@@ -4346,3 +4346,11 @@ Captured 3 new messages from 2026-07-29T20:54:50.124000+00:00 through 2026-07-29
 **Almanac note:** one miner's read was that some automated play still looked stale against current EV gaps, with balanced v4-style setups mixing split and solo exposure. Preserve this as an observation, not a guaranteed edge: if a strategy is built around current EV, it has to be refreshed when protocol rules, competition, production cost, or tile behavior move. "The bots have not adapted yet" is only useful if a miner can verify the gap with live data and size small enough to survive being wrong.
 
 **Beginner-safe takeaway:** do not copy a balanced/split/solo recipe just because it sounds current. Ask what EV gap it is trying to capture, what assumptions make it positive, how often those assumptions are checked, and where the stop rule lives.
+
+## 2026-08-01 Discord Update
+
+Captured 2 new messages from 2026-07-31T20:35:28.230000+00:00 through 2026-07-31T20:35:41.597000+00:00.
+
+**Almanac note:** reviewed a tiny low-signal exchange with no reusable mining strategy, onboarding advice, bot-command syntax, or miner story to promote. Keep the current teaching context from the July strategy notes rather than turning every chat beat into doctrine.
+
+**Beginner-safe takeaway:** not every channel moment needs a public lesson. Wait for evidence-rich discussions before changing settings, sizing deploys, or treating room tone as an edge.
