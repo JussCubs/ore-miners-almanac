@@ -1826,3 +1826,28 @@ The channel reinforced a privacy rule that belongs in public onboarding: if a mi
 ```text
 !privateticket - For account-specific mining bugs, describe the symptom publicly if useful, then move wallet addresses, logs, and detailed review into a private support ticket. Do not post private identifiers in the mining channel.
 ```
+
+---
+
+## Update — 2026-08-02
+
+### Security News and Mining Mindset
+
+The channel had two public-safe teaching threads worth preserving. First, hardware-wallet security scares are a useful reminder that "secure" does not mean "ignore forever." Miners should keep firmware, vendor advisories, seed storage, and signing habits in the checklist without turning every headline into panic.
+
+Second, miners kept sharpening the parimutuel mindset problem. If a newcomer learns ORE as "free SOL" or "cheap ORE" first, they can miss the healthier frame: someone is still paying for the mining pressure, and a short-cycle gambler can make a motherlode chase feel worse for everyone else. When those users lose, they may leave angry because they were never onboarded into variance, runway, and uORE patience.
+
+Beginner-safe framing:
+
+- Do not market parimutuel outcomes as free or dirt-cheap ORE; it sets the wrong expectation.
+- During high-energy motherlode chases, extra SOL in the mines can also attract short-cycle behavior.
+- Martingale-style behavior can leave after a hit instead of feeding value back into the mining loop.
+- Teach new miners to measure ORE accumulation, cost, runway, and claim timing before they chase SOL outcomes.
+
+```text
+!hardwaresecurity - Treat hardware-wallet security as an ongoing checklist: follow vendor advisories, verify firmware habits, protect seed backups, and do not let one scary headline push you into rushed signing or wallet moves.
+```
+
+```text
+!pmmindset - Parimutuel mining can distort expectations if newcomers hear "free SOL" before they learn ORE, variance, and runway. Teach the mine as ORE accumulation first, size for losses, and treat SOL swings as risk context rather than the main product.
+```

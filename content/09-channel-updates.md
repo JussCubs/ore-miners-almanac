@@ -4362,3 +4362,15 @@ Captured 2 new messages from 2026-08-02T09:02:04.516000+00:00 through 2026-08-02
 **Almanac note:** reviewed a short split-only strategy check-in. The reusable takeaway belongs in the strategy library as a reminder to treat long-running split-only miners as monitored experiments rather than instant proof of edge.
 
 **Beginner-safe takeaway:** dashboards can help you watch a miner over time, but strategy claims still need context: bankroll, runtime, pool rules, variance, and a clear stop rule.
+
+## 2026-08-02 Discord Update
+
+Captured 99 new messages from 2026-08-02T13:21:49.996000+00:00 through 2026-08-02T15:05:56.719000+00:00.
+
+**Themes detected:** uORE / patience, low-and-slow 25 tile mining, production cost / ore.fyi, lore and origin stories, refinORE / Roberto.
+
+**Sentiment read:** active and educational. The thread moved from strategy banter into reusable teaching: why parimutuel outcomes can distort newcomer expectations, how to compare uORE patience against active yield hunting, and why sub-25-tile experiments need long samples before they become strategy claims.
+
+**Almanac note:** preserve three lessons from this batch. First, uORE yield should be taught as a patient-position concept, with live APR checked on ore.fyi and not treated as a promise. Second, parimutuel mining can pull attention away from ORE accumulation if the community frames the experience as free SOL instead of cost, variance, and runway. Third, reduced-tile and full-board miners can both face painful swings, so tile-count experiments need small deploys, explicit sample windows, and stop rules.
+
+**Beginner-safe takeaway:** do not copy the loudest strategy from chat. Check live dashboards, write down what the miner is testing, size small enough to survive variance, and separate passive uORE yield from active trading or LP risk.

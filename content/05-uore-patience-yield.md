@@ -860,3 +860,25 @@ For beginners, the important habit is to ask what a metric is averaging before t
 ```text
 !partialyield - When partial claims are active, read rORE yield metrics as blended history, not a guaranteed live rate. Check the averaging window, compare it with current claim behavior, and keep the uORE patience thesis separate from one dashboard snapshot.
 ```
+
+---
+
+## Update — 2026-08-02
+
+### Passive uORE Yield Versus Active Risk
+
+The channel compared uORE patience with higher-touch yield hunting: LP management, regular trading, perps, and short-cycle mining. The useful public lesson is the difference between passive yield exposure and active skill/risk exposure. A miner may be able to earn more elsewhere, but that usually requires more attention, tighter timing, and more ways to be wrong.
+
+The snapshot discussed in-channel put uORE's 7-day average APR around the mid-40s, with ore.fyi cited as the place to check the live number. Treat that as a dashboard reading, not a guaranteed future rate. The stronger teaching point is that uORE patience only matters if the miner actually holds long enough to realize it. A rinse-and-repeat miner should not over-index on a yield number they never plan to sit through.
+
+Beginner-safe framing:
+
+- Compare passive and active yield by work, risk, liquidity, and attention required, not only by the biggest quoted APR.
+- LPs and perps can outperform in the right hands, but they can also leave the miner with the wrong asset or a wiped position.
+- uORE yield should be checked against the current ore.fyi window before being used in a plan.
+- If the strategy is fast rinsing, the miner is mostly managing production cost and claim timing, not long-horizon uORE yield.
+- Do not let a quoted APR justify an oversized deploy.
+
+```text
+!uorevsactive - A higher possible return is not the same as safer yield. Check the current uORE APR window on ore.fyi, compare it with the work and risk of LPs, trading, or perps, and only count uORE yield if your plan actually holds long enough to realize it.
+```

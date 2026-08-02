@@ -1144,3 +1144,22 @@ Beginner-safe framing:
 - Split-only can be tracked as a disciplined experiment, but a single run is still exposed to variance.
 - Use public pool dashboards for observation, not as a promise of profitability.
 - Before copying a strategy, write down the deploy size, expected runtime, stop rule, and what would count as evidence that the strategy is working.
+
+---
+
+## Update — 2026-08-02
+
+### Sub-25 Tile Tests Need a Wider Variance Frame
+
+The channel revisited sub-25-tile mining after miners compared small deploy histories, split/solo swings, and the emotional weight of getting hit while running fewer tiles. The reusable lesson is not that a reduced tile count is good or bad by itself. It is that a miner needs a long enough sample, a clear reason for the tile choice, and a written stop rule before treating any early streak as evidence.
+
+Beginner-safe framing:
+
+- A sub-25-tile miner can look clever for a stretch and then give the gains back when solo variance turns.
+- A full 25-tile miner can still take a large deploy hit; coverage reduces tile-choice anxiety, not bankroll risk.
+- Small total deploys make experiments less painful, but they also produce noisy evidence.
+- Track uORE per SOL over a written sample window before changing size or declaring an edge.
+
+```text
+!sub25 - Mining fewer than 25 tiles is an experiment, not a shortcut. Keep deploys small, define the sample size before judging it, track uORE per SOL, and remember that both reduced-tile and full-board miners can still take painful variance hits.
+```
