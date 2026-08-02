@@ -4354,3 +4354,11 @@ Captured 2 new messages from 2026-07-31T20:35:28.230000+00:00 through 2026-07-31
 **Almanac note:** reviewed a tiny low-signal exchange with no reusable mining strategy, onboarding advice, bot-command syntax, or miner story to promote. Keep the current teaching context from the July strategy notes rather than turning every chat beat into doctrine.
 
 **Beginner-safe takeaway:** not every channel moment needs a public lesson. Wait for evidence-rich discussions before changing settings, sizing deploys, or treating room tone as an edge.
+
+## 2026-08-02 Discord Update
+
+Captured 2 new messages from 2026-08-02T09:02:04.516000+00:00 through 2026-08-02T11:07:17.169000+00:00.
+
+**Almanac note:** reviewed a short split-only strategy check-in. The reusable takeaway belongs in the strategy library as a reminder to treat long-running split-only miners as monitored experiments rather than instant proof of edge.
+
+**Beginner-safe takeaway:** dashboards can help you watch a miner over time, but strategy claims still need context: bankroll, runtime, pool rules, variance, and a clear stop rule.

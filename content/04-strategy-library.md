@@ -1130,3 +1130,17 @@ Beginner-safe framing:
 ```text
 !rngframe - Near misses are variance, not the protocol targeting you. If you mine all 25 tiles, treat it as coverage plus bankroll discipline, not lucky-square picking. Write deploy size, runway, production cost, and stop rules before scaling.
 ```
+
+---
+
+## Update — 2026-08-02
+
+### Split-only Strategy Watch
+
+The channel revisited a 24/7 split-only approach and pointed to a public Orestacks split-only (EV+) run being watched through DiamondPools. The useful lesson is not that one tracked wallet proves the strategy; it is that miners are trying to keep a clean run alive long enough to compare results against the upcoming parimutuel update.
+
+Beginner-safe framing:
+
+- Split-only can be tracked as a disciplined experiment, but a single run is still exposed to variance.
+- Use public pool dashboards for observation, not as a promise of profitability.
+- Before copying a strategy, write down the deploy size, expected runtime, stop rule, and what would count as evidence that the strategy is working.
