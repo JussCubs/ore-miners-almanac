@@ -4374,3 +4374,11 @@ Captured 99 new messages from 2026-08-02T13:21:49.996000+00:00 through 2026-08-0
 **Almanac note:** preserve three lessons from this batch. First, uORE yield should be taught as a patient-position concept, with live APR checked on ore.fyi and not treated as a promise. Second, parimutuel mining can pull attention away from ORE accumulation if the community frames the experience as free SOL instead of cost, variance, and runway. Third, reduced-tile and full-board miners can both face painful swings, so tile-count experiments need small deploys, explicit sample windows, and stop rules.
 
 **Beginner-safe takeaway:** do not copy the loudest strategy from chat. Check live dashboards, write down what the miner is testing, size small enough to survive variance, and separate passive uORE yield from active trading or LP risk.
+
+## 2026-08-02 Discord Update
+
+Captured 1 new message from 2026-08-02T16:12:47.342000+00:00 through 2026-08-02T16:12:47.342000+00:00.
+
+**Almanac note:** reviewed a one-message research breadcrumb pointing toward historical precedent for a current community idea. Without enough channel context to turn it into strategy guidance, preserve it as a reminder to verify analogies before turning them into mining doctrine.
+
+**Beginner-safe takeaway:** outside examples can spark good questions, but they are not proof of edge. Translate any analogy back into ORE-specific mechanics, production cost, variance, and stop rules before changing a miner.
