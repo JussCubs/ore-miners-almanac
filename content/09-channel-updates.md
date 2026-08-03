@@ -4394,3 +4394,13 @@ Captured 2 new messages from 2026-08-03T03:16:57.044000+00:00 through 2026-08-03
 **Almanac note:** preserve the runway distinction. In reduced-tile or other watched experiments, returned SOL can make the starting bankroll last longer and give the miner more rounds of exposure. That does not make the outcome free or guaranteed positive. Fewer tiles reduce some per-round spend while increasing miss variance, and any SOL returned by the board still comes from the competitive pool. The public lesson belongs in the command bank as a way to explain extra runway, not as a claim that parimutuel mining creates magical ROI.
 
 **Beginner-safe takeaway:** if rewards make the miner's SOL last longer, count that as runway and exposure. Before scaling, write down starting SOL, returned SOL, tile count, rounds survived, fees, uORE/refined ORE earned, and the stop rule.
+
+## 2026-08-03 Discord Update
+
+Captured 1 new Discord message from 2026-08-03T04:04:20.938000+00:00 through 2026-08-03T04:04:20.938000+00:00.
+
+**Sentiment read:** supportive and clearer. The follow-up treated the post-PvP direction as a cleaner way to explain ORE to miners who were previously finding useful setups before they could fully articulate the mechanics.
+
+**Almanac note:** preserve the teaching frame, not the raw dialogue. The reusable point is that ORE-first mining becomes easier to explain when the public story is not led by PvP SOL swings. This belongs in the command bank as onboarding language for skeptics: teach the protocol goal, variance, production cost, measurement habits, and stop rules before inviting someone to copy a setup.
+
+**Beginner-safe takeaway:** the post-PvP story is not "risk disappeared." It is "the learning path is cleaner." Start with ORE accumulation and protocol mechanics, then explain cost, variance, and sizing discipline.

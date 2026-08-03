@@ -1870,3 +1870,22 @@ Beginner-safe framing:
 ```text
 !pmrunway - If parimutuel rewards make your SOL last longer, treat that as extra runway and exposure, not magic yield. Measure ORE per SOL risked, rounds survived, tile-count variance, fees, and stop rules before scaling.
 ```
+
+---
+
+## Update — 2026-08-03
+
+### Explaining the post-PvP transition
+
+A follow-up from the channel sharpened the onboarding language around ORE-first mining. Some miners found working setups before they could fully explain why those setups worked, which made the old PvP framing harder to teach to skeptical newcomers. The simpler public lesson is that removing PvP pressure makes the story cleaner: focus on ORE accumulation, protocol mechanics, variance, and sustainable expectations instead of leading with player-versus-player SOL swings.
+
+Beginner-safe framing:
+
+- A miner can be ORE-focused even if the old surface made the "why" hard to explain.
+- Removing PvP pressure helps educators separate ORE learning from short-cycle SOL expectations.
+- For crypto-skeptical newcomers, lead with the protocol goal, risk, variance, and measurement habits.
+- Do not imply the new setup removes risk; it simply makes the teaching frame cleaner.
+
+```text
+!postpvp - Explain the post-PvP shift as clearer ORE-first onboarding: learn the protocol, track variance and cost, and avoid selling SOL swings as the reason to mine.
+```
