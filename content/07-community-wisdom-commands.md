@@ -1889,3 +1889,22 @@ Beginner-safe framing:
 ```text
 !postpvp - Explain the post-PvP shift as clearer ORE-first onboarding: learn the protocol, track variance and cost, and avoid selling SOL swings as the reason to mine.
 ```
+
+---
+
+## Update — 2026-08-03
+
+### Adapting after PvP-era recycling
+
+The channel sharpened a useful way to talk about older parimutuel strategies. Some miners were genuinely ORE-focused, but the old surface could still recycle SOL from other miners' losses and make a setup feel more efficient than the underlying ORE production alone. That is worth acknowledging clearly so the post-PvP story does not sound like revisionist hype.
+
+Beginner-safe framing:
+
+- A miner can have been aiming for ORE while still benefiting from PvP-era SOL recycling.
+- Returned SOL should be described as runway from the board, not a cost-free edge.
+- After a rules change, retire or relabel old recipes before teaching them to newcomers.
+- The cleaner public story is ORE accumulation, production cost, variance, and sizing discipline.
+
+```text
+!adaptpvp - Treat old parimutuel strategies as history unless current data supports them. Returned SOL was runway from the board, not free yield; teach post-PvP mining around ORE accumulation, production cost, variance, and stop rules.
+```

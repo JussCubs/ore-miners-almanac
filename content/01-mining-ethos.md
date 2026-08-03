@@ -150,3 +150,20 @@ For beginners, the safest version remains small and patient:
 - remember that motherlode exposure can be part of the motive, but not a guarantee.
 
 > Time in the mines still beats trying to perfectly time the mines.
+
+---
+
+## Update — 2026-08-03
+
+### Old PvP tricks as teaching history
+
+A miner reflected on an "elimination" style strategy from the parimutuel era: begin with broad 25-tile coverage, then remove tiles as they are drawn until the miner is concentrated on a very small set. The useful public lesson is not that newcomers should copy the recipe. It is that some old strategies worked because returned SOL could extend runway while the board was still redistributing losses among competing miners.
+
+That history belongs in the ethos section because it explains why the post-PvP transition needs cleaner language. If a strategy depended on other miners' downluck to recycle SOL, teach it as context, not as evergreen advice. The current beginner frame should stay ORE-first: understand production cost, variance, tile exposure, and stop rules before trying to optimize around old payout behavior.
+
+Beginner-safe framing:
+
+- old PvP-era strategies can be interesting case studies without being current recommendations;
+- returned SOL was runway, not proof that the mining cost disappeared;
+- strategies that shrink from 25 tiles to a few tiles raise concentration risk;
+- post-PvP education should make the source of value and risk easier to explain.

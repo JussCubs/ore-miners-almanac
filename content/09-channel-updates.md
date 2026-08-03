@@ -4404,3 +4404,15 @@ Captured 1 new Discord message from 2026-08-03T04:04:20.938000+00:00 through 202
 **Almanac note:** preserve the teaching frame, not the raw dialogue. The reusable point is that ORE-first mining becomes easier to explain when the public story is not led by PvP SOL swings. This belongs in the command bank as onboarding language for skeptics: teach the protocol goal, variance, production cost, measurement habits, and stop rules before inviting someone to copy a setup.
 
 **Beginner-safe takeaway:** the post-PvP story is not "risk disappeared." It is "the learning path is cleaner." Start with ORE accumulation and protocol mechanics, then explain cost, variance, and sizing discipline.
+
+## 2026-08-03 Discord Update
+
+Captured 6 new messages from 2026-08-03T11:21:33.887000+00:00 through 2026-08-03T11:57:17.562000+00:00.
+
+**Themes detected:** low-and-slow 25 tile mining.
+
+**Sentiment read:** reflective and constructive. The useful thread was not about copying a specific old play; it was about separating ORE-first intent from PvP-era mechanics that could quietly depend on other miners' downside.
+
+**Almanac note:** preserve the post-PvP clarification. One old "elimination" pattern used broad coverage early, then narrowed tile exposure as the board revealed itself. That made sense as a PvP-era experiment because returned SOL could extend runway, especially near the end of a round, but it also made the strategy harder to explain honestly to newcomers. In the current public hub, teach that kind of pattern as historical context unless fresh data supports it under current rules.
+
+**Beginner-safe takeaway:** do not treat old reduced-tile or elimination recipes as evergreen strategy. Ask what rule set they assumed, where returned SOL came from, how much miss variance they added, and whether the current mine still rewards the behavior.
