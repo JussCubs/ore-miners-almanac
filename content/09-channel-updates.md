@@ -4416,3 +4416,13 @@ Captured 6 new messages from 2026-08-03T11:21:33.887000+00:00 through 2026-08-03
 **Almanac note:** preserve the post-PvP clarification. One old "elimination" pattern used broad coverage early, then narrowed tile exposure as the board revealed itself. That made sense as a PvP-era experiment because returned SOL could extend runway, especially near the end of a round, but it also made the strategy harder to explain honestly to newcomers. In the current public hub, teach that kind of pattern as historical context unless fresh data supports it under current rules.
 
 **Beginner-safe takeaway:** do not treat old reduced-tile or elimination recipes as evergreen strategy. Ask what rule set they assumed, where returned SOL came from, how much miss variance they added, and whether the current mine still rewards the behavior.
+
+## 2026-08-03 Discord Update
+
+Captured 1 new Discord message from 2026-08-03T18:47:58.127000+00:00 through 2026-08-03T18:47:58.127000+00:00.
+
+**Sentiment read:** brief lore follow-up. The channel is still refining how to describe old PvP-era patterns without turning dramatic labels into strategy advice.
+
+**Almanac note:** keep the language historical and careful. "Slaughter" belongs to the downside-heavy PvP framing, while "sacrificial" only becomes useful if the public explanation names the actual cost, risk, and learning goal. Do not let a vivid nickname make an old experiment sound safer or more repeatable than it was.
+
+**Beginner-safe takeaway:** if a strategy asks miners to absorb misses, bankroll churn, or other downside, explain who carries the cost, what signal is being tested, and the stop rule before treating it as a viable mining pattern.
