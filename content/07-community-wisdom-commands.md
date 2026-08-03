@@ -1851,3 +1851,22 @@ Beginner-safe framing:
 ```text
 !pmmindset - Parimutuel mining can distort expectations if newcomers hear "free SOL" before they learn ORE, variance, and runway. Teach the mine as ORE accumulation first, size for losses, and treat SOL swings as risk context rather than the main product.
 ```
+
+---
+
+## Update — 2026-08-03
+
+### Parimutuel SOL swings are runway, not magic yield
+
+A short follow-up sharpened the parimutuel lesson from yesterday. A reduced-tile or otherwise watched experiment can have stretches where returned SOL makes the bankroll last longer, and that extra runway can create more exposure to solo or split outcomes. That still is not free yield. The returned SOL came from the same competitive board, and fewer tiles also means fewer chances to be on the winning tile.
+
+Beginner-safe framing:
+
+- Treat returned SOL as extended runway, not proof that the setup has positive ROI.
+- Fewer tiles can reduce per-round spend, but they also raise miss variance.
+- Extra rounds increase exposure; they do not remove production cost, fees, or PvP pressure.
+- Log starting SOL, returned SOL, uORE/refined ORE, fees, tile count, round count, and stop rules before scaling an experiment.
+
+```text
+!pmrunway - If parimutuel rewards make your SOL last longer, treat that as extra runway and exposure, not magic yield. Measure ORE per SOL risked, rounds survived, tile-count variance, fees, and stop rules before scaling.
+```

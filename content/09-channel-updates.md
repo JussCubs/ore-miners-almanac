@@ -4382,3 +4382,15 @@ Captured 1 new message from 2026-08-02T16:12:47.342000+00:00 through 2026-08-02T
 **Almanac note:** reviewed a one-message research breadcrumb pointing toward historical precedent for a current community idea. Without enough channel context to turn it into strategy guidance, preserve it as a reminder to verify analogies before turning them into mining doctrine.
 
 **Beginner-safe takeaway:** outside examples can spark good questions, but they are not proof of edge. Translate any analogy back into ORE-specific mechanics, production cost, variance, and stop rules before changing a miner.
+
+## 2026-08-03 Discord Update
+
+Captured 2 new messages from 2026-08-03T03:16:57.044000+00:00 through 2026-08-03T03:33:00.893000+00:00.
+
+**Themes detected:** low-and-slow 25 tile mining.
+
+**Sentiment read:** brief but useful follow-up. The thread kept refining how miners should talk about parimutuel rewards without turning SOL-positive moments into a profit promise.
+
+**Almanac note:** preserve the runway distinction. In reduced-tile or other watched experiments, returned SOL can make the starting bankroll last longer and give the miner more rounds of exposure. That does not make the outcome free or guaranteed positive. Fewer tiles reduce some per-round spend while increasing miss variance, and any SOL returned by the board still comes from the competitive pool. The public lesson belongs in the command bank as a way to explain extra runway, not as a claim that parimutuel mining creates magical ROI.
+
+**Beginner-safe takeaway:** if rewards make the miner's SOL last longer, count that as runway and exposure. Before scaling, write down starting SOL, returned SOL, tile count, rounds survived, fees, uORE/refined ORE earned, and the stop rule.
