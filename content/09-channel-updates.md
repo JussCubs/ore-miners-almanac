@@ -4426,3 +4426,13 @@ Captured 1 new Discord message from 2026-08-03T18:47:58.127000+00:00 through 202
 **Almanac note:** keep the language historical and careful. "Slaughter" belongs to the downside-heavy PvP framing, while "sacrificial" only becomes useful if the public explanation names the actual cost, risk, and learning goal. Do not let a vivid nickname make an old experiment sound safer or more repeatable than it was.
 
 **Beginner-safe takeaway:** if a strategy asks miners to absorb misses, bankroll churn, or other downside, explain who carries the cost, what signal is being tested, and the stop rule before treating it as a viable mining pattern.
+
+## 2026-08-04 Discord Update
+
+Captured 7 new messages from 2026-08-04T08:27:35.295000+00:00 through 2026-08-04T11:17:43.213000+00:00.
+
+**Sentiment read:** light mining-room banter, with miners checking the board and nudging each other back into the routine. No new technical strategy claim came through strongly enough to promote into the command bank.
+
+**Almanac note:** keep this as a mood marker rather than a strategy update. The reusable lesson is that ORE mining culture still runs on repetition, timing checks, and shared "back to the mine" language, but public education should not turn GIFs, usernames, or quick one-liners into raw transcript material.
+
+**Beginner-safe takeaway:** casual channel energy is useful for morale, not enough for strategy. Before acting, look for an actual setup, cost basis, tile logic, time window, and stop rule.
