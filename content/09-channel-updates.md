@@ -4436,3 +4436,15 @@ Captured 7 new messages from 2026-08-04T08:27:35.295000+00:00 through 2026-08-04
 **Almanac note:** keep this as a mood marker rather than a strategy update. The reusable lesson is that ORE mining culture still runs on repetition, timing checks, and shared "back to the mine" language, but public education should not turn GIFs, usernames, or quick one-liners into raw transcript material.
 
 **Beginner-safe takeaway:** casual channel energy is useful for morale, not enough for strategy. Before acting, look for an actual setup, cost basis, tile logic, time window, and stop rule.
+
+## 2026-08-04 Discord Update
+
+Captured a short afternoon mining-room burst from 2026-08-04T14:31:46.935000+00:00 through 2026-08-04T16:44:47.530000+00:00.
+
+**Themes detected:** high-motherlode watch, percentile shorthand, and "chonk" mood.
+
+**Sentiment read:** playful and impatient. The useful signal was that miners were treating a roughly 300-plus motherlode reading as a notable room event, then answering the wait with quick reactions and memes instead of a fresh strategy claim.
+
+**Almanac note:** keep the "chonk" label as morale language around unusually large ML readings, not as an instruction to increase deploy. A percentile-style screenshot can help miners recognize that the board is historically notable, but the decision still needs production cost, tile crowding, live ORE/SOL context, wallet runway, and a written stop rule. The "finally" reaction is a culture marker; it is not enough by itself to publish a profitability claim.
+
+**Beginner-safe takeaway:** when the room starts asking "when" around a large ML, slow the decision down. Large jackpots attract attention and can dilute shares, so treat the hype as a prompt to re-check size-to-ML discipline rather than a fresh entry signal.
