@@ -4448,3 +4448,15 @@ Captured a short afternoon mining-room burst from 2026-08-04T14:31:46.935000+00:
 **Almanac note:** keep the "chonk" label as morale language around unusually large ML readings, not as an instruction to increase deploy. A percentile-style screenshot can help miners recognize that the board is historically notable, but the decision still needs production cost, tile crowding, live ORE/SOL context, wallet runway, and a written stop rule. The "finally" reaction is a culture marker; it is not enough by itself to publish a profitability claim.
 
 **Beginner-safe takeaway:** when the room starts asking "when" around a large ML, slow the decision down. Large jackpots attract attention and can dilute shares, so treat the hype as a prompt to re-check size-to-ML discipline rather than a fresh entry signal.
+
+## 2026-08-05 Discord Update
+
+Captured 1 new Discord message from 2026-08-05T04:01:19.047000+00:00 through 2026-08-05T04:01:19.047000+00:00.
+
+**Themes detected:** ML threshold settings and miner-facing controls.
+
+**Sentiment read:** supportive. The short follow-up reinforced that clear Mining Lottery threshold settings are becoming part of the shared mining toolkit, not just private bot configuration.
+
+**Almanac note:** keep ML threshold settings framed as decision support. A good threshold can help a miner avoid chasing weak boards, but it still needs live checks around jackpot size, crowding, tile count, fees, wallet runway, and the miner's stop rule. The public lesson is not "this setting guarantees profit"; it is "write down the condition that would make a round worth watching, then re-check the full setup before deploying."
+
+**Beginner-safe takeaway:** threshold tools are guardrails, not autopilot. Use them to slow down the decision and make assumptions visible before spending SOL.
