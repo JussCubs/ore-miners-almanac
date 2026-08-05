@@ -4460,3 +4460,11 @@ Captured 1 new Discord message from 2026-08-05T04:01:19.047000+00:00 through 202
 **Almanac note:** keep ML threshold settings framed as decision support. A good threshold can help a miner avoid chasing weak boards, but it still needs live checks around jackpot size, crowding, tile count, fees, wallet runway, and the miner's stop rule. The public lesson is not "this setting guarantees profit"; it is "write down the condition that would make a round worth watching, then re-check the full setup before deploying."
 
 **Beginner-safe takeaway:** threshold tools are guardrails, not autopilot. Use them to slow down the decision and make assumptions visible before spending SOL.
+
+## 2026-08-05 Discord Update — quiet command-only check-in
+
+Captured 1 new Discord message at 2026-08-05T15:13:18.282000+00:00.
+
+**Sentiment read:** quiet. The only new item was a country-style slash command, so there was no fresh strategy, profitability claim, or miner story to preserve.
+
+**Almanac note:** slash-command pings are useful as pointers for future tooling, but a command by itself is not public mining advice. Keep country/community lookup results private unless the response adds reusable context, such as language onboarding, region-specific setup constraints, or a beginner-safe explanation.
